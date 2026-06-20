@@ -1,44 +1,44 @@
 # Digimon Evolution Parsing
 
-반다이 **Vital Bracelet 시리즈**(VBDM / VBBE)에 수록된 디지몬의 **스프라이트·일러스트·진화 계통**과 도감 데이터를 가져와 정규화하고, 모바일 뷰어로 탐색하는 프로젝트입니다.
+A project that extracts and normalizes sprites, illustrations, evolution trees, and Digimon encyclopedia data from the **Vital Bracelet Series** (VBDM / VBBE), with a mobile viewer app to explore them.
 
 ```
 digimon_evol_parsing/
-├── assets/        ← 데이터 패키지 (게임 개발용)   →  assets/README.md
-└── app/           ← 모바일 웹 뷰어                →  app/README.md
+├── assets/        ← Data package (game-dev ready)  →  assets/README.md
+└── app/           ← Mobile web viewer              →  app/README.md
 ```
 
-두 영역은 **독립적으로 관리**됩니다. `assets/`는 다른 게임/프로젝트에 그대로 복사해 쓸 수 있는 데이터 + 접근 라이브러리이고, `app/`은 그 데이터를 소비하는 한 예시 뷰어입니다.
+The two areas are **managed independently**. `assets/` is a self-contained data + access library package that can be dropped into any game project, while `app/` is one example viewer that consumes it.
 
-### 웹뷰어 예시
+### Web Viewer
 
-| 트리뷰 | 진화뷰 |
-|--------|--------|
-| ![Gammamon DIM 진화 트리](docs/images/tree-view-v-gammamon.png) | ![Gammamon 진화 상세](docs/images/evolution-view-gammamon.png) |
-| Stage별 진화 계통도, SVG 연결선 | 일러스트, 스탯, 진화 조건, 도감 |
+| Tree View | Evolution Detail |
+|-----------|-----------------|
+| ![Gammamon DIM evolution tree](docs/images/tree-view-v-gammamon.png) | ![Gammamon evolution detail](docs/images/evolution-view-gammamon.png) |
+| Stage-based chart with SVG connection lines | Artwork, stats, evolution conditions, Digimon encyclopedia |
 
-| EX 카테고리 | DIM 선택 시트 |
-|-----------|-----------|
-| ![Agumon EX 44개 엣지](docs/images/tree-view-ex-agumon.png) | ![하단 DIM 필터](docs/images/dim-selector-sheet.png) |
-| EX 카드 복원된 진화 엣지 | 원하는 DIM만 토글로 선택 |
+| EX Category | DIM Selector Sheet |
+|-------------|-------------------|
+| ![Agumon EX 44 edges](docs/images/tree-view-ex-agumon.png) | ![Bottom DIM filter](docs/images/dim-selector-sheet.png) |
+| Restored evolution edges for EX cards | Toggle individual DIMs on/off |
 
 ---
 
-## 한눈에 보기
+## At a Glance
 
 | | |
 |---|---|
-| 카테고리 | 8 (DIM V/Vol/Bundled/EX/Other, BE Anime/Special/Seekers) |
-| DIM 카드 | 51 |
-| 디지몬 등장 | 861 (고유 id 623) |
-| 스프라이트 / 일러스트 | GIF 1,725 / JPG 837 (~40MB) |
-| 참고 자료 | [humulos.com](https://humulos.com/digimon/), [wikimon.net](https://wikimon.net/), digimon.net(KR) |
+| Categories | 8 (DIM V/Vol/Bundled/EX/Other, BE Anime/Special/Seekers) |
+| DIM Cards | 51 |
+| Digimon Appearances | 861 (623 unique IDs) |
+| Sprites / Artwork | 1,725 GIFs / 837 JPGs (~40 MB) |
+| References | [humulos.com](https://humulos.com/digimon/), [wikimon.net](https://wikimon.net/), digimon.net (KR) |
 
 ---
 
-## 빠른 시작
+## Quick Start
 
-### 데이터 사용 (게임 개발)
+### Using the Data (Game Development)
 
 ```python
 import sys; sys.path.insert(0, "assets/lib/python")
@@ -46,13 +46,13 @@ from digimon_data import DigimonDB
 
 db = DigimonDB("assets")
 dim = db.load_dim("v", "gamma")
-print(dim.next("gamma"))          # 진화 가능한 디지몬들
+print(dim.next("gamma"))          # Digimon that Gammamon can evolve into
 print(dim.get("gamma").frame1_path)
 ```
 
-JS 버전과 전체 스키마는 → [`assets/README.md`](assets/README.md)
+For the JS version and full schema → [`assets/README.md`](assets/README.md)
 
-### 뷰어 실행
+### Running the Viewer
 
 ```bash
 cd app
@@ -60,26 +60,26 @@ pip install -r requirements.txt
 python3 server.py          # http://localhost:6519
 ```
 
-자세한 내용 → [`app/README.md`](app/README.md)
+More details → [`app/README.md`](app/README.md)
 
 ---
 
-## 데이터 파이프라인
+## Data Pipeline
 
 ```
 humulos.com ─(parse.py)→ raw/ ─(build_assets.py)→ assets/data + index.json
 wikimon/digimon.net ─(fetch_lore.py)→ lore_*.json ──┘
 ```
 
-- `assets/tools/parse.py` — 진화 차트·스프라이트·일러스트 스크레이퍼
-- `assets/tools/fetch_lore.py` — 한/영 도감 설명 수집
-- `assets/tools/build_assets.py` — 원본을 게임용 정규화 구조로 변환
-- `assets/tools/raw/` — 원본 스크레이프 (재빌드 소스)
+- `assets/tools/parse.py` — Evolution chart, sprite, and artwork scraper
+- `assets/tools/fetch_lore.py` — English/Korean encyclopedia text collector
+- `assets/tools/build_assets.py` — Converts raw scrape into normalized game-ready structure
+- `assets/tools/raw/` — Raw scrape data (source for rebuild)
 
 ---
 
-## 저작권 / 면책
+## Copyright / Disclaimer
 
 > Digimon, Digital Monster, Vital Bracelet, all related characters, and associated images are owned by Bandai Co., Ltd., Akiyoshi Hongo, and Toei Animation Co., Ltd.
 
-이 저장소의 스프라이트·일러스트 등 모든 에셋의 저작권은 위 권리자에게 있습니다. 본 프로젝트는 권리자와 무관한 **비공식·비상업적 팬 정리물**이며, 데이터는 [humulos.com](https://humulos.com/digimon/) 등 공개 자료를 **참고**해 구성했습니다. 에셋을 재사용할 경우 위 저작권을 따르며, 책임은 사용자에게 있습니다.
+All sprites, artwork, and other assets in this repository are the property of the above rights holders. This project is an **unofficial, non-commercial fan compilation** with no affiliation to the rights holders. Structural data was assembled by referencing publicly available sources such as [humulos.com](https://humulos.com/digimon/). Anyone reusing these assets is responsible for complying with the above copyright.
