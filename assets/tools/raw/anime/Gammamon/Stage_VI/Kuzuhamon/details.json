@@ -1,0 +1,75 @@
+{
+  "id": "kuzuha",
+  "name": "Kuzuhamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/kuzuha.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/kuzuha.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/kuzuha.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "bomber",
+        "zanmetsu"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from_digimon": [
+        "vamde"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Kuzuhamon",
+    "name_en": "Kuzuhamon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6300",
+      "hp": "5300",
+      "ap": "1900"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "bomber",
+        "name": "Bombermon",
+        "conditions": "Stage 11 cleared, 12+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "zanmetsu",
+        "name": "Zanmetsumon",
+        "conditions": "Stage 11 cleared, 12+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "vamde",
+        "name": "Vamdemon",
+        "conditions": "Stage 11 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

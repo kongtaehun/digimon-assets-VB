@@ -1,0 +1,57 @@
+{
+  "id": "kingete",
+  "name": "King Etemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/kingete.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/kingete.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/kingete.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "monzae",
+        "ete"
+      ],
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "King Etemon",
+    "name_en": "KingEtemon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "5500",
+      "hp": "5000",
+      "ap": "1800"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "monzae",
+        "name": "Monzaemon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "ete",
+        "name": "Etemon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

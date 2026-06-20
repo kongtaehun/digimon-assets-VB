@@ -1,0 +1,83 @@
+{
+  "id": "dura",
+  "name": "Duramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dura.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dura.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/dura.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "zubaeager",
+        "musya"
+      ],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Duramon",
+    "name_en": "Duramon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "9",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "zubaeager",
+        "name": "Zubaeagermon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "musya",
+        "name": "Musyamon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "ginryu",
+        "name": "Ginryumon",
+        "conditions": "Jogress with Data or Free Adult"
+      },
+      {
+        "id": "dokugu",
+        "name": "Dokugumon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "duranda",
+        "name": "Durandamon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "zanba",
+        "name": "Zanbamon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "ouryu",
+        "name": "Ouryumon",
+        "conditions": "Jogress with Data, Virus or Free Perfect"
+      }
+    ]
+  }
+}

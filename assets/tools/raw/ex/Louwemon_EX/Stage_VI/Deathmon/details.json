@@ -1,0 +1,42 @@
+{
+  "id": "death",
+  "name": "Deathmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/death.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/death.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/death.jpg",
+  "appearances": [
+    {
+      "dim_id": "louwe_ex",
+      "dim_name": "Louwemon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Deathmon",
+    "name_en": "Ghoulmon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "stats": {
+      "dp": "50 (★)",
+      "hp": "12",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "id": "espi",
+  "name": "Espimon",
+  "release": "JP: Aug 2022 - Retail (Set -V3-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_espi.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_cotsuco.gif",
+  "digimon": [
+    {
+      "id": "cotsuco",
+      "name": "Cotsucomon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cotsuco.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cotsuco.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cotsuco.jpg"
+    },
+    {
+      "id": "kakkin",
+      "name": "Kakkinmon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kakkin.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kakkin.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kakkin.jpg"
+    },
+    {
+      "id": "ludo",
+      "name": "Ludomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ludo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ludo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ludo.jpg"
+    },
+    {
+      "id": "espi",
+      "name": "Espimon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/espi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/espi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/espi.jpg"
+    },
+    {
+      "id": "tialudo",
+      "name": "Tia Ludomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tialudo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tialudo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tialudo.jpg"
+    },
+    {
+      "id": "hoverespi",
+      "name": "Hover Espimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hoverespi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hoverespi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hoverespi.jpg"
+    },
+    {
+      "id": "reppa",
+      "name": "Reppamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/reppa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/reppa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/reppa.jpg"
+    },
+    {
+      "id": "blacktail_u",
+      "name": "Black Tailmon Uver.",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/blacktail_u.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/blacktail_u.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/blacktail_u.jpg"
+    },
+    {
+      "id": "raijiludo",
+      "name": "Raiji Ludomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/raijiludo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/raijiludo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/raijiludo.jpg"
+    },
+    {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/digitama.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/digitama.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/digitama.jpg"
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "6",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/piccolo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/piccolo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/piccolo.jpg"
+    },
+    {
+      "id": "rarerare",
+      "name": "Rare Raremon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rarerare.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rarerare.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rarerare.jpg"
+    },
+    {
+      "id": "manticore",
+      "name": "Manticoremon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/manticore.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/manticore.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/manticore.jpg"
+    },
+    {
+      "id": "bryweludra",
+      "name": "Bryweludramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "15",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bryweludra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bryweludra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bryweludra.jpg"
+    },
+    {
+      "id": "death_b",
+      "name": "Deathmon (Black)",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/death_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/death_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/death_b.jpg"
+    },
+    {
+      "id": "devitama",
+      "name": "Devitamamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/devitama.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/devitama.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/devitama.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "kakkin",
+      "from_name": "Kakkinmon",
+      "to": "ludo",
+      "to_name": "Ludomon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kakkin",
+      "from_name": "Kakkinmon",
+      "to": "espi",
+      "to_name": "Espimon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ludo",
+      "from_name": "Ludomon",
+      "to": "tialudo",
+      "to_name": "Tia Ludomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "espi",
+      "from_name": "Espimon",
+      "to": "hoverespi",
+      "to_name": "Hover Espimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ludo",
+      "from_name": "Ludomon",
+      "to": "reppa",
+      "to_name": "Reppamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "espi",
+      "from_name": "Espimon",
+      "to": "reppa",
+      "to_name": "Reppamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ludo",
+      "from_name": "Ludomon",
+      "to": "blacktail_u",
+      "to_name": "Black Tailmon Uver.",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "espi",
+      "from_name": "Espimon",
+      "to": "blacktail_u",
+      "to_name": "Black Tailmon Uver.",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tialudo",
+      "from_name": "Tia Ludomon",
+      "to": "raijiludo",
+      "to_name": "Raiji Ludomon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "from_name": "Reppamon",
+      "to": "raijiludo",
+      "to_name": "Raiji Ludomon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "from_name": "Hover Espimon",
+      "to": "digitama",
+      "to_name": "Digitamamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "from_name": "Hover Espimon",
+      "to": "piccolo",
+      "to_name": "Piccolomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tialudo",
+      "from_name": "Tia Ludomon",
+      "to": "rarerare",
+      "to_name": "Rare Raremon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "from_name": "Reppamon",
+      "to": "rarerare",
+      "to_name": "Rare Raremon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tialudo",
+      "from_name": "Tia Ludomon",
+      "to": "manticore",
+      "to_name": "Manticoremon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "from_name": "Hover Espimon",
+      "to": "manticore",
+      "to_name": "Manticoremon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "from_name": "Reppamon",
+      "to": "manticore",
+      "to_name": "Manticoremon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "raijiludo",
+      "from_name": "Raiji Ludomon",
+      "to": "bryweludra",
+      "to_name": "Bryweludramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "piccolo",
+      "from_name": "Piccolomon",
+      "to": "bryweludra",
+      "to_name": "Bryweludramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "from_name": "Digitamamon",
+      "to": "death_b",
+      "to_name": "Deathmon (Black)",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rarerare",
+      "from_name": "Rare Raremon",
+      "to": "death_b",
+      "to_name": "Deathmon (Black)",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "manticore",
+      "from_name": "Manticoremon",
+      "to": "death_b",
+      "to_name": "Deathmon (Black)",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "raijiludo",
+      "from_name": "Raiji Ludomon",
+      "to": "devitama",
+      "to_name": "Devitamamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "from_name": "Digitamamon",
+      "to": "devitama",
+      "to_name": "Devitamamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "piccolo",
+      "from_name": "Piccolomon",
+      "to": "devitama",
+      "to_name": "Devitamamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rarerare",
+      "from_name": "Rare Raremon",
+      "to": "devitama",
+      "to_name": "Devitamamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "manticore",
+      "from_name": "Manticoremon",
+      "to": "devitama",
+      "to_name": "Devitamamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mummy",
+  "name": "Mummymon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mummy.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mummy.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mummy.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "tail",
+        "shuri"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mummymon",
+    "name_en": "Mummymon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Lazy",
+    "stats": {
+      "bp": "5600",
+      "hp": "4900",
+      "ap": "1450"
+    },
+    "schedule": {
+      "activity_type": "Lazy",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "tail",
+        "name": "Tailmon",
+        "conditions": "Stage 9 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "shuri",
+        "name": "Shurimon",
+        "conditions": "Stage 9 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "armage",
+        "name": "Armagemon",
+        "conditions": "Stage 11 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "imperialdra_p",
+        "name": "Imperialdramon: Paladin Mode",
+        "conditions": "12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "imperialdra_f",
+        "name": "Imperialdramon: Fighter Mode",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

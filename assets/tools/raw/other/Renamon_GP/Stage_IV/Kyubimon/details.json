@@ -1,0 +1,85 @@
+{
+  "id": "kyubi",
+  "name": "Kyubimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kyubi.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kyubi.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/kyubi.jpg",
+  "appearances": [
+    {
+      "dim_id": "rena_gp",
+      "dim_name": "Renamon GP",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Kyubimon",
+    "name_en": "Kyubimon",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "rena",
+        "name": "Renamon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "kumbhira",
+        "name": "Kumbhiramon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "tao",
+        "name": "Taomon (EX)",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "catura",
+        "name": "Caturamon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "tao",
+        "name": "Taomon (GP)",
+        "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Vaccine, Virus or Free Adult"
+      },
+      {
+        "id": "vikarala",
+        "name": "Vikaralamon",
+        "conditions": "Jogress with Vaccine Adult"
+      },
+      {
+        "id": "indara",
+        "name": "Indaramon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "dou",
+        "name": "Doumon",
+        "conditions": "Jogress with Free Adult"
+      }
+    ]
+  }
+}

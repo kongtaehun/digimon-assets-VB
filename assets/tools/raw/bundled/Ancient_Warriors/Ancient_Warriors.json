@@ -1,0 +1,619 @@
+{
+  "id": "awa",
+  "name": "Ancient Warriors",
+  "release": "JP: Mar 2021 - Premium Bandai (Included with Ver.Special)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_awa.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_chico.gif",
+  "digimon": [
+    {
+      "id": "chico",
+      "name": "Chicomon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chico.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chico.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chico.jpg"
+    },
+    {
+      "id": "chibi",
+      "name": "Chibimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chibi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chibi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chibi.jpg"
+    },
+    {
+      "id": "v",
+      "name": "V-mon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/v.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/v.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/v.jpg"
+    },
+    {
+      "id": "vdra",
+      "name": "V-dramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/vdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/vdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vdra.jpg"
+    },
+    {
+      "id": "xv",
+      "name": "XV-mon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/xv.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/xv.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/xv.jpg"
+    },
+    {
+      "id": "fladra",
+      "name": "Fladramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/fladra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/fladra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fladra.jpg"
+    },
+    {
+      "id": "lighdra",
+      "name": "Lighdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lighdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lighdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lighdra.jpg"
+    },
+    {
+      "id": "aerovdra",
+      "name": "Aero V-dramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/aerovdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/aerovdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/aerovdra.jpg"
+    },
+    {
+      "id": "paildra",
+      "name": "Paildramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/paildra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/paildra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/paildra.jpg"
+    },
+    {
+      "id": "sagittari",
+      "name": "Sagittarimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sagittari.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sagittari.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sagittari.jpg"
+    },
+    {
+      "id": "dinobee",
+      "name": "Dinobeemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dinobee.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dinobee.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dinobee.jpg"
+    },
+    {
+      "id": "goldvdra",
+      "name": "Gold V-dramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/goldvdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/goldvdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/goldvdra.jpg"
+    },
+    {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/digitama.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/digitama.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/digitama.jpg"
+    },
+    {
+      "id": "ulforcevdra",
+      "name": "Ulforce V-dramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ulforcevdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ulforcevdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ulforcevdra.jpg"
+    },
+    {
+      "id": "imperialdra_d",
+      "name": "Imperialdramon: Dragon Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/imperialdra_d.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/imperialdra_d.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/imperialdra_d.jpg"
+    },
+    {
+      "id": "magna",
+      "name": "Magnamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/magna.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/magna.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/magna.jpg"
+    },
+    {
+      "id": "imperialdra_f",
+      "name": "Imperialdramon: Fighter Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/imperialdra_f.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/imperialdra_f.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/imperialdra_f.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "vdra",
+      "to_name": "V-dramon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "1,200+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "xv",
+      "to_name": "XV-mon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "800+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "fladra",
+      "to_name": "Fladramon",
+      "requirements": {
+        "Trophies": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "lighdra",
+      "to_name": "Lighdramon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vdra",
+      "from_name": "V-dramon",
+      "to": "aerovdra",
+      "to_name": "Aero V-dramon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "from_name": "Fladramon",
+      "to": "aerovdra",
+      "to_name": "Aero V-dramon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "xv",
+      "from_name": "XV-mon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "from_name": "Lighdramon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vdra",
+      "from_name": "V-dramon",
+      "to": "sagittari",
+      "to_name": "Sagittarimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "from_name": "Fladramon",
+      "to": "sagittari",
+      "to_name": "Sagittarimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "xv",
+      "from_name": "XV-mon",
+      "to": "dinobee",
+      "to_name": "Dinobeemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "from_name": "Lighdramon",
+      "to": "dinobee",
+      "to_name": "Dinobeemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "vdra",
+      "from_name": "V-dramon",
+      "to": "goldvdra",
+      "to_name": "Gold V-dramon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "xv",
+      "from_name": "XV-mon",
+      "to": "goldvdra",
+      "to_name": "Gold V-dramon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "from_name": "Fladramon",
+      "to": "digitama",
+      "to_name": "Digitamamon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "from_name": "Lighdramon",
+      "to": "digitama",
+      "to_name": "Digitamamon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "from_name": "Aero V-dramon",
+      "to": "ulforcevdra",
+      "to_name": "Ulforce V-dramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sagittari",
+      "from_name": "Sagittarimon",
+      "to": "ulforcevdra",
+      "to_name": "Ulforce V-dramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "from_name": "Digitamamon",
+      "to": "ulforcevdra",
+      "to_name": "Ulforce V-dramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "from_name": "Aero V-dramon",
+      "to": "imperialdra_d",
+      "to_name": "Imperialdramon: Dragon Mode",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "from_name": "Paildramon",
+      "to": "imperialdra_d",
+      "to_name": "Imperialdramon: Dragon Mode",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "from_name": "Dinobeemon",
+      "to": "imperialdra_d",
+      "to_name": "Imperialdramon: Dragon Mode",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sagittari",
+      "from_name": "Sagittarimon",
+      "to": "magna",
+      "to_name": "Magnamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "goldvdra",
+      "from_name": "Gold V-dramon",
+      "to": "magna",
+      "to_name": "Magnamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "from_name": "Digitamamon",
+      "to": "magna",
+      "to_name": "Magnamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "from_name": "Paildramon",
+      "to": "imperialdra_f",
+      "to_name": "Imperialdramon: Fighter Mode",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "from_name": "Dinobeemon",
+      "to": "imperialdra_f",
+      "to_name": "Imperialdramon: Fighter Mode",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "goldvdra",
+      "from_name": "Gold V-dramon",
+      "to": "imperialdra_f",
+      "to_name": "Imperialdramon: Fighter Mode",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

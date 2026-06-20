@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.0",
+  "id": "monodra_gp",
+  "name": "Monodramon GP",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_monodra_gp.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "keto",
+      "name": "Ketomon",
+      "name_jp": "Ketomon",
+      "name_ko": "케토몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/keto/frame1.gif",
+        "frame2": "sprites/keto/frame2.gif"
+      },
+      "artwork": "sprites/keto/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon whose large eyes are its defining characteristic. These eyes have the ability to discern the nature of Digimon, allowing it to detect violent Digimon in advance and warn its allies of the danger. When cornered, it discharges acidic bubbles from its eyes (Poppin' Tear), rattling the enemy as it cries.Digimon Reference Book⇨ English大きな瞳が特徴的なスライム型デジモン。その瞳はデジモンの性質を見抜く能力があり、凶暴なデジモンをあらかじめ察知して仲間に危険を伝える。追い詰められると酸性の泡「ポッピンティア」を瞳から出し、泣きながら敵をかく乱する。デジモン図鑑",
+        "ko": "큰 눈동자가 특징적인 슬라임형 디지몬. 그 눈동자는 디지몬의 성질을 간파하는 능력이 있으며 흉포한 디지몬을 미리 감지해 동료에게 위험을 전한다. 다급해지면 산성 거품 『팝핀 티어』를 눈동자에서 내어 울면서 적을 교란한다."
+      },
+      "wikimon_url": "https://wikimon.net/Ketomon"
+    },
+    {
+      "id": "hop",
+      "name": "Hopmon",
+      "name_jp": "Hopmon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/hop/frame1.gif",
+        "frame2": "sprites/hop/frame2.gif"
+      },
+      "artwork": "sprites/hop/artwork.jpg",
+      "lore": {
+        "en": "A Baby Dragon Digimon that evolved fromKetomon. Its entire body is covered in scales small enough to be invisible to the naked eye, and its body is sturdier than it looks. It has overcome its timid personality, and has a budding sense of justice that despises the crooked even at its young age. Its Signature Move is bouncing like aSuper Balland striking with its rear (Hop Hip).Digimon Reference Book⇨ Englishケトモンが進化した幼竜型のデジモン。肉眼では確認出来ないほどの小さな鱗が全身を包んでおり、見た目よりも頑丈な体をしている。臆病な性格を克服し、幼いながらも曲がったことを嫌う正義感が芽生えた。得意技はスーパーボールのように跳ねてお尻から突進する「ホップヒップ」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Hopmon"
+    },
+    {
+      "id": "monodra",
+      "name": "Monodramon",
+      "name_jp": "Monodramon",
+      "name_ko": "모노드라몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/monodra/frame1.gif",
+        "frame2": "sprites/monodra/frame2.gif"
+      },
+      "artwork": "sprites/monodra/artwork.jpg",
+      "lore": {
+        "en": "A Small Dragon Digimon that has bat-like wings attached to its hands, but is unable to fly. Despite being a Vaccine, its personality is considerably rough—or rather, brutal, giving the impression that it is a brawl-loving Digimon. Even in the Digital World, Monodramon finds itself in the midst of most brawls, often enough that it seems evenOrgemonis fed up with Monodramon’s tenacity. Also, the horn extending behind it is said to be its weak point, but how true this is is uncertain. Its Signature Move is fragmenting the data of the area it bites, causing the enemy to malfunction depending on where they were bitten (Crack Bite). Its Special Move \"Beat Knuckle\" is a simple, yet bold move in which it charges forth with earth-shattering force, and wallops with its powerful claws.Digimon Reference Book⇨ English両手にはこうもりのような翼がついているが、飛べることができない小竜型のデジモン。ワクチン種でありながら、性格はかなり乱暴というよりも凶暴に近く、ケンカ好きなデジモンといった感じだ。デジタルワールドでも、たいがいのケンカの中心にはこのモノドラモンがいるくらいで、あのオーガモンですら、モノドラモンのしつこさには辟易しているそうだ。また、後ろに伸びたツノは弱点と言われているが真相のほどは確かではない。得意技はかんだ部分のデータを断片化させ、敵は噛まれた場所によっては機能不全に陥ってしまう『クラックバイト』。必殺技の『ビートナックル』は、ものすごい勢いで突撃し、強力なツメでぶんなぐるという単純明快な大技。デジモン図鑑",
+        "ko": "양손에 박쥐와 비슷한 날개가 나 있지만 날 수는 없는 소룡형 디지몬. 백신종이면서도 성격은 꽤나 난폭하다기보단 흉폭함에 가까우며, 싸움을 즐기는 디지몬인 모양이다. 디지털 월드 에서도 대부분의 싸움의 중심에는 이 모노드라몬이 발견되는 모양이며, 저 우가몬 조차 모노드라몬을 귀찮다고 여길 정도다. 뒤통수의 뿔이 약점이라고 하지만 진상은 불명. 필살기는 물어뜯은 부분의 데이터를 단편화해 적이 물린 곳을 제대로 쓸 수 없게 만드는 『크랙 바이트』와 엄청난 기세로 돌격해 강력한 발톱으로 후려갈기는 단순하고 명쾌한 『비트 너클』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Monodramon"
+    },
+    {
+      "id": "strikedra",
+      "name": "Strikedramon",
+      "name_jp": "Strikedramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/strikedra/frame1.gif",
+        "frame2": "sprites/strikedra/frame2.gif"
+      },
+      "artwork": "sprites/strikedra/artwork.jpg",
+      "lore": {
+        "en": "The \"Commando Dragon\" that aims to be aVirus Busteris Strikedramon. Although there are many of its parts that are left-behind traces ofMonodramon, like the horn extending behind it, because it transformed into theCommander Modecovered inMetal Plate, it can even be seen as a wholly different species. Although it is naturally a kindhearted Digimon since it is part of the Vaccine-species just likeAngemon, once it discovers a Virus-species it becomes possessed by the extermination instinct (destruction instinct?), and it won't try to stop fighting until it has reduced the opponent to trash data. It is also said that, at that time, its red hair will burst into scorching flames, and will become bluish-white hair of flames. Its Special Move \"Strike Fang\", which is what its called when all the portions of itsMetal Plateburn red hot, its whole body becomes a mass of flames, then it rams the opponent, is a terrifying technique.Digimon Reference Book⇨ Englishウイルスバスターを目指す“コマンドドラゴン”それがストライクドラモンだ。後ろに伸びたツノなど、モノドラモンの面影を残す部分も多いが、メタルプレートに包まれたコマンダーモードに変貌しているため、全く別な種にすら見える。本来はエンジェモンと同じワクチン種なので心優しいデジモンなのだが、ひとたびウイルス種を見つけるとその駆除本能（破壊本能？）に取り付かれてしまい、相手がデータの塵と化すまで戦うことを止めようとしない。またその時、赤い後ろ髪は灼熱に燃え上がり、青白い炎の髪になると言われている。必殺技『ストライクファング』は、各部のメタルプレートを灼熱に燃やし、全身炎の塊となって相手に体当たりするという、恐ろしい技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Strikedramon"
+    },
+    {
+      "id": "cyberdra",
+      "name": "Cyberdramon",
+      "name_jp": "Cyberdramon",
+      "name_ko": "사이버드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/cyberdra/frame1.gif",
+        "frame2": "sprites/cyberdra/frame2.gif"
+      },
+      "artwork": "sprites/cyberdra/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man-type Cyborg Digimon whose body is clad in a unique rubber armor, with which it can endure any attack. When Virus Digimon break out on theComputer Network, it suddenly appears out of nowhere and annihilates them all. However, it is a lone warrior that is not affiliated with the group of justice, the \"Virus Busters\", and its true colors are shrouded in mystery. As for its unique rubber armor, not only does it have excellent defensive ability, but it also has a feature it unleashes that amplifies its offensive ability. Its Special Move is producing a super-oscillatory wave from both of its arms that destroys configuration data, completely erasing each of the opponents in the surrounding space (Erase Claw). If you suffer this attack, you are annihilated without leaving behind a single scrap of data.Digimon Reference Book⇨ Englishどんな攻撃にも耐えられる、特殊ラバー装甲に身を包んだ竜人系のサイボーグ型デジモン。コンピュータネットワークにウィルス種のデジモンが発生すると、どこからともなく現れて全て消滅させてしまう。しかし、正義の集団「ウィルスバスターズ」には属していない孤高の戦士であり、その正体は謎に包まれている。特殊ラバー装甲は、優れた防御能力だけでなく、攻撃力をも増幅させて繰り出せる機能も持っている。必殺技は、両腕から構成データを破壊する超振動波を出して、敵の周囲の空間ごと消し去ってしまう「イレイズクロー」。この攻撃を受けると、データの一片も残せず消滅してしまう。デジモン図鑑",
+        "ko": "어떠한 공격에도 버틸 수 있는 특수한 고무 장갑을 몸에 두른 용인계의 사이보그형 디지몬. 컴퓨터 네트워크에 바이러스종 디지몬이 발생하면 어디에서라도 나타나 모두 소멸시켜버리고 만다. 하지만 정의의 집단 \"바이러스 버스터즈\"에 소속되지 않은 고고한 전사이며, 그 정체는 수수께끼에 싸여있다. 특수 고무장갑은 우수한 방어력 뿐만 아니라, 공격력도 증폭시키는 기능을 갖고 있다. 필살기는, 양팔에서 구성데이터를 파괴하는 초진동파를 내어, 적의 주위의 공간마저 지워버리고마는 \"이레이즈 클로 [1] \". 이 공격을 맞는다면, 데이터의 한조각도 남지 않고 소멸되어버리고 만다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Cyberdramon"
+    },
+    {
+      "id": "justi_a",
+      "name": "Justimon: Accel Arm",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A \"Hero of Justice\"-type Digimon wearing a flapping red muffler. Its sense of justice burns hot, and as it is a Digimon that never overlooks unjust acts or evil deeds, it is an existence which Baby Digimon aspire to. It comes along like the wind, swings down its hammer of Justice, and leaves like the wind. Also, it seems to like taking a decisive pose atop a cliff while facing the setting sun. By switching out the three plugs on its right shoulder, which are equipped to the \"Extend Transmitter\" on its back, it can make its arm transform into the power-type \"Accel Arm\", the lightning-type \"Blitz Arm\", or the cutter-type \"Critical Arm\". Its Signature Move is transforming its arm into the three types (Trinity Arm), and the destructive force of its Special Move \"Justice Kick\" is said to reach 45 tons.(*This image is of the \"Accel Arm\")Digimon Reference Book⇨ English長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。（※画像は「アクセルアーム」のもの）デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Justimon:_Accel_Arm"
+    },
+    {
+      "id": "justi",
+      "name": "Justimon: Blitz Arm",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A \"Hero of Justice\"-type Digimon wearing a flapping red muffler. Its sense of justice burns hot, and as it is a Digimon that never overlooks unjust acts or evil deeds, it is an existence which Baby Digimon aspire to. It comes along like the wind, swings down its hammer of Justice, and leaves like the wind. Also, it seems to like taking a decisive pose atop a cliff while facing the setting sun. By switching out the three plugs on its right shoulder, which are equipped to the \"Extend Transmitter\" on its back, it can make its arm transform into the power-type \"Accel Arm\", the lightning-type \"Blitz Arm\", or the cutter-type \"Critical Arm\". Its Signature Move is transforming its arm into the three types (Trinity Arm), and the destructive force of its Special Move \"Justice Kick\" is said to reach 45 tons.Digimon Reference Book⇨ English長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Justimon:_Blitz_Arm"
+    },
+    {
+      "id": "justi_c",
+      "name": "Justimon: Critical Arm",
+      "name_jp": "",
+      "name_ko": "저스티몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A \"Hero of Justice\"-type Digimon wearing a flapping red muffler. Its sense of justice burns hot, and as it is a Digimon that never overlooks unjust acts or evil deeds, it is an existence which Baby Digimon aspire to. It comes along like the wind, swings down its hammer of Justice, and leaves like the wind. Also, it seems to like taking a decisive pose atop a cliff while facing the setting sun. By switching out the three plugs on its right shoulder, which are equipped to the \"Extend Transmitter\" on its back, it can make its arm transform into the power-type \"Accel Arm\", the lightning-type \"Blitz Arm\", or the cutter-type \"Critical Arm\". Its Signature Move is transforming its arm into the three types (Trinity Arm), and the destructive force of its Special Move \"Justice Kick\" is said to reach 45 tons.Digimon Reference Book⇨ English長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。デジモン図鑑",
+        "ko": "길게 뻗은 머플러를 두른 정의의 히어로 디지몬. 정의감에 불타 부정한 행위와 악행은 절대 놓치지 않는 디지몬으로, 유년기 디지몬들이 동경하는 존재다. 바람처럼 와서 정의의 철퇴를 내리고 바람처럼 떠나간다. 또한, 절벽 위에서 석양을 향해 결정 포즈를 취하는 것을 좋아하는 듯 하다. 등에 장비한 「익스텐드 트랜스미터」에 있는 3개의 플러그를 오른쪽 어깨에 갈아끼우는 것으로, 파워 타입의 「액셀 암」, 전격 타입의 「블리츠 암」, 커터 타입의 「크리티컬 암」으로 변화시킬 수 있다. 특기는 3종류의 팔을 변화시키는 「트리니티 암」, 필살기 「저스티스 킥」의 파괴력은 45t에 달한다고 한다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Justimon:_Critical_Arm"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "keto",
+      "to": "hop",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "hop",
+      "to": "monodra",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "monodra",
+      "to": "strikedra",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "strikedra",
+      "to": "cyberdra",
+      "conditions": {
+        "text": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data, Virus or Free Adult"
+      }
+    },
+    {
+      "from": "cyberdra",
+      "to": "justi_a",
+      "conditions": {
+        "text": "• 30+ Trophies, 4,500+ Vital Values, 10-24 Battles, 50%-69% Win Ratio• 30+ Trophies, 4,500+ Vital Values, 25+ Battles, 50%-69% Win Ratio• 30+ Trophies, 4,500+ Vital Values, 10-24 Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "cyberdra",
+      "to": "justi",
+      "conditions": {
+        "text": "• 10+ Trophies, 4,500+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "cyberdra",
+      "to": "justi_c",
+      "conditions": {
+        "text": "• 10+ Trophies, 7,000+ Vital Values, 10+ Battles, 70%+ Win Ratio• Jogress with Free Perfect"
+      }
+    }
+  ]
+}

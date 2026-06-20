@@ -1,0 +1,74 @@
+{
+  "id": "soloogar",
+  "name": "Soloogarmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/soloogar.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/soloogar.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/soloogar.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "loogar",
+        "fil",
+        "tyrano"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Soloogarmon",
+    "name_en": "Soloogarmon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6200",
+      "hp": "4300",
+      "ap": "1550"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "loogar",
+        "name": "Loogarmon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "fil",
+        "name": "Filmon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "tyrano",
+        "name": "Tyranomon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "fenrilooga",
+        "name": "Fenriloogamon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "rasen",
+        "name": "Rasenmon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

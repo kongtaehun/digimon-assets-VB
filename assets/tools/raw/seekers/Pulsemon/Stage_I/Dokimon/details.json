@@ -1,0 +1,39 @@
+{
+  "id": "doki",
+  "name": "Dokimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/doki.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/doki.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/doki.jpg",
+  "appearances": [
+    {
+      "dim_id": "pulse",
+      "dim_name": "Pulsemon",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Dokimon",
+    "name_en": "Dokimon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Active",
+    "stats": {
+      "bp": "0",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "bibi",
+        "name": "Bibimon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

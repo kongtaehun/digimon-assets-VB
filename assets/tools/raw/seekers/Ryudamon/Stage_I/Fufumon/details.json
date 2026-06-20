@@ -1,0 +1,39 @@
+{
+  "id": "fufu",
+  "name": "Fufumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fufu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fufu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/fufu.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Fufumon",
+    "name_en": "Fufumon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "kyokyo",
+        "name": "Kyokyomon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

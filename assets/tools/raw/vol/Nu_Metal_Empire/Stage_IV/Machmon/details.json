@@ -1,0 +1,82 @@
+{
+  "id": "mach",
+  "name": "Machmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mach.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mach.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mach.jpg",
+  "appearances": [
+    {
+      "dim_id": "nme",
+      "dim_name": "Nu Metal Empire",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "haguru"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Machmon",
+    "name_en": "Machmon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "5",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "haguru",
+        "name": "Hagurumon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "loaderlio",
+        "name": "Loader Liomon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "metalmame",
+        "name": "Metal Mamemon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "rebelli",
+        "name": "Rebellimon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "atlurballista",
+        "name": "Atlur Ballistamon",
+        "conditions": "Jogress with Data Adult"
+      },
+      {
+        "id": "loco",
+        "name": "Locomon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "metalgrey_2010",
+        "name": "Metal Greymon (2010)",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ]
+  }
+}

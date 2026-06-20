@@ -1,0 +1,67 @@
+{
+  "id": "draco",
+  "name": "Dracomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/draco.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/draco.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/draco.jpg",
+  "appearances": [
+    {
+      "dim_id": "dbl",
+      "dim_name": "Draconic Blaze",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "babyd"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Dracomon",
+    "name_en": "Dracomon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "4800",
+      "hp": "3000",
+      "ap": "1000"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "babyd",
+        "name": "Babydmon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "coredra_b",
+        "name": "Coredramon (Blue)",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "geogrey",
+        "name": "Geo Greymon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "coredra_g",
+        "name": "Coredramon (Green)",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "monodra_gp",
+  "name": "Monodramon GP",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_monodra_gp.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_keto.gif",
+  "digimon": [
+    {
+      "id": "keto",
+      "name": "Ketomon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/keto.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/keto.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/keto.jpg"
+    },
+    {
+      "id": "hop",
+      "name": "Hopmon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hop.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hop.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hop.jpg"
+    },
+    {
+      "id": "monodra",
+      "name": "Monodramon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/monodra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/monodra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/monodra.jpg"
+    },
+    {
+      "id": "strikedra",
+      "name": "Strikedramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/strikedra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/strikedra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/strikedra.jpg"
+    },
+    {
+      "id": "cyberdra",
+      "name": "Cyberdramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cyberdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cyberdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cyberdra.jpg"
+    },
+    {
+      "id": "justi_a",
+      "name": "Justimon: Accel Arm",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/justi_a.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/justi_a.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/justi_a.jpg"
+    },
+    {
+      "id": "justi",
+      "name": "Justimon: Blitz Arm",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/justi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/justi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/justi.jpg"
+    },
+    {
+      "id": "justi_c",
+      "name": "Justimon: Critical Arm",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/justi_c.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/justi_c.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/justi_c.jpg"
+    }
+  ],
+  "evolution_edges": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "kazuchi_d",
+  "name": "Kazuchimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/kazuchi_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/kazuchi_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/kazuchi.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Kazuchimon",
+    "name_en": "Kazuchimon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6500",
+      "hp": "5000",
+      "ap": "1950"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "bout_d",
+        "name": "Boutmon",
+        "conditions": "Stage 12 cleared, 20+ PP, 3,500+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

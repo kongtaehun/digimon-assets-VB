@@ -1,0 +1,67 @@
+{
+  "id": "bladekuwaga",
+  "name": "Blade Kuwagamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bladekuwaga.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bladekuwaga.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bladekuwaga.jpg",
+  "appearances": [
+    {
+      "dim_id": "pulse",
+      "dim_name": "Pulsemon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "kuda"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Blade Kuwagamon",
+    "name_en": "BladeKuwagamon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "bp": "5000",
+      "hp": "3000",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "kuda",
+        "name": "Kudamon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "giro",
+        "name": "Giromon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "kyuki",
+        "name": "Kyukimon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 8+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "metallifekuwaga",
+        "name": "Metallife Kuwagamon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cerberu",
+  "name": "Cerberumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cerberu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cerberu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cerberu.jpg",
+  "appearances": [
+    {
+      "dim_id": "tsh",
+      "dim_name": "True Shadow Howl",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "drimoge",
+        "dorulu"
+      ],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Cerberumon",
+    "name_en": "Cerberumon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "30 (★6)",
+      "hp": "12",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "drimoge",
+        "name": "Drimogemon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dorulu",
+        "name": "Dorulumon",
+        "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Vaccine Adult (TSH)"
+      },
+      {
+        "id": "garuru",
+        "name": "Garurumon",
+        "conditions": "Jogress with Data Adult (TSH)"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "metalgaruru_b",
+        "name": "Metal Garurumon (Black)",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "mercury",
+        "name": "Mercurymon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "zdgaruru",
+        "name": "Z'D Garurumon",
+        "conditions": "Jogress with Data or Free Perfect (TSH)"
+      },
+      {
+        "id": "omega_z",
+        "name": "Omegamon (Zwart)",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect (TSH)"
+      }
+    ]
+  }
+}

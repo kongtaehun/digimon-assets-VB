@@ -1,0 +1,79 @@
+{
+  "id": "deathxdorugure",
+  "name": "Death-X-Doruguremon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/deathxdorugure.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/deathxdorugure.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/deathxdorugure.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "doruga",
+        "deathxdoruga",
+        "raptordra"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Death-X-Doruguremon",
+    "name_en": "DexDoruGreymon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Lazy",
+    "stats": {
+      "bp": "5400",
+      "hp": "4400",
+      "ap": "1550"
+    },
+    "schedule": {
+      "activity_type": "Lazy",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "doruga",
+        "name": "DORUgamon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "deathxdoruga",
+        "name": "Death-X-Dorugamon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "raptordra",
+        "name": "Raptordramon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "dorugora",
+        "name": "DORUgoramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "deathxdorugora",
+        "name": "Death-X-Dorugoramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "chaosdra",
+        "name": "Chaosdramon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

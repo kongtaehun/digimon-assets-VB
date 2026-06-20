@@ -1,0 +1,69 @@
+{
+  "id": "chaosdra",
+  "name": "Chaosdramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chaosdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chaosdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/chaosdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "canoweiss",
+        "brachio",
+        "chimaira",
+        "tankdra"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Chaosdramon",
+    "name_en": "Chaosdramon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "16",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "canoweiss",
+        "name": "Canoweissmon",
+        "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+      },
+      {
+        "id": "brachio",
+        "name": "Brachiomon",
+        "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "chimaira",
+        "name": "Chimairamon",
+        "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "tankdra",
+        "name": "Tankdramon",
+        "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

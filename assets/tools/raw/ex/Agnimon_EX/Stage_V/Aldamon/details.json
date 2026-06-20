@@ -1,0 +1,42 @@
+{
+  "id": "alda",
+  "name": "Aldamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/alda.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/alda.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/alda.jpg",
+  "appearances": [
+    {
+      "dim_id": "agni_ex",
+      "dim_name": "Agnimon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Aldamon",
+    "name_en": "Aldamon",
+    "attribute": "Free",
+    "stage_text": "Stage V (Perfect)",
+    "stats": {
+      "dp": "35 (★)",
+      "hp": "9",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "alpha",
+  "name": "Alphamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/alpha.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/alpha.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/alpha.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dorugure",
+        "grade"
+      ],
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Alphamon",
+    "name_en": "Alphamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6300",
+      "hp": "5700",
+      "ap": "2100"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "dorugure",
+        "name": "DORUguremon",
+        "conditions": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "grade",
+        "name": "Grademon",
+        "conditions": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "alpha_o",
+        "name": "Alphamon: Ouryuken",
+        "conditions": "Jogress with Ouryumon  from the Ryudamon BE Memory Dim"
+      }
+    ]
+  }
+}

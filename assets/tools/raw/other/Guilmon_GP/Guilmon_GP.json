@@ -1,0 +1,138 @@
+{
+  "id": "guil_gp",
+  "name": "Guilmon GP",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_guil_gp.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_jyari.gif",
+  "digimon": [
+    {
+      "id": "jyari",
+      "name": "Jyarimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jyari.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jyari.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/jyari.jpg"
+    },
+    {
+      "id": "gigi",
+      "name": "Gigimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gigi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gigi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gigi.jpg"
+    },
+    {
+      "id": "guil",
+      "name": "Guilmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/guil.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/guil.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/guil.jpg"
+    },
+    {
+      "id": "grow",
+      "name": "Growmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grow.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grow.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grow.jpg"
+    },
+    {
+      "id": "megalogrow",
+      "name": "Megalo Growmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/megalogrow.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/megalogrow.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/megalogrow.jpg"
+    },
+    {
+      "id": "medievalduke",
+      "name": "Medieval Dukemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/medievalduke.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/medievalduke.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/medievalduke.jpg"
+    },
+    {
+      "id": "duke",
+      "name": "Dukemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/duke.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/duke.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/duke.jpg"
+    },
+    {
+      "id": "chaosduke",
+      "name": "Chaos Dukemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chaosduke.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chaosduke.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chaosduke.jpg"
+    }
+  ],
+  "evolution_edges": []
+}

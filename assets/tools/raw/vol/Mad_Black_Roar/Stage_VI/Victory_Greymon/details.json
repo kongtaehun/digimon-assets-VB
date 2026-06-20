@@ -1,0 +1,87 @@
+{
+  "id": "victorygrey",
+  "name": "Victory Greymon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/victorygrey.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/victorygrey.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/victorygrey.jpg",
+  "appearances": [
+    {
+      "dim_id": "mbr",
+      "dim_name": "Mad Black Roar",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "extyrano",
+        "vermilli"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Victory Greymon",
+    "name_en": "VictoryGreymon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "12",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "metalgrey_am",
+        "name": "Metal Greymon (Alterous Mode)",
+        "conditions": "10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "extyrano",
+        "name": "Ex-Tyranomon",
+        "conditions": "10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "vermilli",
+        "name": "Vermillimon",
+        "conditions": "• 10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio (MBR)• 20+ Trophies, 5000+ Vital Values, 20+ Battles, 70%+ Win Ratio (DRo)"
+      },
+      {
+        "id": "extyrano",
+        "name": "Ex-Tyranomon",
+        "conditions": "Jogress with Data or Free Perfect (MBR)"
+      },
+      {
+        "id": "mametyra",
+        "name": "Mametyramon",
+        "conditions": "Jogress with Virus Perfect (MBR)"
+      },
+      {
+        "id": "skullgrey",
+        "name": "Skull Greymon",
+        "conditions": "• Jogress with Data Perfect (MBR)• 20+ Trophies, 5000+ Vital Values, 20+ Battles, 70%+ Win Ratio (DRo)"
+      },
+      {
+        "id": "metalgrey_va",
+        "name": "Metal Greymon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "metalgrey_vi",
+        "name": "Metal Greymon (Virus)",
+        "conditions": "• Jogress with Data Perfect (MBR)• Jogress with Vaccine, Data or Free Perfect (DRo)"
+      }
+    ],
+    "evolves_to": []
+  }
+}

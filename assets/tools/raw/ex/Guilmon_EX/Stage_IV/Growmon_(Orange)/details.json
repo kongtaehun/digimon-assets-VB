@@ -1,0 +1,80 @@
+{
+  "id": "grow_o",
+  "name": "Growmon (Orange)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grow_o.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grow_o.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/grow_o.jpg",
+  "appearances": [
+    {
+      "dim_id": "guil_ex",
+      "dim_name": "Guilmon EX",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Growmon (Orange)",
+    "name_en": "Growlmon (Yellow)",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "5",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "guil",
+        "name": "Guilmon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "megalogrow",
+        "name": "Megalo Growmon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "megalogrow_o",
+        "name": "Megalo Growmon (Orange)",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mihira",
+        "name": "Mihiramon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "majira",
+        "name": "Majiramon",
+        "conditions": "Jogress with Vaccine Adult"
+      },
+      {
+        "id": "sandira",
+        "name": "Sandiramon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "vajra",
+        "name": "Vajramon",
+        "conditions": "Jogress with Free Adult"
+      }
+    ]
+  }
+}

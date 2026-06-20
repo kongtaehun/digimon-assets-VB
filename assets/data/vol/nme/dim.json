@@ -1,0 +1,971 @@
+{
+  "schema_version": "1.0",
+  "id": "nme",
+  "name": "Nu Metal Empire",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Aug 2021 - Retail (Set Vol.03)EN: Jul 2022 - Retail (Set Vol.03)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_nme.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bom",
+      "name": "Bommon",
+      "name_jp": "Bommon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bom/frame1.gif",
+        "frame2": "sprites/bom/frame2.gif"
+      },
+      "artwork": "sprites/bom/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon which has a bomb-shaped body. The fuse on its tail ignites the moment it hatches from its egg and steadily grows shorter, but because it evolves to the next generation before the fuse disappears, nobody knows what will happen if the fuse went out. It possesses a short-tempered personality, and it's said that when it gets in a bad mood, the progress of the fuse gets faster. Because its fuse's \"Bachibachibacchin\" sparks produce an intense noise, any opponent would be surprised if they were suddenly produced before their eyes.Digimon Reference Book⇨ English爆弾状の体を持つ、スライム型デジモン。尻尾の導火線は、卵から生まれた瞬間から点火され、徐々に短くなっていくが、導火線がなくなる前に次の世代へ進化してしまうため、導火線がなくなるとどうなってしまうかは誰も分からない。短気な性格の持ち主であり、機嫌が悪くなると導火線の進みが早くなると言われている。導火線の火花『バチバチバッチン』は激しい音を出すので、いきなり目の前に出されるとどんな相手でもびっくりしてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Bommon"
+    },
+    {
+      "id": "missi",
+      "name": "Missimon",
+      "name_jp": "Missimon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/missi/frame1.gif",
+        "frame2": "sprites/missi/frame2.gif"
+      },
+      "artwork": "sprites/missi/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon with a missile for a body. The moment it evolves into Missimon, its missile is ignited and sends it flying non-stop until it further evolves into another Digimon. While it is able to adjust its flight speed to some extent, it is unable to stop moving as it will fall if it does not maintain a sufficient flight speed. It can utilize this speed to do a body tackle (Missile Crash), sporting great destructive power, but this attack almost never hits its target due to Missimon's sub-par control.Digimon Reference Book⇨ Englishミサイルボディのマシーン型デジモン。ミサイモンに進化した瞬間からミサイルに点火されるため、次のデジモンに進化するまで飛び続ける。多少のスピード調整は出来るようだが、かなりのスピードで飛んでいないと墜落してしまうため、一箇所にとどまることは不可能である。そのスピードを利用した体当たりの『ミサイルクラッシュ』は破壊力満点だが、コントロールが今ひとつの為、ほとんど当たることはない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Missimon"
+    },
+    {
+      "id": "haguru",
+      "name": "Hagurumon",
+      "name_jp": "Hagurumon",
+      "name_ko": "톱니몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/haguru/frame1.gif",
+        "frame2": "sprites/haguru/frame2.gif"
+      },
+      "artwork": "sprites/haguru/artwork.jpg",
+      "lore": {
+        "en": "A mutant Machine Digimon shaped like a gear. There are countless gears built into its body, and the gears are constantly rotating. For that reason, if even a single gear is missing, all of the gears in its body stop rotating, and it becomes unable to maintain its vital functions. Hagurumon possesses the special ability to send a computer virus to its opponents in order to manipulate them at will, and that ability is exploited by fiendish Digimon. However, because Hagurumon itself doesn't have any sense of self, it doesn't even know it is being misused. Its Special Move is burying a black gear with a built-incomputer viruswithin the body of the opponent, driving them mad (Darkness Gear).Digimon Reference Book⇨ English歯車の形をした変種のマシーン型デジモン。体内にも無数の歯車が組み込まれており、常に歯車が回転をしている。そのため１つでも歯車が抜けてしまうと、全身の歯車が回転を止めてしまい、生命活動を維持できなくなる。ハグルモンには相手にコンピュータウィルスを送り込んで意のままに操る特殊な能力をもっており、その能力を凶悪なデジモンに利用されている。しかし、ハグルモン自体は自我を持っていないため、悪用されていることなど知るよしも無い。必殺技はコンピュータウィルスを組み込んだ黒い歯車を相手の体内に埋め込んで、狂わせてしまう『ダークネスギア』。デジモン図鑑",
+        "ko": "톱니바퀴 모습의 변종 머신형 디지몬. 몸에 무수한 톱니바퀴가 내장되어 있으며 항상 톱니바퀴가 회전을 하고 있다. 따라서 톱니바퀴가 하나라도 빠져 버리면, 전신의 톱니바퀴가 회전을 멈추어 버려, 생명 활동을 유지할 수 없게된다. 톱니몬은 상대에게 컴퓨터 바이러스를 보내 뜻대로 조종하는 특수한 능력을 가지고 있어 그 능력이 흉악한 디지몬 에게 이용되고 있다. 그러나 톱니몬 자체는 자아를 가지고 있지 않기 때문에 악용되고 있는 것을 알지못한다. 필살기는 컴퓨터 바이러스를 넣은 검은 톱니바퀴를 상대의 몸에 박아 미치게 해버리는 \"다크니스 기어 [5] \""
+      },
+      "wikimon_url": "https://wikimon.net/Hagurumon"
+    },
+    {
+      "id": "mach",
+      "name": "Machmon",
+      "name_jp": "Machmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/mach/frame1.gif",
+        "frame2": "sprites/mach/frame2.gif"
+      },
+      "artwork": "sprites/mach/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that yearns for speed. Dust clouds over barren plains are often caused by Machmon racing noisily. Despite its motorcycle-like appearance, it doesn't have a seat, and no one wants to ride it. However, it believes that it will eventually find a Digimon destined to ride it skillfully. It is a natural-bornbōsōzokuwho views anyone that travels at high speed as an enemy.Its Special Moves are tearing the enemy to pieces with the blades protruding from various parts (Full ThrottleEdge), and indiscriminately shooting with the four gun muzzles mounted to the sides of its front wheel (Madness Fire).Digimon Reference Book⇨ English速さを追い求めるサイボーグ型デジモン。何もない平原であがる土煙は、大抵はマッハモンの爆走が原因。バイクのような見た目だがシートは存在せず、誰も乗せる気はない。しかし、いずれ自分を乗りこなす運命のデジモンが見つかると思っている。高速で移動する者すべてを敵視する、生粋の暴走族である。必殺技は各所から飛び出た刃で敵を斬り裂く「フルスロットルエッジ」と、前輪脇に取り付けられた四つの銃口で所構わず乱射する「マッドネスファイア」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Machmon"
+    },
+    {
+      "id": "ballista",
+      "name": "Ballistamon",
+      "name_jp": "Ballistamon",
+      "name_ko": "알라우몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ballista/frame1.gif",
+        "frame2": "sprites/ballista/frame2.gif"
+      },
+      "artwork": "sprites/ballista/artwork.jpg",
+      "lore": {
+        "en": "A heavyweight Digimon that possesses bulky metallic armor and overwhelming power. It appears warlike at first glance, but because of its gentle personality, preferring harmony to conflict, it will never attack first. However, if it gets into a fight, it becomes a powerful and matchless fighter that swings its stout arms and wipes out the opponent.With its heavy armor and great power, its potential for both offense and defense is great, and it specializes in one-hit knockout attacks that capitalize on its power, which is such that any of its strikes that manage to connect will leave a huge dent. However, its overly heavy body can be its ruin, not to mention its lack of nimbleness, so it has difficulty fighting fast-moving opponents.Its \"Heavy Speaker\", which emits a low tone from the speaker in its belly and shatters the opponent, conceals the power to smash rocks and shake mountains, and the level of that power rises when it gets hungry. Also, the horn on its head, which is indispensable in close-combat, is Ballistamon's pride, and it hates for it to be carelessly touched. Its \"Horn Breaker\", in which it heroically uses this horn to fling the opponent, is Ballistamon's Signature Move.Also, Ballistamon is able to lend its heavy armor and power to another Digimon by changing into its \"Enhanced-armor Mode\".Digimon Reference Book⇨ English分厚いメタル質の装甲と圧倒的なパワーを持つヘビー級デジモン。一見好戦的に見えるが、争いよりも平和を好む穏やかな性格で自ら攻撃を仕掛けるということはない。だが、ひとたび戦いとなれば豪腕を振るって敵を一掃する強力無双の闘士となる。重装甲と大パワーで攻守共にポテンシャルは高く、命中すればただでは済まない大パワーを活かした一撃必殺の攻撃が得意。しかし、重すぎる体が災いして俊敏さに難があり、動きの速い敵と戦うのは苦手である。お腹のスピーカーから重低音を発して敵を粉砕する「へヴィスピーカー」は岩を砕き山を鳴動させる威力を秘め、お腹がすいているほどその威力は高まる。また、接近攻撃の要となる頭のホーンはバリスタモンにとって誇りであり、軽々しく触れられることを嫌う。このホーンを豪快に使って相手を投げ飛ばす「ホーンブレイカー」はバリスタモンの得意技である。またバリスタモンは『装甲強化形態』になることで他のデジモンに重装甲とパワーを貸すことができる。デジモン図鑑",
+        "ko": "팔몬 과 같은 진화를 이룬 식물형 디지몬. 점심에는 머리와 팔의 꽃을 피워 광합성을 하는 듯 하다. 머리의 꽃에서 나는 냄새는 바로 팔몬에게 받은 것으로, 여전히 강렬하고 지독하다. 필살기는 손에서 뻗은 손톱으로 적을 휘감아 혼란스럽게 하는 『네메시스 아이비』."
+      },
+      "wikimon_url": "https://wikimon.net/Ballistamon"
+    },
+    {
+      "id": "mailbirdra",
+      "name": "Mail Birdramon",
+      "name_jp": "Mail Birdramon",
+      "name_ko": "메일버드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/mailbirdra/frame1.gif",
+        "frame2": "sprites/mailbirdra/frame2.gif"
+      },
+      "artwork": "sprites/mailbirdra/artwork.jpg",
+      "lore": {
+        "en": "ARaptor-type Flying Digimon. It performs reconnaissance on the status of the battle from the sky, and specializes in performingair supportstrikes that inflict precise amounts of damage to the opponent usinghit-and-run tactics. Its movements are lightning-fast and its vision, eagle-eyed. In particular, its \"Nighthawk\", in which it covertly approaches the opponent and then performs an aerial bombing, is a tactic that fully capitalizes on Mail Birdramon's characteristics. Its \"Plasma Cannon\", in which it shoots the opponent at point-blank range with an extremely high-energyplasmashot from its mouth, is also powerful enough to exterminate the opponent, so its comprehensive fighting strength is far greater than that of Digimon who only possess close combat abilities.Because it is always analyzing the status of the battle from the sky and acting accordingly, its personality is calm and calculating, and it excels at making judgments.Digimon Reference Book⇨ English猛禽タイプの飛行型デジモン。上空で戦況をうかがい、一撃離脱戦法で敵に的確なダメージを与える支援攻撃を得意とする。その動きは素早くその眼光は鋭い。特に敵に気づかれずに接近し空爆を行う「ナイトホーク」はメイルバードラモンの特徴を最大限に活かした戦法である。口から超高エネルギーのプラズマ弾で直接攻撃する「プラズマキャノン」も敵を駆逐するに足りる威力があり、総合的な戦闘力は格闘能力しか持たないデジモンより遥かに高い。常に上空から戦況を分析し行動しているため、その性格は冷静で計算が立ち、判断力に優れている。デジモン図鑑",
+        "ko": "맹금 타입의 비행형 디지몬. 상공에서 전황을 살피고, 일격 이탈 전법으로 적에게 정확하는 데미지를 주는 지원 공격을 자랑으로 여긴다. 그 움직임은 재빠르고 눈빛은 날카롭다. 특히 적에게 들키지 않고 접근해 공습을 감행하는 「 나이트호크 」는 메일버드라몬의 특징을 최대한 살린 전법이다. 입으로부터 초고에너지의 플라즈마탄으로 직접 공격하는 「 플라즈마 캐논 」도 적을 격추할 만한 위력이 있어, 종합적인 전투력은 격투 능력 밖에 가지지 않는 디지몬보다 훨씬 더 높다. 항상 상공으로부터 전황을 분석해 행동하고 있기 때문에, 그 성격은 냉철하고 계산적이어서 판단력이 뛰어나다."
+      },
+      "wikimon_url": "https://wikimon.net/Mail_Birdramon"
+    },
+    {
+      "id": "rare",
+      "name": "Raremon",
+      "name_jp": "Raremon",
+      "name_ko": "레어몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/rare/frame1.gif",
+        "frame2": "sprites/rare/frame2.gif"
+      },
+      "artwork": "sprites/rare/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon whose muscles have all rotted away. It tried to extend its life by mechanizing its body, but its body was unable to stabilize, and its configuration data has begun to break down. However, because it was given life by those machines, it will not die, and survives with this grotesque appearance. Because its body has broken down, its offensive power and mental capacity are nonexistent, and it acts on instinct. Its entire body exudes a stench so foul thatBabyDigimon will simply run away from it, but it is no match for Digimon who have grown to theAdultlevel.Digimon Reference Book⇨ English全身の筋肉が腐り落ちたアンデッドデジモン。体を機械化することで生き長らえようとしたが体が安定せず、体を構成するデータが崩壊し始めている。しかし、機械による生命を与えられているので、死ぬことはなく醜い姿のまま生き長らえている。体が崩壊しているため攻撃力や知力はなく、本能のまま行動している。全身からは悪臭を放ち、幼年期のデジモンなどは逃げ出すほどだが、成熟期まで成長したデジモンの敵ではない。デジモン図鑑",
+        "ko": "전신의 근육이 썩어 빠진 언데드 디지몬. 몸을 기계화하여 장수하려고 했지만 몸이 안정되지 않아 몸을 구성하는 데이터가 붕괴하기 시작했다. 그러나 기계가 생명을 부여하고 있기 때문에 추악한 채로 장수하고 있다. 몸이 붕괴하고 있기 때문에 공격력이나 지력없이 본능대로 행동하고 있다. 전신에서 악취가 나 유년기 디지몬 등이 도망갈 정도지만 성숙기까지 성장한 디지몬의 적은 아니다. 필살기는 입에서 헤도로의 덩어리를 토해내는 '헤도로 [1] [2] '. 공격명이 헤도 로인 점이나 데뷔작인 디지몽 VER.5에서의 도트를 감안하면 모티브는 고지라 시리즈 의 헤도라 가 강하게 지목된다. 특유의 외형은 바람계곡의 나우시카 에 등장한 불완전 거신병 과 닮았다."
+      },
+      "wikimon_url": "https://wikimon.net/Raremon"
+    },
+    {
+      "id": "loaderlio",
+      "name": "Loader Leomon",
+      "name_jp": "Loader Liomon",
+      "name_ko": "로더레오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/loaderlio/frame1.gif",
+        "frame2": "sprites/loaderlio/frame2.gif"
+      },
+      "artwork": "sprites/loaderlio/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon that was produced whenCADdata for construction machinery leaked onto its server, then fused with the configuration data of a Beast Digimon. Its mane has become apneumatic drill, and it works primarily in tunnel construction and in theChrondigizoitmines. The Chrondigizoit mines are often surrounded by a solid layer of bedrock, so it boasts both power and stamina, as well as top-class performance among Machine Digimon. There are many Loader Leomon with a stubborn personality due to their pride in their work, but there are many people with the viewpoint that states, \"Loader Leomon is just quarrelsome.\" It seems that one mine, which had the best deposits in the world, was blown away by a fight between Loader Leomon. Its Special Moves are an attack produced by the extremely high-speed rotation of its mane (Boring Storm), and striking with the iron sphere on its tail (Loader Morning Star).Digimon Reference Book⇨ English建設機械のＣＡＤデータがサーバー上に漏洩し、獣型デジモンの構成データと融合して生まれたマシーン型デジモン。タテガミが削岩機になっており、主にトンネル工事やクロンデジゾイト鉱山にて作業を行っている。クロンデジゾイトの鉱山は固い岩盤層に囲まれていることが多く、パワー・持久力ともにマシーン型デジモンの中ではトップクラスの性能を誇る。職人気質で頑固な性格のものが多く、ローダーレオモン＝喧嘩っ早い、という見方をされていることが多い。ローダーレオモン同士の喧嘩で埋蔵量世界一の鉱山がひとつ消し飛んだこともあるらしい。必殺技はタテガミの超高速回転によって生み出される『ボーリンストーム』と尻尾の鉄球を叩きつける『ローダーモーニングスター』。デジモン図鑑",
+        "ko": "건설 기계 CAD 데이터가 서버에 유출되어 짐승형 디지몬의 구성 데이터와 융합하여 탄생한 머신형 디지몬. 갈기가 착암기 로 이뤄졌으며 주로 터널 공사와 크롬디지조이트 광산에서 작업을 벌이고 있다. 크롬디지조이트 광산은 단단한 암반층에 둘러싸인 일이 많아 파워와 지구력이 머신형 디지몬 중에서 최고 수준의 성능을 자랑한다. 장인 기질에 완고한 성격의 개체가 많아, 로더레오몬=싸움꾼으로 여겨지는 경우가 많다고 한다. 로더레오몬 간의 싸움에서 매장량 세계 제일의 광산이 하나 날아간 적도 있다고 한다. 필살기는 갈기의 초고속회전에 의해 발생되는 \"보링 스톰\"과 꼬리의 철구로 때리는 \"로더 모닝스타\"."
+      },
+      "wikimon_url": "https://wikimon.net/Loader_Leomon"
+    },
+    {
+      "id": "atlurballista",
+      "name": "Atlur Ballistamon",
+      "name_jp": "Atlur Ballistamon",
+      "name_ko": "아트라바리스타몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/atlurballista/frame1.gif",
+        "frame2": "sprites/atlurballista/frame2.gif"
+      },
+      "artwork": "sprites/atlurballista/artwork.jpg",
+      "lore": {
+        "en": "The evolved form ofBallistamon. Electromagnetic armor has been assimilated into its thickened metallic body, allowing it to reduce damage using magnetism and attack with electrical discharges. Sporting a kind personality, Atlur Ballistamon obstructs its foes, acting as a defensive wall for its allies on the battlefield.Its Special Moves are putting its two fists together to generate and unleash an electrical attack (Plasma Crack), and dishing out a punch that will reach anywhere (Rocket Bunker).Digimon Reference Book⇨ Englishバリスタモンが進化した姿。厚みを増したメタル質の身体には電磁装甲が取り入れられ、磁気によるダメージの低減や放電による攻撃が可能となった。アトラーバリスタモンの優しい性格と相俟って、戦場では仲間を守るための防壁として敵の前に立ちはだかる。必殺技は、両拳を合わせ発生させた電撃を放出させる『プラズマクラック』と、パンチをどこまでも伸ばせる『ロケットバンカー』。デジモン図鑑",
+        "ko": "바리스타몬이 진화한 모습. 두께를 늘린 메탈 물질의 몸에는 전자 갑옷이 받아들여져 자기로 데미지를 줄이거나 방전에 의한 공격이 가능해졌다. 아트라바리스타몬의 상냥한 성격과 맞물려 전쟁터에서는 동료를 지키기 위한 방어벽으로써 적의 앞을 가로막는다. 필살기는 양 주먹을 모아서 발생시킨 뇌격을 방출시키는 \"플라즈마 크랙\"과 펀치를 무한히 뻗는 \"로켓 벙커\""
+      },
+      "wikimon_url": "https://wikimon.net/Atlur_Ballistamon"
+    },
+    {
+      "id": "metalmame",
+      "name": "Metal Mamemon",
+      "name_jp": "Metal Mamemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalmame/frame1.gif",
+        "frame2": "sprites/metalmame/frame2.gif"
+      },
+      "artwork": "sprites/metalmame/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that evolved further in strength thanMamemon, who holds the alias of \"Smiley Bomber\". As usual, if one is deceived by its cute appearance, they will have a terrible experience. Nine-tenths of its body is mechanized, and its Special Move \"Energy Bomb\", which is fired from thePsycho Blasterequipped to its left arm, possesses tremendous destructive force which is able to reliably bring down the opponent.Digimon Reference Book⇨ English“スマイリーボマー”の異名を持つマメモンが更に強力に進化したサイボーグ型デジモン。相変わらず見た目の可愛さにだまされると痛い目を見る。体の９割は機械化されており、左腕に装備されたサイコブラスターから発射される必殺技『エネルギーボム』は絶大な破壊力を持ち、確実に敵をしとめることができる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Mamemon"
+    },
+    {
+      "id": "loco",
+      "name": "Locomon",
+      "name_jp": "Locomon",
+      "name_ko": "로코몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "14",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/loco/frame1.gif",
+        "frame2": "sprites/loco/frame2.gif"
+      },
+      "artwork": "sprites/loco/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon with the appearance of a steam locomotive, its purpose in life is to keep running. It is a being that transports the data within theNetworkacross theDigital World. Within the Digital World, where a large quantity of information comes and goes, the purpose in life for Locomon and other Vehicle-species Digimon is in how quickly they can transport that information. However, there are times when old models of Locomon have run completely wild as a result of seeking to go too quickly. Also, although its range of movement is confined because it can only run on rails, there are occasions when it has generated spatial distortions by continuously running in circles. Its Signature Move, \"Steam Bomb\", are bombs of steam that it blows from its smokestack. Its Special Move is spinning and then throwing spiked wheels (Wheel Grinder).Digimon Reference Book⇨ English蒸気機関車の姿をした、走り続けることが生きがいのマシーン型デジモン。デジタルワールドではネットワーク内のデータを運ぶ存在。大量な情報が行き来するデジタルワールドでは、いかに早く情報を運ぶかがロコモンらの乗物系デジモンの存在意義である。しかし、あまりにも速さを求めた結果、旧型のロコモンは時として暴走してしまうことがある。また、レールの上しか走ることができないので行動範囲は狭いが、回転して走り続けることで空間の歪みを生じさせることがある。得意技の『スチームボム』は煙突から吹き上げる蒸気の爆弾。必殺技はとげのある車輪を回転させて投げつける『ホイールグラインダー』デジモン図鑑",
+        "ko": "계속 달리는 것이 삶의 보람인 증기 기관차의 모습의 머신형 디지몬. 디지털 월드에서는 네트워크 내 데이터를 운반하는 존재다. 대량의 정보가 오고 가는 디지털 월드에서는 얼마나 빨리 정보를 운반하느냐가 로코몬과 같은 탑승이 가능한 디지몬 의 존재 이유다. 하지만 빠른 속도만 추구한 나머지 구형 로코몬은 때때로 폭주해 버린다. 또한 레일 위에서만 달릴 수 있으므로 행동 범위는 좁지만, 회전해서 계속 달리기에 공간이 뒤틀어질 때가 있다. 필살기는 굴뚝에서 뿜어 내는 증기 폭탄 『스팀 봄』과 가시가 돋친 바퀴를 회전시켜 던지는 『휠 그라인더 [1] 』다. 작중 모습을 보면 여기는 양쪽에 바퀴가 2열로 제대로 배치되어있다. 그러나 이들의 후배 격인 트레일몬은 레일과 바퀴가 1열로 [2] 배치되어있는데, 이는 현실로 치면 모노레일 에 가깝다."
+      },
+      "wikimon_url": "https://wikimon.net/Locomon"
+    },
+    {
+      "id": "rebelli",
+      "name": "Rebellimon",
+      "name_jp": "Rebellimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/rebelli/frame1.gif",
+        "frame2": "sprites/rebelli/frame2.gif"
+      },
+      "artwork": "sprites/rebelli/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon equipped with a high-powered engine. It is said to have evolved from a Digimon driven to the brink of death that took in junk data from its surroundings. It is an outlaw who loots parts from other Machine-species Digimon in order to further strengthen and remodel its body, which is made out of junk. Occasionally, it has been witnessed racing noisily with large gangs ofMachmon.Its Special Moves are firing a large quantity of missiles from its left arm (Vanquish Missile), and pulverizing the enemy's body as it minces them with the heavy machinery on its right arm (Maximum Demolisher).Digimon Reference Book⇨ English高出力エンジンを搭載したサイボーグ型デジモン。死の淵に追い込まれたデジモンが周囲のジャンクデータを取り込み進化したという。ジャンクから作り上げた体をより強く改造するために、他の機械系デジモンからパーツを略奪する無法者。時々、マッハモンの大群を引き連れて爆走する姿が目撃されている。必殺技は左腕から大量のミサイルを放つ「ヴァンキッシュミサイル」と、右腕の重機で敵の体を刻みながら粉砕する「マキシマムデモリッシャー」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rebellimon"
+    },
+    {
+      "id": "metalgrey_2010",
+      "name": "Metal Greymon (2010)",
+      "name_jp": "Metal Greymon (2010)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgrey_2010/frame1.gif",
+        "frame2": "sprites/metalgrey_2010/frame2.gif"
+      },
+      "artwork": "sprites/metalgrey_2010/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "heavyleo",
+      "name": "Heavy Leomon",
+      "name_jp": "Heavy Leomon",
+      "name_ko": "헤비레오몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/heavyleo/frame1.gif",
+        "frame2": "sprites/heavyleo/frame2.gif"
+      },
+      "artwork": "sprites/heavyleo/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon with the heaviest build, rare even among the variousLeomonfamilies. Its power is the greatest among Machine-types thanks to its charging power, so it is difficult to stop Heavy Leomon from charging head-on. The source of Heavy Leomon's charging power is its passionate fighting spirit, and its strength doubles the more its fighting spirit burns. In addition, unlike a weapon made solely for fighting, it has a kind heart in that it also carries out rescue operations, so if there is a Digimon that needs help, it will firstly rush over to them, and then remove any obstacles using its prided power.While it is brimming with passionate fighting spirit in battle, it analyzes the opponent and acts with composure. It shoots at long range, firing abarragewith the \"Barrage Sweeper\"autocannondeployed from its left shoulder, and skillfully uses its \"Resting Burner\", a mid-range attack where it expels ultra-high temperature flames from the lion armor on its chest, and \"Sonic Excavator\", a very-close range technique where it impales the enemy by launching itsPile Bunkerwhile charging with its fighting spirit at its maximum, for different proposes, and achieves victory steadily with tactics that leave no openings regardless of long, mid, or close-range combat.Digimon Reference Book⇨ English数あるレオモン族の中でも希少な最重量の巨体を持つマシーン型デジモン。突進力によるパワーはマシーン型の中でも随一で、真正面からヘヴィーレオモンの突進を受け止めることは難しい。突進力の源は熱き闘気であり、闘気が燃えあがるほどにヘヴィーレオモンの強さは倍増していく。また、戦うだけの兵器とは違い、救助活動も行う優しい心の持ち主であり、助けを求めるデジモンがいれば、真っ先に駆けつけ自慢のパワーで障害を取り除く。戦いにおいては熱き闘気を滾らせつつも、相手を分析し冷静に立ち回る。左肩から展開した機関砲『バレッジスイーパー』で弾幕を放ち遠方射撃を行い、胸の獅子鎧から超高温の炎を吐き出す中距離攻撃『レスティングバーナー』、そして闘気MAXで突進するとともにパイルバンカーを打ちだし敵を貫く超近距離技『ソニックエクスカベーター』を巧みに使い分け、遠・中・近距離のどの戦闘においても隙の無い戦術で堅実に勝利を手にする。デジモン図鑑",
+        "ko": "수많은 레오몬 종족 중에서도 희소한 초중량의 거대한 몸을 가진 머신형 디지몬. 돌진력에 의한 파워는 머신형 중에서도 제일이며, 정면에서 헤비레오몬의 돌진을 막아내는 것은 어렵다. 돌진력의 근원은 뜨거운 투기이며 투기가 불타오를수록 헤비레오몬의 강함은 배로 증가한다. 또한 그저 싸우기만 할 뿐인 병기와는 달리 구조활동도 하는 상냥한 마음의 소유자이기에 도움을 청하는 디지몬이 있으면 제일 먼저 달려나가 특기인 파워로 장해가 되는 것을 제거한다. 싸울때는 뜨거운 투기를 다루면서도 상대를 분석해 냉정히 맞선다. 왼쪽 어깨에서 전개되는 [1] 기관포 「배러지 스위퍼」로 탄막을 펼쳐 원호사격을 하며, 가슴의 사자 갑옷에서 초고온의 화염을 토해내는 중거리 공격「레스팅 버너」, 그리고 투기 MAX 상태에서 돌진하는 것과 동시에 파일벙커를 찔러넣어 상대를 꿰뚫는 초 근거리 공격 「소닉 엑스커베이터」를 상황에 맞춰 능숙하게 사용하여 원, 중, 근거리, 어떤 전투에 있어서도 빈틈없는 전술로 건실하게 승리를 손에 넣는다."
+      },
+      "wikimon_url": "https://wikimon.net/Heavy_Leomon"
+    },
+    {
+      "id": "grandloco",
+      "name": "Grand Locomon",
+      "name_jp": "Grand Locomon",
+      "name_ko": "그랜드로코몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "18",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/grandloco/frame1.gif",
+        "frame2": "sprites/grandloco/frame2.gif"
+      },
+      "artwork": "sprites/grandloco/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Vehicle-species Digimon that evolved fromLocomon. It broke through the limits on the speeds sought by Locomon, and so it rushes about within theNetworkat super-speeds. It has an extremely strong competitive spirit and the personality of reckless types, and since its power is also incomparable, those who suffer Grand Locomon's assault are smashed to smithereens. Although Locomon was not able to run when there wasn’t any rails, when Grand Locomon is in a place where there aren't any rails, it is able to just produce rails to run on itself. Its Special Move is crashing into the opponent with its spiked wheel at speed (Destroyed Crash).Digimon Reference Book⇨ Englishロコモンが進化した乗物系デジモンの究極体。速さを求めたロコモンが限界を突破し、ネットワーク内を超スピードで駆け巡る。非常に競争心が強く、猪突猛進型の性格をしており、パワーも桁違いで、グランドロコモンの突撃を受けたものは木端微塵になってしまう。ロコモンの時にはレールが無いところでは走ることはできなかったが、グランドロコモンはレールが存在しない場所も、自らがレールを作り出し走ることができる。必殺技は超スピードでスパイク車輪を激突させる『デストロイドクラッシュ』。デジモン図鑑",
+        "ko": "로코몬 이 진화한 탈것계 디지몬 의 궁극체. 속도를 요구한 로코몬이 한계를 돌파해, 네트워크내를 초스피드로 뛰어 돌아다닌다. 매우 경쟁심이 강하고, 저돌 맹진형의 성격을 하고 있어, 파워도 현격한 차이로, 그랜드로코몬의 돌격을 받은 것은 산산조각이 되어 버린다. 로코몬때에는 레일이 없는 곳에서는 달릴 수 없었지만, 그랜드로코몬은 레일이 존재하지 않는 장소도 스스로가 레일(궤도)을 만들어 내 달릴 수 있다. 필살기는 초스피드로 스파이크 바퀴를 세차게 부딪치는 『디스트로이드 크래시』다."
+      },
+      "wikimon_url": "https://wikimon.net/Grand_Locomon"
+    },
+    {
+      "id": "zekegrey",
+      "name": "Zeke Greymon",
+      "name_jp": "Zeke Greymon",
+      "name_ko": "지크그레이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/zekegrey/frame1.gif",
+        "frame2": "sprites/zekegrey/frame2.gif"
+      },
+      "artwork": "sprites/zekegrey/artwork.jpg",
+      "lore": {
+        "en": "Zeke Greymon is a new form attained when the legendary Digimon bestowed \"Evolution\" upon aMetal Greymonthat sought perfect victory. Its body armor, bestowed by the legendary Digimon, is solid, virtual super-metal calledChrome Digizoid, and it was enhanced further to form a body of \"Gold Digizoid\", which emits a noble, golden radiance simply due to its dazzle. It is surprisingly lightweight for the great defensive ability it possesses, so its movements are more agile than one would imagine from its heavy-looking armor.Zeke Greymon's combat strength has high, all-round potential. It specializes in a strategy where it restrains the enemy with the \"Plasma Railgun\" on its right hand, while chopping them up in a single blow to their trunk with its \"Trident Fang\", and it deals with long-range or high-altitude enemies by shooting a high-power energy shot (Hyper Launcher). Also, when facing a large army, it burns most opponents to cinders with its \"Zeke Flame\", in which it spews hellfire out of its mouth, and when facing a formidable opponent, it slaughters them by maintaining a lowered stance while it becomes an arrow of shining light and charges at them, releasing the energy at point-blank range to atomize them (Final Strikes).Digimon Reference Book⇨ Englishジークグレイモンは完全なる勝利を求めたメタルグレイモンに伝説のデジモンたちが「進化」を与え手に入れた新たなる姿である。伝説のデジモンが与えた全身の装甲はクロンデジゾイドと呼ばれる硬度の仮想超金属であり、その装甲はさらに高みを得て“ゴールドデジゾイド”のボディとなり、まばゆいばかりに高貴なる黄金の輝きを放つ。防御力は絶大にして軽量で、重装甲に見えてその身のこなしは意外にも素早い。ジークグレイモンはオールラウンドに高いポテンシャルの戦闘力を有ている。右手の「プラズマレールガン」で牽制しつつ、「トライデントファング」で一撃の元に敵を切り刻む戦法を得意とし、遠距離や上空の敵には高威力のエネルギー弾を撃ち出す「ハイパーランチャー」で対応する。また大軍に対しては、口から吐き出す地獄の業火「ジークフレイム」が多くの敵を焼き尽くし、強敵に対しては姿勢を低く保ちながら自ら輝く光の矢となって突撃し、零距離でエネルギーを解放し目標を爆散する「ファイナルストライクス」で敵を屠る。デジモン図鑑",
+        "ko": "지크그레이몬은 완전한 승리를 원하는 메탈그레이몬 에게 전설의 디지몬들이 「진화」를 부여해 손에 넣은 새로운 모습이다. 전설의 디지몬이 준 전신을 덮은 갑옷은 크롬 디지조이드라고 불리는 단단한 가상 초금속이며, 이 갑옷은 더 높은 능력을 얻어 \" 골드 디지조이드 [1] \" 몸이 되었기에 눈부시기 그지없는 고귀한 황금빛을 발산한다. 절대적인 방어력에 갑옷이 아주 가벼워서 [2] 육중해 보이지만 생각보다 움직임이 재빠르다. 지크그레이몬은 전체적으로 잠재력이 높은 기술을 지녔다. 오른손의 『플라즈마 레일건 』으로 상대를 견제하면서 『트라이던트 팡』으로 한 방에 적을 난도질하는 전법이 주특기이며, 원거리나 상공에 있는 적에게는 엄청난 위력의 에너지탄을 쏘는 『하이퍼 런처』로 대응한다. 또한 군사의 수가 많을 때는 입에서 내뿜는 지옥 불 『지크 플레임』으로 많은 적을 몽땅 태우며, 강적과 싸울 때는 자세를 낮게 유지하면서 직접 눈부신 빛의 화살이 되어 돌격해, 영거리에서 에너지를 방출하여 목표를 폭발시키는 『파이널 스트라이크스』로 적을 물리친다."
+      },
+      "wikimon_url": "https://wikimon.net/Zeke_Greymon"
+    },
+    {
+      "id": "mugendra",
+      "name": "Mugendramon",
+      "name_jp": "Mugendramon",
+      "name_ko": "파워드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "18",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mugendra/frame1.gif",
+        "frame2": "sprites/mugendra/frame2.gif"
+      },
+      "artwork": "sprites/mugendra/artwork.jpg",
+      "lore": {
+        "en": "The Digital World's strongest Digimon, whose body is 100%full metal. It was built by synthesizing the parts of many Cyborg Digimon, and it is thought that all of the Cyborg Digimon produced so far were merelyprototypesfor the completion of Mugendramon. Its power is at a level that would overwhelm other Digimon, and it possesses an intellect which boasts incomparablethroughput, but it is a purely mechanical Digimon that does not possess its own will. Instead, someone planted a program containing evil intentions within theDigicoreat the center of its body, and Mugendramon is supplied with infinite power from that malice-filled Digicore. Its Special Move is superdreadnought-class energy waves fired from its two cannons (∞ Cannon).Digimon Reference Book⇨ English全身が１００％フルメタルのデジタルワールド最強のデジモン。数々のサイボーグ系デジモンのパーツを組み合わせて造られており、今まで製造されてきたサイボーグ系デジモンはムゲンドラモンを完成させるための試作型だったと思われる。他のデジモンを圧倒するほどのパワーと、桁違いの処理能力を誇る頭脳を持つが、自らの意思は持ち合わせていない純粋な機械デジモンである。そのかわり本体中枢にある電脳核（デジコア）に、何者かによって悪の意思が宿ったプログラムを植えつけられており、悪意に満ちた電脳核からは無限のパワーが供給されている。必殺技は２砲のキャノンから発射される超弩級のエネルギー波『∞（ムゲン）キャノン』。デジモン図鑑",
+        "ko": "전신이 100% 풀 메탈인 디지털 월드 최강의 디지몬. [4] [5] 수많은 사이보그계 디지몬들의 파츠를 조합해 만들어졌으며, 지금까지 제조되어 온 사이보그계 디지몬들은 파워드라몬을 완성시키기 위한 시작형이었다고 여겨진다. 다른 디지몬을 압도하는 파워와, 월등한 처리 능력을 자랑하는 두뇌를 지녔으나, 스스로의 의사는 가지지 못한 순수한 기계 디지몬이다. 대신 본체 중추에 있는 전뇌핵( 디지코어 )에, 누군가 에 의해 악한 의사가 깃든 프로그램이 심어져 있으며, 악의로 가득 찬 디지코어에선 무한한 파워가 공급되고 있다. 필살기는 2포의 캐논에서 발사되는 초대형 에너지파 ∞(무겐) 캐논."
+      },
+      "wikimon_url": "https://wikimon.net/Mugendramon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "haguru",
+      "to": "mach",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "haguru",
+      "to": "ballista",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "haguru",
+      "to": "mailbirdra",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "haguru",
+      "to": "rare",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "mach",
+      "to": "loaderlio",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rare",
+      "to": "loaderlio",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "ballista",
+      "to": "atlurballista",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "to": "atlurballista",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mach",
+      "to": "metalmame",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rare",
+      "to": "metalmame",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ballista",
+      "to": "loco",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "to": "loco",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mach",
+      "to": "rebelli",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rare",
+      "to": "rebelli",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ballista",
+      "to": "metalgrey_2010",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "to": "metalgrey_2010",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "loaderlio",
+      "to": "heavyleo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "metalmame",
+      "to": "heavyleo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rebelli",
+      "to": "heavyleo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "loaderlio",
+      "to": "grandloco",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "atlurballista",
+      "to": "grandloco",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "loco",
+      "to": "grandloco",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "loco",
+      "to": "zekegrey",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rebelli",
+      "to": "zekegrey",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "atlurballista",
+      "to": "mugendra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "metalmame",
+      "to": "mugendra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "bom",
+      "to": "missi",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "missi",
+      "to": "haguru",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "mach",
+      "to": "atlurballista",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "mach",
+      "to": "loco",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "mach",
+      "to": "metalgrey_2010",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "ballista",
+      "to": "loaderlio",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "ballista",
+      "to": "metalmame",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "ballista",
+      "to": "rebelli",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "to": "metalmame",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "to": "loaderlio",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "to": "rebelli",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "rare",
+      "to": "metalgrey_2010",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "rare",
+      "to": "loco",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "rare",
+      "to": "atlurballista",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "loaderlio",
+      "to": "zekegrey",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "loaderlio",
+      "to": "mugendra",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "atlurballista",
+      "to": "heavyleo",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "atlurballista",
+      "to": "zekegrey",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "metalmame",
+      "to": "grandloco",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "metalmame",
+      "to": "zekegrey",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "loco",
+      "to": "heavyleo",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "loco",
+      "to": "mugendra",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "rebelli",
+      "to": "grandloco",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "rebelli",
+      "to": "mugendra",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "metalgrey_2010",
+      "to": "mugendra",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_2010",
+      "to": "zekegrey",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_2010",
+      "to": "grandloco",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "metalgrey_2010",
+      "to": "heavyleo",
+      "conditions": {
+        "text": "Jogress with Vaccine Perfect"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "shout_x7",
+  "name": "Shoutmon X7",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shout_x7.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shout_x7.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shout_x7.jpg",
+  "appearances": [
+    {
+      "dim_id": "pulse",
+      "dim_name": "Pulsemon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "omegashout"
+      ],
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shoutmon X7",
+    "name_en": "Shoutmon X7",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "5800",
+      "hp": "6200",
+      "ap": "2100"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "omegashout",
+        "name": "Omega Shoutmon",
+        "conditions": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

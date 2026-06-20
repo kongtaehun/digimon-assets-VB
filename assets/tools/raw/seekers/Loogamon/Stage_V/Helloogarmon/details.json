@@ -1,0 +1,74 @@
+{
+  "id": "helloogar",
+  "name": "Helloogarmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/helloogar.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/helloogar.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/helloogar.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "loogar",
+        "tyrano",
+        "snatch"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Helloogarmon",
+    "name_en": "Helloogarmon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "4800",
+      "hp": "4000",
+      "ap": "1600"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "loogar",
+        "name": "Loogarmon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 8+ Battles, 30%+ Win Ratio"
+      },
+      {
+        "id": "tyrano",
+        "name": "Tyranomon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 8+ Battles, 30%+ Win Ratio"
+      },
+      {
+        "id": "snatch",
+        "name": "Snatchmon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 8+ Battles, 30%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "fenrilooga",
+        "name": "Fenriloogamon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "rasen_f",
+        "name": "Rasenmon: Fury Mode",
+        "conditions": "20+ PP, 2,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

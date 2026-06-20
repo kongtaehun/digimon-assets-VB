@@ -1,0 +1,1121 @@
+{
+  "schema_version": "1.0",
+  "id": "dwr",
+  "name": "D-3 White and Red",
+  "category": "anime",
+  "device": "VBBE",
+  "release": "JP: Oct 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_dwr.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "pururu",
+      "name": "Pururumon",
+      "name_jp": "Pururumon",
+      "name_ko": "푸르르몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/pururu/frame1.gif",
+        "frame2": "sprites/pururu/frame2.gif"
+      },
+      "artwork": "sprites/pururu/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon with a chubby body similar to silicone, it jiggles flabbily when it crawls forward. Both of its small fins are unexpectedly handy, but to be absolutely precise it is not yet able to fly. As it loves the smell of the sun, on days with good weather it lies sprawled on the lawn and smells the scent of grass with a sniff, immersing it in a good mood. If it gets in a pinch, it foams out acidic bubbles and covers the opponent in them, then seizes the opportunity to flee.Digimon Reference Book⇨ Englishポテっとした体はシリコンのようで、這うように前進するとタプタプとゆれるスライム型デジモン。小さい両ヒレは案外器用で、かゆい所にも手が届くがまだまだ飛ぶことはできない。お日様の匂いが大好きで、天気のいい日に芝生に寝そべりクンクンと草のにおいを嗅いで幸せな気分に浸っている。ピンチになると酸性の泡をブクブクと出し相手を泡だらけにして、その隙に逃げてしまう。デジモン図鑑",
+        "ko": "실리콘같이 부드러운 몸통에 기어가듯 나아가면 흔들흔들 찰랑거리는 슬라임형 디지몬. 작은 양 팔을 의외로 잘 다뤄, 가려운 곳에도 손이 닿지만 아직 날 수는 없다. 햇빛을 쬐는 것을 아주 좋아하고, 날씨가 좋은 날엔 잔디에 엎드려 풀향기를 맡으며 행복한 기분에 잠기곤 한다. 단 화나게 하거나 위협할 시 산성의 거품을 내뿜어 상대를 거품 투성이로 만들고, 그 틈에 도망쳐 버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Pururumon"
+    },
+    {
+      "id": "poro",
+      "name": "Poromon",
+      "name_jp": "Poromon",
+      "name_ko": "포로몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/poro/frame1.gif",
+        "frame2": "sprites/poro/frame2.gif"
+      },
+      "artwork": "sprites/poro/artwork.jpg",
+      "lore": {
+        "en": "A Small Bird Digimon that evolved fromPururumon, and can now fly at low altitudes. It has small feathers growing closely packed on its body, and unusually for a Baby Digimon, it has wings. Its most charming feature is the feather ornament attached to its head, so it maintains it intently. It has a fundamentally tidy personality, but because it cannot turn its neck(?) even if it wants to groom itself, it relies on its comrades. Its Signature Move \"Pororo Breeze\" is flapping its wings to raise a cloud of sand, then seizing the opportunity to flee when the opponent flinches.Digimon Reference Book⇨ Englishプルルモンが進化して、低空を飛べるようになった小鳥型デジモン。体に小さな羽毛がびっしり生えており、幼年期のデジモンにしては珍しく翼が付いている。チャームポイントは頭につけている羽飾りでお手入れには余念が無い。基本的に綺麗好きな性格だが、毛づくろいをしたくても首（？）が回らないので、仲間同士でやっている。得意技の『ポロロブリーズ』は小さな翼を羽ばたかせ、砂煙を起こして相手がひるんだ隙に逃げてしまう。デジモン図鑑",
+        "ko": "푸르르몬 이 진화하여 저공을 날 수 있게 된 아기새형 디지몬. 전신이 분홍색의 작은 깃털이 빽빽히 덮여 있으며, 유년기 디지몬들 중 드물게 날개가 있다. 매력 포인트는 머리에 달린 날개 장식으로 늘 손질하는데 신경쓰고 있다. 청결한 것을 좋아하여 몸단장을 하고 싶어도 목(?)이 돌아가지 않아서 동료끼리 해주고 있다. 특기인 '포로로 브리즈'는 작은 날개를 움직여서 모래 먼지를 일으키는 기술로 상대가 방심한 틈에 도망쳐 버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Poromon"
+    },
+    {
+      "id": "hawk",
+      "name": "Hawkmon",
+      "name_jp": "Hawkmon",
+      "name_ko": "호크몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5100",
+        "hp": "2900",
+        "ap": "950"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/hawk/frame1.gif",
+        "frame2": "sprites/hawk/frame2.gif"
+      },
+      "artwork": "sprites/hawk/artwork.jpg",
+      "lore": {
+        "en": "A very polite Bird Digimon that is always calm, cool, and collected. Similarly toV-mon, it is a descendant of a special species that flourished in ancient times, so it is able to borrow the power of the \"Digimental\" to pseudo-evolve to an Armor-level Digimon. Its Signature Move is violently pecking with its beak like awoodpecker(Beak Pecker). Its Special Move is using the feather ornament on its head like a boomerang (Feather Slash).Digimon Reference Book⇨ English非常に礼儀ただしく、いつも冷静沈着な鳥型デジモン。ブイモンと同じく、古代に栄えた特殊な種族の末裔で、“デジメンタル”の力を借りてアーマー体に擬似進化することができる。得意技はくちばしで啄木鳥のように激しい突付き攻撃をする『ビークペッカー』。必殺技は頭部の羽飾りをブーメランのように使う『フェザースラッシュ』。デジモン図鑑",
+        "ko": "매우 예의 바르고 항상 냉정침착한 새형 디지몬. 브이몬과 마찬가지로 고대에 번성했던 특수한 종족의 후예이며 \"디지멘탈\"의 힘을 빌려 아머체로 진화 할 수 있다. 특기는 부리에서 딱따구리처럼 세차게 찍어대는 공격을 하는 \"비크 팩커\". 필살기는 머리에 깃털 장식을 부메랑처럼 사용하는 \"페더 슬래시\"."
+      },
+      "wikimon_url": "https://wikimon.net/Hawkmon"
+    },
+    {
+      "id": "tail_c",
+      "name": "Tailmon (Child)",
+      "name_jp": "Tailmon (Child)",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "4900",
+        "hp": "3300",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/tail_c/frame1.gif",
+        "frame2": "sprites/tail_c/frame2.gif"
+      },
+      "artwork": "sprites/tail_c/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "worm",
+      "name": "Wormmon",
+      "name_jp": "Wormmon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "3900",
+        "hp": "3000",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/worm/frame1.gif",
+        "frame2": "sprites/worm/frame2.gif"
+      },
+      "artwork": "sprites/worm/artwork.jpg",
+      "lore": {
+        "en": "A Larva Digimon with a timid, cowardly personality. Just likeV-monand the others, it's a descendant of an ancient species, so it is able to perform special Armor evolutions, but since Wormmon is powerless when by itself, it can't possibly match up to larger Digimon. However, by Armor evolving with the power of theDigimentals, it is able to manifest unbelievable power. It is also said that, just as a fragile larva matures into a powerfulimago, Wormmon too will one day evolve into an Adult overflowing with power. It is unmistakably a Digimon that holds hidden potential for the future. Its Special Moves are spitting out the threads of a tough, adhesive net, completely restricting the opponent's movements (Nebaneba Net), and spitting out stiff threads that are as thin as a silk thread but as pointed and sharp as a needle (Silk Thread).Digimon Reference Book⇨ English気弱で臆病な性格の幼虫型デジモン。ブイモン等と同じ古代種族の末裔で、特殊なアーマー進化をすることができるが、単体でのワームモンは非力で、大型のデジモンには到底かなわない。しかし、デジメンタルの力でアーマー進化することで、信じられないようなパワーを発揮することができる。また、脆弱な幼虫が力強い成虫に成長するように、ワームモンもいつの日かパワー溢れる成熟期へと進化すると言われている。まさに未来への可能性を秘めているデジモンなのである。必殺技は粘着力の強い網状の糸を吐出し相手の動きを封じこめてしまう「ネバネバネット」と、絹糸のように細いが先端が尖った針の様に硬質な糸を吐出す『シルクスレッド』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wormmon"
+    },
+    {
+      "id": "ukko",
+      "name": "Ukkomon",
+      "name_jp": "Ukkomon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5150",
+        "hp": "3250",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/ukko/frame1.gif",
+        "frame2": "sprites/ukko/frame2.gif"
+      },
+      "artwork": "sprites/ukko/artwork.jpg",
+      "lore": {
+        "en": "A mythicalAncient SpeciesDigimon whose activity records remain in the ancientDigital World. Rumor has it that Ukkomon can grant the wishes of others, and it is said that because of this, many Digimon gathered around Ukkomon and flourished, forming villages. However, records of Ukkomon's activities were lost with the destruction of the ancient Digital World, and it is thought that it had become extinct.Its Special Moves are rotating its body like a spinning top and performing a ramming attack (Whirlpool Spin), and hijacking the consciousness of an opponent that meets its gaze (Liar Dream).Digimon Reference Book⇨ English古代デジタルワールドに活動記録が残されている幻の古代種デジモン。ウッコモンには他者の願いを叶えるという噂があり、そのためウッコモンの周りには多くのデジモンが集まり栄えて村ができたと云われている。しかし古代デジタルワールド大破壊とともにウッコモンの活動記録は途絶えており、絶滅したと考えられている。必殺技は、体を独楽のように回して体当たりする『ワールプールスピン』と、視線を合わせた相手の意識をジャックする『ライアードリーム』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ukkomon"
+    },
+    {
+      "id": "aquila",
+      "name": "Aquilamon",
+      "name_jp": "Aquilamon",
+      "name_ko": "아큐라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "3300",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/aquila/frame1.gif",
+        "frame2": "sprites/aquila/frame2.gif"
+      },
+      "artwork": "sprites/aquila/artwork.jpg",
+      "lore": {
+        "en": "A Giant Bird Digimon with two gigantic horns growing from its head. It is called the \"Great Eagle of the Desert\", and as it flies through the sky atMach speed, it possesses the eye strength to locate the opponent from a very great distance. The horns on its head, when it glides from a great height and charges the opponent, exhibit an immense might. Although there are many Bird-species Digimon with brutal personalities, Aquilamon respects decorum, and unconditionally abides by the orders given by the master it has pledged allegiance to. Its Special Moves are charging the opponent from the sky (Glide Horn), and firing off ring-shaped beams with a roar similar to thunder (Blast Laser).Digimon Reference Book⇨ English頭部から巨大な２本の角を生やした、巨鳥型デジモン。“砂漠の巨鷲”と呼ばれ、マッハのスピードで大空を飛び、遥か遠く離れた敵を見つけ出す眼力を持っている。頭部の角は、遥か上空から滑空して敵に突進する時に、絶大な威力を発揮する。鳥系デジモンは強暴な性格が多いが、アクィラモンは礼節を重んじ、忠誠を誓った主人の命令には絶対に従う。必殺技は上空から敵に突進する『グライドホーン』と雷鳴にも似た鳴声と共にリング状の光線を発射する『ブラストレーザー』。デジモン図鑑",
+        "ko": "머리 부분으로부터 거대한 2개의 뿔을 기른 거대새형 디지몬. \"사막의 거취\"로 불려 마하의 스피드로 넓은 하늘을 날아, 아득히 멀리 떨어진 적을 찾아내는 분별력을 가지고 있다. 머리의 뿔은, 아득히 상공으로부터 활공해 적에게 돌진할 때에, 절대적인 위력을 발휘한다. 조류형 디지몬은 난폭한 성격이 많지만, 아큐라몬은 예절을 존중하고 충성을 맹세한 주인의 명령에는 반드시 따른다. 필살기는 상공에서 적에게 돌진하는 『글라이드 혼』과 천둥과도 같은 울음 소리와 함께 고리 모양의 광선을 발사하는 『블래스트 레이저』."
+      },
+      "wikimon_url": "https://wikimon.net/Aquilamon"
+    },
+    {
+      "id": "tail",
+      "name": "Tailmon",
+      "name_jp": "Tailmon",
+      "name_ko": "가트몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5600",
+        "hp": "3500",
+        "ap": "1150"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/tail/frame1.gif",
+        "frame2": "sprites/tail/frame2.gif"
+      },
+      "artwork": "sprites/tail/artwork.jpg",
+      "lore": {
+        "en": "It has a very healthy curiosity, so it loves pranks. Although its body is small, it is a precious Holy-species Digimon, and its appearance does not match the true strength it possesses. It wears aHoly Ringon its tail, proof that it is a Holy-species, but if thisHoly Ringis lost, its power is decreased and it can no longer exhibit its original power. In order to defend itself, it wears long claws copied fromSaber Leomon's data. Its Special Moves are using its long claws and attacking the opponent (Neko Punch), and manipulating the enemy with a piercing glare (Cat's Eye). Those who suffer this glare will attack themselves.Digimon Reference Book⇨ English好奇心がとっても旺盛でイタズラ好き。体は小さいが貴重な神聖系のデジモンであり、見た目にそぐわない実力を持っている。神聖系の証であるホーリーリングを尻尾につけているが、このホーリーリングが外れてしまうと、パワーダウンしてしまい本来の力を発揮できなくなる。身を守るために、サーベルレオモンのデータをコピーした長い爪をつけている。必殺技は長い爪を使って相手を攻撃する『ネコパンチ』と、鋭い眼光で敵を操る『キャッツ・アイ』。この眼光を受けた者は、自分自身を攻撃してしまう。デジモン図鑑",
+        "ko": "호기심이 왕성하고 장난치는 것을 좋아한다. 몸집은 작지만 귀중한 신성계의 디지몬이며 외형과는 어울리지 않는 실력을 지니고 있다. 신성계의 증거인 홀리링 을 꼬리에 지니고 있지만, 이 홀리링이 빠져버리면 파워가 다운되어 본래의 힘을 발휘할 수 없게 된다. [2] 몸을 지키기 위해 샤벨레오몬 의 데이터를 복사한 긴 손톱을 달고 있다. 필살기는 긴 손톱을 사용해 상대를 공격하는 \"고양이 펀치\"와 매서운 눈빛으로 적을 조종하는 \"캣츠 아이\". 이 눈빛을 받은 자는 스스로를 공격하게 된다."
+      },
+      "wikimon_url": "https://wikimon.net/Tailmon"
+    },
+    {
+      "id": "sting",
+      "name": "Stingmon",
+      "name_jp": "Stingmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "5100",
+        "hp": "3800",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/sting/frame1.gif",
+        "frame2": "sprites/sting/frame2.gif"
+      },
+      "artwork": "sprites/sting/artwork.jpg",
+      "lore": {
+        "en": "An extremely unusual Insect Digimon with a humanoid form. It possesses nimble movements and a tough exoskeleton, defining traits of Insect Digimon. It excels in its abilities as an assassin, aiming for the opponent's vitals with its nimble movements and keen judgment, and specializes in attacks that silence the opponent with a single blow. It is highly intelligent and has great composure, along with a cool disposition. Its Special Move is a terrifying technique in which it skewers the opponent with the Spikes on both of its arms (Spiking Finish).Digimon Reference Book⇨ English人型の形態を持つ、非常に珍しい昆虫型デジモン。昆虫型デジモン特有の硬い外骨格と素早い動きをもっている。暗殺者としての能力に長けており、俊敏な身のこなしと的確な判断力で敵の急所を狙い、一撃で敵を沈黙させる攻撃を得意とする。いたって冷静で知性は高く、クールな性格の持ち主だ。必殺技は両腕のスパイクで敵を串刺しにする恐ろしい技『スパイキングフィニッシュ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Stingmon"
+    },
+    {
+      "id": "hols",
+      "name": "Holsmon",
+      "name_jp": "Holsmon",
+      "name_ko": "호루스몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5300",
+        "hp": "3200",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/hols/frame1.gif",
+        "frame2": "sprites/hols/frame2.gif"
+      },
+      "artwork": "sprites/hols/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Beast Digimon that evolved through the power of the \"Digimental of Love\". The \"Digimental of Love\" has the attribute of \"Wind\", and those that don this Digimental soar through the sky by flapping their wings like a gust of wind running through the air. In aerial combat, its speed and all of its attacks are superior to enemy Digimon. Its Special Moves are unleashing a shock wave from its wings (Mach Impulse) and spinning its body to generate a gigantic tornado (Tempest Wing). Its Signature Move is a cursed beam, fired from a sharp glance of its eyes (UdjatGaze).Digimon Reference Book⇨ English“愛情のデジメンタル”のパワーによって進化したアーマー体の獣型デジモン。“愛情のデジメンタル”は“風”の属性を持っており、このデジメンタルを身に付けたものは天空を駆け抜ける一陣の風のように翼をはばたかせ大空を舞う。空中での戦いにおいては、そのスピード、攻撃全てが、敵のデジモンの上をいく。必殺技は、翼から衝撃波をくりだす『マッハインパルス』と体を回転させて巨大な竜巻を起こす『テンペストウィング』。得意技は鋭い眼光から放たれる、呪縛の光線『ウジャトゲイズ』。デジモン図鑑",
+        "ko": "사랑의 디지멘탈의 파워에 의해서 진화한 아머체 의 짐승형 디지몬. \"사랑의 디지멘탈\"은 \"바람\"의 속성을 가지고 있어, 이 디지멘탈을 몸에 두른 자는 천공을 질주하는 하나의 바람과 같이 날개를 펄럭이며 대공을 춤춘다. 공중에서의 싸움에 대해서는, 그 스피드, 공격 모두가, 적 디지몬을 앞선다. 필살기는 날개에서 충격파를 내보내는 『마하 임펄스 [3] 』와 몸을 회전시켜 거대한 회오리를 일으키는 『템페스트 윙 [4] 』, 날카로운 눈빛에서 발사되는 주박의 광선 『우자트 게이즈 [5] 』다. 이름의 유래는 이집트의 신 호루스 로 보이며 외모의 모티브는 그리폰 으로 보여진다."
+      },
+      "wikimon_url": "https://wikimon.net/Holsmon"
+    },
+    {
+      "id": "neferti",
+      "name": "Nefertimon",
+      "name_jp": "Nefertimon",
+      "name_ko": "네페르티몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "3400",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/neferti/frame1.gif",
+        "frame2": "sprites/neferti/frame2.gif"
+      },
+      "artwork": "sprites/neferti/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Holy Beast Digimon that evolved through the power of the \"Digimental of Light\". The \"Digimental of Light\" has the attribute of \"Light\", and those that don this Digimental will have the ability to purify darkness with the intense power of light. Even thoughTailmonis not a descendant of an ancient species, it became able to Armor evolve by awakening the special abilities that lay dormant within its composition data. Its Special Moves are producing a red, high-temperature beam from the ornament on its brow (Curse of Queen), and summoning amegalithwith ancient inscriptions engraved inDigimojito attack the enemy (Rosetta Stone).Digimon Reference Book⇨ English“光のデジメンタル”のパワーによって進化した、アーマー体の聖獣型デジモン。“光のデジメンタル”は“光”の属性を持っており、このデジメンタルを身に付けたものは強力な光の力で闇を浄化する能力を持てるようになる。古代種族の末裔でないテイルモンも、体を構成するデータの中に眠っていた特殊能力に目覚めアーマー進化できるようになった。必殺技は額の飾りから高熱の赤い光線を出す『カースオブクィーン』と、デジ文字が刻まれた古代碑文の巨石を召還して敵を攻撃する『ロゼッタストーン』。デジモン図鑑",
+        "ko": "\"빛의 디지멘탈\"의 파워에 의해 진화한 아머체 성수형 디지몬. \"빛의 디지멘탈\"은 \"빛\"의 특성을 가지고 있으며, 이 디지멘탈을 몸에 두른 존재는 강력한 빛의 힘으로 어둠을 정화하는 능력을 갖게 된다. 고대종족의 후예가 아닌 가트몬 도 몸을 구성하는 데이터 속에 잠들어 있던 특수능력에 각성해 아머진화할 수 있게 되었다. 필살기는 이마의 장식에서 고열 빨간 광선을내는 \"커스 오브 퀸 [2] \"과 디지털 문자가 새겨진 고대 비문의 거석을 소환해 적을 공격하는 \"로제타 스톤 [3] \". 피라미드 를 지키는 이집트 스핑크스 의 모습을 하고 있으며, 하피몬 과는 라이벌이자 단짝이라는 설정이 있다. 생김새는 딱 보면 알겠지만 가트몬 이 거대화하여 마스크와 상의 갑옷, 팔목 보호대를 착용하고 등에 날개가 달린 모습. 가트몬 특유의 두꺼운 장갑 같은 앞발 [4] 과 꼬리가 대놓고 보인다."
+      },
+      "wikimon_url": "https://wikimon.net/Nefertimon"
+    },
+    {
+      "id": "shuri",
+      "name": "Shurimon",
+      "name_jp": "Shurimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5200",
+        "hp": "3100",
+        "ap": "1150"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/shuri/frame1.gif",
+        "frame2": "sprites/shuri/frame2.gif"
+      },
+      "artwork": "sprites/shuri/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Mutation Digimon that evolved through the power of the \"Digimental of Purity\". The \"Digimental of Purity\" has the attribute of \"Plant\", and those that don this Digimental have the ability to blend in with nature, conceal themselves within the wind like leaves fluttering, and land precise attacks by emerging from the enemy's blind spots. It can be said that its appearance is definitely that of a ninja. Its Signature Move is spinning the shurikens at the tips of its extendable limbs to attack the enemy (Momiji Oroshi). Its Special Move is throwing the big shuriken on its back at the opponent from high in the air (Kusanagi). (\"Kusanagi\" and \"Momiji Oroshi\" are also the names of its shuriken.)Digimon Reference Book⇨ English“純真のデジメンタル”のパワーによって進化したアーマー体の突然変異型デジモン。“純真のデジメンタル”は“草木”の属性を持っており、このデジメンタルを身に付けたものは自然に同化する能力をもち、木の葉が舞うごとく風にかくれ、敵の死角よりあらわれて的確な攻撃を叩き込む。その姿は、まさに忍者といえる。得意技は伸びる手足の先の手裏剣を回転させ敵を攻撃する『紅葉おろし』。必殺技は、背中の大手裏剣を空中高くから敵に投げつける『草薙』。（『草薙』と『紅葉おろし』は手裏剣の名前でもある）デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shurimon"
+    },
+    {
+      "id": "silphy",
+      "name": "Silphymon",
+      "name_jp": "Silphymon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4800",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/silphy/frame1.gif",
+        "frame2": "sprites/silphy/frame2.gif"
+      },
+      "artwork": "sprites/silphy/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon whichJogress-evolved fromAquilamonandTailmon. It possesses tenacious leg strength, and its leaping power is said to reach great heights. Also, it is able to fly about by spreading both of its arms and soaring like agliderafter leaping high into the sky. Because it processes the information detected by the radar on its ears as images, and transmits it to thehead-mounted displayequipped to its head, it is able to accurately find the opponent regardless of day and night. Its Special Moves are firing off energy shots while extending both of its arms ahead of itself (Top Gun), and gliding at super-speed from the sky above to crash a shock wave into the opponent (Dual Sonic).Digimon Reference Book⇨ Englishアクィラモンとテイルモンがジョグレス進化した獣人型デジモン。強靭な脚力を持ち、その跳躍力は遥か上空にまで達すると言われている。また、上空高くまで飛び上がった後、両腕を広げグライダーの様に滑空し、飛び回ることができる。両耳の部分にあるレーダーで捕えた情報を画像処理し、頭部に装着されているヘッドマウントディスプレイに表示されるため、昼夜関係なく敵を正確に捉えることができる。必殺技は両腕を前に突き出しながら、エネルギー弾を打ち出す『トップガン』と、上空から超スピードで滑空して、衝撃波を敵にぶつける『デュアルソニック』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Silphymon"
+    },
+    {
+      "id": "angewo",
+      "name": "Angewomon",
+      "name_jp": "Angewomon",
+      "name_ko": "엔젤우몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6000",
+        "hp": "3900",
+        "ap": "1350"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/angewo/frame1.gif",
+        "frame2": "sprites/angewo/frame2.gif"
+      },
+      "artwork": "sprites/angewo/artwork.jpg",
+      "lore": {
+        "en": "An Archangel Digimon with the appearance of a beautiful woman. Although it was previously classified as an Angel-type, it was confirmed as an Archangel-type because of the greatness of its abilities. As their trait, Adult angels have six wings, and Perfect angels have eight wings. Although its personality is extremely gentle, it cannot forgive those who are crooked or evil, and it won't stay its hand from attacking until the opponent converts. Because of its soul and power, it is said to be a being like a goddess of theDigital World. The powerful lightning-strike of its Special Move \"Holy Arrow\" is also known as \"Heaven's Punishment\", and its deadly ray of light \"Heaven's Charm\", which is packed with beauty and affection, demonstrates its strongest efficacy against the evil powers of Digimon.Digimon Reference Book⇨ English美しい女性の姿をした大天使型デジモン。以前は天使型と分類されていたが、その能力の高さから大天使型と判明した。特徴として、成熟期の天使は６枚の羽を持ち、完全体の天使は８枚の羽を持っている。性格はいたって穏やかだが、まがったことや悪は許しておけず、相手が改心するまで攻撃の手を緩めることはない。その精神とパワーから、デジタルワールドの女神的存在と言われている。必殺技の強力な雷撃『ホーリーアロー』は別名「天誅」ともいわれ、また、美しさと優しさの詰まった必殺光線『ヘブンズチャーム』は、デジモンの悪しき力が強いほど効果を発揮する。デジモン図鑑",
+        "ko": "아름다운 여성의 모습을 한 대천사형 디지몬. 이전에는 천사형으로 분류되고 있었지만, 그 높은 능력에 따라 대천사형으로 판명되었다. 특징으로서 성숙기의 천사는 6장의 날개를 가지고 있지만 완전체의 천사는 8장의 날개를 가지고 있다. 성격은 매우 온화하지만 비뚤어진 일이나 악은 허용하지 않고, 상대가 마음을 고쳐먹을 때까지 공격을 그만 두지 않는다. 그 정신과 힘에서 디지털 월드 의 여신 적 존재로 불린다. 필살기인 강력한 뇌격 「홀리 애로우」는 일명 「천주」라고도 하며, 아름다움과 상냥함이 가득 찬 필살광선 「헤븐즈 참」은 디지몬의 악한 힘이 강할수록 효과를 발휘한다. [1] 2."
+      },
+      "wikimon_url": "https://wikimon.net/Angewomon"
+    },
+    {
+      "id": "dinobee",
+      "name": "Dinobeemon",
+      "name_jp": "Dinobeemon",
+      "name_ko": "다이노몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5900",
+        "hp": "4900",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/dinobee/frame1.gif",
+        "frame2": "sprites/dinobee/frame2.gif"
+      },
+      "artwork": "sprites/dinobee/artwork.jpg",
+      "lore": {
+        "en": "A Mutation Digimon whichJogress-evolved fromStingmonandXV-mon. Achimeraof a dragon and an insect, this Digimon possesses the nameTerrible Bee. It is hard to classify its species as either a Dragon type or an Insect type, but its Insect nature is especially pronounced. It flies through the sky with its four wings and accurately perceives the opponent with the compound eyes on its head, enabling it to choke the life out of its opponent without fail. Also, Dinobeemon possesses a considerably ferocious personality. Its Special Move is theDance of Hellin which its nimble movements leave behind afterimages while it chops up the opponent (Hell Masquerade).Digimon Reference Book⇨ Englishスティングモンとエクスブイモンがジョグレスして進化した突然変異型デジモン。竜と昆虫のキメラ（合成獣）であり、“恐ろしい蜂”の名をもつ。竜型とも昆虫型とも区別しにくい種であるが、昆虫の性質が色濃く出ている。４枚の羽で上空を飛び、頭部の複眼で敵を的確に捉え、確実に敵の息の根を止める。また、ディノビーモンはかなり凶暴な性格の持ち主である。必殺技は素早い動きで残像を残しながら敵を切り刻む“地獄の舞踏”『ヘルマスカレード』。デジモン図鑑",
+        "ko": "스팅몬 과 엑스브이몬 이 조그레스 진화 한 돌연변이형 디지몬. [1] 용 과 곤충 의 키메라 (합성짐승)이며 “무서운 벌 ”의 이름을 가지는 디지몬. [2] 용형과도 곤충형과도 구별하기 어려운 종이지만 곤충의 성질이 현저하게 나와 있다. 4매의 날개로 상공을 날아 머리 부분의 복안으로 적을 정확하게 파악해 확실히 적의 숨통을 끊는다. 또, 다이노몬은 꽤 흉포한 성격의 소유자이다. 필살기는 재빠른 움직임으로 잔상을 남기며 적을 잘게 쪼개는 \"지옥의 무도\" 『헬 마스커레이드』."
+      },
+      "wikimon_url": "https://wikimon.net/Dinobeemon"
+    },
+    {
+      "id": "mummy",
+      "name": "Mummymon",
+      "name_jp": "Mummymon",
+      "name_ko": "미이라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5600",
+        "hp": "4900",
+        "ap": "1450"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/mummy/frame1.gif",
+        "frame2": "sprites/mummy/frame2.gif"
+      },
+      "artwork": "sprites/mummy/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon whose whole body is wrapped in bandages in the manner of an Egyptian mummy. It is also known as the \"Necromancer\" due to its summoning and manipulation of the reluctant souls (residual data) of annihilated Digimon. What it's thinking is difficult to understand because it is taciturn and its facial expressions are concealed, but it is a dangerous being that if attacked will brandish its weapon and completely beat down the opponent, and if cornered will start randomly firing its cherished gun, \"Obelisk\". Its Signature Move is coiling the bandages on both of its arms around the opponent, like a snake (Snake Bandage). Its Special Move is summoning ghosts to drive its opponent into maddened death (Necrophobia).Digimon Reference Book⇨ Englishエジプトのミイラの様な全身包帯巻きのアンデッド型デジモン。志半ばで消滅したデジモンの霊（残留データ）を召喚し操るところから別名「死霊使い（ネクロマンサー）」と呼ばれている。無口で表情が見えないところから何を考えているか分かりづらいが、攻撃されると武器を振り回し徹底的に敵を叩きのめし、追い詰められると愛用の銃「オベリスク」を乱射するす危険な存在である。得意技は両腕の包帯が蛇のように伸びて敵を締め付ける『スネークバンデージ』。必殺技は死霊を呼び出し敵を狂死させる『ネクロフォビア』。デジモン図鑑",
+        "ko": "이집트의 미라처럼 전신에 붕대를 감은 언데드형 디지몬. 수명이 남은 채 소멸한 디지몬의 영혼(잔여 데이터)을 소환해 조종하기 때문에 일명 「사령사(네크로맨서)」라고 불리운다. 과묵하고 표정이 보이지 않기 때문에 무슨 생각을 하는지 알기 어렵지만 [5] 공격을 당하면 무기를 휘둘러 철저하게 적을 때려눕히고, 궁지에 몰리면 애용하는 총기 오벨리스크를 난사하는 위험한 존재다. 특기는 양 팔의 붕대가 뱀처럼 뻗어나가 적을 옥죄는 스네이크 밴디지 [6] , 필살기는 사령을 불러내 적을 미쳐 죽게 하는 네크로포비아 [7] ."
+      },
+      "wikimon_url": "https://wikimon.net/Mummymon"
+    },
+    {
+      "id": "chimaira",
+      "name": "Chimairamon",
+      "name_jp": "Chimairamon",
+      "name_ko": "키메라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6100",
+        "hp": "5100",
+        "ap": "1700"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/chimaira/frame1.gif",
+        "frame2": "sprites/chimaira/frame2.gif"
+      },
+      "artwork": "sprites/chimaira/artwork.jpg",
+      "lore": {
+        "en": "A Composite Digimon for which each part that composes its whole, such as its arms, legs, body, and tail, was put together by synthesizing various Digimon. How this kind of synthesis was performed is shrouded in mystery. In contrast toMugendramon, who was synthesized from the metal parts of several varieties of Digimon, it was combined from organic parts, and whether it is Mugendramon'sprototype, or it was built to use against Mugendramon, is still uncertain. However, the one thing that is known is that, because of Chimairamon's terrifying combat instinct, it is nothing but a powerful force for destruction. The deadly heat ray it emanates from its four arms is \"Heat Viper\". Getting hit by this heat ray is like Chimairamon's curse, a terrifying technique which is cruelly dispersed in every direction.Digimon Reference Book⇨ English手、足、体、尾など全体を構成する各パーツが、様々なデジモンの合成で組み合わされ創られている合成型デジモン。何故このような合成が行われたのか、それは謎に包まれている。数種のデジモンのメタルパーツを合成したムゲンドラモンに対し、生身のパーツで組み合わされており、ムゲンドラモンの試作型なのか、対ムゲンドラモン用に造られたデジモンなのか、その真相は未だ解明されていない。ただ一つだけ分かっていることは、キメラモンの恐るべき闘争本能、そして強大な破壊力だけである。四本の腕から放出される、死の熱線『ヒート・バイパー』。この熱線を受けたものはキメラモンの呪いのごとく、見るも無残にバラバラに四散してしまう恐ろしい技であるデジモン図鑑",
+        "ko": "팔, 다리, 몸, 꼬리 등 전신을 구성하는 각 부위가 여러 가지 디지몬을 조합해 만들어진 합성형 디지몬. 왜 합성을 했는지 그것은 수수께끼에 싸여 있다. 여러 디지몬의 금속 파트를 합성한 파워드라몬 과는 달리 생체 파트로 짜맞춰져 파워드라몬의 시작형인가, 대파워드라몬용으로 만들어진 디지몬인가, 그 진상은 아직도 해명되지 않았다. 단 한 가지 알 수 있는 것은 키메라몬의 무서운 투쟁 본능, 그리고 강대한 파괴력 뿐이다. 필살기는 4개의 팔에서 방출되는 죽음의 열선, \"히트 바이퍼\" [3] . 이 열선을 받은 것은 키메라몬의 저주에 걸린 것처럼, 보는 것도 끔찍하게 뿔뿔이 흩어져 산산조각나는 무서운 기술이다. 키메라몬의 존재는 인간이 디지털 월드에 저지른 죄악 중에서도 금기의 영역을 어긴 것으로, 각 부위는 원본을 능가해, 결과적으로 그 전투력은 파일섬에서도 최강자였던 디지타몬 에 필적한다고 한다. [4] 파워 디지몬에서 드러난 부위들은 그레이몬 의 몸 & 턱, 캅테리몬 의 투구 & 이빨, 가루몬 의 뒷다리, 모노크로몬 의 꼬리, 엔젤몬 & 에어드라몬 의 날개, 스컬그레이몬 의 오른팔, 쿠가몬 의 왼팔, 그리고 데블몬 의 양팔, 메탈그레이몬 [5] [6] 의 갈기 & 눈 [7] 으로 이루어져 있다. 이 디지몬들은 카이저가 대면하기도 했으며 초기 디지털 몬스터에 수록된 디지몬들이다. 카이저를 배신하고 위협하며 매그너몬과 결투를 벌일 때 합체한 10마리 디지몬들의 목소리가 섞여서 나온다."
+      },
+      "wikimon_url": "https://wikimon.net/Chimairamon"
+    },
+    {
+      "id": "valkyri",
+      "name": "Valkyrimon",
+      "name_jp": "Valkyrimon",
+      "name_ko": "발키리몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "5900",
+        "ap": "2050"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/valkyri/frame1.gif",
+        "frame2": "sprites/valkyri/frame2.gif"
+      },
+      "artwork": "sprites/valkyri/artwork.jpg",
+      "lore": {
+        "en": "A Warrior Digimon of Norse mythology. It is accompanied by the golden bird \"Freyja\", which informs it if danger approaches. Also, it is said that it produces an aurora from the shining armor it wears, which resurrects the data of heroes that have fallen in battle, and returns them to a newDigitama. It is the possessor of such speed that it shows up like a gale, then slashes at the opponent with a swiftness too quick to catch with the eyes. Its Special Moves are a cursed,absolute zerosword that slashes at and freezes the opponent, bringing their vital functions to a halt (Fenrir Sword), and an unerring arrow (Aurvandil no Ya).Valkyrimon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Mr. Naohisa Tamura fromChiba prefecture.Digimon Reference Book⇨ English北欧神話にも登場する戦士型デジモン。黄金の鳥「フレイア」をつれており、身に危険が迫ると知らせてくれる。また、身につけている輝く鎧からオーロラを発生させ、戦いで敗れた勇者のデータを再生し、新しいデジタマへと還元すると伝えられている。疾風のように現れて、目にも止まらぬ速さで敵を切りつけるスピードの持ち主でもある。必殺技は斬りつけると相手が凍り付き、生命活動が停止してしまう絶対零度の魔剣『フェンリルソード』と、百発百中の矢『アウルヴァンディルの矢』。※ヴァルキリモンは「デジモンウェブドット絵コンテスト」で千葉県の「田村直久」さんのデジモンが入賞し採用されたものです。デジモン図鑑",
+        "ko": "북유럽 신화 에도 등장하는 전사형 디지몬. 황금의 새 「 프레이야 」를 데리고 있어 위기의 순간이 닥치면 알려준다. 또한, 몸에 걸친 빛나는 갑옷에서 오라를 발생시켜, 전쟁에서 죽어간 용자의 데이터를 살려서 새로운 디지몬알 로 되돌린다고 전해진다. 질풍과 같이 나타나, 눈에 보이지 않는 빠른 속도로 적을 베어버린다. 필살기는 베어 버리면 상대가 얼어붙어서 생명 활동이 멈춰버리는 절대 영도의 마검 『펜니르 소드』와 백발백중의 화살 『아우르반딜의 화살』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Valkyrimon"
+    },
+    {
+      "id": "holydra",
+      "name": "Holydramon",
+      "name_jp": "Holydramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6400",
+        "hp": "6000",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/holydra/frame1.gif",
+        "frame2": "sprites/holydra/frame2.gif"
+      },
+      "artwork": "sprites/holydra/artwork.jpg",
+      "lore": {
+        "en": "The ultimate form of god beast Digimon. Its heroic appearance is reminiscent of a ruler of the sky. There are few who have seen its appearance, and it has not even been entirely confirmed where it usually is. However, it is said that it suddenly appeared out of nowhere once when a gigantic evil energy was generated in theDigital World, and laid waste to the evil with its vast power. Its Special Move is striking the opponent with the light energy of all justice (Holy Flame). Those who suffer this technique have their forms instantaneously erased.Digimon Reference Book⇨ English神獣デジモンの究極の形態。その雄々しい姿は空の王者を思わせる。その姿を見た者は少なく、普段はどこにいるのかさえ全く判明していない。しかし、ひとたびデジタルワールドに巨大な悪のエネルギーが発生するとどこからともなく現れ、その巨大な力で悪を無に帰すと言われている。必殺技は全ての正義の光エネルギーを相手にぶつける『ホーリーフレイム』。この技を受けた者は一瞬で姿をかき消される。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Holydramon"
+    },
+    {
+      "id": "imperialdra_f",
+      "name": "Imperialdramon: Fighter Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "5800",
+        "ap": "2000"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A form of the Ancient Dragon DigimonImperialdramon: Dragon Modethat liberated all of its power, changing form into the legendaryFighter Mode. It is an ultimate Digimon that acquired a great intellect by changing from the difficult-to-controlDragon Modeto a human form. It is said that the power to destroy a planet dwells in its attacks. Its Special Moves are the \"Positron Laser\" equipped to its right arm, and inserting thePositron Laserinto the dragon-face on its chest, then emitting all of its body's energy as a destructive energy wave (Giga Death). Its power is ten times that ofDragon Mode's \"Mega Death\". Also, when it awakens to perfect justice, it is able to transform into an even furtherMode.Digimon Reference Book⇨ English古代竜型デジモンのインペリアルドラモン：ドラゴンモードが全てのパワーを開放し、伝説の竜戦士（ファイターモード）へと形態を変化させた姿。制御の難しかったドラゴンモードから、人型になることで高い知性を身につけた究極のデジモンである。その攻撃は惑星をも破壊するだけのパワーが宿っていると言われている。必殺技は右腕に装着した『ポジトロンレーザー』とポジトロンレーザーを胸部の竜顔にはめ込み、全身のエネルギーを放射する破壊のエネルギー波『ギガデス』。その威力はドラゴンモードの『メガデス』の十倍の威力を持っている。また、完全なる正義に目覚めたとき更なる別モードになることができると言われている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Imperialdramon:_Fighter_Mode"
+    },
+    {
+      "id": "imperialdra_p",
+      "name": "Imperialdramon: Paladin Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6400",
+        "hp": "5500",
+        "ap": "2200"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A form of the Ancient Dragon Warrior DigimonImperialdramon: Fighter Modethat acquired the power of the holy knightOmegamon, powering up and changing form into a legendary holy knight (Paladin Mode). As the final, strongest form ofImperialdramonthat was told of since ancient times, it descended in a time of great disruption in the ancient Digital World, and rescued the world from complete collapse. However, all of the details of that era are a mystery, and if research into Digimon and the Digital World progresses, it is likely that they will eventually be clarified. Its Special Move is cutting the opponent in two with a single stroke of its ultimate \"Omega Blade\" sword, resetting and clearing their configuration data.Digimon Reference Book⇨ English古代竜戦士型デジモンのインペリアルドラモン：ファイターモードが、聖騎士オメガモンのパワーを得て、パワーアップし伝説の聖騎士（パラディンモード）へと形態を変化させた姿。これが古より伝わるインペリアルドラモンの最終最強形態で、古代デジタルワールドの大破壊の時に降臨し、世界を完全な崩壊から救った。しかし、その頃の詳細なことは一切謎であり、いずれデジモンやデジタルワールドの研究が進めば解明されるであろう。必殺技は究極剣『オメガブレード』で敵を一刀両断し、構成データを初期化して無にしてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Imperialdramon:_Paladin_Mode"
+    },
+    {
+      "id": "armage",
+      "name": "Armagemon",
+      "name_jp": "Armagemon",
+      "name_ko": "아마게몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6700",
+        "hp": "5800",
+        "ap": "2150"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/armage/frame1.gif",
+        "frame2": "sprites/armage/frame2.gif"
+      },
+      "artwork": "sprites/armage/artwork.jpg",
+      "lore": {
+        "en": "A Super-Ultimate Digimon that was born whenDiablomon's Babies fused in large quantities, causing a mutation. Diablomon had the ability to make many copies of itself, but they were characterized by having lesser abilities than the original possessed. However, by producing Babies in large quantities and then fusing them, it did not disperse its abilities, but instead was able to attain power greater than Diablomon by condensing them into one being. Also,Diablomon-speciesDigimon are special Digimon that are affiliated with neither light nor darkness. Its Special Moves are firing energy shells from its back into the sky, which fall like rain as scattered beams (Black Rain), and a destructive energy wave emitted from its gaping maw (Ultimate Flare).Digimon Reference Book⇨ Englishディアボロモンの幼年期が大量に融合し、突然変異を起こし誕生した超究極体のデジモン。ディアボロモンは自らを大量にコピーする能力を持っていたが、それでは本来持っている能力を下げてしまう特性があった。しかし、幼年期を大量に発生させ融合させることで、能力を分散させるのではなく、１個体に凝縮させることでディアボロモン以上のパワーを得ることができた。また、ディアボロモン系デジモンは光にも闇にも属さない特殊なデジモンである。必殺技は背部から上空にエネルギー弾を放ち、四散したビームを雨の様に降らせる『ブラックレイン』と、大きく開けた口から放射する破壊のエネルギー波『アルティメットフレア』。デジモン図鑑",
+        "ko": "디아블로몬 의 유년기 가 대량으로 융합해, 돌연변이를 일으켜 탄생한 초궁극체 디지몬 . [2] 디아블로몬은 스스로를 대량으로 카피하는 능력을 가지고 있지만, 그러면 본래 가지고 있는 능력을 다운시키는 특성이 있었다. 그러나, 아마게몬은 유년기를 대량으로 발생시켜 융합시키는 것으로, 능력을 분산시키는 것이 아니라, 한 개체에 응축시키는 것으로 디아블로몬 이상의 파워를 얻을 수 있었다. 또, 디아블로몬 계열의 디지몬은 빛에도 어둠에도 속하지 않는 특수한 디지몬이다. 필살기는 등 뒤에서 상공으로 에너지탄을 발사해, 수많은 빔을 비와 같이 내리게 하는 \"블랙 레인\"과 크게 연 입으로부터 쏘는 파괴의 에너지파 \"얼티밋 플레어\". [3] 디지털 몬스터 카드 게임 Bo-430: 대량의 쿠라몬들이 융합하여 초월적인 힘을 발휘! Bo-669: 궁극의 파괴로 세계를 유린하는 사악의 최종 결전체!"
+      },
+      "wikimon_url": "https://wikimon.net/Armagemon"
+    },
+    {
+      "id": "bigukko",
+      "name": "Big Ukkomon",
+      "name_jp": "Big Ukkomon",
+      "name_ko": "빅웃코몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "6100",
+        "ap": "2200"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/bigukko/frame1.gif",
+        "frame2": "sprites/bigukko/frame2.gif"
+      },
+      "artwork": "sprites/bigukko/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that is thought to have appeared the moment the ancientDigital Worldwas destroyed. It is said that it sacrificed its own life to summon aDigitamafrom the sorrow of the Digimon that disappeared one after another as a result of the destruction. However, there are no records of whether this act had been accomplished or not. Although the existence of Ultimates known as the legendaryTen Warriorshas been documented during the era of the ancient Digital World, it is presumed that Big Ukkomon also possessed an amount of data equivalent to an Ultimate, but it has not been possible to verify this.Its Special Move is swinging its countless, supermassive tentacles, crushing and gouging targets over a vast range (Violent Punisher).Digimon Reference Book⇨ English古代デジタルワールドの大破壊が起きた刹那に出現したと思われるデジモン。大破壊によって次々に消えゆくデジモンの悲しみから、自らの生命を犠牲にしデジタマを召喚した姿と言われている。しかしその行為が成し遂げられたかどうかの記録は残されていない。古代デジタルワールド期に究極体の存在は伝説の十闘士が記録されているが、ビッグウッコモンも究極体同等のデータ量だったのではと推定されるがそれを実証することは叶わない。必殺技は、無数に振るわれる超質量の触手が目標を広範囲に叩き潰し、抉り取る『ヴァイオレントパニッシャー』。デジモン図鑑",
+        "ko": "고대 디지털 월드 의 대파괴가 일어난 찰나에 출현한 것으로 보이는 디지몬. 대파괴에 의해 차례차례 사라지는 디지몬의 슬픔으로부터, 자신의 생명을 희생해 디지몬알 을 소환한 모습이라고 한다. 그러나 그 행위가 완수되었는지에 대한 기록은 남아 있지 않다. 고대 디지털 월드기에 궁극체 의 존재는 전설의 10투사 가 기록되어 있는데, 빅웃코몬도 궁극체와 동등한 데이터 양이었을 것으로 추정되나 그것을 실증할 수는 없다. 필살기는, 무수히 휘두르는 초질량의 촉수가 목표를 광범위하게 때려눕히고, 도려내는 \"바이올런트 퍼니셔\"."
+      },
+      "wikimon_url": "https://wikimon.net/Big_Ukkomon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "poro",
+      "to": "hawk",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "poro",
+      "to": "tail_c",
+      "conditions": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "poro",
+      "to": "worm",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "poro",
+      "to": "ukko",
+      "conditions": {
+        "PP": "7+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "hawk",
+      "to": "aquila",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "worm",
+      "to": "sting",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hawk",
+      "to": "hols",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "worm",
+      "to": "hols",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "worm",
+      "to": "shuri",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hawk",
+      "to": "shuri",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tail",
+      "to": "angewo",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "angewo",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "neferti",
+      "to": "angewo",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hols",
+      "to": "angewo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "aquila",
+      "to": "dinobee",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "dinobee",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "shuri",
+      "to": "dinobee",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "hols",
+      "to": "dinobee",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tail",
+      "to": "mummy",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "shuri",
+      "to": "mummy",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "neferti",
+      "to": "chimaira",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "aquila",
+      "to": "chimaira",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "silphy",
+      "to": "valkyri",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "angewo",
+      "to": "valkyri",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "chimaira",
+      "to": "valkyri",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "silphy",
+      "to": "holydra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "angewo",
+      "to": "holydra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "holydra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "imperialdra_f",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "imperialdra_f",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "chimaira",
+      "to": "imperialdra_f",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "angewo",
+      "to": "imperialdra_p",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "imperialdra_p",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "imperialdra_p",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "armage",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "silphy",
+      "to": "armage",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "chimaira",
+      "to": "armage",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "ukkoSkipV",
+      "to": "bigukko",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "pururu",
+      "to": "poro",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "tail_c",
+      "to": "aquila",
+      "conditions": {
+        "text": "12+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    },
+    {
+      "from": "tail_c",
+      "to": "tail",
+      "conditions": {
+        "text": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "tail_c",
+      "to": "neferti",
+      "conditions": {
+        "text": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "ukko",
+      "to": "bigukko",
+      "conditions": {
+        "text": "Stage 12 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio (Evolution takes 24 hours)"
+      }
+    },
+    {
+      "from": "aquila",
+      "to": "silphy",
+      "conditions": {
+        "text": "Jogress with Tailmon  from the D-3 White and Red BE Memory Dim"
+      }
+    },
+    {
+      "from": "tail",
+      "to": "silphy",
+      "conditions": {
+        "text": "Jogress with Aquilamon  from the D-3 White and Red BE Memory Dim"
+      }
+    }
+  ]
+}

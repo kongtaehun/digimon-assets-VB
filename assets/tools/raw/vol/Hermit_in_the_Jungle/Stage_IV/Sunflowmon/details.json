@@ -1,0 +1,82 @@
+{
+  "id": "sunflow",
+  "name": "Sunflowmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sunflow.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sunflow.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/sunflow.jpg",
+  "appearances": [
+    {
+      "dim_id": "hju",
+      "dim_name": "Hermit in the Jungle",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "pal"
+      ],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Sunflowmon",
+    "name_en": "Sunflowmon",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "pal",
+        "name": "Palmon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "jewelbee",
+        "name": "Jewelbeemon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "lili",
+        "name": "Lilimon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "toropia",
+        "name": "Toropiamon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "blosso",
+        "name": "Blossomon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "ajatar",
+        "name": "Ajatarmon",
+        "conditions": "Jogress with Vaccine Adult"
+      },
+      {
+        "id": "archne",
+        "name": "Archnemon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ]
+  }
+}

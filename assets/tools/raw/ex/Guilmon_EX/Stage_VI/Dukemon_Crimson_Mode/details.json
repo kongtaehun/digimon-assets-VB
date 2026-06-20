@@ -1,0 +1,74 @@
+{
+  "id": "duke_c",
+  "name": "Dukemon: Crimson Mode",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/duke_c.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/duke_c.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/duke_c.jpg",
+  "appearances": [
+    {
+      "dim_id": "guil_ex",
+      "dim_name": "Guilmon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Dukemon: Crimson Mode",
+    "name_en": "Gallantmon: Crimson Mode",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "70 (★10)",
+      "hp": "16",
+      "ap": "9"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "megalogrow_o",
+        "name": "Megalo Growmon (Orange)",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "megalogrow",
+        "name": "Megalo Growmon",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "sandira",
+        "name": "Sandiramon",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "vajra",
+        "name": "Vajramon",
+        "conditions": "Stage 15 Cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "majira",
+        "name": "Majiramon",
+        "conditions": "Stage 15 Cleared, Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "mihira",
+        "name": "Mihiramon",
+        "conditions": "Stage 15 Cleared, Jogress with Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "gigaseadra",
+  "name": "Giga Seadramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gigaseadra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gigaseadra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/gigaseadra.jpg",
+  "appearances": [
+    {
+      "dim_id": "jelly",
+      "dim_name": "Jellymon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "zudo"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "marinchimaira",
+        "blackkingnume"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "waruseadra"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Giga Seadramon",
+    "name_en": "GigaSeadramon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6200",
+      "hp": "5700",
+      "ap": "2000"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "zudo",
+        "name": "Zudomon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "marinchimaira",
+        "name": "Marin Chimairamon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "anomalocari_x",
+        "name": "Anomalocarimon X",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "waruseadra",
+        "name": "Waru Seadramon",
+        "conditions": "30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "blackkingnume",
+        "name": "Black King Numemon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

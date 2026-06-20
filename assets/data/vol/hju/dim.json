@@ -1,0 +1,977 @@
+{
+  "schema_version": "1.0",
+  "id": "hju",
+  "name": "Hermit in the Jungle",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Aug 2021 - Retail (Set Vol.03)EN: Jul 2022 - Retail (Set Vol.03)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_hju.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "yura",
+      "name": "Yuramon",
+      "name_jp": "Yuramon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/yura/frame1.gif",
+        "frame2": "sprites/yura/frame2.gif"
+      },
+      "artwork": "sprites/yura/artwork.jpg",
+      "lore": {
+        "en": "A Seed Digimon whose whole body is covered in a substance with the appearance of long, soft hair. When it hatches from itsDigitama, it seeks an environment suitable for its growth, and drifts lightly through the air, like a dandelion seed. If it finds a place where there will be no intruders and where the environment is good, it will settle to the ground and begin preparations for evolution. Its offensive ability is practically nil, so it will spit out adhesive bubbles to hinder the opponent's movement, then seize the opportunity to escape.Digimon Reference Book⇨ English体中を細長く柔らかい毛の様な物で覆われた種子型デジモン。デジタマから孵化すると、成長をするのに適した環境を求めて、タンポポの種の様にフワフワと空中を漂う。外敵の無い、環境の良い場所を見つけると地上に降り進化の準備を始める。攻撃力は殆ど無く、粘着性の泡を吐き出し相手の動きを鈍らせ、その隙に逃げ出す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Yuramon"
+    },
+    {
+      "id": "tane",
+      "name": "Tanemon",
+      "name_jp": "Tanemon",
+      "name_ko": "시드몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/tane/frame1.gif",
+        "frame2": "sprites/tane/frame2.gif"
+      },
+      "artwork": "sprites/tane/artwork.jpg",
+      "lore": {
+        "en": "A Bulb Digimon with something resembling plant sprout burgeoning from its head. It is aYuramonthat floated around in search of the optimal environment, then settled into the ground and evolved. Due to its extremely timid personality, the moment it senses an intruder's presence, it will burrow into the ground with its four feet and bury its main body beneath the surface. Once it is completely hidden underground, the thing growing from its head camouflages as a plant, allowing it to defend itself from intruders. However, this is ineffective against herbivorous Digimon.Digimon Reference Book⇨ English頭部から植物の芽の様なものが発芽している球根型デジモン。最適な環境を求めて浮遊していたユラモンが地上に降り進化した。非常に臆病な性格で、外敵の存在を察知すると４本の足で穴を掘り、体の部分を地中に埋めてしまう。一旦地中に潜ってしまうと頭部から生えた物が植物の擬態をとり、外敵から身を守ることができる。ただし、草食性のデジモンには効果が無い。デジモン図鑑",
+        "ko": "머리에 식물의 싹 같은게 발아한 알뿌리형 디지몬. 최적의 환경을 찾아 부유하던 유라몬 이 지상에 내려와 진화했다. 매우 겁이 많은 성격으로, 외적의 존재를 느끼면 네 발로 구멍을 파고, 몸 부분을 땅 속에 파고 들어가버린다. 일단 땅 속에 잠겨버리면 머리에 난 것으로 식물인 양 의태하여 외적으로부터 몸을 지킬 수 있다. 하지만, 초식성 디지몬에겐 효과가 없다."
+      },
+      "wikimon_url": "https://wikimon.net/Tanemon"
+    },
+    {
+      "id": "pal",
+      "name": "Palmon",
+      "name_jp": "Palmon",
+      "name_ko": "팔몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/pal/frame1.gif",
+        "frame2": "sprites/pal/frame2.gif"
+      },
+      "artwork": "sprites/pal/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon with a tropical flower blooming on its head. Although it evolved like a reptile fromTanemon, it is an unusual Type which is classified as a Plant based on its outward appearances and special qualities. During the day it opens up the flower and spreads its leaf-like arms to performphotosynthesis. It usually buries its root-like feet under the ground, and although it is absorbing nutrients, it is also able to walk. As for the flower on its head, when it is joyful or happy it will waft about a sweet fragrance, but when it is angered or senses danger, it releases a foul stench that will drive off even large Digimon. Its Special Move is entangling the opponent in ivy laced with a powerful toxin (Poison Ivy). If you suffer this attack, your body will be completely paralyzed.Digimon Reference Book⇨ English頭にトロピカルな花を咲かせた植物型デジモン。タネモンから爬虫類的に進化したが、外見や特性上から植物型と分類される珍しいタイプ。昼間は花と葉の様な腕を広げ光合成をしている。普段は地中に根の様な足を埋め、養分を吸っているが、歩行することも可能。頭部の花は、楽しい時や嬉しい時は甘い香りを漂わせ、怒った時や危険を感じた時は大型デジモンも逃げ出すほどの臭い匂いを放出する。必殺技は強烈な毒性を帯びたツタを敵に絡ませる『ポイズンアイビー』。この攻撃を受けると体が麻痺してしまう。デジモン図鑑",
+        "ko": "머리에 트로피컬한 꽃을 피운 식물형 디지몬. 시드몬 으로부터 파충류적으로 진화했지만 외관이나 특성상으로 식물형으로 분류되는 드문 타입. 정오에는 꽃과 잎인 팔을 펼쳐 광합성을 하고 있다. 평상시에는 지중에 뿌리로 된 다리를 묻고 양분을 흡수하고 있지만, 보행도 가능. 머리부분의 꽃은 즐거울 때나 기쁠 때는 달콤한 향기를 내지만, 화났을때나 위험을 느낄때는 대형디지몬도 도망칠 정도의 냄새를 방출한다. 필살기는 강렬한 독성을 띈 담쟁이덩굴을 적에게 얽히게 하는 \"포이즌 아이비\". 이 공격을 받으면 몸이 마비된다."
+      },
+      "wikimon_url": "https://wikimon.net/Palmon"
+    },
+    {
+      "id": "sni",
+      "name": "Snimon",
+      "name_jp": "Snimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/sni/frame1.gif",
+        "frame2": "sprites/sni/frame2.gif"
+      },
+      "artwork": "sprites/sni/artwork.jpg",
+      "lore": {
+        "en": "AnexperimentalDigimon that was created at a research facility as a Virus Hunter. It was created from the data of praying mantises, and it tracks its target down as if it were a precise machine. Due to its unfeeling personality, it is feared by both Vaccine and Data-attribute Digimon. The sickles on both of its arms are honed to their sharpest, allowing it to cleanly slice through anything. Although Snimon is a Digimon that has no eyes, the red antennae growing from its head have become sensors, and are able to accurately pinpoint the target's location. Its Special Move is a supersonic slash that can't be seen with the naked eye (Shadow Sickle).Digimon Reference Book⇨ Englishウィルスハンターとして研究所で造られた実験体デジモン。カマキリのデータから造られており、正確な機械のようにターゲットを追い詰める。冷たい性格でワクチン種からもデータ種からも恐れられている存在だ。両腕の大鎌は鋭く研ぎ澄まされており、あらゆるものを鋭利に切り刻むことが可能となっている。スナイモンは目を持たないデジモンであるが、頭から生えた赤い触覚がセンサーとなっており、ターゲットの位置を正確に捉えることができる。必殺技は、目にも止まらない超音速の一刀『シャドウ・シックル』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Snimon"
+    },
+    {
+      "id": "sunflow",
+      "name": "Sunflowmon",
+      "name_jp": "Sunflowmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/sunflow/frame1.gif",
+        "frame2": "sprites/sunflow/frame2.gif"
+      },
+      "artwork": "sprites/sunflow/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon which has an appearance like thesunflower. If it bathes in the sun's light it becomes very energetic, and even its offensive power rises. On  days when the weather is good it will also flap the leaves on its back to fly around. Its Special Moves are firing rays of sunlight from all of its petals (Sunshine Beam), and slapping the opponent in the face with a smile on its face (Smiley Slap). Furthermore, that smile is feared for its eeriness. Also, it can wave its tail-like stalk, firing off its thorns (Cactus Tail).Digimon Reference Book⇨ Englishヒマワリの様な姿をした植物型デジモン。太陽の光を浴びるととても元気になり、攻撃力もアップする。天気の良い日は背中の葉をパタパタさせて飛ぶこともある。必殺技は、花びら全体から放つ太陽光線『サンシャインビーム』と、笑顔で敵をビンタする『スマイリービンタ』。尚、その笑顔は不気味だと恐れられている。また、尻尾のような茎を振り回しトゲを放つ『カクタステイル』をもつ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sunflowmon"
+    },
+    {
+      "id": "parasaur",
+      "name": "Parasaurmon",
+      "name_jp": "Parasaurmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/parasaur/frame1.gif",
+        "frame2": "sprites/parasaur/frame2.gif"
+      },
+      "artwork": "sprites/parasaur/artwork.jpg",
+      "lore": {
+        "en": "A gentle Dinosaur Digimon that lives in a warm climate. The fruit-like organs around its long neck sprinkle a sweet scent into its surroundings. This scent has the role of informing the herd of their position, and it seems that the scent differs slightly depending on the individual.It is often attacked by other Digimon that are drawn in by its scent, but it deprives invading enemies of their freedom with the numbing gas \"PalsySweet\" that it spews out of its mouth. In battle, it emits its \"WavyOktavist\", a super-low-pitched cry that crushes even rocks, at a loud volume, and engulfs several tens of meters around it in a whirlpool of destruction.Digimon Reference Book⇨ English暖かい気候の中で暮らす穏やかな恐竜型デジモン。長い首の周りに付いている果物のような器官は、周囲に甘い香りを振りまいている。この香りは群れに自分の位置を知らせる役割を持っており、個体によってわずかに匂いが違うらしい。匂いにつられた他のデジモンに襲われることも少なくないが、口から吐き出す痺れガス「パルシースイート」で外敵から自由を奪う。戦闘においては岩をも砕く超低音の鳴き声「ウェイビーオクタヴィスト」を大音量で放ち、周囲数十メートルを破壊の渦に巻き込む。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Parasaurmon"
+    },
+    {
+      "id": "vegi",
+      "name": "Vegimon",
+      "name_jp": "Vegimon",
+      "name_ko": "베지몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/vegi/frame1.gif",
+        "frame2": "sprites/vegi/frame2.gif"
+      },
+      "artwork": "sprites/vegi/artwork.jpg",
+      "lore": {
+        "en": "An Insectivorous Plant Digimon with long, outstretched vines and a wide, open mouth. It is a fierce, brutal Digimon that uses the sweet scent it breathes from its mouth to attract small Digimon and its long, tentacle-like vines to pull them in; however, it is unable to stand against larger Digimon due to its lack of offensive power. As Vegimon grows, it will start flowering and eventually bear fruit.Digimon Reference Book⇨ English長く伸びたツタと大きく開かれた口を持つ食虫植物型デジモン。口から吐き出される甘い香りにつられてやってくる小型デジモンを、触手のような長いツタの部分で引きずり込んでしまう凶暴凶悪なデジモンだが、まともな攻撃力を持ち合わせていないため、大型のデジモンには太刀打ちできない。ベジーモンが成長すると花を咲かせ実をつける。デジモン図鑑",
+        "ko": "길게 뻗은 담쟁이덩굴과 큰 입을 가진 식충식물형 디지몬. 입에서 토해내는 달콤한 향기에 끌려 오는 소형 디지몬을 촉수 같이 긴 담쟁이덩굴 부분으로 질질 끌어 들어 드는 흉악한 디지몬이지만, 제대로 된 공격력을 지니고 있지 않기 때문에 대형의 디지몬과는 맞겨룸 할 수 없다. 베지몬이 성장하면 꽃을 피워 열매를 맺는다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Vegimon"
+    },
+    {
+      "id": "ajatar",
+      "name": "Ajatarmon",
+      "name_jp": "Ajatarmon",
+      "name_ko": "아야타라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/ajatar/frame1.gif",
+        "frame2": "sprites/ajatar/frame2.gif"
+      },
+      "artwork": "sprites/ajatar/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon that lives in groups similar to tribes. They have established small civilizations deep in the jungle. Generally speaking, they are taciturn and do not speak very much, and when hunting in groups, they contact each other throughhand gesturesand bring down their prey with excellent coordination. Although it is short-tempered and has a violent disposition, it prides itself as a hunter and has a pure heart.Its Special Moves are striking the enemy with its mighty hatchet that fells even large trees in an instant (Assault Hatchet), and restraining them with the tentacles growing from the back of its head (Tied-up Ivy). When facing opponents that attack from a distance, it counterattacks with its \"Shotgun Moss\", in which it shoots the poisonous grass needles that grow from its head like hair to restrict their movements.Digimon Reference Book⇨ English民族のように群れで棲息する植物型デジモン。ジャングルの奥深くにささやかな文明を築いている。基本的に無口であまり喋らず、群れで行う狩りの際にはハンドサインでコンタクトを取り、優れた連携で獲物を仕留める。短気で気性が荒いが、狩人としての誇りを持つ純粋な心の持ち主だ。必殺技は大木をも一瞬で切り倒す万能鉈で敵を討つ『アサルトハチェット』と、後頭部から生えた触手で敵を縛り付ける『タイドアップアイビー』。遠距離から仕掛けてくる相手に対しては、頭髪のように生えた毒草の針を飛ばし身動きを封じる『ショットガンモス』で応戦する。デジモン図鑑",
+        "ko": "민족처럼 무리지어 서식하는 식물형 디지몬. 정글 깊숙한 곳에서 작은 문명을 쌓아 올리고 있다. 기본적으로 과묵해 그다지 말을 하지않고 무리지어 사냥할 때에는 핸드사인으로 컨택을 하여 뛰어난 연계로 사냥감을 잡는다. 성질이 급하고 사납지만, 사냥꾼으로서의 긍지를 가진 순수한 마음의 소유자다. 필살기는 큰 나무도 한순간에 베어버리는 만능도끼로 적을 토벌하는 \"어썰트 해칫\"과 뒤통수에 난 촉수로 적을 옭아매는 \"타이드 업 아이비\". 원거리에서 공격하는 상대에게는 머리카락처럼 자라난 독초 바늘을 던져 움직임을 봉인하는 \"샷건 모스\"로 응전한다."
+      },
+      "wikimon_url": "https://wikimon.net/Ajatarmon"
+    },
+    {
+      "id": "jewelbee",
+      "name": "Jewelbeemon",
+      "name_jp": "Jewelbeemon",
+      "name_ko": "주엘비몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/jewelbee/frame1.gif",
+        "frame2": "sprites/jewelbee/frame2.gif"
+      },
+      "artwork": "sprites/jewelbee/artwork.jpg",
+      "lore": {
+        "en": "Ajewel beetle-like Insect Digimon that emits a rainbow-colored radiance. Its prism-like armor, whichchanges color with the viewing angle, is not only sturdy but also has the effect of dazzling the enemy's eyes. It is an expert in combat, and prefers beautiful battles. Its Special Move is swinging the spear it holds in its right hand at thespeed of light, generating a shock wave (Spike Buster).Digimon Reference Book⇨ English玉虫のような虹色の輝きを放つ昆虫型デジモン。見る角度で色がかわるプリズムのようなヨロイは、頑丈なだけでなく敵の目をくらませる効果もある。格闘のエキスパートで、美しい戦いを好む。必殺技は、右手に持つ槍を光の速さで振るい、衝撃波を起こす『スパイクバスター』デジモン図鑑",
+        "ko": "비단벌레처럼 무지개색 빛을 내는 곤충형 디지몬. 보는 각도에 따라 색이 바뀌는 프리즘 같은 갑옷은 튼튼할 뿐만 아니라 적의 눈을 멀게 만드는 효과도 있다. 격투 전문가로 아름다운 싸움을 좋아한다. 필살기는 오른손에 든 창을 빛의 속도로 돌려서 충격파를 일으키는 스파이크 버스터."
+      },
+      "wikimon_url": "https://wikimon.net/Jewelbeemon"
+    },
+    {
+      "id": "lili",
+      "name": "Lilimon",
+      "name_jp": "Lilimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lili/frame1.gif",
+        "frame2": "sprites/lili/frame2.gif"
+      },
+      "artwork": "sprites/lili/artwork.jpg",
+      "lore": {
+        "en": "A Fairy Digimon born from beautifully blooming flower petals. Although it looks like it has an appearance like a human child, it is a Perfect Digimon hiding unfathomable power within. Due to its whimsical, tomboyish personality, it is said that it will open its heart to a human girl with a similar temperament. Also, because it becomes unable to settle down if it starts crying like a crybaby, a great effort is necessary to win it over. However, it also has an aspect that kindly extends its hand to small or weak things. It can fly in the air with the four leaf-like wings growing from its back, and it is said that after Lilimon flies by, a fresh breeze will blow. Its Special Move is thrusting both of its arms forward, making a gun muzzle from the petals on its wrists, and shooting an energy shell (Flow' Cannon).Digimon Reference Book⇨ English美しく咲いた花弁から生まれた妖精型デジモン。見た目は人間の子供のような姿をしているが、計り知れないパワーを秘めている完全体のデジモンである。気まぐれでお転婆な性格で、同じような気質を持っている人間の少女には心を開くと言われている。また、泣き虫で泣き出すと手がつけられなくなるので、手なずけるには努力が必要である。しかし、小さなものや弱いものにはやさしく手を差し伸べる一面もある。背中に生えた４枚の葉状の羽で空を飛ぶことができ、リリモンが飛んだ後は、さわやかなそよ風が吹くという。必殺技は両腕を前に突き出し、手首の花弁を銃口にして、エネルギー弾を撃ち出す『フラウカノン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lilimon"
+    },
+    {
+      "id": "blosso",
+      "name": "Blossomon",
+      "name_jp": "Blossomon",
+      "name_ko": "브롯사몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "14",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/blosso/frame1.gif",
+        "frame2": "sprites/blosso/frame2.gif"
+      },
+      "artwork": "sprites/blosso/artwork.jpg",
+      "lore": {
+        "en": "With the appearance of a giant flower, it is a Perfect Plant Digimon that grew countless vines as roots from its body. Despite its strange appearance it is very docile, and due to its personality it rarely appears before others. For a plant it has an unusually long life span, and although the petals around its body (or face, really) fall out whenever the seasons change, it has the special ability to grow back new petals. It hates arid regions, and always inhabits areas near water. Its Special Move is hurling the tiny flowers growing from its vine tips like they were shuriken (Spiral Flower). These flower petals can cut through anything, no matter how hard.Digimon Reference Book⇨ English大な花の姿をして、身体からは何本もの触手を生やした植物型デジモンの完全体。見た目の奇怪さとは裏腹に非常におとなしく、中々人前には姿を現さない性格。植物にしては珍しく非常に寿命が長く、季節が変わる度に身体（顔？）の周辺にある花びらが抜け落ち、新しい花びらを付ける変わった特性を持っている。乾燥した場所を嫌い、いつも水辺のある地域に生息している。必殺技は触手の先に付いている小型の花を手裏剣のように飛ばす『スパイラルフラワー』。この花の花びらはどんなに硬いものでも切り裂いてしまう。デジモン図鑑",
+        "ko": "거대한 꽃의 모습에 몸에는 촉수를 몇 개나 기른 식물형 디지몬의 완전체. 기괴한 겉모습과는 달리 아주 얌전하며 웬만하면 사람 앞에는 모습을 드러내지 않는 성격 이다. 식물이지만 드물게 수명이 상당히 길며 계절이 바뀔 때마다 몸(얼굴?) 주변에 있는 꽃잎이 떨어지고 새로운 꽃잎을 붙이는 특이한 특성이 있다. 건조한 장소를 싫어해 항상 물가가 있는 지역에서 서식한다. 필살기는 촉수 끝에 붙어 있는 작은 꽃을 수리검처럼 날리는 『스파이럴 플라워(한국명: 꽃폭탄)』이다. 이 꽃의 꽃잎은 아무리 딱딱한 물체라도 갈라 버린다. 외형의 모티브는 흡혈식물 대소동 의 괴식물 ' 오드리 2세 '로 추정."
+      },
+      "wikimon_url": "https://wikimon.net/Blossomon"
+    },
+    {
+      "id": "toropia",
+      "name": "Toropiamon",
+      "name_jp": "Toropiamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/toropia/frame1.gif",
+        "frame2": "sprites/toropia/frame2.gif"
+      },
+      "artwork": "sprites/toropia/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon that inhabits jungles. It is thought to have evolved into this gaudy appearance by taking in the data of various trees and fruits. Its scent, which is like a mixture of all kinds of fruits, is so intense that those who are not used to it will get knocked out cold. The droplets secreted from its leaves, which act as wings, are so toxic that they can even dissolve iron.Its Special Move is dispersing a large amount of explosive pollen from the petals around its neck (Petally Carnage). Also, its \"Tropical Venom\", a gas spewed out of its mouth, is a potent poison that matures within its body, and causes those who inhale it to melt into mush from within.Digimon Reference Book⇨ Englishジャングルに棲息する植物型デジモン。様々な樹木・果実のデータを取り込み、派手な見た目に進化したと思われる。あらゆる果物を混ぜ合わせたような体の匂いも強烈で、慣れない者はそのキツさに気絶してしまうほどだ。羽根の役割を果たす葉から分泌される雫は、鉄をも溶かす程の強い毒性を持っている。必殺技は、首の花びらから爆発する花粉を大量に飛ばす「ペタリーカーネイジ」。また、口から吐き出すガス「トロピカルヴェノム」は、体内で熟成させた強烈な毒で、吸い込んだ者を内側からドロドロに溶かしてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Toropiamon"
+    },
+    {
+      "id": "archne",
+      "name": "Arachnemon",
+      "name_jp": "Archnemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/archne/frame1.gif",
+        "frame2": "sprites/archne/frame2.gif"
+      },
+      "artwork": "sprites/archne/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "bloomlord",
+      "name": "Bloom Lordmon",
+      "name_jp": "Bloom Lordmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/bloomlord/frame1.gif",
+        "frame2": "sprites/bloomlord/frame2.gif"
+      },
+      "artwork": "sprites/bloomlord/artwork.jpg",
+      "lore": {
+        "en": "A Fairy Digimon in the form of a plant clad in armor, it is a kind-hearted knight that fights to protect nature. It accumulates energy by absorbing sunlight through the flowers on its shoulders. The power it exhibits once that energy has been raised to its limit is said to even rival that of theRoyal Knights. It has the ability to turn any foul weather into fine weather, and creates battlefields that always work to its advantage when out in the open.Its Special Moves are shooting countless seeds from the petals on its left shoulder like a machine gun (Multiple Seed), and piercing the enemy with the flower spear it holds in its right hand (Sprout Rush). In addition, it fires an extremely wide beam with the huge sword of light that emerges from within its flower spear only when it has bloomed (Gran del Sol).Digimon Reference Book⇨ English植物が甲冑を纏った妖精型デジモンで、自然を守るために戦う心優しい騎士。肩の花から太陽光を吸収することでエネルギーを蓄えている。限界までエネルギーが高まった時に発揮する力は、ロイヤルナイツにも匹敵するといわれている。どんな悪天候も晴天に変える能力を持ち、屋外では常に有利な戦場を作り出せる。必殺技は左肩の花弁から無数の種子を機関銃のように撃ち出す『マルチプルシード』と、右手に携えた花の槍で敵を貫く『スプラウトラッシュ』。そして、花の槍が開花した時のみ中から現れる、巨大な光の剣で極太のビームを放つ『グラン・デル・ソル』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Bloom_Lordmon"
+    },
+    {
+      "id": "rafflesi",
+      "name": "Rafflesimon",
+      "name_jp": "Rafflesimon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/rafflesi/frame1.gif",
+        "frame2": "sprites/rafflesi/frame2.gif"
+      },
+      "artwork": "sprites/rafflesi/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate-level Fairy Digimon said to be the largest flower in theDigital World. While its appearance is so beautiful that it enraptures all who lay eyes upon it, the stench it emits is out of this world. There are a number of people who fell for Rafflesimon's beauty at first sight and sought to find it again after a single glance. However, Rafflesimon's lifespan is short, and its life processes will cease after just several days have passed. Because of the extremely low likelihood of being able to catch sight of a Rafflesimon, it is also known as the \"Miraculous Flower\". Despite its circumstances, Rafflesimon never expresses any pessimism about its looming death, constantly yearning to live a normal life and dancing elegantly till its very last.Its Special Move is firing its sleeve like a cannon (Ballet Gun). It utilizes the large flower petals that dance around it as reflectors, reflecting its shots so that no enemy can escape. Not only that, it can also shed scales from its body (Wisselen). These scales cause anyone whose body they have latched onto to lose consciousness and turn into Rafflesimon's servants.Digimon Reference Book⇨ Englishデジタルワールド最大の花と言われる究極体の妖精型デジモン。誰もが魅入られる美しい容姿でありながら、とてつもない異臭を放つ。その美しさに憧れて一目見ようとラフレシモンを探す者も少なくない。しかしラフレシモンとして生きていられる時間は短く、数日として活動を停止してしまう。そのためラフレシモンを見られる可能性は僅かであり「奇跡の花」と呼ばれている。そのような境遇であっても死に悲観することなくラフレシモンは最期まで普通の生き方を求め、優雅に振る舞い続ける。必殺技は袖からキャノンを撃つ『バレエガン』。体に舞う大きな花びらがリフレクターとなり反射して敵を逃さない。さらに身体から放つ鱗粉『ウィスレン』。この鱗粉が体に付着してしまうと意識を失いラフレシモンの配下にされてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rafflesimon"
+    },
+    {
+      "id": "spino",
+      "name": "Spinomon",
+      "name_jp": "Spinomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/spino/frame1.gif",
+        "frame2": "sprites/spino/frame2.gif"
+      },
+      "artwork": "sprites/spino/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon that inhabits the green depths of the jungle. It boasts the greatest and strongest powers among the Dinosaur Digimon inhabiting the Digital World, and it is said that it possesses strength equal to that ofDinorexmon. Due to its extreme belligerence it leads a highly brutal existence, but the latest research has made it clear that it possesses astonishing intelligence. The blades on its back have become its greatest feature, and since they possess excellent defensive and offensive power, if it suffers a direct attack, the attacker is forced to suffer nearly fatal wounds. Its Special Moves are shooting off the blades on its back all at once (Sonic Slash Rain), and converting the metal accumulated within its body into plasma by superheating it up to 15000°, then firing it off (Blue Prominence). The blades on its back keep growing back in an inexhaustible supply, so don't count on it running out of ammo.Digimon Reference Book⇨ English緑深きジャングルに生息する恐竜型デジモン。デジタルワールドに生息している恐竜型デジモンの中でも最大・最強のパワーを誇り、ディノレクスモンと同等の強さを持つといわれる。闘争心が非常に高く凶暴な存在であるが、驚くべき知能をもつことが最近の研究で明らかになってきている。大きな特徴となっている背中のブレードは、優れた防御力と攻撃力を持っており、直接攻撃を受けた場合、攻撃者のほうに致命傷に近い傷を負わせてしまう。必殺技は背中のブレードを一斉に発射する『ソニックスラッシュレイン』と体内に蓄積した金属を15,000度まで過熱しプラズマ化させて打ち出す、『ブループロミネンス』。背中のブレードは無尽蔵に生えてくるために、弾切れを期待しないほうが良い。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Spinomon"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydramon",
+      "name_jp": "Hydramon",
+      "name_ko": "히드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "22",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/hydra/frame1.gif",
+        "frame2": "sprites/hydra/frame2.gif"
+      },
+      "artwork": "sprites/hydra/artwork.jpg",
+      "lore": {
+        "en": "A gigantic Plant Digimon that primarily takes root in swampland. It constantly secretes a highly-toxic liquid from its whole body, which it mercilessly uses to dissolve anyone that touches it, and preys on them. Also, it has a habit of expelling large amounts of that liquid from its abdomen, melting the ground and creating swamps to expand its nest. These swamps disturb the surrounding ecosystem, so if you see ominous flowers that have grown abnormally, it is a sign to be cautious.Its Special Moves are spewing a poison gas from the mouth on its abdomen that has the same components as its highly-toxic liquid (Biotoxin), and randomly firing beams from its three heads (Intense Lamptḗr). It completely destroys the enemy as well as the earth with its \"Division Break\", in which it causes the vines that it spreads into the ground to shake violently, creating fissures.Digimon Reference Book⇨ English主に沼地に根を張る巨大な植物型デジモン。全身から常に猛毒液が分泌されており、触れた者を容赦なく溶かして捕食する。また、腹部から大量の猛毒液を吐き出し、大地を融解させて沼を作り巣を広げる習性がある。沼は周囲の生態系を狂わせるため、異常成長した禍々しい草花が見えたら出没注意の合図だ。必殺技は腹の口から猛毒液と同じ成分の毒ガスを吐き出す『バイオトキシン』と、三つの頭からビームを乱射する『インテンスランテール』。地中へ這わせたツタを激しく動かし、地割れを引き起こす『ディビジョンブレイク』で大地もろとも敵を完膚なきまでに破壊する。デジモン図鑑",
+        "ko": "주로 늪지대에 뿌리를 내리고 있는 거대한 식물형 디지몬. 온몸에서 항상 맹독액이 분비되고 있어 접촉한 자를 가차 없이 녹여 포식한다. 또 복부에서 대량의 맹독액을 쏟아내 대지를 융해시켜 늪을 만들고 둥지를 넓히는 습성이 있다. 늪은 주변 생태계를 망치기 때문에 비정상적으로 성장한 불길한 화초가 보이면 출몰주의 신호다. 필살기는 배의 입에서 맹독액과 같은 성분의 독가스를 내뿜는 \"바이오톡신\"과 세 개의 머리에서 빔을 난사하는 \"인텐스 람프테르\". 땅속으로 자라게 한 담쟁이덩굴을 격렬하게 움직여 땅에 균열을 일으키는 \"디비전 브레이크\"로 대지와 함께 적을 철저히 파괴한다."
+      },
+      "wikimon_url": "https://wikimon.net/Hydramon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "pal",
+      "to": "sni",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pal",
+      "to": "sunflow",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pal",
+      "to": "parasaur",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pal",
+      "to": "vegi",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "parasaur",
+      "to": "ajatar",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vegi",
+      "to": "ajatar",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sni",
+      "to": "jewelbee",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sunflow",
+      "to": "jewelbee",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sunflow",
+      "to": "lili",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "parasaur",
+      "to": "lili",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sni",
+      "to": "blosso",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "vegi",
+      "to": "blosso",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sunflow",
+      "to": "toropia",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "parasaur",
+      "to": "toropia",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sni",
+      "to": "archne",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "vegi",
+      "to": "archne",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ajatar",
+      "to": "bloomlord",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "bloomlord",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lili",
+      "to": "bloomlord",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "rafflesi",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lili",
+      "to": "rafflesi",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "archne",
+      "to": "rafflesi",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ajatar",
+      "to": "spino",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "blosso",
+      "to": "spino",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "toropia",
+      "to": "spino",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "blosso",
+      "to": "hydra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "toropia",
+      "to": "hydra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "archne",
+      "to": "hydra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "yura",
+      "to": "tane",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "tane",
+      "to": "pal",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "sni",
+      "to": "ajatar",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "sni",
+      "to": "lili",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "sni",
+      "to": "toropia",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "sunflow",
+      "to": "blosso",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "sunflow",
+      "to": "ajatar",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "sunflow",
+      "to": "archne",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "parasaur",
+      "to": "blosso",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "parasaur",
+      "to": "archne",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "parasaur",
+      "to": "jewelbee",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "vegi",
+      "to": "lili",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "vegi",
+      "to": "toropia",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "vegi",
+      "to": "jewelbee",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "ajatar",
+      "to": "rafflesi",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "ajatar",
+      "to": "hydra",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "spino",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "hydra",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "lili",
+      "to": "hydra",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "lili",
+      "to": "spino",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "blosso",
+      "to": "bloomlord",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "blosso",
+      "to": "rafflesi",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "toropia",
+      "to": "bloomlord",
+      "conditions": {
+        "text": "Jogress with Free Perfect"
+      }
+    },
+    {
+      "from": "toropia",
+      "to": "rafflesi",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Perfect"
+      }
+    },
+    {
+      "from": "archne",
+      "to": "spino",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "archne",
+      "to": "bloomlord",
+      "conditions": {
+        "text": "Jogress with Vaccine Perfect"
+      }
+    }
+  ]
+}

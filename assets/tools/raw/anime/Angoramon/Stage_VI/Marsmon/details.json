@@ -1,0 +1,111 @@
+{
+  "id": "mars",
+  "name": "Marsmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mars.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mars.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mars.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "lamort",
+        "hippogriffo",
+        "baste"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "cerberu"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "mephis"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "olea"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Marsmon",
+    "name_en": "Marsmon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6250",
+      "hp": "5200",
+      "ap": "1900"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "lamort",
+        "name": "Lamortmon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "cerberu",
+        "name": "Cerberumon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "hippogriffo",
+        "name": "Hippogriffomon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mephis",
+        "name": "Mephismon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "olea",
+        "name": "Oleamon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "baste",
+        "name": "Bastemon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

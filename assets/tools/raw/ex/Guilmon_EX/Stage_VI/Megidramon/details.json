@@ -1,0 +1,74 @@
+{
+  "id": "megidra",
+  "name": "Megidramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/megidra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/megidra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/megidra.jpg",
+  "appearances": [
+    {
+      "dim_id": "guil_ex",
+      "dim_name": "Guilmon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Megidramon",
+    "name_en": "Megidramon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "60 (★10)",
+      "hp": "12",
+      "ap": "9"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "vajra",
+        "name": "Vajramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "majira",
+        "name": "Majiramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "megalogrow",
+        "name": "Megalo Growmon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "mihira",
+        "name": "Mihiramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "megalogrow_o",
+        "name": "Megalo Growmon (Orange)",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "sandira",
+        "name": "Sandiramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

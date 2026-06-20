@@ -1,0 +1,77 @@
+{
+  "id": "hoverespi",
+  "name": "Hover Espimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hoverespi.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hoverespi.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/hoverespi.jpg",
+  "appearances": [
+    {
+      "dim_id": "espi",
+      "dim_name": "Espimon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "espi"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Hover Espimon",
+    "name_en": "HoverEspimon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "espi",
+        "name": "Espimon",
+        "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "piccolo",
+        "name": "Piccolomon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "manticore",
+        "name": "Manticoremon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "raijiludo",
+        "name": "Raiji Ludomon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      },
+      {
+        "id": "rarerare",
+        "name": "Rare Raremon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "lili",
+  "name": "Lilimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lili.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lili.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/lili.jpg",
+  "appearances": [
+    {
+      "dim_id": "hju",
+      "dim_name": "Hermit in the Jungle",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "sunflow",
+        "parasaur"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Lilimon",
+    "name_en": "Lillymon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "8",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "sunflow",
+        "name": "Sunflowmon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "parasaur",
+        "name": "Parasaurmon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "sni",
+        "name": "Snimon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "vegi",
+        "name": "Vegimon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "bloomlord",
+        "name": "Bloom Lordmon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "rafflesi",
+        "name": "Rafflesimon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "hydra",
+        "name": "Hydramon",
+        "conditions": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "spino",
+        "name": "Spinomon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

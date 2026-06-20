@@ -1,0 +1,891 @@
+{
+  "id": "dwy",
+  "name": "D-3 White and Yellow",
+  "release": "JP: Oct 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_dwy.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_dwy.gif",
+  "digimon": [
+    {
+      "id": "tsubu",
+      "name": "Tsubumon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/tsubu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/tsubu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tsubu.jpg"
+    },
+    {
+      "id": "upa",
+      "name": "Upamon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/upa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/upa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/upa.jpg"
+    },
+    {
+      "id": "armadi",
+      "name": "Armadimon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "3900",
+        "hp": "3700",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/armadi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/armadi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/armadi.jpg"
+    },
+    {
+      "id": "pata",
+      "name": "Patamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4800",
+        "hp": "3000",
+        "ap": "900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pata.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pata.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pata.jpg"
+    },
+    {
+      "id": "v",
+      "name": "V-mon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "4500",
+        "hp": "3500",
+        "ap": "900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/v.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/v.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/v.jpg"
+    },
+    {
+      "id": "ankylo",
+      "name": "Ankylomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4400",
+        "hp": "4000",
+        "ap": "1350"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/ankylo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/ankylo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ankylo.jpg"
+    },
+    {
+      "id": "ange",
+      "name": "Angemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5500",
+        "hp": "3800",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/ange.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/ange.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ange.jpg"
+    },
+    {
+      "id": "xv",
+      "name": "XV-mon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "5000",
+        "hp": "3500",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/xv.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/xv.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/xv.jpg"
+    },
+    {
+      "id": "dig",
+      "name": "Digmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4200",
+        "hp": "3500",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dig.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dig.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dig.jpg"
+    },
+    {
+      "id": "submari",
+      "name": "Submarimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5100",
+        "hp": "3300",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/submari.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/submari.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/submari.jpg"
+    },
+    {
+      "id": "pegas",
+      "name": "Pegasmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "3300",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pegas.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pegas.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pegas.jpg"
+    },
+    {
+      "id": "fladra",
+      "name": "Fladramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4800",
+        "hp": "3450",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fladra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fladra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fladra.jpg"
+    },
+    {
+      "id": "lighdra",
+      "name": "Lighdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5200",
+        "hp": "3400",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/lighdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/lighdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lighdra.jpg"
+    },
+    {
+      "id": "shakkou",
+      "name": "Shakkoumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5900",
+        "hp": "5000",
+        "ap": "1580"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shakkou.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shakkou.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shakkou.jpg"
+    },
+    {
+      "id": "holyange",
+      "name": "Holy Angemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "4000",
+        "ap": "1400"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/holyange.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/holyange.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/holyange.jpg"
+    },
+    {
+      "id": "paildra",
+      "name": "Paildramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5500",
+        "hp": "4800",
+        "ap": "1450"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/paildra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/paildra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/paildra.jpg"
+    },
+    {
+      "id": "archne",
+      "name": "Arachnemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5600",
+        "hp": "4800",
+        "ap": "1400"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/archne.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/archne.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/archne.jpg"
+    },
+    {
+      "id": "vike",
+      "name": "Vikemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5600",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/vike.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/vike.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vike.jpg"
+    },
+    {
+      "id": "seraphi",
+      "name": "Seraphimon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6400",
+        "hp": "5300",
+        "ap": "1950"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/seraphi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/seraphi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/seraphi.jpg"
+    },
+    {
+      "id": "imperialdra_d",
+      "name": "Imperialdramon: Dragon Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6800",
+        "hp": "4800",
+        "ap": "1950"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/imperialdra_d.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/imperialdra_d.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/imperialdra_d.jpg"
+    },
+    {
+      "id": "magna",
+      "name": "Magnamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6300",
+        "hp": "4700",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/magna.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/magna.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/magna.jpg"
+    },
+    {
+      "id": "belialvamde",
+      "name": "Belial Vamdemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6700",
+        "hp": "5400",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/belialvamde.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/belialvamde.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/belialvamde.jpg"
+    },
+    {
+      "id": "blackwargrey",
+      "name": "Black War Greymon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "5300",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/blackwargrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/blackwargrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/blackwargrey.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "upa",
+      "from_name": "Upamon",
+      "to": "armadi",
+      "to_name": "Armadimon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "upa",
+      "from_name": "Upamon",
+      "to": "pata",
+      "to_name": "Patamon",
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "upa",
+      "from_name": "Upamon",
+      "to": "v",
+      "to_name": "V-mon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "armadi",
+      "from_name": "Armadimon",
+      "to": "ankylo",
+      "to_name": "Ankylomon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pata",
+      "from_name": "Patamon",
+      "to": "ankylo",
+      "to_name": "Ankylomon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pata",
+      "from_name": "Patamon",
+      "to": "ange",
+      "to_name": "Angemon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "xv",
+      "to_name": "XV-mon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "armadi",
+      "from_name": "Armadimon",
+      "to": "dig",
+      "to_name": "Digmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "armadi",
+      "from_name": "Armadimon",
+      "to": "submari",
+      "to_name": "Submarimon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pata",
+      "from_name": "Patamon",
+      "to": "pegas",
+      "to_name": "Pegasmon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "fladra",
+      "to_name": "Fladramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "from_name": "V-mon",
+      "to": "lighdra",
+      "to_name": "Lighdramon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ange",
+      "from_name": "Angemon",
+      "to": "holyange",
+      "to_name": "Holy Angemon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "xv",
+      "from_name": "XV-mon",
+      "to": "holyange",
+      "to_name": "Holy Angemon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "from_name": "Lighdramon",
+      "to": "holyange",
+      "to_name": "Holy Angemon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dig",
+      "from_name": "Digmon",
+      "to": "holyange",
+      "to_name": "Holy Angemon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "pegas",
+      "from_name": "Pegasmon",
+      "to": "holyange",
+      "to_name": "Holy Angemon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "from_name": "Fladramon",
+      "to": "holyange",
+      "to_name": "Holy Angemon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "xv",
+      "from_name": "XV-mon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "submari",
+      "from_name": "Submarimon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "from_name": "Lighdramon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "ankylo",
+      "from_name": "Ankylomon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "dig",
+      "from_name": "Digmon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "from_name": "Fladramon",
+      "to": "paildra",
+      "to_name": "Paildramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "ankylo",
+      "from_name": "Ankylomon",
+      "to": "archne",
+      "to_name": "Arachnemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "ange",
+      "from_name": "Angemon",
+      "to": "archne",
+      "to_name": "Arachnemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "submari",
+      "from_name": "Submarimon",
+      "to": "archne",
+      "to_name": "Arachnemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "pegas",
+      "from_name": "Pegasmon",
+      "to": "archne",
+      "to_name": "Arachnemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "zudo",
+      "from_name": "Zudomon",
+      "to": "vike",
+      "to_name": "Vikemon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "from_name": "Marin Chimairamon",
+      "to": "vike",
+      "to_name": "Vikemon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "majira",
+      "from_name": "Majiramon",
+      "to": "vike",
+      "to_name": "Vikemon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "toropia",
+      "from_name": "Toropiamon",
+      "to": "vike",
+      "to_name": "Vikemon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "holyange",
+      "from_name": "Holy Angemon",
+      "to": "seraphi",
+      "to_name": "Seraphimon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "from_name": "Paildramon",
+      "to": "seraphi",
+      "to_name": "Seraphimon",
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "from_name": "Paildramon",
+      "to": "imperialdra_d",
+      "to_name": "Imperialdramon: Dragon Mode",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "archne",
+      "from_name": "Arachnemon",
+      "to": "imperialdra_d",
+      "to_name": "Imperialdramon: Dragon Mode",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "holyange",
+      "from_name": "Holy Angemon",
+      "to": "magna",
+      "to_name": "Magnamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "from_name": "Paildramon",
+      "to": "magna",
+      "to_name": "Magnamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "shakkou",
+      "from_name": "Shakkoumon",
+      "to": "belialvamde",
+      "to_name": "Belial Vamdemon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "archne",
+      "from_name": "Arachnemon",
+      "to": "belialvamde",
+      "to_name": "Belial Vamdemon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "shakkou",
+      "from_name": "Shakkoumon",
+      "to": "blackwargrey",
+      "to_name": "Black War Greymon",
+      "requirements": {
+        "PP": "18+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "archne",
+      "from_name": "Arachnemon",
+      "to": "blackwargrey",
+      "to_name": "Black War Greymon",
+      "requirements": {
+        "PP": "18+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    }
+  ]
+}

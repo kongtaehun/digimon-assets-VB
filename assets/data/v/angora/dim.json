@@ -1,0 +1,669 @@
+{
+  "schema_version": "1.0",
+  "id": "angora",
+  "name": "Angoramon",
+  "category": "v",
+  "device": "VBDM",
+  "release": "JP: Dec 2021 - Retail (Set -V2-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_angora.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "pyon",
+      "name": "Pyonmon",
+      "name_jp": "Pyonmon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/pyon/frame1.gif",
+        "frame2": "sprites/pyon/frame2.gif"
+      },
+      "artwork": "sprites/pyon/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon covered in tufty body hair that has a single large ear. It was shy the moment it was born, so if someone stares at it, it will instantly lower its head. However, it is also friendly, and can be seen rubbing its body against Digimon that it is interested in, actively engaging inskin-to-skin contact. It hates opponents that mess with it, and has the power to blow even Child Digimon away with its \"Earnta\", in which it slaps them with its large ear. Similarly, it hates things which make loud noises that ring in its ear, so it lowers its ear and leaves.Digimon Reference Book⇨ English大きな１つの耳とフサフサな体毛に覆われている幼年期デジモン。生まれた時から恥ずかしがり屋で、目を見つめるとすぐに顔を伏せてしまう。しかし懐っこさも持ち、気になるデジモンには体をすりすりして積極的にスキンシップをとる様子も見られている。ちょっかいを出してくる相手は嫌い、大きな耳でひっぱたく『イヤンタ』で成長期デジモンも吹っ飛ばす威力がある。同じく、耳に響くような大きな音を出すモノを嫌い、耳を伏せて去っていく。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pyonmon"
+    },
+    {
+      "id": "bosa",
+      "name": "Bosamon",
+      "name_jp": "Bosamon",
+      "name_ko": "보사몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bosa/frame1.gif",
+        "frame2": "sprites/bosa/frame2.gif"
+      },
+      "artwork": "sprites/bosa/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromPyonmon. Its bangs have grown out, hiding its eyes, so it can now move around without worrying about others looking at it. Its shy personality has changed into one that is calm. It now has two long ears and its sense of hearing has further developed. It is able to perceive sound in three dimensions, and listening to conversations between fellow Digimon from a distance has become its hobby. It has a lot of information about things that it has not experienced firsthand thanks to that. It hates fighting; it is able to quickly detect the approach of an enemy, which prompts it to leave the area. Even if its escape route is blocked, it will use its combo attack \"Mikkomi\", in which it slaps the opponent with its ears, and take the opportunity to hide while the opponent is still startled.Digimon Reference Book⇨ Englishピョンモンが進化したレッサー型デジモン。前髪が伸び目が隠れたことで他人の視線を気にせず動き回れるようになった。恥ずかしがり屋な性格は穏やかさへと変化している。長い耳が２つになり聴覚が発達。音を立体的に感知することが可能となり、デジモン同士の会話を遠くから聞くことが趣味になった。そのおかげか経験していないことも情報だけはとても豊富に持っている。戦いは好まず、敵の接近をいち早く察知しその場を去る。逃げ場を立ち塞がれても耳ではたく連撃『ミッコミ』で、相手が怯んだうちに身を隠す。デジモン図鑑",
+        "ko": "뿅몬 이 진화한 레서형 디지몬. 앞머리가 늘어져 눈이 가려지면서 다른 사람들의 시선을 의식하지 않고 돌아다닐 수 있게 되었다. 수줍음을 잘 타는 성격은 온화하게 바뀌고 있다. 긴 귀가 2개가 되어 청각이 발달, 소리를 입체적으로 감지하는 것이 가능해지면서 디지몬끼리의 대화를 멀리서 듣는 것이 취미가 됐다. 그 덕분인지 경험하지 못한 것들도 정보만큼은 아주 풍부하게 갖고 있다. 싸움은 좋아하지 않고 적의 접근을 재빨리 눈치채고 그곳을 떠난다. 도망갈 곳을 가로막아도 귀로 때리는 연격 \"밋코미\"로, 상대가 움츠린 사이에 몸을 숨긴다."
+      },
+      "wikimon_url": "https://wikimon.net/Bosamon"
+    },
+    {
+      "id": "angora",
+      "name": "Angoramon",
+      "name_jp": "Angoramon",
+      "name_ko": "앙고라몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/angora/frame1.gif",
+        "frame2": "sprites/angora/frame2.gif"
+      },
+      "artwork": "sprites/angora/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon characterized by its long ears and the fur that covers its whole body. It hates fighting and has a calm personality, and avoids battle by detecting the approach of enemies from a distance with its long ears. Also, its long ears spin, allowing it to fly slowly. It has a great appetite to maintain its large physique, and completely loses its super-hearing to detect the enemy only when its stomach rumbles.Its Special Moves are mowing down enemies in its surroundings by spinning both of its large arms (Double Lariat), a small tornado generated by the propeller rotation of both its ears (Petit Tornado), and a technique in which it jumps high into the sky and then crushes the enemy with its large build (Pyon Dump).Digimon Reference Book⇨ English長い耳と全身を覆う体毛が特徴的な獣型デジモン。戦いを好まない穏やかな性格を持ち、長い耳で遠くから敵の接近を察知して戦闘を回避する。また、長い耳は回転させることでゆっくりと飛翔することもできる。大きな体格を維持するために食欲旺盛、空腹でおなかの音が鳴るときだけは敵を察知する超聴覚が失われてしまう。必殺技は、大きな両腕の回転で周囲の敵をなぎ払う『ダブルラリアット』、両耳のプロペラ回転で巻き起こす小型竜巻『プチトルネード』、そして高空へとジャンプして巨体で敵を押し潰す技『ピョンダンプ』を使う。デジモン図鑑",
+        "ko": "긴 귀와 온몸을 덮는 체모가 특징인 짐승형 디지몬. 싸움을 좋아하지 않는 온화한 성격을 가지고 있고, 긴 귀로 멀리있는 적의 접근을 감지해 전투를 회피한다. 또 긴 귀는 회전시켜 천천히 비행할 수 있다. 큰 몸집을 유지하기 위해 식욕이 왕성하고, 공복으로 배에서 소리가 날 때만큼은 적을 감지하는 초청각을 잃어버린다. 필살기는 큰 양팔을 회전시켜 주위의 적을 쓰러뜨리는 \"더블 래리어트\", 양쪽 귀를 프로펠러처럼 회전시켜 일으키는 소형 회오리바람 \"쁘띠 토네이도\", 그리고 고공으로 점프해 거구로 적을 짓누르는 기술인 \"뿅 덤프\"를 사용한다."
+      },
+      "wikimon_url": "https://wikimon.net/Angoramon"
+    },
+    {
+      "id": "symbareangora",
+      "name": "Symbare Angoramon",
+      "name_jp": "Symbare Angoramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/symbareangora/frame1.gif",
+        "frame2": "sprites/symbareangora/frame2.gif"
+      },
+      "artwork": "sprites/symbareangora/artwork.jpg",
+      "lore": {
+        "en": "The Adult form ofAngoramonthat has shed the long, soft fur covering it in pursuit of agility. Although it has lost the defense offered by the cushioning fur that used to cover its body, its movements have become nimble. It strives for beauty in its behavior and movements, and in battle, it dodges the enemy's attacks as if it were dancing, in lockstep with its own attacks.Its Special Moves are dishing out a barrage of quick kicks while standing on one leg (Jive), spinning its body and slashing the enemy with the razor-sharp tips of its ears (Ländlizer), and unleashing a powerful tornado from both of its hands (Breakin'Stream). It strives for beauty even when unleashing these techniques.Digimon Reference Book⇨ Englishアンゴラモンが瞬発性を求め、纏っていた長柔毛を解いた成熟期の姿。体を覆っていたクッション性のある毛による防御力は失ったが、身のこなしが軽やかになった。振る舞いや動きに美しさを求め、戦いにおいては舞を舞うように敵の攻撃を受け流して自身の攻撃に繋げる。必殺技は、片脚立ちの体勢から素早い蹴りの連打を繰り出す『ジャイブ』、体を回転させて切れ味鋭い耳先で敵を切る『レントライザー』、さらに両手から強力な竜巻を放つ『ブレイキンストリーム』。技を放つ時でも美しさを追及する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Symbare_Angoramon"
+    },
+    {
+      "id": "leo",
+      "name": "Leomon",
+      "name_jp": "Leomon",
+      "name_ko": "레오몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/leo/frame1.gif",
+        "frame2": "sprites/leo/frame2.gif"
+      },
+      "artwork": "sprites/leo/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon which is called the \"King of Beasts\", as well as the \"Noble Hero\". While most Digimon are savage, it possesses a strong purpose and a heart of justice, and has defeated a great number of fiendish Digimon. Also, it is a rival to the \"Digimon Hunter\"Orgemon, who runs the whole gamut of destruction. Its tough flesh, tempered well by daily training, can endure any attack, and it chokes the life out of the opponent with its ultimate secret technique, its Special Move \"Jūouken\". It carries a sentient magical sword named \"Shishiou-maru\" on its waist.Digimon Reference Book⇨ English百獣の王、気高き勇者とも呼ばれる獣人型デジモン。狂暴なデジモン達が多い中、強い意思と正義の心を持っており、数多くの凶悪なデジモンを倒してきた。また、破壊の限りを尽くす“デジモンハンター”のオーガモンとはライバルである。日々の鍛錬で鍛え上げられた強靭な肉体はあらゆる攻撃に耐え、必殺技の究極奥義『獣王拳』で敵の息の根を止めてしまう。「獅子王丸」という意思を持った妖刀を腰に携えている。デジモン図鑑",
+        "ko": "백수의 왕, 고상한 용사라 불리는 수인형 디지몬. 광포한 디지몬들이 많은 가운데 강한 의지와 정의의 마음을 가지고 있으며, 수 많은 흉악한 디지몬을 쓰러뜨려왔다. 또한 파괴에 온 힘을 쏟는 \"디지몬 헌터\" 우가몬 과는 라이벌이다. 나날이 단련된 강인한 육체는 모든 공격을 견디고, 필살기인 궁극오의 \"수왕권(獣王拳) [2] \"으로 적의 숨통을 끊어 버린다. 또한 의사를 가진 요도 \"사자왕환(獅子王丸) [3] \"을 허리에 차고 있으며 이걸 사용하기도 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Leomon"
+    },
+    {
+      "id": "komondo",
+      "name": "Komondomon",
+      "name_jp": "Komondomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/komondo/frame1.gif",
+        "frame2": "sprites/komondo/frame2.gif"
+      },
+      "artwork": "sprites/komondo/artwork.jpg",
+      "lore": {
+        "en": "A vehicle Digimon that loves to move around while carrying other Digimon. It feels like it is taking a walk wherever it goes and has a carefree personality that doesn't mind wherever it sets foot. It can dive and navigate underwater by spinning its tail. Although its long fur coat constantly gets dirty from being dragged along the ground, it is actually quite fond of cleanliness. It hates fighting and will try to flee from it, putting the safety of the Digimon aboard it first, but as for those who attack it, it repels them with its “Wi-wiper”, where it leans over them with its large body and scrubs them with the shaggy hair covering its feet, and “Masshigurun”, which blows them away with its violent dashing.Digimon Reference Book⇨ Englishデジモンを乗せて移動することが好きな乗物デジモン。どこへ行くにも散歩感覚でどんな足場でも苦にしない気楽な性格。水中も尻尾を回せば潜って進むことができる。長い毛並みは地面に引きずってしまいいつも汚れてしまうが、実はかなりの綺麗好きでもある。戦いは好まず乗車しているデジモンの安全を第一に走り去ろうとするが、襲ってくる相手には巨体でのしかかり足のむく毛でゴシゴシこする『ワイワイパー』や、猛突進で相手を吹っ飛ばす『マッシグラン』で撃退する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Komondomon"
+    },
+    {
+      "id": "porcupa",
+      "name": "Porcupamon",
+      "name_jp": "Porcupamon",
+      "name_ko": "포큐파몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/porcupa/frame1.gif",
+        "frame2": "sprites/porcupa/frame2.gif"
+      },
+      "artwork": "sprites/porcupa/artwork.jpg",
+      "lore": {
+        "en": "Categorized as one of theRed DataDigimon species, it is a rare Digimon threatened with extinction. Although it was not originally a species that inhabited theDark Area, it was driven off by various species of Digimon, and now it lives in the Dark Area. Its body is covered in a special leather material, and its wicked-looking suit is thought to be camouflage to help it stay alive in the Dark Area, where struggles for survival are at their fiercest. Its Special Moves are stabbing the opponent with its pointed body hair (Madness Broach), and slashing at them with its edged claws (Slap and Rip).Digimon Reference Book⇨ Englishレッドデータデジモン１種に分類される、絶滅が危惧されている希少デジモン。もともとダークエリアに生息している種ではなかったが、多種族デジモンに追いやられ、現在はダークエリアに生息している。ボディは特殊なレザー素材で覆われており、この邪悪ないでたちのスーツは最も生存競争が激しいダークエリアで生きていくための擬態のためと思われる。必殺技は、鋭い体毛で敵を突き刺す『マッドネスブローチ』と刃物状の爪で切りつける『スラップアンドリップ』。デジモン図鑑",
+        "ko": "레드 데이터 디지몬의 1종으로 분류되는 멸종이 우려되고 있는 희귀 디지몬. 원래 다크 에리어에 서식하는 종은 아니었으나 수가 많은 종의 디지몬에게 밀려 현재는 다크 에리어에 서식하고 있다. 몸은 특수한 가죽 소재로 덮여 있으며, 이 사악한 복장은 가장 생존경쟁이 치열한 다크 에리어에서 살아가기 위한 의태로 것으로 보인다. 필살기는 날카로운 털로 적을 찌르는 \"매드니스 브로치\"와 칼날 모양의 손톱으로 내리치는 \"슬랩 앤 립\"."
+      },
+      "wikimon_url": "https://wikimon.net/Porcupamon"
+    },
+    {
+      "id": "lamort",
+      "name": "Lamortmon",
+      "name_jp": "Lamortmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lamort/frame1.gif",
+        "frame2": "sprites/lamort/frame2.gif"
+      },
+      "artwork": "sprites/lamort/artwork.jpg",
+      "lore": {
+        "en": "A Perfect Digimon whose hidden feral instincts have been unleashed. It will immediately swoop down on Digimon that express their disgust towards it and keep smashing them until they stop breathing. Although it is an impetuous Digimon that has uncontrollable impulses, it seems that there are some individuals who are ashamed of and despise their own impulses. The vacuum blades that surround the two \"Jūran-maru\" longswords it carries on its waist become stronger and sharper the more it unleashes its ferocity. Taming a rampaging Lamortmon is impossible unless one has built a great deal of trust with them.Its Special Moves are slicing open the enemy's belly with its claws (Kaisaisō), repeatedly swinging its two longswords with all its might to pulverize the enemy (Kōhabattō), and unleashing the vacuum blades that envelop its longswords (Fūga Rekkanjin). In addition, its \"Gōon Kieizan\", in which it converts all of its reason into ferocity and bisects the enemy with its two longswords, is Lamortmon's most destructive technique which slashes the enemy while smashing them to smithereens at the same time.Digimon Reference Book⇨ English秘められた野性本能が解放された完全体デジモン。自分に対して嫌悪感を示したデジモンには即座に飛び掛かり、息の根が止まるまで叩き潰し続ける。直情的で自制のきかない衝動を持つデジモンだが自身の衝動を恥じて嫌う個体もいるようだ。腰に携えている2本の大刀「獣嵐丸（じゅうらんまる）」は野性を解放するほどに纏う真空の刃が強まり切れ味が増していく。暴れるラモールモンを大人しくさせるには相当な信頼関係を築いていなければ不可能だろう。必殺技は、爪で敵の腹を掻っ捌く『禍災爪』、そして2本の大刀を力任せに振るい続け敵を粉砕する『叩破伐倒』や、大刀に纏った真空の刃を放つ『風牙烈巻迅』がある。また、理性を全て野性に変換し2本の大刀で両断する『豪怨毀永斬』はラモールモン最大の破壊力となって敵を断つと同時に木端微塵にする。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lamortmon"
+    },
+    {
+      "id": "grappuleo",
+      "name": "Grappu Leomon",
+      "name_jp": "Grappu Leomon",
+      "name_ko": "아이언레오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grappuleo/frame1.gif",
+        "frame2": "sprites/grappuleo/frame2.gif"
+      },
+      "artwork": "sprites/grappuleo/artwork.jpg",
+      "lore": {
+        "en": "A Grappling-species Beast Man Digimon that took in the data of various fighting games, using their original secrets to crush the opponent. Although it rapidly spins the turbines on both of its arms and feet to unleash ever-changing techniques, the turbines rotate by being blown into all at once by the fighting spirit emitted by itsDigicore, and can't run on mediocre emotional strength. Grappu Leomon inherited the data of the \"King of Beasts\",Leomon, and so that strong will to justice rapidly spins the turbines to their extremes. Its Special Moves are rapidly spinning the turbines on its arms to their highest limit, then driving forward a blow heavy enough to distort gravity (Shishi Jūhazan), and rotating its whole body for the ultimate barrage of roundhouse kicks (Senpū Turbine Geri).Digimon Reference Book⇨ English様々な格闘ゲームのデータを取り込み、オリジナルの奥義をもって敵を打ち砕く、格闘系獣人型デジモン。両腕・両足のタービンを高速回転させて変幻自在の技を繰り出すが、タービンはデジコア（電脳核）から発する気合を一気に吹き付けることで回転させており、並大抵の精神力では続かない。“百獣の王”レオモンのデータを受け継ぐグラップレオモンだからこそ、その正義への強い意思がタービンを究極にまで高速回転させている。必殺技は腕のタービンを極限にまで高速回転させて、重力を捻じ曲げるほどの重い一撃を打ち込む『獅子獣波斬』と、全身を回転させて回し蹴りの究極連打『旋風タービン蹴り』。デジモン図鑑",
+        "ko": "다양한 격투 게임의 데이터를 넣어 오리지널 오의로 적을 쳐부수는 격투계 수인형 디지몬. 두 팔과 두 발의 터빈을 고속회전시켜 변환자재의 기술을 내보낸다. 터빈은 디지코어에서 나오는 기합을 단숨에 분사해 회전시키며, 보통의 정신력으론 버티지 못한다. \"백수의 왕\" 레오몬의 데이터를 계승하는 아이언레오몬이기에 정의에 대한 강한 의지로 터빈을 극한까지 고속회전시키고 있다. 필살기는 팔의 터빈을 극한까지 고속회전시켜 중력을 휘게만드는 무거운 일격을 때려넣는 \"사자수파참\"과 전신을 회전시키며 돌려차기의 궁극연타 \"선풍 터빈 킥\"."
+      },
+      "wikimon_url": "https://wikimon.net/Grappu_Leomon"
+    },
+    {
+      "id": "skullbaluchi",
+      "name": "Skull Baluchimon",
+      "name_jp": "Skull Baluchimon",
+      "name_ko": "스컬벌키몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/skullbaluchi/frame1.gif",
+        "frame2": "sprites/skullbaluchi/frame2.gif"
+      },
+      "artwork": "sprites/skullbaluchi/artwork.jpg",
+      "lore": {
+        "en": "A gigantic Undead Digimon reproduced from the data of several counterfeit fossils, which were in the data of a fossil of what was thought to be the largest land mammal. It has no emotions or intelligence, and because its body operates by reflex with only the data of the nerves laid out within its body, it keeps mercilessly attacking until it can no longer move. It is said that it will plunge any Digimon into the terror of death, either from the curse which forcibly revived it from the data of its corpse, or the cold black vapors which flow unceasingly from itsDigicore. Its Special Moves are trampling the opponent with its gigantic feet, burying them underground (Grave Bone), and imprisoning the opponent in the space within its cold black vapors, then chasing them eternally until they die (Deadly Fear).Digimon Reference Book⇨ English陸上最大の哺乳類とされる化石のデータに、幾つかの化石のデータが偽造されて再製された巨大なアンデッド型デジモン。感情や知性は無く、体内に張り巡らされた神経のデータだけで反射的に体を動かしているため、容赦も加減も無い攻撃を自らが動けなくなるまで繰り返す。屍のデータから無理やりに蘇生させられた呪いか、デジコア（電脳核）より止め処なく溢れ出す黒い冷気は、どんなデジモンをも死の恐怖に陥れるという。必殺技は巨大な足で敵を踏み潰し、地中に埋没させる『グレイブボーン』と、黒い冷気の空間の中に敵を閉じ込め、死ぬまで果てしなく追いつめる『デッドリーフィアー』。デジモン図鑑",
+        "ko": "지상 최대의 포유류로 여겨지는 화석 데이터와 몇 개의 화석 데이터가 위조되어 다시 가공된 거대한 언데드형 디지몬. 감정과 지성은 없으며 체내에 가득 펼쳐진 신경 데이터만을 이용해 반사적으로 몸을 움직이므로, 자신이 움직이지 못할 때까지 무자비하고 힘 조절도 하지 않은 공격을 반복한다. 시체의 데이터에서 억지로 되살린 저주 때문인지 디지코어(전뇌핵)에서 끝없이 흘러나오는 검은 냉기는 모든 디지몬을 죽음의 공포에 빠뜨린다. 필살기는 거대한 발로 적을 밟아 뭉개고 땅속에 묻어 버리는 『그레이브 본』과 검은 냉기의 공간 속에 적을 가둬 죽을 때까지 끝없이 몰아넣는 『데들리 피어』다."
+      },
+      "wikimon_url": "https://wikimon.net/Skull_Baluchimon"
+    },
+    {
+      "id": "warumonzae",
+      "name": "Waru Monzaemon",
+      "name_jp": "Waru Monzaemon",
+      "name_ko": "배드퍼펫몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/warumonzae/frame1.gif",
+        "frame2": "sprites/warumonzae/frame2.gif"
+      },
+      "artwork": "sprites/warumonzae/artwork.jpg",
+      "lore": {
+        "en": "This fiendish-faced Puppet Digimon is a far cry fromMonzaemon. It's on good terms withMetal Etemon, and it is said that the Waru Monzaemon plush toy it wears on its waist is something that Waru Monzaemon sent to it. Still, similar to Monzaemon, its true form is unclear, but the peeking out of its strange, shining eyes from within is eerie. Its personality is the epitome of wickedness, and it is malicious and treacherous. Its left arm is equipped with the character \"Evil\" and the powerful \"Bear Claw\" of agrizzly bear. Its Special Move is giving everything a dark mood and depressing them (Heartbreak Attack). If you suffer this attack, your feelings become dark and sorrowful, and you completely lose your fighting spirit.Digimon Reference Book⇨ Englishもんざえモンとは似ても似つかない程の凶悪顔のパペットデジモン。メタルエテモンとは仲が良く、彼が腰に付けているワルもんざえモンのヌイグルミは本人が送ったものだと言われている。やはり、もんざえモンと同じく、その正体は不明だが、中かから妖しく光る目が覗いているのが不気味だ。性格は悪そのもので、意地悪で陰険。左腕には「惡」の一文字と、灰色熊の強力な爪「ベアクロー」を装備している。必殺技は全てのものをダークな気分にさせて落ち込ませてしまう『ハートブレイクアタック』。この攻撃を受けると暗く哀しい気持ちになってしまい、戦意を喪失してしまう。デジモン図鑑",
+        "ko": "퍼펫몬과는 전혀 다른 흉악한 얼굴을 지닌 퍼펫 디지몬. 메탈에테몬과는 사이가 좋으며 메탈에테몬이 허리에 차고 있는 배드퍼펫몬 인형은 배드퍼펫몬 본인이 보냈다고 한다. 역시 퍼펫몬과 마찬가지로 정체는 수수께끼에 싸여 있지만, 안에서 불가사의하게 빛나는 눈이 엿보는 게 어쩐지 꺼림직하다. 성격은 악 그 자체로 심술궂고 음침하다. 왼쪽 팔에는 「악」이라는 한자와 회색곰의 강력한 손톱 「베어 클로」가 장착되어 있다. [1] 필살기는 모든 이의 마음을 어둡게 해 낙담하게 만드는 『하트 브레이크 어택 [2] 』이다. 이 공격을 맞으면 마음이 어둡고 슬퍼져서 전의를 상실해 버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Waru_Monzaemon"
+    },
+    {
+      "id": "anubi",
+      "name": "Anubimon",
+      "name_jp": "Anubimon",
+      "name_ko": "아누비스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/anubi/frame1.gif",
+        "frame2": "sprites/anubi/frame2.gif"
+      },
+      "artwork": "sprites/anubi/artwork.jpg",
+      "lore": {
+        "en": "A God Man Digimon that guards and supervises theDark Area. It constantly monitors the Dark Area, to which Digimon that were deleted when they reached the end of their lifespan, or when they were defeated in battle, are ultimately transmitted (thoughFallen Angel Digimonare sent there while still alive). As for the Digimon sent to the Dark Area, if their data is evil, it imprisons them within eternal darkness, but if their data is good, it has the ability to reset them back to aDigitama. It has power as mighty as to decide the rebirth of a Digimon, and furthermore, it has the role of theDigital World's judge. Its Signature Move is drawing a square pyramid with beams of light as depicted in Ancient Egypt's mystic rites, then imprisoning the opponent within it (Pyramid Power). Its Special Move \"Ammit\" is a terrifying technique that summons a demonic beast from hell, which devours theDigicoresof evil Digimon.Digimon Reference Book⇨ Englishダークエリアを守護・監督する神人型デジモン。寿命を全うし消滅したデジモンや、戦闘で敗北し消滅したデジモンが最後に転送されるダークエリア（堕天使型デジモン等は生きながら転送された）を常に監視している。ダークエリアに転送されたデジモンが、悪しきデータであれば永遠の闇に閉じ込め、良きデータであれば再度デジタマへと還元する能力を持っている。デジモンの生死を決められるだけの強大なパワーをもち、さらにはデジタルワールドの裁判官の役割も持っている。得意技は古代エジプトの秘法で描いた光線で四角錐を描き相手を閉じこめる『ピラミッドパワー』。必殺技の『アメミット』は地獄の魔獣を召喚し、悪しきデジモンのデジコアを喰らい尽くす恐ろしい技。デジモン図鑑",
+        "ko": "다크 에어리어를 수호, 감독하는 신인형 디지몬. 수명이 다하거나 디지몬과 전투에서 패배해 소멸한 디지몬이 마지막으로 전송되는 다크 에어리어(타천사형 디지몬 등은 살아 있는 채로 전송되었다)를 항상 감시한다. 다크 에어리어에 전송된 디지몬이 나쁜 데이터면 영원한 어둠에 가두고, 좋은 데이터면 다시 디지몬알로 환원하는 능력을 지니고 있다. 디지몬의 생사를 정할 수 있을 만한 강력한 힘을 지녔으며, 디지털 월드의 재판관 역할도 맡고 있다. 필살기는 고대 이집트의 비법으로 그린 광선을 이용해 사각뿔을 그린 후, 상대를 가두는 『피라미드 파워』와 지옥의 마수를 소환해 나쁜 디지몬의 디지코어 를 먹어 치우는 무시무시한 기술 『 암미트 』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Anubimon"
+    },
+    {
+      "id": "saberleo",
+      "name": "Saber Leomon",
+      "name_jp": "Saber Leomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/saberleo/frame1.gif",
+        "frame2": "sprites/saberleo/frame2.gif"
+      },
+      "artwork": "sprites/saberleo/artwork.jpg",
+      "lore": {
+        "en": "An Ancient Beast Digimon said to possess explosive,Mach speedpower. However, the details about it are shrouded in mystery, though a theory suggests that it might have been aLeomonwho was transformed into a beast. It possesses explosive Mach speed power, and with that speed it can easily dodge attacks, no matter how fast they are. Its two greatly developed fangs and sharp claws possess tremendous destructive power, and it is referred to as the ultimate Digimon. Its Special Move is hardening the countless \"Hairs\" of its mane and firing them at the opponent (Infinity Arrow). Because its hairs are envenomed, those who suffer this attack have their bodies completely paralyzed. Also, its \"Nail Crusher\", which utilizes its gigantic claws, is a terrifying technique which tears the opponent to pieces.Digimon Reference Book⇨ Englishマッハの瞬発力を持つといわれている古代獣デジモン。しかし、その詳細は謎に包まれており、一説にはレオモンが獣化した姿ではないかとも言われている。マッハの瞬発力を持っており、そのスピードはどんなに素早い攻撃でも簡単に避けてしまう。大きく発達した２本の牙と、鋭い爪は絶大な破壊力を持ち究極のデジモンと呼ばれている。必殺技は無数のたてがみの「毛」を硬質化して相手にぶつける『インフィニティアロー』。毛には毒性があり、その攻撃を受けた者は体が麻痺してしまう。そして巨大な爪を使った『ネイルクラッシャー』は相手を八つ裂きにする恐ろしい技。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Saber_Leomon"
+    },
+    {
+      "id": "griffo",
+      "name": "Griffomon",
+      "name_jp": "Griffomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/griffo/frame1.gif",
+        "frame2": "sprites/griffo/frame2.gif"
+      },
+      "artwork": "sprites/griffo/artwork.jpg",
+      "lore": {
+        "en": "A fusion Digimon which possesses the head, wings, and forelegs of a Bird Digimon, and the body of a Beast Digimon with a snake-like tail attached to it. Although it is able to fly about the skies with its wings, it is said that it usually inhabits desert regions and mountain caves. Also, Griffomon's offensive power is extremely great, and because it makes sport of enemies with its keen movements, it is extremely difficult to defeat Griffomon. To make the best use of those abilities, it serves as a guard defending against illegal penetrations of theInternet, and is used for the security of confidential information. Its Special Move is producing an extremely high-frequency sound wave, which obliterates the opponent's data structure (Supersonic Voice).Digimon Reference Book⇨ English鳥型デジモンの頭と翼、前足を持ち、胴体は獣型デジモン、尻尾には蛇のようなものが付いている合体デジモン。その翼で大空を飛び回ることができるが、普段は砂漠地帯や山岳地帯の洞窟に棲んでいると言われている。また、グリフォモンの攻撃力は非常に高く、俊敏な動きで敵を翻弄するためグリフォモンを倒すことは困難を極める。その性能を生かし、インターネット上では不法な侵入を防ぐ番人や、機密情報のセキュリティとして利用されている。必殺技は超高周波の音波を出し、敵のデータ構造を破壊してしまう『スーパーソニックボイス』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Griffomon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "angora",
+      "to": "symbareangora",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,100+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "leo",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "komondo",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "porcupa",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "lamort",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "leo",
+      "to": "lamort",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "komondo",
+      "to": "lamort",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "porcupa",
+      "to": "lamort",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "grappuleo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "leo",
+      "to": "grappuleo",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "skullbaluchi",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "porcupa",
+      "to": "skullbaluchi",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "komondo",
+      "to": "warumonzae",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "to": "anubi",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "skullbaluchi",
+      "to": "anubi",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "warumonzae",
+      "to": "anubi",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "to": "saberleo",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "to": "saberleo",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "warumonzae",
+      "to": "saberleo",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "to": "griffo",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "to": "griffo",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "skullbaluchi",
+      "to": "griffo",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "pyon",
+      "to": "bosa",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "bosa",
+      "to": "angora",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "warumonzae",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    }
+  ]
+}

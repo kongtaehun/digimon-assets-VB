@@ -1,0 +1,838 @@
+{
+  "id": "looga",
+  "name": "Loogamon",
+  "release": "JP: May 2023 - Premium Bandai",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_looga.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_looga.gif",
+  "digimon": [
+    {
+      "id": "fusa",
+      "name": "Fusamon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fusa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fusa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fusa.jpg"
+    },
+    {
+      "id": "bow",
+      "name": "Bowmon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bow.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bow.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bow.jpg"
+    },
+    {
+      "id": "looga",
+      "name": "Loogamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5000",
+        "hp": "2800",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/looga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/looga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/looga.jpg"
+    },
+    {
+      "id": "heriss",
+      "name": "Herissmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4600",
+        "hp": "3000",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/heriss.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/heriss.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/heriss.jpg"
+    },
+    {
+      "id": "bem",
+      "name": "Bemmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "2900",
+        "ap": "1050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bem.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bem.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bem.jpg"
+    },
+    {
+      "id": "loogar",
+      "name": "Loogarmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5400",
+        "hp": "3300",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/loogar.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/loogar.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/loogar.jpg"
+    },
+    {
+      "id": "fil",
+      "name": "Filmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5200",
+        "hp": "3600",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fil.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fil.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fil.jpg"
+    },
+    {
+      "id": "tyrano",
+      "name": "Tyranomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "3700",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/tyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/tyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tyrano.jpg"
+    },
+    {
+      "id": "dame",
+      "name": "Damemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4800",
+        "hp": "3300",
+        "ap": "1150"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dame.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dame.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dame.jpg"
+    },
+    {
+      "id": "snatch",
+      "name": "Snatchmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5300",
+        "hp": "3400",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/snatch.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/snatch.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/snatch.jpg"
+    },
+    {
+      "id": "soloogar",
+      "name": "Soloogarmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4300",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/soloogar.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/soloogar.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/soloogar.jpg"
+    },
+    {
+      "id": "stiffil",
+      "name": "Stiffilmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5600",
+        "hp": "4600",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/stiffil.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/stiffil.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/stiffil.jpg"
+    },
+    {
+      "id": "helloogar",
+      "name": "Helloogarmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "4000",
+        "ap": "1600"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/helloogar.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/helloogar.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/helloogar.jpg"
+    },
+    {
+      "id": "andro",
+      "name": "Andromon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5000",
+        "hp": "3900",
+        "ap": "1450"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/andro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/andro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/andro.jpg"
+    },
+    {
+      "id": "mastertyrano",
+      "name": "Master Tyranomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4900",
+        "hp": "4200",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mastertyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mastertyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mastertyrano.jpg"
+    },
+    {
+      "id": "destro",
+      "name": "Destromon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5700",
+        "hp": "4300",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/destro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/destro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/destro.jpg"
+    },
+    {
+      "id": "fenrilooga",
+      "name": "Fenriloogamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6800",
+        "hp": "5500",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fenrilooga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fenrilooga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fenrilooga.jpg"
+    },
+    {
+      "id": "rasen",
+      "name": "Rasenmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6000",
+        "hp": "6000",
+        "ap": "1900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/rasen.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/rasen.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rasen.jpg"
+    },
+    {
+      "id": "rasen_f",
+      "name": "Rasenmon: Fury Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5800",
+        "hp": "5800",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/rasen_f.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/rasen_f.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rasen_f.jpg"
+    },
+    {
+      "id": "hiandro",
+      "name": "Hi Andromon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5100",
+        "hp": "5200",
+        "ap": "1850"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/hiandro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/hiandro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hiandro.jpg"
+    },
+    {
+      "id": "rusttyrano",
+      "name": "Rust Tyranomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "5500",
+        "ap": "1900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/rusttyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/rusttyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rusttyrano.jpg"
+    },
+    {
+      "id": "ragna",
+      "name": "Ragnamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5600",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/ragna.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/ragna.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ragna.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "bow",
+      "from_name": "Bowmon",
+      "to": "looga",
+      "to_name": "Loogamon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bow",
+      "from_name": "Bowmon",
+      "to": "heriss",
+      "to_name": "Herissmon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bow",
+      "from_name": "Bowmon",
+      "to": "bem",
+      "to_name": "Bemmon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 1 Cleared"
+      }
+    },
+    {
+      "from": "looga",
+      "from_name": "Loogamon",
+      "to": "loogar",
+      "to_name": "Loogarmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "heriss",
+      "from_name": "Herissmon",
+      "to": "loogar",
+      "to_name": "Loogarmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "looga",
+      "from_name": "Loogamon",
+      "to": "fil",
+      "to_name": "Filmon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "heriss",
+      "from_name": "Herissmon",
+      "to": "fil",
+      "to_name": "Filmon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "looga",
+      "from_name": "Loogamon",
+      "to": "tyrano",
+      "to_name": "Tyranomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bem",
+      "from_name": "Bemmon",
+      "to": "tyrano",
+      "to_name": "Tyranomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "heriss",
+      "from_name": "Herissmon",
+      "to": "dame",
+      "to_name": "Damemon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bem",
+      "from_name": "Bemmon",
+      "to": "dame",
+      "to_name": "Damemon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "looga",
+      "from_name": "Loogamon",
+      "to": "snatch",
+      "to_name": "Snatchmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    },
+    {
+      "from": "bem",
+      "from_name": "Bemmon",
+      "to": "snatch",
+      "to_name": "Snatchmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    },
+    {
+      "from": "loogar",
+      "from_name": "Loogarmon",
+      "to": "soloogar",
+      "to_name": "Soloogarmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fil",
+      "from_name": "Filmon",
+      "to": "soloogar",
+      "to_name": "Soloogarmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "from_name": "Tyranomon",
+      "to": "soloogar",
+      "to_name": "Soloogarmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "loogar",
+      "from_name": "Loogarmon",
+      "to": "stiffil",
+      "to_name": "Stiffilmon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "fil",
+      "from_name": "Filmon",
+      "to": "stiffil",
+      "to_name": "Stiffilmon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "loogar",
+      "from_name": "Loogarmon",
+      "to": "helloogar",
+      "to_name": "Helloogarmon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "from_name": "Tyranomon",
+      "to": "helloogar",
+      "to_name": "Helloogarmon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "snatch",
+      "from_name": "Snatchmon",
+      "to": "helloogar",
+      "to_name": "Helloogarmon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "fil",
+      "from_name": "Filmon",
+      "to": "andro",
+      "to_name": "Andromon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "dame",
+      "from_name": "Damemon",
+      "to": "andro",
+      "to_name": "Andromon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "from_name": "Tyranomon",
+      "to": "mastertyrano",
+      "to_name": "Master Tyranomon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "snatch",
+      "from_name": "Snatchmon",
+      "to": "mastertyrano",
+      "to_name": "Master Tyranomon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dame",
+      "from_name": "Damemon",
+      "to": "destro",
+      "to_name": "Destromon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "snatch",
+      "from_name": "Snatchmon",
+      "to": "destro",
+      "to_name": "Destromon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "soloogar",
+      "from_name": "Soloogarmon",
+      "to": "fenrilooga",
+      "to_name": "Fenriloogamon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "helloogar",
+      "from_name": "Helloogarmon",
+      "to": "fenrilooga",
+      "to_name": "Fenriloogamon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "soloogar",
+      "from_name": "Soloogarmon",
+      "to": "rasen",
+      "to_name": "Rasenmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "stiffil",
+      "from_name": "Stiffilmon",
+      "to": "rasen",
+      "to_name": "Rasenmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "stiffil",
+      "from_name": "Stiffilmon",
+      "to": "rasen_f",
+      "to_name": "Rasenmon: Fury Mode",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "helloogar",
+      "from_name": "Helloogarmon",
+      "to": "rasen_f",
+      "to_name": "Rasenmon: Fury Mode",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "andro",
+      "from_name": "Andromon",
+      "to": "hiandro",
+      "to_name": "Hi Andromon",
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "destro",
+      "from_name": "Destromon",
+      "to": "hiandro",
+      "to_name": "Hi Andromon",
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "andro",
+      "from_name": "Andromon",
+      "to": "rusttyrano",
+      "to_name": "Rust Tyranomon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "from_name": "Master Tyranomon",
+      "to": "rusttyrano",
+      "to_name": "Rust Tyranomon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "from_name": "Master Tyranomon",
+      "to": "ragna",
+      "to_name": "Ragnamon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "destro",
+      "from_name": "Destromon",
+      "to": "ragna",
+      "to_name": "Ragnamon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ]
+}

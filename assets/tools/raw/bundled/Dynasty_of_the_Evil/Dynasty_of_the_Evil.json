@@ -1,0 +1,595 @@
+{
+  "id": "dev",
+  "name": "Dynasty of the Evil",
+  "release": "JP: Sep 2021 - Retail (DiM Card Holster)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_dev.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_zuru.gif",
+  "digimon": [
+    {
+      "id": "zuru",
+      "name": "Zurumon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zuru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zuru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zuru.jpg"
+    },
+    {
+      "id": "pagu",
+      "name": "Pagumon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pagu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pagu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pagu.jpg"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghostmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ghost.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ghost.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ghost.jpg"
+    },
+    {
+      "id": "saberdra",
+      "name": "Saberdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/saberdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/saberdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/saberdra.jpg"
+    },
+    {
+      "id": "wizar",
+      "name": "Wizarmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wizar.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wizar.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wizar.jpg"
+    },
+    {
+      "id": "devi",
+      "name": "Devimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/devi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/devi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/devi.jpg"
+    },
+    {
+      "id": "bake",
+      "name": "Bakemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★4)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bake.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bake.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bake.jpg"
+    },
+    {
+      "id": "baal",
+      "name": "Baalmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/baal.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/baal.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/baal.jpg"
+    },
+    {
+      "id": "cyberdra_2010",
+      "name": "Cyberdramon (2010)",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cyberdra_2010.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cyberdra_2010.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cyberdra_2010.jpg"
+    },
+    {
+      "id": "pump",
+      "name": "Pumpmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pump.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pump.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pump.jpg"
+    },
+    {
+      "id": "vamde",
+      "name": "Vamdemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/vamde.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/vamde.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vamde.jpg"
+    },
+    {
+      "id": "joker",
+      "name": "Jokermon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/joker.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/joker.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/joker.jpg"
+    },
+    {
+      "id": "fanto",
+      "name": "Fantomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/fanto.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/fanto.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fanto.jpg"
+    },
+    {
+      "id": "noblepump",
+      "name": "Noble Pumpmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/noblepump.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/noblepump.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/noblepump.jpg"
+    },
+    {
+      "id": "pie",
+      "name": "Piemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pie.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pie.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pie.jpg"
+    },
+    {
+      "id": "beelzebu_2010",
+      "name": "Beelzebumon (2010)",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/beelzebu_2010.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/beelzebu_2010.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/beelzebu_2010.jpg"
+    },
+    {
+      "id": "neovamde",
+      "name": "Neo Vamdemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/neovamde.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/neovamde.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/neovamde.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "ghost",
+      "from_name": "Ghostmon",
+      "to": "saberdra",
+      "to_name": "Saberdramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ghost",
+      "from_name": "Ghostmon",
+      "to": "wizar",
+      "to_name": "Wizarmon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ghost",
+      "from_name": "Ghostmon",
+      "to": "devi",
+      "to_name": "Devimon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ghost",
+      "from_name": "Ghostmon",
+      "to": "bake",
+      "to_name": "Bakemon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wizar",
+      "from_name": "Wizarmon",
+      "to": "baal",
+      "to_name": "Baalmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "devi",
+      "from_name": "Devimon",
+      "to": "baal",
+      "to_name": "Baalmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "saberdra",
+      "from_name": "Saberdramon",
+      "to": "cyberdra_2010",
+      "to_name": "Cyberdramon (2010)",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "bake",
+      "from_name": "Bakemon",
+      "to": "cyberdra_2010",
+      "to_name": "Cyberdramon (2010)",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "wizar",
+      "from_name": "Wizarmon",
+      "to": "pump",
+      "to_name": "Pumpmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bake",
+      "from_name": "Bakemon",
+      "to": "pump",
+      "to_name": "Pumpmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "saberdra",
+      "from_name": "Saberdramon",
+      "to": "vamde",
+      "to_name": "Vamdemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "devi",
+      "from_name": "Devimon",
+      "to": "vamde",
+      "to_name": "Vamdemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wizar",
+      "from_name": "Wizarmon",
+      "to": "joker",
+      "to_name": "Jokermon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "devi",
+      "from_name": "Devimon",
+      "to": "joker",
+      "to_name": "Jokermon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "saberdra",
+      "from_name": "Saberdramon",
+      "to": "fanto",
+      "to_name": "Fantomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bake",
+      "from_name": "Bakemon",
+      "to": "fanto",
+      "to_name": "Fantomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baal",
+      "from_name": "Baalmon",
+      "to": "noblepump",
+      "to_name": "Noble Pumpmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pump",
+      "from_name": "Pumpmon",
+      "to": "noblepump",
+      "to_name": "Noble Pumpmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fanto",
+      "from_name": "Fantomon",
+      "to": "noblepump",
+      "to_name": "Noble Pumpmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pump",
+      "from_name": "Pumpmon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vamde",
+      "from_name": "Vamdemon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "joker",
+      "from_name": "Jokermon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "baal",
+      "from_name": "Baalmon",
+      "to": "beelzebu_2010",
+      "to_name": "Beelzebumon (2010)",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "joker",
+      "from_name": "Jokermon",
+      "to": "beelzebu_2010",
+      "to_name": "Beelzebumon (2010)",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vamde",
+      "from_name": "Vamdemon",
+      "to": "neovamde",
+      "to_name": "Neo Vamdemon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "fanto",
+      "from_name": "Fantomon",
+      "to": "neovamde",
+      "to_name": "Neo Vamdemon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

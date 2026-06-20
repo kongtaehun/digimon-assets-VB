@@ -1,0 +1,75 @@
+{
+  "id": "devitama",
+  "name": "Devitamamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/devitama.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/devitama.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/devitama.jpg",
+  "appearances": [
+    {
+      "dim_id": "espi",
+      "dim_name": "Espimon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "raijiludo",
+        "digitama",
+        "piccolo",
+        "rarerare",
+        "manticore"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Devitamamon",
+    "name_en": "Devitamamon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Lazy",
+    "stats": {
+      "dp": "45 (★8)",
+      "hp": "10",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "raijiludo",
+        "name": "Raiji Ludomon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "piccolo",
+        "name": "Piccolomon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "rarerare",
+        "name": "Rare Raremon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "manticore",
+        "name": "Manticoremon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

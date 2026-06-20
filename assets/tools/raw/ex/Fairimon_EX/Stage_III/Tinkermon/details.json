@@ -1,0 +1,42 @@
+{
+  "id": "tinker",
+  "name": "Tinkermon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tinker.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tinker.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/tinker.jpg",
+  "appearances": [
+    {
+      "dim_id": "fairi_ex",
+      "dim_name": "Fairimon EX",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Tinkermon",
+    "name_en": "Tinkermon",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "cresgaruru",
+  "name": "Cres Garurumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cresgaruru.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cresgaruru.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cresgaruru.jpg",
+  "appearances": [
+    {
+      "dim_id": "gabu_ex",
+      "dim_name": "Gabumon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Cres Garurumon",
+    "name_en": "CresGarurumon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "12",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "weregaruru",
+        "name": "Were Garurumon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "valve",
+        "name": "Valvemon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "bigmame",
+        "name": "Big Mamemon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "orochi",
+        "name": "Orochimon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "waruseadra",
+        "name": "Waru Seadramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "parrot",
+        "name": "Parrotmon",
+        "conditions": "Jogress with Data or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

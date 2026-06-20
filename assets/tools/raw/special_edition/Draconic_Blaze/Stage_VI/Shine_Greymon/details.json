@@ -1,0 +1,57 @@
+{
+  "id": "shinegrey",
+  "name": "Shine Greymon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shinegrey.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shinegrey.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shinegrey.jpg",
+  "appearances": [
+    {
+      "dim_id": "dbl",
+      "dim_name": "Draconic Blaze",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "rizegrey",
+        "wingdra"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shine Greymon",
+    "name_en": "ShineGreymon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "4500",
+      "hp": "6000",
+      "ap": "2000"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "rizegrey",
+        "name": "Rize Greymon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "wingdra",
+        "name": "Wingdramon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

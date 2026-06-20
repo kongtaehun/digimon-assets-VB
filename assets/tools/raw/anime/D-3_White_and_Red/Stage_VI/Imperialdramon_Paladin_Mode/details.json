@@ -1,0 +1,83 @@
+{
+  "id": "imperialdra_p",
+  "name": "Imperialdramon: Paladin Mode",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/imperialdra_p.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/imperialdra_p.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/imperialdra_p.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "angewo"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "dinobee",
+        "mummy"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Imperialdramon: Paladin Mode",
+    "name_en": "Imperialdramon: Paladin Mode",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6400",
+      "hp": "5500",
+      "ap": "2200"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "Stage 12 cleared, 15+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "Stage 12 cleared, 15+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "angewo",
+        "name": "Angewomon",
+        "conditions": "10+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "12+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mummy",
+        "name": "Mummymon",
+        "conditions": "12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

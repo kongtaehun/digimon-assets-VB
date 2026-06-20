@@ -1,0 +1,619 @@
+{
+  "id": "iti",
+  "name": "Infinite Tide",
+  "release": "JP: Jun 2021 - Retail (Set Vol.02)EN: Jul 2022 - Retail (Set Vol.02)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_iti.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_pitch.gif",
+  "digimon": [
+    {
+      "id": "pitch",
+      "name": "Pitchmon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pitch.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pitch.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pitch.jpg"
+    },
+    {
+      "id": "puka",
+      "name": "Pukamon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puka.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puka.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/puka.jpg"
+    },
+    {
+      "id": "sango",
+      "name": "Sangomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sango.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sango.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sango.jpg"
+    },
+    {
+      "id": "tobiu",
+      "name": "Tobiumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tobiu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tobiu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tobiu.jpg"
+    },
+    {
+      "id": "seadra",
+      "name": "Seadramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/seadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/seadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/seadra.jpg"
+    },
+    {
+      "id": "shell",
+      "name": "Shellmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shell.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shell.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shell.jpg"
+    },
+    {
+      "id": "oct",
+      "name": "Octmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/oct.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/oct.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/oct.jpg"
+    },
+    {
+      "id": "gusoku",
+      "name": "Gusokumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gusoku.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gusoku.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gusoku.jpg"
+    },
+    {
+      "id": "marinchimaira",
+      "name": "Marin Chimairamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/marinchimaira.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/marinchimaira.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/marinchimaira.jpg"
+    },
+    {
+      "id": "mermai",
+      "name": "Mermaimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mermai.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mermai.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mermai.jpg"
+    },
+    {
+      "id": "megaseadra",
+      "name": "Mega Seadramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/megaseadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/megaseadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/megaseadra.jpg"
+    },
+    {
+      "id": "pirani",
+      "name": "Piranimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pirani.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pirani.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pirani.jpg"
+    },
+    {
+      "id": "dago",
+      "name": "Dagomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dago.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dago.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dago.jpg"
+    },
+    {
+      "id": "neptune",
+      "name": "Neptunemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "16",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/neptune.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/neptune.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/neptune.jpg"
+    },
+    {
+      "id": "metalseadra",
+      "name": "Metal Seadramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "18",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalseadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalseadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalseadra.jpg"
+    },
+    {
+      "id": "regalecus",
+      "name": "Regalecusmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/regalecus.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/regalecus.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/regalecus.jpg"
+    },
+    {
+      "id": "plesio",
+      "name": "Plesiomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/plesio.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/plesio.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/plesio.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "sango",
+      "from_name": "Sangomon",
+      "to": "tobiu",
+      "to_name": "Tobiumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sango",
+      "from_name": "Sangomon",
+      "to": "seadra",
+      "to_name": "Seadramon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sango",
+      "from_name": "Sangomon",
+      "to": "shell",
+      "to_name": "Shellmon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sango",
+      "from_name": "Sangomon",
+      "to": "oct",
+      "to_name": "Octmon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tobiu",
+      "from_name": "Tobiumon",
+      "to": "gusoku",
+      "to_name": "Gusokumon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shell",
+      "from_name": "Shellmon",
+      "to": "gusoku",
+      "to_name": "Gusokumon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "seadra",
+      "from_name": "Seadramon",
+      "to": "marinchimaira",
+      "to_name": "Marin Chimairamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "oct",
+      "from_name": "Octmon",
+      "to": "marinchimaira",
+      "to_name": "Marin Chimairamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "from_name": "Tobiumon",
+      "to": "mermai",
+      "to_name": "Mermaimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "shell",
+      "from_name": "Shellmon",
+      "to": "mermai",
+      "to_name": "Mermaimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "seadra",
+      "from_name": "Seadramon",
+      "to": "megaseadra",
+      "to_name": "Mega Seadramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "oct",
+      "from_name": "Octmon",
+      "to": "megaseadra",
+      "to_name": "Mega Seadramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "from_name": "Tobiumon",
+      "to": "pirani",
+      "to_name": "Piranimon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "seadra",
+      "from_name": "Seadramon",
+      "to": "pirani",
+      "to_name": "Piranimon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "shell",
+      "from_name": "Shellmon",
+      "to": "dago",
+      "to_name": "Dagomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "oct",
+      "from_name": "Octmon",
+      "to": "dago",
+      "to_name": "Dagomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gusoku",
+      "from_name": "Gusokumon",
+      "to": "neptune",
+      "to_name": "Neptunemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mermai",
+      "from_name": "Mermaimon",
+      "to": "neptune",
+      "to_name": "Neptunemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pirani",
+      "from_name": "Piranimon",
+      "to": "neptune",
+      "to_name": "Neptunemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mermai",
+      "from_name": "Mermaimon",
+      "to": "metalseadra",
+      "to_name": "Metal Seadramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "megaseadra",
+      "from_name": "Mega Seadramon",
+      "to": "metalseadra",
+      "to_name": "Metal Seadramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dago",
+      "from_name": "Dagomon",
+      "to": "metalseadra",
+      "to_name": "Metal Seadramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gusoku",
+      "from_name": "Gusokumon",
+      "to": "regalecus",
+      "to_name": "Regalecusmon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "from_name": "Marin Chimairamon",
+      "to": "regalecus",
+      "to_name": "Regalecusmon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "pirani",
+      "from_name": "Piranimon",
+      "to": "regalecus",
+      "to_name": "Regalecusmon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "from_name": "Marin Chimairamon",
+      "to": "plesio",
+      "to_name": "Plesiomon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "megaseadra",
+      "from_name": "Mega Seadramon",
+      "to": "plesio",
+      "to_name": "Plesiomon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dago",
+      "from_name": "Dagomon",
+      "to": "plesio",
+      "to_name": "Plesiomon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

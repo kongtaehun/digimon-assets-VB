@@ -1,0 +1,68 @@
+{
+  "id": "andro",
+  "name": "Andromon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/andro.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/andro.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/andro.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "fil",
+        "dame"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Andromon",
+    "name_en": "Andromon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "5000",
+      "hp": "3900",
+      "ap": "1450"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "fil",
+        "name": "Filmon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      },
+      {
+        "id": "dame",
+        "name": "Damemon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "rusttyrano",
+        "name": "Rust Tyranomon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "hiandro",
+        "name": "Hi Andromon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ]
+  }
+}

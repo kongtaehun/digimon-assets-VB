@@ -1,0 +1,50 @@
+{
+  "id": "bosa",
+  "name": "Bosamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bosa.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bosa.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bosa.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Bosamon",
+    "name_en": "Bosamon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "0",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [
+      {
+        "id": "pyon",
+        "name": "Pyonmon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "dracu",
+        "name": "Dracumon",
+        "conditions": "Stage 2 cleared, 5+ PP, 1,000+ Vital Values"
+      },
+      {
+        "id": "angora",
+        "name": "Angoramon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

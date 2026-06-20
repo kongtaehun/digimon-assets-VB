@@ -1,0 +1,64 @@
+{
+  "id": "armage",
+  "name": "Armagemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/armage.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/armage.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/armage.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "mummy",
+        "silphy",
+        "chimaira"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Armagemon",
+    "name_en": "Armageddemon",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "6700",
+      "hp": "5800",
+      "ap": "2150"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "silphy",
+        "name": "Silphymon",
+        "conditions": "Stage 11 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "mummy",
+        "name": "Mummymon",
+        "conditions": "Stage 11 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "chimaira",
+        "name": "Chimairamon",
+        "conditions": "Stage 11 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

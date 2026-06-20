@@ -1,0 +1,75 @@
+{
+  "id": "ogre",
+  "name": "Ogremon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ogre.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ogre.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ogre.jpg",
+  "appearances": [
+    {
+      "dim_id": "agu_ex",
+      "dim_name": "Agumon EX",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ogremon",
+    "name_en": "Ogremon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "5",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "agu",
+        "name": "Agumon",
+        "conditions": "3+ Trophies, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "andro",
+        "name": "Andromon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "mame",
+        "name": "Mamemon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "neodevi",
+        "name": "Neo Devimon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "metalgrey_va",
+        "name": "Metal Greymon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      },
+      {
+        "id": "anomalocari",
+        "name": "Anomalocarimon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ]
+  }
+}

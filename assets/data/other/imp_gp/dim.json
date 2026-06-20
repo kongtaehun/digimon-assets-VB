@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "id": "imp_gp",
+  "name": "Impmon GP",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_imp_gp.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "kii",
+      "name": "Kiimon",
+      "name_jp": "Kiimon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/kii/frame1.gif",
+        "frame2": "sprites/kii/frame2.gif"
+      },
+      "artwork": "sprites/kii/artwork.jpg",
+      "lore": {
+        "en": "A bad looking Slime digimon that is always scowling. Even though it is very young, it hates being in crowds, and lives while hiding itself. From a hidden place, it likes to try to harass others, spitting out a paint filled water gun (Pushū).",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kiimon"
+    },
+    {
+      "id": "yaa",
+      "name": "Yaamon",
+      "name_jp": "Yaamon",
+      "name_ko": "야몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/yaa/frame1.gif",
+        "frame2": "sprites/yaa/frame2.gif"
+      },
+      "artwork": "sprites/yaa/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromKeemon. Its personality becomes twisted, and when it finds a Digimon having fun, it covers them with ink using its \"Paint Splash\", which it spews out of its mouth. Yarmon enjoys seeing the stunned Digimon.Digimon Reference Book⇨ Englishキーモンが進化したレッサー型デジモン。性格が捻くれ者になり、楽しそうに遊んでいるデジモンを見つけると、口から吐き出す『ペイントスプラッシュ』でインクまみれにする。唖然としたデジモンを見てヤーモンは楽しんでいる。デジモン図鑑",
+        "ko": "키몬 이 진화한 렛서형 디지몬. 성격이 솔직하지 못하고 즐겁게 놀고있는 디지몬을 발견하면 입에서 내뿜는 ‘패인트 스플레시’로 잉크 투성이로 만든다. 당황하는 디지몬을 보며 야몬은 즐기고 있다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Yaamon"
+    },
+    {
+      "id": "imp",
+      "name": "Impmon",
+      "name_jp": "Impmon",
+      "name_ko": "임프몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/imp/frame1.gif",
+        "frame2": "sprites/imp/frame2.gif"
+      },
+      "artwork": "sprites/imp/artwork.jpg",
+      "lore": {
+        "en": "A Child Digimon which has an appearance like a demon's child. It loves pranks, so it enjoys seeing the embarrassed appearances of its opponents. Also, it is said that when Impmon appears, electrical appliances temporarily go crazy, so an electronic image going out of order or ceasing to function might be because Impmon was pulling a prank. Although it is a Digimon that loves mischief and malice, it never toadies to the strong, but stands up to them with a strong attitude. However, the truth is that it has a lonely side. Its Signature Move is summoning elementals of flame and ice (Summon). Its Special Move is attacking the opponent with flames of darkness (Night of Fire).Digimon Reference Book⇨ English悪魔の子供のような姿をした成長期のデジモン。悪戯好きで、相手が困る姿を見るのを楽しみにしている。また、インプモンが現れると、電気製品が一時的におかしくなると言われており、電気製品の画像が乱れたり動かなくなるのはインプモンが悪戯をしたためかもしれない。悪さや意地悪が好きなデジモンだが、決して強い者に媚びへつらうことは無く強い態度で立ち向かう。でも、本当は寂しがりやな一面も持っている。得意技は炎と氷のエレメンタルを召喚する『サモン』。必殺技は、暗黒の炎で敵を攻撃する『ナイト・オブ・ファイアー』。デジモン図鑑",
+        "ko": "악마의 아이같은 모습을 한 성장기 디지몬. 나쁜 장난을 좋아하고 상대가 곤란에 처한 모습을 보는 것을 즐기고 있다. 또, 임프몬이 나타나면 전자제품이 일시적으로 이상해진다고 알려져 있어, 전자제품의 화상이 흐트러지거나 움직이지 않게 되는 건 임프몬이 못된 장난을 했기 때문일지도 모른다. 악하고 심술을 부리는 것을 좋아하는 디지몬이지만, 결코 강한 자에게 아첨하는 일은 없고 강한 태도로 마주한다. 그리고 본심은 외톨이같은 일면도 가지고 있다. 특기는 불과 얼음의 엘레멘탈을 소환하는 『서몬』 [2] . 필살기는 암흑의 불길로 적을 공격하는 『나이트 오브 파이어』 [3] 임프몬의 기술 중『서몬』이 불과 얼음 의 엘레멘탈을 소환한다는 설정에 따라 『나이트 오브 블리자드』라는 나이트 오브 파이어의 얼음속성 버전의 기술도 존재한다."
+      },
+      "wikimon_url": "https://wikimon.net/Impmon"
+    },
+    {
+      "id": "wizar",
+      "name": "Wizarmon",
+      "name_jp": "Wizarmon",
+      "name_ko": "위자몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/wizar/frame1.gif",
+        "frame2": "sprites/wizar/frame2.gif"
+      },
+      "artwork": "sprites/wizar/artwork.jpg",
+      "lore": {
+        "en": "An advanced Demon Man Digimon that came from theDigital Worldof another dimension. In its native Digital World (Witchelny) it mastered the sorcery (high-level programming language) of fire and earth, and although it aimed to become a great wizard, it appeared in the Digimon World in order to train. Although it has a personality that likes playing a few practical jokes, because it has another, shyer side, it tries to never show its uncovered face. Its Special Move is summoning a thunder cloud, which unleashes an intense lightning strike (Thunder Cloud).Digimon Reference Book⇨ English別次元のデジタルワールドからやってきた上級の魔人型デジモン。故郷のデジタルワールド（ウィッチェルニー）で炎と大地の魔術（高級プログラム言語）をマスターし、大魔道士になることを目指していたが、修行のためデジモンワールドに現れた。少々いたずら好きな性格だが、恥ずかしがりやの一面も持つため、決して素顔を見せようとしない。必殺技は雷雲を呼び出し、強烈な雷撃を繰り出す『サンダークラウド』。デジモン図鑑",
+        "ko": "다른 차원의 디지털 월드에서 온 상급의 마인형 디지몬. 고향의 디지털 월드( 윗체르니 )에서 불과 대지의 마법(고급프로그램언어)을 마스터해 대마도사가 되는 것을 목표로 하고 있었으나, 수행을 위해 디지털 월드에 나타났다. 조금 장난을 좋아하는 성격이지만, 낯을 가리는 일면도 지니고 있기 때문에 결코 맨얼굴을 보이려 하지 않는다. [2] 필살기는 뇌우를 불러내 강렬한 전격을 뿌리는 『썬더 클라우드』"
+      },
+      "wikimon_url": "https://wikimon.net/Wizarmon"
+    },
+    {
+      "id": "baal",
+      "name": "Baalmon",
+      "name_jp": "Baalmon",
+      "name_ko": "바알몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/baal/frame1.gif",
+        "frame2": "sprites/baal/frame2.gif"
+      },
+      "artwork": "sprites/baal/artwork.jpg",
+      "lore": {
+        "en": "As an enlightened Digimon that excels in all knowledge, it is called the \"Sublime Lord\". According to one theory, it is surely another form of acertain Demon Lord Digimon. It is said that in exchange for the reader's soul, it will grant one page of information from the \"Red Book of Appin\", which records all of its knowledge. Although Baalmon will answer any kind of question, it always inflicts an ordeal for the answer. If that ordeal is not surmounted, then it will not give the requested answer, and will snatch away your soul. Its mantle is covered in amulets from all times and places, and it is said that on those amulets are written solutions for every problem, so that with that wealth of information it is able to completely defend against any attack. It Special Moves are transforming its amulets into various things and attacking (Guiltish), and releasing a mighty, lightning-fast smite from theDǎshénbiānit holds in its hand (Kamiuchi).Kamiuchiinflicts especially large damage on Holy-species Digimon.Digimon Reference Book⇨ Englishあらゆる知識に抜きん出た博識のデジモンで『気高き王』とも呼ばれている。一説には、ある魔王型デジモンのもう一つの姿とも噂されている。その知識のすべてを書き記した「アッピンの紅い本」は閲覧者の魂と引き換えに１ページ分の知識を与えてくれるという。バアルモンはどんな謎にも答えてくれるが、必ず答えと一緒に試練を与える。その試練を乗り越えられなければ求める答えは与えられず魂を奪われる。マントは古今東西の護符を積層しており、その護符にはあらゆる対処法が記されているといわれ、その豊富な知識であらゆる攻撃をすべて防ぐことができる。必殺技は護符を様々なものに変化させて攻撃する「ギルティッシュ」と、手にした打神鞭で強烈な雷撃を放つ「カミウチ」。カミウチは特にホーリー系のデジモンには大ダメージを与える。デジモン図鑑",
+        "ko": "여러 가지 지식에 통달한 박식한 디지몬으로 「고고한 왕」이라고도 불리고 있다. 일설에는, 어떤 마왕형 디지몬 의 또 다른 모습이라는 이야기가 있다. [1] 그 지식의 모든 것을 적은 「압핀의 붉은 책」은 열람자의 영혼과 교환하여 1 페이지 분의 지식을 준다고 한다. 바알몬은 그 어떤 수수께끼에도 대답해 주지만, 반드시 대답과 함께 시련을 주는데 그 시련을 극복하지 못하면 원하는 대답은 듣지도 못하고 영혼을 빼앗긴다. 망토는 동서 고금의 부적을 겹겹히 모은 것으로, 그 부적에는 여러 가지 대처법이 기록되어 있다고 하며 그 풍부한 지식으로 각종 공격들을 모두 막을 수 있다. 필살기는 부적을 여러 가지 모습으로 변화시켜 공격하는 「길티쉬」, 손에 쥔 타신편으로 강렬한 뇌격을 발사하는 「카미우치」. 카미우치는 특히 신성계의 디지몬에게 큰 대미지를 준다."
+      },
+      "wikimon_url": "https://wikimon.net/Baalmon"
+    },
+    {
+      "id": "beelzebu_2010",
+      "name": "Beelzebumon (2010)",
+      "name_jp": "Beelzebumon (2010)",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/beelzebu_2010/frame1.gif",
+        "frame2": "sprites/beelzebu_2010/frame2.gif"
+      },
+      "artwork": "sprites/beelzebu_2010/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "beelzebu",
+      "name": "Beelzebumon",
+      "name_jp": "Beelzebumon",
+      "name_ko": "베르제브몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/beelzebu/frame1.gif",
+        "frame2": "sprites/beelzebu/frame2.gif"
+      },
+      "artwork": "sprites/beelzebu/artwork.jpg",
+      "lore": {
+        "en": "A Demon Lord Digimon that, while possessing the power to preside over the many Devil Digimon, continues to act independently. As one of the \"Seven Great Demon Lords\", it is said that it could stand at the peak of the dark army, \"Nightmare Soldiers\", if it cared to, although it is also said that there exists a Demon Lord Digimon which surpasses even Beelzebumon. It rides the gigantic motorcycle-type machine, \"Behemoth\", and wields its cherished shotguns, the \"Berenjena\". Although its personality is cruel and merciless, it is also exceedingly prideful, so it would never gang up with others or attack the weak. Its Signature Move is raising its sharp claws overhead and then cutting the opponent to pieces (Darkness Claw). Its Special Move is rapid-firing its twin shotguns (Double Impact).Digimon Reference Book⇨ English多くの悪魔型デジモンを統べる能力を持ちながら、あえて孤高の存在を守る魔王型デジモン。“七大魔王デジモン”の一人で、その気になれば闇の軍団「ナイトメアソルジャーズ」の頂点に立てると言われているが、そのベルゼブモンでさえも凌駕する程の魔王型デジモンも存在すると言われている。愛用のショットガン「ベレンヘーナ」を持ち、巨大なバイク型マシーン「ベヒーモス」を乗りこなす。性格は冷酷にして無慈悲であり、非常にプライドが高いが、決して群れたり弱者を攻撃することはない。得意技は鋭い鉤爪を振り上げて敵を切り裂く『ダークネスクロウ』。必殺技は二丁のショットガンを連射する『ダブルインパクト』。デジモン図鑑",
+        "ko": "많은 악마형 디지몬을 통괄하는 능력을 가지면서도 고고하게 존재하는 마왕형 디지몬. 7대 마왕 중 하나이며 무엇인가에 얽매여 있는 것을 싫어하고 성격은 냉혹하고 무자비하며 프라이드가 높지만 결코 무리지어서 한명이나 소수의 약자를 일방적으로 린치하는 짓 따위는 저지르지 않는다. 평소엔 자신의 애마인 흉폭한 오토바이 베헤모스 를 타고 다니며 강자와의 싸움을 위해 디지털 월드를 종행무진 떠돌고 있다. 자신의 눈에 띄는 강자를 보게 되면 애용하는 2자루의 2연장 산탄총 [4] 베렌헤나 [5] [6] 로 적의 심장을 관통한다. 필살기는 어둠의 힘을 가진 손톱으로 상대를 베어내는 다크니스 클로 와 베렌헤나를 연사하는 일발필중 더블 임팩트 [7] , 베렌헤나의 관통 공격으로 급소를 공격해 상대를 분쇄하는 하트 브레이크 샷 이 있다. 디지털 몬스터 카드 게임 Bo-640: 고고하면서 냉혹! 고결하면서 무자비! 베히모스를 몰고다니는 마왕! Bo-821: 사냥감의 주변을 초토화시키는 장렬한 마탄의 난사! Bo-1060: 암흑의 숙명에 검게 물든 필살의 더블 임팩트! Bo-1139: 마탄으로 전장을 제압하는 무자비한 흉왕! Bo-10j: 고고한 사악! 마의 탄알을 채우는 암흑계의 마왕!! Bo-50t: 황야를 달리는 반역의 기마왕! Bo-44t: 냉혹하고 무자비한 고고한 마왕!"
+      },
+      "wikimon_url": "https://wikimon.net/Beelzebumon"
+    },
+    {
+      "id": "beelzebu_b",
+      "name": "Beelzebumon: Blast Mode",
+      "name_jp": "",
+      "name_ko": "베르제브몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "An ultimate Demon Lord that raised its power and spirit to their utmost limits. Instead of evolving in a wicked manner, it maintained a calmer mental state, and its three sinister red eyes have become green. It demonstrates power and speed at a level incomparable to its usual state, and four jet-black wings grow from its back. One could almost say that the opponent no longer exists the moment they stand beforeBeelzebumonwhen it took on this form. Its right arm is integrated with itsBlaster, which fires powerful energy waves to disintegrate everything into atoms. Its Signature Move is firing a destructive wave from theBlasteron its right arm (Death Slinger), and its Special Move is drawing amagic circlein front of itself, then firing destructive waves through the circle's center (Chaos Flare).Digimon Reference Book⇨ English力と精神を極限にまで高めた究極魔王。邪悪に進化したのとは違い、より安定した精神状態を保ち、凶々しかった３つの赤眼は緑色になっている。通常時とは桁違いのパワーとスピードを発揮し、背中から漆黒の４枚の翼を生やしている。この姿になったベルゼブモンの前に、もはや敵は存在しないとまで言われている。右腕がブラスターと一体化しており、強烈なエネルギー波を放ちあらゆるものを原子分解してしまう。得意技は右腕のブラスターから破壊の波動を放つ『デススリンガー』、必殺技は前方に魔方陣を描き、その中心に向かって破壊の波動を放つ『カオスフレア』。デジモン図鑑",
+        "ko": "많은 악마형 디지몬을 통괄하는 능력을 가지면서도 고고하게 존재하는 마왕형 디지몬. 7대 마왕 중 하나이며 무엇인가에 얽매여 있는 것을 싫어하고 성격은 냉혹하고 무자비하며 프라이드가 높지만 결코 무리지어서 한명이나 소수의 약자를 일방적으로 린치하는 짓 따위는 저지르지 않는다. 평소엔 자신의 애마인 흉폭한 오토바이 베헤모스 를 타고 다니며 강자와의 싸움을 위해 디지털 월드를 종행무진 떠돌고 있다. 자신의 눈에 띄는 강자를 보게 되면 애용하는 2자루의 2연장 산탄총 [4] 베렌헤나 [5] [6] 로 적의 심장을 관통한다. 필살기는 어둠의 힘을 가진 손톱으로 상대를 베어내는 다크니스 클로 와 베렌헤나를 연사하는 일발필중 더블 임팩트 [7] , 베렌헤나의 관통 공격으로 급소를 공격해 상대를 분쇄하는 하트 브레이크 샷 이 있다. 디지털 몬스터 카드 게임 Bo-640: 고고하면서 냉혹! 고결하면서 무자비! 베히모스를 몰고다니는 마왕! Bo-821: 사냥감의 주변을 초토화시키는 장렬한 마탄의 난사! Bo-1060: 암흑의 숙명에 검게 물든 필살의 더블 임팩트! Bo-1139: 마탄으로 전장을 제압하는 무자비한 흉왕! Bo-10j: 고고한 사악! 마의 탄알을 채우는 암흑계의 마왕!! Bo-50t: 황야를 달리는 반역의 기마왕! Bo-44t: 냉혹하고 무자비한 고고한 마왕!"
+      },
+      "wikimon_url": "https://wikimon.net/Beelzebumon:_Blast_Mode"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "kii",
+      "to": "yaa",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "yaa",
+      "to": "imp",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "imp",
+      "to": "wizar",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "baal",
+      "conditions": {
+        "text": "12+ Trophies, 3000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "text": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "beelzebu",
+      "conditions": {
+        "text": "• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio• Jogress with Vaccine Perfect"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "beelzebu_b",
+      "conditions": {
+        "text": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+      }
+    }
+  ]
+}

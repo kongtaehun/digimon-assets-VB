@@ -1,0 +1,63 @@
+{
+  "id": "heavyleo",
+  "name": "Heavy Leomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/heavyleo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/heavyleo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/heavyleo.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "flare",
+        "grappuleo",
+        "asta"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Heavy Leomon",
+    "name_en": "HeavyLeomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "3200",
+      "hp": "6100",
+      "ap": "2050"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "grappuleo",
+        "name": "Grappu Leomon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "asta",
+        "name": "Astamon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

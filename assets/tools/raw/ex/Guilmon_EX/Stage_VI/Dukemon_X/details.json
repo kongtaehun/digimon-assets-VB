@@ -1,0 +1,74 @@
+{
+  "id": "duke_x",
+  "name": "Dukemon X",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/duke_x.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/duke_x.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/duke_x.jpg",
+  "appearances": [
+    {
+      "dim_id": "guil_ex",
+      "dim_name": "Guilmon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Dukemon X",
+    "name_en": "Gallantmon X",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "16",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "mihira",
+        "name": "Mihiramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "megalogrow_o",
+        "name": "Megalo Growmon (Orange)",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "sandira",
+        "name": "Sandiramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "vajra",
+        "name": "Vajramon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "majira",
+        "name": "Majiramon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "megalogrow",
+        "name": "Megalo Growmon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

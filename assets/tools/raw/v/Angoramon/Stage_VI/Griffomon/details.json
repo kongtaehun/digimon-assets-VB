@@ -1,0 +1,83 @@
+{
+  "id": "griffo",
+  "name": "Griffomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/griffo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/griffo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/griffo.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "lamort"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "grappuleo"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "skullbaluchi"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Griffomon",
+    "name_en": "Gryphonmon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "14",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "lamort",
+        "name": "Lamortmon",
+        "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+      },
+      {
+        "id": "grappuleo",
+        "name": "Grappu Leomon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "skullbaluchi",
+        "name": "Skull Baluchimon",
+        "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "mam",
+  "name": "Mammon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mam.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mam.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mam.jpg",
+  "appearances": [
+    {
+      "dim_id": "bfa",
+      "dim_name": "Blizzard Fang",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "yukidaru",
+        "moose"
+      ],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mammon",
+    "name_en": "Mammothmon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "12",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "yukidaru",
+        "name": "Yukidarumon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "moose",
+        "name": "Moosemon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "hyouga",
+        "name": "Hyougamon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      },
+      {
+        "id": "paledra",
+        "name": "Paledramon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ancientmegatheriu",
+        "name": "Ancient Megatheriumon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "skullmam",
+        "name": "Skull Mammon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "frosvelgr",
+        "name": "Fros Velgrmon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "hexeblau",
+        "name": "Hexeblaumon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

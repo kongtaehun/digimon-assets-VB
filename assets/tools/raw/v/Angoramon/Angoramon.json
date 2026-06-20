@@ -1,0 +1,499 @@
+{
+  "id": "angora",
+  "name": "Angoramon",
+  "release": "JP: Dec 2021 - Retail (Set -V2-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_angora.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_pyon.gif",
+  "digimon": [
+    {
+      "id": "pyon",
+      "name": "Pyonmon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pyon.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pyon.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pyon.jpg"
+    },
+    {
+      "id": "bosa",
+      "name": "Bosamon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bosa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bosa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bosa.jpg"
+    },
+    {
+      "id": "angora",
+      "name": "Angoramon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/angora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/angora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/angora.jpg"
+    },
+    {
+      "id": "symbareangora",
+      "name": "Symbare Angoramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/symbareangora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/symbareangora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/symbareangora.jpg"
+    },
+    {
+      "id": "leo",
+      "name": "Leomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/leo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/leo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/leo.jpg"
+    },
+    {
+      "id": "komondo",
+      "name": "Komondomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/komondo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/komondo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/komondo.jpg"
+    },
+    {
+      "id": "porcupa",
+      "name": "Porcupamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/porcupa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/porcupa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/porcupa.jpg"
+    },
+    {
+      "id": "lamort",
+      "name": "Lamortmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lamort.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lamort.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lamort.jpg"
+    },
+    {
+      "id": "grappuleo",
+      "name": "Grappu Leomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grappuleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grappuleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grappuleo.jpg"
+    },
+    {
+      "id": "skullbaluchi",
+      "name": "Skull Baluchimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/skullbaluchi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/skullbaluchi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/skullbaluchi.jpg"
+    },
+    {
+      "id": "warumonzae",
+      "name": "Waru Monzaemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/warumonzae.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/warumonzae.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/warumonzae.jpg"
+    },
+    {
+      "id": "anubi",
+      "name": "Anubimon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/anubi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/anubi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/anubi.jpg"
+    },
+    {
+      "id": "saberleo",
+      "name": "Saber Leomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/saberleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/saberleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/saberleo.jpg"
+    },
+    {
+      "id": "griffo",
+      "name": "Griffomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/griffo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/griffo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/griffo.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "symbareangora",
+      "to_name": "Symbare Angoramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,100+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "leo",
+      "to_name": "Leomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "komondo",
+      "to_name": "Komondomon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "porcupa",
+      "to_name": "Porcupamon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "from_name": "Symbare Angoramon",
+      "to": "lamort",
+      "to_name": "Lamortmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "leo",
+      "from_name": "Leomon",
+      "to": "lamort",
+      "to_name": "Lamortmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "komondo",
+      "from_name": "Komondomon",
+      "to": "lamort",
+      "to_name": "Lamortmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "porcupa",
+      "from_name": "Porcupamon",
+      "to": "lamort",
+      "to_name": "Lamortmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "from_name": "Symbare Angoramon",
+      "to": "grappuleo",
+      "to_name": "Grappu Leomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "leo",
+      "from_name": "Leomon",
+      "to": "grappuleo",
+      "to_name": "Grappu Leomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "from_name": "Symbare Angoramon",
+      "to": "skullbaluchi",
+      "to_name": "Skull Baluchimon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "porcupa",
+      "from_name": "Porcupamon",
+      "to": "skullbaluchi",
+      "to_name": "Skull Baluchimon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "komondo",
+      "from_name": "Komondomon",
+      "to": "warumonzae",
+      "to_name": "Waru Monzaemon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "from_name": "Lamortmon",
+      "to": "anubi",
+      "to_name": "Anubimon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "skullbaluchi",
+      "from_name": "Skull Baluchimon",
+      "to": "anubi",
+      "to_name": "Anubimon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "warumonzae",
+      "from_name": "Waru Monzaemon",
+      "to": "anubi",
+      "to_name": "Anubimon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "from_name": "Lamortmon",
+      "to": "saberleo",
+      "to_name": "Saber Leomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "from_name": "Grappu Leomon",
+      "to": "saberleo",
+      "to_name": "Saber Leomon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "warumonzae",
+      "from_name": "Waru Monzaemon",
+      "to": "saberleo",
+      "to_name": "Saber Leomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "from_name": "Lamortmon",
+      "to": "griffo",
+      "to_name": "Griffomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "from_name": "Grappu Leomon",
+      "to": "griffo",
+      "to_name": "Griffomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "skullbaluchi",
+      "from_name": "Skull Baluchimon",
+      "to": "griffo",
+      "to_name": "Griffomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ]
+}

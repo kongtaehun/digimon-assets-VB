@@ -1,0 +1,107 @@
+{
+  "id": "holyange",
+  "name": "Holy Angemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/holyange.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/holyange.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/holyange.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "ange",
+        "xv",
+        "lighdra"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "dig",
+        "pegas",
+        "fladra"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Holy Angemon",
+    "name_en": "MagnaAngemon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "4000",
+      "ap": "1400"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "ange",
+        "name": "Angemon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "xv",
+        "name": "XV-mon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "dig",
+        "name": "Digmon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "pegas",
+        "name": "Pegasmon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "fladra",
+        "name": "Fladramon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "lighdra",
+        "name": "Lighdramon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "vike",
+        "name": "Vikemon",
+        "conditions": "15+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "seraphi",
+        "name": "Seraphimon",
+        "conditions": "12+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "magna",
+        "name": "Magnamon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

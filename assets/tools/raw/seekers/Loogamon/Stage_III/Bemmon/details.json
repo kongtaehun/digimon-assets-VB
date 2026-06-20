@@ -1,0 +1,68 @@
+{
+  "id": "bem",
+  "name": "Bemmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bem.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bem.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bem.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "bow"
+      ],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 1 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Bemmon",
+    "name_en": "Vemmon",
+    "attribute": "Free",
+    "stage_text": "Stage III (Child)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5000",
+      "hp": "2900",
+      "ap": "1050"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "bow",
+        "name": "Bowmon",
+        "conditions": "Stage 1 cleared, 5+ PP, 1,000+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "snatch",
+        "name": "Snatchmon",
+        "conditions": "Stage 4 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "tyrano",
+        "name": "Tyranomon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "dame",
+        "name": "Damemon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "id": "medarot",
+  "name": "Medarot",
+  "release": "JP: Oct 2021 - Premium Bandai (Included with Medarotch Revival Ver. or standalone)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_medarot.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_weatheredmedal.gif",
+  "digimon": [
+    {
+      "id": "weatheredmedal",
+      "name": "Weathered Medal",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/weatheredmedal.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/weatheredmedal.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/weatheredmedal.jpg"
+    },
+    {
+      "id": "medal",
+      "name": "Medal",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/medal.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/medal.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/medal.jpg"
+    },
+    {
+      "id": "tinpet",
+      "name": "Tinpet",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tinpet.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tinpet.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tinpet.jpg"
+    },
+    {
+      "id": "grey",
+      "name": "Greymon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grey.jpg"
+    },
+    {
+      "id": "garuru",
+      "name": "Garurumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/garuru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/garuru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/garuru.jpg"
+    },
+    {
+      "id": "metabee_p",
+      "name": "Metabee (Head and Arm)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "6",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metabee_p.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metabee_p.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metabee_p.jpg"
+    },
+    {
+      "id": "rokusho_p",
+      "name": "Rokusho (Head and Arm)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "6",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rokusho_p.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rokusho_p.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rokusho_p.jpg"
+    },
+    {
+      "id": "greywars",
+      "name": "Grey Wars",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/greywars.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/greywars.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/greywars.jpg"
+    },
+    {
+      "id": "garurumetal",
+      "name": "Garuru Metal",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/garurumetal.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/garurumetal.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/garurumetal.jpg"
+    },
+    {
+      "id": "metabee",
+      "name": "Metabee",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metabee.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metabee.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metabee.jpg"
+    },
+    {
+      "id": "rokusho",
+      "name": "Rokusho",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rokusho.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rokusho.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rokusho.jpg"
+    },
+    {
+      "id": "omegaknight",
+      "name": "Omega Knight",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "15",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/omegaknight.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/omegaknight.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/omegaknight.jpg"
+    },
+    {
+      "id": "omeda",
+      "name": "Omedamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/omeda.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/omeda.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/omeda.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "tinpet",
+      "from_name": "Tinpet",
+      "to": "grey",
+      "to_name": "Greymon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tinpet",
+      "from_name": "Tinpet",
+      "to": "garuru",
+      "to_name": "Garurumon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tinpet",
+      "from_name": "Tinpet",
+      "to": "metabee_p",
+      "to_name": "Metabee (Head and Arm)",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tinpet",
+      "from_name": "Tinpet",
+      "to": "rokusho_p",
+      "to_name": "Rokusho (Head and Arm)",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "grey",
+      "from_name": "Greymon",
+      "to": "greywars",
+      "to_name": "Grey Wars",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "from_name": "Garurumon",
+      "to": "garurumetal",
+      "to_name": "Garuru Metal",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "grey",
+      "from_name": "Greymon",
+      "to": "metabee",
+      "to_name": "Metabee",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "from_name": "Garurumon",
+      "to": "metabee",
+      "to_name": "Metabee",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grey",
+      "from_name": "Greymon",
+      "to": "rokusho",
+      "to_name": "Rokusho",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "from_name": "Garurumon",
+      "to": "rokusho",
+      "to_name": "Rokusho",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "greywars",
+      "from_name": "Grey Wars",
+      "to": "omeda",
+      "to_name": "Omedamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "garurumetal",
+      "from_name": "Garuru Metal",
+      "to": "omeda",
+      "to_name": "Omedamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "metabee",
+      "from_name": "Metabee",
+      "to": "omeda",
+      "to_name": "Omedamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rokusho",
+      "from_name": "Rokusho",
+      "to": "omeda",
+      "to_name": "Omedamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "rusttyrano",
+  "name": "Rust Tyranomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/rusttyrano.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/rusttyrano.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/rusttyrano.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "andro",
+        "mastertyrano"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Rust Tyranomon",
+    "name_en": "RustTyrannomon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5000",
+      "hp": "5500",
+      "ap": "1900"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "andro",
+        "name": "Andromon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mastertyrano",
+        "name": "Master Tyranomon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

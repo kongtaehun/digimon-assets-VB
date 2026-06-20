@@ -1,0 +1,851 @@
+{
+  "id": "rbe",
+  "name": "Rampage of the Beast",
+  "release": "JP: Apr 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_rbe.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_rbe.gif",
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bota.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bota.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bota.jpg"
+    },
+    {
+      "id": "wanya",
+      "name": "Wanyamon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/wanya.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/wanya.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wanya.jpg"
+    },
+    {
+      "id": "gao",
+      "name": "Gaomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "2850",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gao.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gao.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gao.jpg"
+    },
+    {
+      "id": "corona",
+      "name": "Coronamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4400",
+        "hp": "3100",
+        "ap": "1050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/corona.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/corona.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/corona.jpg"
+    },
+    {
+      "id": "luna",
+      "name": "Lunamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "2900",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/luna.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/luna.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/luna.jpg"
+    },
+    {
+      "id": "phasco",
+      "name": "Phascomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4100",
+        "hp": "3800",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/phasco.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/phasco.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/phasco.jpg"
+    },
+    {
+      "id": "gaoga",
+      "name": "Gaogamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6500",
+        "hp": "3400",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gaoga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gaoga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gaoga.jpg"
+    },
+    {
+      "id": "fira",
+      "name": "Firamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "3700",
+        "ap": "1310"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fira.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fira.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fira.jpg"
+    },
+    {
+      "id": "lekis",
+      "name": "Lekismon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "3600",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/lekis.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/lekis.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lekis.jpg"
+    },
+    {
+      "id": "leo",
+      "name": "Leomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5000",
+        "hp": "3300",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/leo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/leo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/leo.jpg"
+    },
+    {
+      "id": "madleo",
+      "name": "Mad Leomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "3400",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/madleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/madleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/madleo.jpg"
+    },
+    {
+      "id": "machgaoga",
+      "name": "Mach Gaogamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "8000",
+        "hp": "3100",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/machgaoga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/machgaoga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/machgaoga.jpg"
+    },
+    {
+      "id": "flare",
+      "name": "Flaremon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "4400",
+        "ap": "1600"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/flare.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/flare.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/flare.jpg"
+    },
+    {
+      "id": "cresce",
+      "name": "Crescemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "7500",
+        "hp": "4400",
+        "ap": "1450"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/cresce.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/cresce.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cresce.jpg"
+    },
+    {
+      "id": "grappuleo",
+      "name": "Grappu Leomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "4300",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/grappuleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/grappuleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grappuleo.jpg"
+    },
+    {
+      "id": "asta",
+      "name": "Astamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4100",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/asta.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/asta.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/asta.jpg"
+    },
+    {
+      "id": "miragegaoga",
+      "name": "Mirage Gaogamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "4150",
+        "ap": "2050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/miragegaoga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/miragegaoga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/miragegaoga.jpg"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/apollo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/apollo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/apollo.jpg"
+    },
+    {
+      "id": "diana",
+      "name": "Dianamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6400",
+        "hp": "5800",
+        "ap": "1800"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/diana.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/diana.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/diana.jpg"
+    },
+    {
+      "id": "heavyleo",
+      "name": "Heavy Leomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "3200",
+        "hp": "6100",
+        "ap": "2050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/heavyleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/heavyleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/heavyleo.jpg"
+    },
+    {
+      "id": "miragegaoga_b",
+      "name": "Mirage Gaogamon: Burst Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6800",
+        "hp": "5800",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/miragegaoga_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/miragegaoga_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/miragegaoga_b.jpg"
+    },
+    {
+      "id": "belphe_r",
+      "name": "Belphemon: Rage Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5600",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/belphe_r.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/belphe_r.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/belphe_r.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "wanya",
+      "from_name": "Wanyamon",
+      "to": "gao",
+      "to_name": "Gaomon",
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wanya",
+      "from_name": "Wanyamon",
+      "to": "corona",
+      "to_name": "Coronamon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wanya",
+      "from_name": "Wanyamon",
+      "to": "luna",
+      "to_name": "Lunamon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wanya",
+      "from_name": "Wanyamon",
+      "to": "phasco",
+      "to_name": "Phascomon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 3 Cleared"
+      }
+    },
+    {
+      "from": "gao",
+      "from_name": "Gaomon",
+      "to": "gaoga",
+      "to_name": "Gaogamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "corona",
+      "from_name": "Coronamon",
+      "to": "gaoga",
+      "to_name": "Gaogamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "luna",
+      "from_name": "Lunamon",
+      "to": "gaoga",
+      "to_name": "Gaogamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "corona",
+      "from_name": "Coronamon",
+      "to": "fira",
+      "to_name": "Firamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gao",
+      "from_name": "Gaomon",
+      "to": "fira",
+      "to_name": "Firamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gao",
+      "from_name": "Gaomon",
+      "to": "lekis",
+      "to_name": "Lekismon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "luna",
+      "from_name": "Lunamon",
+      "to": "lekis",
+      "to_name": "Lekismon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "corona",
+      "from_name": "Coronamon",
+      "to": "leo",
+      "to_name": "Leomon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "phasco",
+      "from_name": "Phascomon",
+      "to": "leo",
+      "to_name": "Leomon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "luna",
+      "from_name": "Lunamon",
+      "to": "madleo",
+      "to_name": "Mad Leomon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "phasco",
+      "from_name": "Phascomon",
+      "to": "madleo",
+      "to_name": "Mad Leomon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "gaoga",
+      "from_name": "Gaogamon",
+      "to": "machgaoga",
+      "to_name": "Mach Gaogamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fira",
+      "from_name": "Firamon",
+      "to": "machgaoga",
+      "to_name": "Mach Gaogamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lekis",
+      "from_name": "Lekismon",
+      "to": "machgaoga",
+      "to_name": "Mach Gaogamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fira",
+      "from_name": "Firamon",
+      "to": "flare",
+      "to_name": "Flaremon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "leo",
+      "from_name": "Leomon",
+      "to": "flare",
+      "to_name": "Flaremon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gaoga",
+      "from_name": "Gaogamon",
+      "to": "cresce",
+      "to_name": "Crescemon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lekis",
+      "from_name": "Lekismon",
+      "to": "cresce",
+      "to_name": "Crescemon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gaoga",
+      "from_name": "Gaogamon",
+      "to": "grappuleo",
+      "to_name": "Grappu Leomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "leo",
+      "from_name": "Leomon",
+      "to": "grappuleo",
+      "to_name": "Grappu Leomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "madleo",
+      "from_name": "Mad Leomon",
+      "to": "grappuleo",
+      "to_name": "Grappu Leomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "leo",
+      "from_name": "Leomon",
+      "to": "asta",
+      "to_name": "Astamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "madleo",
+      "from_name": "Mad Leomon",
+      "to": "asta",
+      "to_name": "Astamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "12+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "machgaoga",
+      "from_name": "Mach Gaogamon",
+      "to": "miragegaoga",
+      "to_name": "Mirage Gaogamon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "flare",
+      "from_name": "Flaremon",
+      "to": "miragegaoga",
+      "to_name": "Mirage Gaogamon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "cresce",
+      "from_name": "Crescemon",
+      "to": "miragegaoga",
+      "to_name": "Mirage Gaogamon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "flare",
+      "from_name": "Flaremon",
+      "to": "apollo",
+      "to_name": "Apollomon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "from_name": "Grappu Leomon",
+      "to": "apollo",
+      "to_name": "Apollomon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "machgaoga",
+      "from_name": "Mach Gaogamon",
+      "to": "diana",
+      "to_name": "Dianamon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cresce",
+      "from_name": "Crescemon",
+      "to": "diana",
+      "to_name": "Dianamon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "flare",
+      "from_name": "Flaremon",
+      "to": "heavyleo",
+      "to_name": "Heavy Leomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "from_name": "Grappu Leomon",
+      "to": "heavyleo",
+      "to_name": "Heavy Leomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "asta",
+      "from_name": "Astamon",
+      "to": "heavyleo",
+      "to_name": "Heavy Leomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "machgaoga",
+      "from_name": "Mach Gaogamon",
+      "to": "miragegaoga_b",
+      "to_name": "Mirage Gaogamon: Burst Mode",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "cresce",
+      "from_name": "Crescemon",
+      "to": "belphe_r",
+      "to_name": "Belphemon: Rage Mode",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "asta",
+      "from_name": "Astamon",
+      "to": "belphe_r",
+      "to_name": "Belphemon: Rage Mode",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ]
+}

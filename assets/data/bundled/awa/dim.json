@@ -1,0 +1,943 @@
+{
+  "schema_version": "1.0",
+  "id": "awa",
+  "name": "Ancient Warriors",
+  "category": "bundled",
+  "device": "VBDM",
+  "release": "JP: Mar 2021 - Premium Bandai (Included with Ver.Special)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_awa.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "chico",
+      "name": "Chicomon",
+      "name_jp": "Chicomon",
+      "name_ko": "치코몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/chico/frame1.gif",
+        "frame2": "sprites/chico/frame2.gif"
+      },
+      "artwork": "sprites/chico/artwork.jpg",
+      "lore": {
+        "en": "A small, blue-colored, Dragon Digimon child. Although it is small and powerless, it has the potential to evolve to every Dragon Digimon. For that reason, it is a Digimon that is considered exceedingly valuable bytamersandresearchersof Dragon Digimon. It is cherished due to its personality of friendliness and overflowing curiosity, characteristic of Baby Digimon. Just like other Baby Digimon, it spits acidic bubbles to attack, but as usual, their power is nonexistent.Digimon Reference Book⇨ English小さくて青い色をした竜型デジモンの子供。小さくて非力だが、あらゆる竜型デジモンへの進化の可能性を秘めている。そのため、竜型デジモンの研究者やテイマーには非常に貴重がられているデジモンである。幼年期デジモン特有のひとなつこさと好奇心旺盛な性格で可愛がられている。他の幼年期デジモンと同じで、酸性の泡を吐いて攻撃するが相変わらず威力は無い。デジモン図鑑",
+        "ko": "작고 푸른색을 띈 용형 디지몬의 아이. 작고 힘이 약하지만 모든 용형 디지몬으로 진화할 수 있는 가능성을 숨기고 있다. 그 때문에 용형 디지몬 연구자나 테이머에게는 매우 귀중한 디지몬이다. 유년기 디지몬 특유의 붙임성이 있고, 호기심이 왕성한 성격으로 귀여움을 받고 있다. 다른 유년기 디지몬과 같이 산성 거품으로 적을 공격하지만 변함없이 큰 위력은 없다."
+      },
+      "wikimon_url": "https://wikimon.net/Chicomon"
+    },
+    {
+      "id": "chibi",
+      "name": "Chibimon",
+      "name_jp": "Chibimon",
+      "name_ko": "꼬마몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/chibi/frame1.gif",
+        "frame2": "sprites/chibi/frame2.gif"
+      },
+      "artwork": "sprites/chibi/artwork.jpg",
+      "lore": {
+        "en": "A Baby Dragon Digimon that evolved fromChicomon. It has a torso, hands, and feet—unusual for a Baby Digimon—and so is able to grip objects with both of its small hands, and move while hopping about with both feet. It has a voracious appetite and especially likes sweet foods. Also, as it is very fond of sleeping, it will fall asleep the moment you take your eyes off of it. Its Special Move is ramming into the opponent while hopping about (Hop Attack).Digimon Reference Book⇨ Englishチコモンが進化した幼竜型デジモン。幼年期のデジモンには珍しく、胴体と両手足を持っており、小さな両手で物をつかみ、両足でぴょんぴょん跳ねながら移動することができる。非常に食べ盛りで、特に甘いものが大好き。また寝ることが非常に好きで、目を離すとすぐに寝てしまう。必殺技はぴょんぴょん跳ねながら相手に体当たりをする『ホップアタック』。デジモン図鑑",
+        "ko": "치코몬 이 진화한 유룡형 디지몬. 유년기 디지몬들 중에서는 드물게 몸통과 양팔, 양발을 가지고 있어 작은 손으로 물건을 잡고 양발로 깡총깡총 뛰면서 이동할 수 있다. 매우 식욕이 왕성한 시기로 특히 단 것을 아주 좋아하고, 수면 을 취하는 것을 아주 좋아하기 때문에 한눈을 팔면 곧바로 곯아떨어진다. 필살기는 깡총 뛰어서 적에게 몸통박치기를 하는 \"홉 어택\"."
+      },
+      "wikimon_url": "https://wikimon.net/Chibimon"
+    },
+    {
+      "id": "v",
+      "name": "V-mon",
+      "name_jp": "V-mon",
+      "name_ko": "브이몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/v/frame1.gif",
+        "frame2": "sprites/v/frame2.gif"
+      },
+      "artwork": "sprites/v/artwork.jpg",
+      "lore": {
+        "en": "A new species of Digimon that was discovered recently. As a survivor of a species that flourished in theGenesisof the Digital World, it is able to perform \"Armor evolution\", a \"pseudo-evolution\" using theDigimentals. Among others, V-mon is an excellentCombat Species, as it possesses hidden power, and demonstrates tremendous abilities by Armor evolving. Although it has a mischievous, prank-loving personality, it has another side with a strong sense of justice. Its Signature Move is swinging both of its arms in circles, striking the opponent (Bunbun Punch). Its Special Move is knocking down the opponent with an intense headbutt (V-mon Head).Digimon Reference Book⇨ English新たに発見された新種デジモン。デジタルワールドの創世記に繁栄した種族の生き残りで、デジメンタルを用いて“擬似進化”である「アーマー進化」をすることができる。中でもブイモンは優れた戦闘種族であり、秘めた力を持っており、アーマー進化で爆発的な能力を発揮する。性格的にはやんちゃでいたずら好きだが、正義感の強い一面も持っている。得意技は両腕をグルグル振り回し、相手を殴る『ブンブンパンチ』。必殺技は強烈な頭突きで相手を倒す『ブイモンヘッド』。デジモン図鑑",
+        "ko": "새롭게 발견된 신종 디지몬. 디지털 월드의 창세기에 번영했던 종족 의 후예로 디지멘탈 을 이용하여 유사 진화인 아머 진화 를 할 수 있다. 그중에서도 브이몬은 뛰어난 전투 종족이며 놀라운 잠재력을 지니고 있어 아머 진화로 폭발적인 힘을 발휘한다. 성격은 응석 부리기 좋아하는 장난꾸러기지만 정의감이 강한 일면도 있다. 특기는 두 팔을 빙빙 휘둘러 상대를 때리는 \"붕붕 펀치\". 필살기는 강렬한 박치기로 상대를 쓰러뜨리는 \"브이몬 헤드\"."
+      },
+      "wikimon_url": "https://wikimon.net/V-mon"
+    },
+    {
+      "id": "vdra",
+      "name": "V-dramon",
+      "name_jp": "V-dramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/vdra/frame1.gif",
+        "frame2": "sprites/vdra/frame2.gif"
+      },
+      "artwork": "sprites/vdra/artwork.jpg",
+      "lore": {
+        "en": "A mythicalAncient SpeciesDigimon that, even with the vastness of the Digital World, is said to only exist on theFolder Continent. Its existence is extremely rare, and even on the Folder Continent, it is hardly encountered. Also, it is said that only oneDigimon Tamerwas able to tame V-dramon. With the exception of it becoming known as V-dramon due to the \"V\"-shaped pattern on its chest, its way of life is a mystery, but for some reason, it is always mistaken for a dog. While its attack power is exceptional even amongAdults, if put into a predicament, it exhibits power that surpasses even that ofPerfects. Its Special Move is a high-temperature heat ray spewed from its mouth (V Breath Arrow).Digimon Reference Book⇨ English広大なデジタルワールドでも、フォルダ大陸にしか存在しないと言われている、幻の古代種デジモン。その存在は非常に貴重であり、フォルダ大陸でも滅多に出会うことは無い。また、ブイドラモンを手なずける事ができたデジモンテイマーも１人しかいないと言われている。胸にある「Ｖ」型の模様からブイドラモンと呼ばれるようになったこと以外その生態系はナゾであるが、何故か犬に間違えられる。成熟期の中でも並外れた攻撃力の持ち主であるが、窮地に立たされると完全体をも凌ぐパワーを発揮する。必殺技は口から吐き出す高熱の熱線『ブイブレスアロー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/V-dramon"
+    },
+    {
+      "id": "xv",
+      "name": "XV-mon",
+      "name_jp": "XV-mon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/xv/frame1.gif",
+        "frame2": "sprites/xv/frame2.gif"
+      },
+      "artwork": "sprites/xv/artwork.jpg",
+      "lore": {
+        "en": "An Adult-level Mythical Dragon Digimon that attainedV-mon's natural power and evolved. XV-mon is apurebreedofV-dramon, and it is said that the variant species is V-dramon. The attacks it unleashes using its developed arm and leg strength are tremendous, and are powerful enough to destroy a mountain of rock without leaving a trace. It is feared because it possesses such destructive power, but in reality, it has a strong sense of justice, and will not use that power recklessly. Its Signature Move is a powerful biting technique (Strong Crunch). Its Special Move is an energy wave emitted from the \"X\" pattern on its chest (X-Laser).Digimon Reference Book⇨ Englishブイモンが本来の力を得て進化した成熟期の幻竜型デジモン。エクスブイモンはブイドラモンの原種であり、その派生系の一種がブイドラモンであると言われている。その発達した腕力と脚力から繰り出される攻撃力は凄まじく、山ほどもある岩石など跡形も無く破壊できるほどである。その破壊力を持つために恐れられているが、実際は正義感が強くむやみにその力を使うことは無い。得意技は、強烈な噛み付き技『ストロングクランチ』。必殺技は胸のＸ字の模様から放射されるエネルギー波『エクスレイザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/XV-mon"
+    },
+    {
+      "id": "fladra",
+      "name": "Fladramon",
+      "name_jp": "Fladramon",
+      "name_ko": "화염드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/fladra/frame1.gif",
+        "frame2": "sprites/fladra/frame2.gif"
+      },
+      "artwork": "sprites/fladra/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Dragon Man Digimon that evolved through the power of the \"Digimental of Courage\". The \"Digimental of Courage\" has the attribute of \"Flame\", and those that don this Digimental have their combat ability rise like blazing flames, allowing them to perform attacks on enemy Digimon with intense power. Its Signature Move is driving its fiery fists into the enemy (Knuckle Fire). Its Special Move is changing its entire body into a flaming rocket, and pulverizing the enemy (Fire Rocket).Digimon Reference Book⇨ English“勇気のデジメンタル”のパワーによって進化したアーマー体の竜人型デジモン。“勇気のデジメンタル”は“炎”の属性を持っており、このデジメンタルを身に付けたものは燃え上がる炎のように格闘能力が上がり、強烈なパワーで敵のデジモンに攻撃をすることができるようになる。得意技は炎と化した拳を敵にたたきこむ『ナックルファイア』。必殺技は、全身を炎のロケットに変え、敵を粉砕する『ファイアロケット』。デジモン図鑑",
+        "ko": "\"용기의 디지멘탈\"의 파워에 의해 진화한 아머체의 용인형 디지몬. \"용기의 디지멘탈\"은 \"불길\"의 특성을 가지고 있으며, 이 디지멘탈을 몸에 두른 자는 타오르는 불길처럼 격투 능력이 상승해 강력한 파워로 적 디지몬을 공격할 수 있게 된다. 특기는 불길로 변한 주먹으로 적을 치는 \"너클 파이어 [2] \". [3] 필살기는 전신을 화염의 로켓으로 바꿔 적을 분쇄하는 \"파이어 로켓 [4] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Fladramon"
+    },
+    {
+      "id": "lighdra",
+      "name": "Lighdramon",
+      "name_jp": "Lighdramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lighdra/frame1.gif",
+        "frame2": "sprites/lighdra/frame2.gif"
+      },
+      "artwork": "sprites/lighdra/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Beast Digimon that evolved through the power of the \"Digimental of Friendship\". The \"Digimental of Friendship\" has the attribute of \"Thunder\", and those that don this Digimental fight against their enemies with nimble movements like lightning piercing the ground, and defeat them with electric-based techniques. Its Special Moves are firing an electric blade from the lightning-imbued blade on its head (Lightning Blade), and unleashing a powerful electric shock from the three protuberances on its back (Blue Thunder).Digimon Reference Book⇨ English“友情のデジメンタル”のパワーによって進化したアーマー体の獣型デジモン。“友情のデジメンタル”は“雷”の属性を持っており、このデジメンタルを身に付けたものは大地を貫く稲妻のような素早い動きで敵に立ち向かい、電撃を利用した技で敵を倒す。必殺技は稲妻を宿した頭のブレードから電撃の刃を放つ『ライトニングブレード』と、背中の３本の突起から強烈な電撃を放つ『ブルーサンダー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lighdramon"
+    },
+    {
+      "id": "aerovdra",
+      "name": "Aero V-dramon",
+      "name_jp": "Aero V-dramon",
+      "name_ko": "에어로브이드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/aerovdra/frame1.gif",
+        "frame2": "sprites/aerovdra/frame2.gif"
+      },
+      "artwork": "sprites/aerovdra/artwork.jpg",
+      "lore": {
+        "en": "V-dramonevolved further, and as Aero V-dramon, it became able to move through the sky. Among the rare species of V-dramon, it is said that only veteran warriors that have come through numerous battles are able to evolve, so its existence is already becoming a legend. Not only did its evolution grant it wings, but it also evolved several parts of its body for better grappling, acquiring stronger offensive and defensive power. If you include its attacks from the sky, there are probably no longer any opponents who can rival Aero V-dramon. Its Special Moves are forming aV-shaped energy substance that seems to connect the horn on its snout to the edges of its wings, then soaring towards the opponent (V-Wing Blade), and launching a shock wave which has the appearance of a dragon (Dragon Impulse). Although \"V Wing Blade\" is a technique that cuts the opponent to pieces with the blades of its wings, its weakness is that it cannot be used if it is not in flight.Digimon Reference Book⇨ Englishブイドラモンが更に進化し、空中での移動が行えるようになったのがエアロブイドラモンである。希少種であるブイドラモンの中でも、数々の戦いをくぐり抜いて来た歴戦の強者のみが進化できると言われ、その存在はもはや伝説となっている。翼を得た進化だけではなく体の各所がより格闘的に進化し、より高い攻撃力と防御力を身につけている。そこに空中からの攻撃を加えれば、もはやエアロブイドラモンにかなう敵はいないであろう。必殺技は鼻先のツノと翼のエッジ部分をつなぐようにV字状のエネルギー体が形成され、敵に向かって飛んでいく『Ｖウィングブレード』と、竜の形をした衝撃波を飛ばす『ドラゴンインパルス』。『Ｖウィングブレード』は翼の剣が敵を切り裂く技だが、飛行中でないと使用できないのが欠点。デジモン図鑑",
+        "ko": "브이드라몬 이 더욱 진화해 공중 이동을 할 수 있게 된 것이 에어로브이드라몬이다. 희귀종인 브이드라몬 중에서도 수많은 싸움을 헤쳐온 역전의 용사만이 진화할 수 있다고 하며, 그 존재는 이미 전설이라고 여겨진다. 날개를 얻은 것 뿐만 아니라 몸의 각 부분이 더 격투에 적합하게 진화했고, 더 높은 공격력과 방어력을 지니게 되었다. 여기에 공중 공격을 더하면 이제 에어로브이드라몬을 당해 낼 적은 없을 것이다. 필살기는 코끝의 뿔과 날개 가장자리 부분을 잇는 듯한 V자형 에너지 형태가 형성되어 적을 향해 날아가는 『V윙 블레이드』와 용의 모습을 한 충격파 [3] 를 날리는 『드래곤 임펄스』다. 『V윙 블레이드』는 날개의 검이 적을 난도질하는 기술이지만, 비행 중에만 사용할 수 있는 것이 단점이다."
+      },
+      "wikimon_url": "https://wikimon.net/Aero_V-dramon"
+    },
+    {
+      "id": "paildra",
+      "name": "Paildramon",
+      "name_jp": "Paildramon",
+      "name_ko": "파일드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/paildra/frame1.gif",
+        "frame2": "sprites/paildra/frame2.gif"
+      },
+      "artwork": "sprites/paildra/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man Digimon whichJogress-evolved fromXV-monandStingmon. It has distinctively retained the components of its Dragon type base, and has acquired the power possessed by Dragons and impregnable defensive ability with the shell possessed by Insects. Even more than its power, it finishes off enemies with its keen movements. With deep, unquestioning loyalty, it is even willing to lay down it's life for its master. Its Signature Move is unleashing a rush with the Spikes extending from the shells on both of its arms (Esgrima). Its Special Move is an energy wave fired from the two organic cannons that are extended from its waist (Desperado Blaster).Digimon Reference Book⇨ Englishエクスブイモンとスティングモンがジョグレスして進化した竜人型デジモン。竜型をベースにその要素を色濃く残しており、竜の持つパワーと昆虫の持つ甲殻で鉄壁の防御能力を身につけている。パワーもさることながら、俊敏な動きで敵にとどめを刺す。忠誠心が強く、主人のためには命を落とすこともいとわない。得意技は両腕の甲から伸びるスパイクでラッシュを繰り出す『エスグリーマ』。必殺技は腰から伸びている２本の生体砲から放たれるエネルギー波『デスペラードブラスター』。デジモン図鑑",
+        "ko": "엑스브이몬 과 스팅몬 이 조그레스 진화 한 용인형 디지몬. 용형이 기반으로 그 요소를 짙게 남기고 있으며 [1] 용이 가진 파워와 곤충이 가진 갑각으로 철벽 방어능력을 갖췄다. 파워는 물론 민첩한 움직임으로 적을 두렵게 한다. 충성심이 강해 주인을 위해 목숨을 잃는 일도 마다하지 않는다. 특기는 양팔의 갑옷에서부터 나오는 스파이크로 러시를 계속하는 \"에스그리마\". [2] [3] 필살기는 허리에서 나온 두 개의 생체포에서 발사하는 에너지파 \"데스페라도 블래스터\" [4] ."
+      },
+      "wikimon_url": "https://wikimon.net/Paildramon"
+    },
+    {
+      "id": "sagittari",
+      "name": "Sagittarimon",
+      "name_jp": "Sagittarimon",
+      "name_ko": "사수몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/sagittari/frame1.gif",
+        "frame2": "sprites/sagittari/frame2.gif"
+      },
+      "artwork": "sprites/sagittari/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Mythical Animal Digimon that evolved through the power of the \"Digimental of Hope\". It is a superior species of theCentalmonfamily, and it is told that it is a mythical being. Although it is an Armor that pseudo-evolved from an ancient Digimon due to the power of theDigimental, it will sometimes evolve as a mutation among Centalmon (not an Armor Evolution). Because it consumes a large quantity of energy while in this form, it reverts after a short period. Its Special Move is firing an arrow made of the super-metalChrome Digizoid(Judgment Arrow).Digimon Reference Book⇨ English“希望のデジメンタル”のパワーによって進化したアーマー体の幻獣型デジモン。ケンタルモン族の上位種であり、幻の存在であると伝えられていた。古代種デジモンがデジメンタルの力によって擬似進化したアーマー体であるが、ケンタルモンの中にも突然変異的に（アーマー進化ではなく）進化することもある。この形態でいるにはエネルギーを大量に消費してしまうため、短時間で戻ってしまう。必殺技は超金属クロンデジゾイド製の矢を放つ『ジャッジメントアロー』。デジモン図鑑",
+        "ko": "\"희망의 디지멘탈\"의 파워에 의해서 진화한 아머체의 환수형 디지몬. 켄터스몬 족의 상위종이며,  환상의 존재로 전하고 있었다. 고대종 디지몬이 디지멘탈의 힘에 의해서 의사 진화한 아머체이지만 켄터스몬 중에서 돌연변이적으로(아머 진화는 아니다.) 진화하기도 한다. 이 형태로 있으려면 에너지를 대량으로 소비해 버리기 때문에, 단시간에 돌아와 버린다. [3] 필살기는 초금속 크롬디지조이드제의 화살을 발사하는 \"저지먼트 애로우\"."
+      },
+      "wikimon_url": "https://wikimon.net/Sagittarimon"
+    },
+    {
+      "id": "dinobee",
+      "name": "Dinobeemon",
+      "name_jp": "Dinobeemon",
+      "name_ko": "다이노몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/dinobee/frame1.gif",
+        "frame2": "sprites/dinobee/frame2.gif"
+      },
+      "artwork": "sprites/dinobee/artwork.jpg",
+      "lore": {
+        "en": "A Mutation Digimon whichJogress-evolved fromStingmonandXV-mon. Achimeraof a dragon and an insect, this Digimon possesses the nameTerrible Bee. It is hard to classify its species as either a Dragon type or an Insect type, but its Insect nature is especially pronounced. It flies through the sky with its four wings and accurately perceives the opponent with the compound eyes on its head, enabling it to choke the life out of its opponent without fail. Also, Dinobeemon possesses a considerably ferocious personality. Its Special Move is theDance of Hellin which its nimble movements leave behind afterimages while it chops up the opponent (Hell Masquerade).Digimon Reference Book⇨ Englishスティングモンとエクスブイモンがジョグレスして進化した突然変異型デジモン。竜と昆虫のキメラ（合成獣）であり、“恐ろしい蜂”の名をもつ。竜型とも昆虫型とも区別しにくい種であるが、昆虫の性質が色濃く出ている。４枚の羽で上空を飛び、頭部の複眼で敵を的確に捉え、確実に敵の息の根を止める。また、ディノビーモンはかなり凶暴な性格の持ち主である。必殺技は素早い動きで残像を残しながら敵を切り刻む“地獄の舞踏”『ヘルマスカレード』。デジモン図鑑",
+        "ko": "스팅몬 과 엑스브이몬 이 조그레스 진화 한 돌연변이형 디지몬. [1] 용 과 곤충 의 키메라 (합성짐승)이며 “무서운 벌 ”의 이름을 가지는 디지몬. [2] 용형과도 곤충형과도 구별하기 어려운 종이지만 곤충의 성질이 현저하게 나와 있다. 4매의 날개로 상공을 날아 머리 부분의 복안으로 적을 정확하게 파악해 확실히 적의 숨통을 끊는다. 또, 다이노몬은 꽤 흉포한 성격의 소유자이다. 필살기는 재빠른 움직임으로 잔상을 남기며 적을 잘게 쪼개는 \"지옥의 무도\" 『헬 마스커레이드』."
+      },
+      "wikimon_url": "https://wikimon.net/Dinobeemon"
+    },
+    {
+      "id": "goldvdra",
+      "name": "Gold V-dramon",
+      "name_jp": "Gold V-dramon",
+      "name_ko": "골드브이드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/goldvdra/frame1.gif",
+        "frame2": "sprites/goldvdra/frame2.gif"
+      },
+      "artwork": "sprites/goldvdra/artwork.jpg",
+      "lore": {
+        "en": "A Mythical Dragon Digimon that \"Armor Evolved\" fromV-monwith the \"Digimental of Fate\". Its existence is precious, and it possesses extraordinary offensive ability amongArmors, exhibitingUltimate-class power if it gets in a pinch. Also, its golden body illuminates the darkness of theNet. Its Special Move is a golden heat ray (V-Breath Arrow).Digimon Reference Book⇨ Englishブイモンが「運命のデジメンタル」で“アーマー進化”した幻竜型デジモン。その存在は貴重で、アーマー体の中でも並外れた攻撃力を持ち、ピンチになると究極体クラスの力を発揮する。また、黄金色のボディでネットの闇を照らし出す。必殺技は、黄金の熱線『ブレイブレスアロー』。デジモン図鑑",
+        "ko": "브이몬 이 \"운명의 디지멘탈 \"로 \" 아머 진화 \"한 환룡형 디지몬. 그 존재는 귀중하고, 아머체 중에서도 뛰어난 공격력을 가지며, 위기에 처하면 궁극체 클래스의 힘 을 발휘한다. 또한 황금빛 몸은 넷의 어둠을 비춘다. 필살기는 황금의 열선인 \"브이 브레스 애로우\". [3] D-1 테이머즈 도감 환룡형 디지몬! 브이드라몬 이 상처받아 쓰러졌을 때, 금빛으로 빛나며 진화 한다고 하는데... 브이 브레스 애로우 입에서 V 모양의 고온 열선을 뿜어내는 기술. 매우 강력하며, 심지어 강한 디지몬을 상대로도 완전 효과적이다!"
+      },
+      "wikimon_url": "https://wikimon.net/Gold_V-dramon"
+    },
+    {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "name_jp": "Digitamamon",
+      "name_ko": "디지타몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/digitama/frame1.gif",
+        "frame2": "sprites/digitama/frame2.gif"
+      },
+      "artwork": "sprites/digitama/artwork.jpg",
+      "lore": {
+        "en": "The ultimate Digimon which has the appearance of a \"Digitama\", the beginning and end of all Digimon. It is said that Digitamamon, who is at the apex of evolution, will not evolve from normal Digimon, and will never evolve unless it fuses with data from another dimension. It is covered in an egg-shaped exoskeleton that renders all attacks meaningless. Its Special Moves are destroying the enemy's spirit (Enigma) and an orb of darkness (Nightmare Syndrome). All Digimon who suffer these attacks have their vital functions brought to a halt.Digimon Reference Book⇨ Englishすべてのデジモンの始まりであり、終わりである“デジタマ”の姿をした究極のデジモン。進化の頂点にいるこのデジタマモンは通常のデジモンからは進化することは無く、別次元のデータと融合しないと決して進化することは無いと言われている。タマゴのような形をした外骨格に覆われており、この外骨格の前には全ての攻撃が無意味と化す。必殺技は敵の精神を破壊してしまう『エニグマ』と暗黒の球体『ナイトメアシンドローム』。これらの攻撃を受けると、すべてのデジモンは生命活動を停止してしまう。デジモン図鑑",
+        "ko": "모든 디지몬의 시작이자 끝인 \" 디지타마 \"의 모습을 한 궁극의 디지몬 . 진화의 정점 에 있는 이 디지타몬은 통상의 디지몬에서는 진화하는 일은 없고, 다른 차원의 데이터와 융합하지 않으면 결코 진화하는 일은 없다고 알려져 있다. 달걀처럼 생긴 외골격으로 덮여 있어 이 외골격 앞에는 모든 공격이 무의미해진다. 필살기는 적의 정신을 파괴해 버리는 ‘에니그마 [7] ’와 암흑의 구체 ‘나이트메어 신드롬 [8] ’. 이 공격들을 받는 모든 디지몬은 생명활동을 정지해 버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Digitamamon"
+    },
+    {
+      "id": "ulforcevdra",
+      "name": "Ulforce V-dramon",
+      "name_jp": "Ulforce V-dramon",
+      "name_ko": "알포스브이드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/ulforcevdra/frame1.gif",
+        "frame2": "sprites/ulforcevdra/frame2.gif"
+      },
+      "artwork": "sprites/ulforcevdra/artwork.jpg",
+      "lore": {
+        "en": "A Holy Knight Digimon based on a legend that only appears within a certain \"Prophecy\", handed down from the ancient Digital World. In that \"Prophecy\" is written the appearance of the \"Royal Knights\", the guardian deities of the Network, and based on the \"Prophecy\", it is said that the Digimon that are called the \"Royal Knights\" will assemble at the time of the Digital World's greatest crisis. Ulforce V-dramon possesses the swiftest speed among the \"Royal Knights\", and there is no one that can follow its movements. Also, its body is wrapped in holy armor made of the lightest rare metal \"Blue Chrondigizoit\", which is rare even amongChrome Digizoid, so it can cleave the sky and split the earth. It can extend weapons and a shield from the \"V Bracelets\" equipped to both of its arms. Its Special Move is a beam which strafes across from the \"V\"-shaped armor on its chest (Shining V-Force).Digimon Reference Book⇨ English古代デジタルワールドから伝わる、ある“予言”の中だけに登場する伝説上の聖騎士デジモン。その“予言”にはネットワークの守護神“ロイヤルナイツ”の出現が書かれており、“ロイヤルナイツ”と呼ばれるデジモン達は、デジタルワールド最大の危機の時に“予言”の元に集うと言われている。アルフォースブイドラモンは“ロイヤルナイツ”の中でも神速のスピードを持ち、その動きを追える存在は皆無である。またクロンデジゾイドの中でも希少な存在で最軽量のレアメタル“ブルークロンデジゾイト”の聖鎧に身を包み、空を裂き、大地を割る。両腕に装備した“Ｖブレスレット”から武器やシールドが展開する。必殺技は胸のＶ字型アーマーから掃射される光線『シャイニングＶフォース』。デジモン図鑑",
+        "ko": "고대 디지털 월드 에서 전해지는 한 \"예언\"에서만 등장하는 전설의 기사 디지몬. 그 \"예언\"에는 네트워크의 수호신 \"로얄 나이츠\"의 출현이 나와 있으며 \" 로얄 나이츠 \"라고 불리는 디지몬들은 디지털 월드가 최대 위기일 때 \"예언\"에 따라 집결한다고 알려져 있다. 알포스브이드라몬은 \"로얄 나이츠\" 중에서도 굉장히 빠른 속도를 지녔으며 그 움직임을 쫓을 수 있는 존재는 없다. 또한, 크롬디지조이드 중에서도 희소한 존재이며 가장 무게가 가벼운 희소 금속 \"블루 디지조이드\"로 만든 성스러운 갑옷을 입었으며, 하늘을 쪼개고 대지를 가른다. 양팔에 장착한 \"V 브레이슬릿\"를 이용해 무기나 실드를 펼친다. 필살기는 가슴의 V자형 아머에서 휘두르며 연사하는 광선 『샤이닝 V 포스』다. 디지털 몬스터 카드 게임 Bo-932: 섬광 검과 강철 창의 갑옷으로 무장한 궁극의 청룡기사! Bo-1112: 미래를 믿는 강한 마음! 기적의 궁극기사(알포스)!! 2."
+      },
+      "wikimon_url": "https://wikimon.net/Ulforce_V-dramon"
+    },
+    {
+      "id": "imperialdra_d",
+      "name": "Imperialdramon: Dragon Mode",
+      "name_jp": "",
+      "name_ko": "황제드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "An ultimate Ancient Dragon Digimon that existed in ancient times. There is a clear distinction between it and other Digimon in terms of existence or ability. Also, Imperialdramon is called theDragon Mode, but there seems to exist a \"Fighter Mode\" that is able to liberate all of its power. However, it is said that that form has never been seen. Due to its immense power, controlling it is next to impossible, and depending on how it is raised, it may become a savior or a god of destruction. Its Special Move is firing super-massivedark matter, swallowing everything in a dark space (Mega Death). This technique is a terrifying ability that completely annihilates everything within a radius of a few hundred meters around the impact-point of the dark matter.Digimon Reference Book⇨ English古代に存在した究極の古代竜型デジモン。他のデジモンとは存在や能力の面で一線を画している。またインペリアルドラモンは竜形態（ドラゴンモード）と呼ばれているが、全てのパワーを開放することができる“竜人形態”（ファイターモード）が存在するらしい。しかし、その姿を見たものはいないと言われている。強大なパワーのため、制御するのは至難の技であり、扱い方によっては救世主にも破壊神にもなってしまう。必殺技は超質量の暗黒物質を発射し、全てを暗黒空間に呑み込んでしまう『メガデス』。この技は暗黒物質の着弾点から半径数百メートルの全ての物を完全に消滅させてしまう恐ろしい技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Imperialdramon:_Dragon_Mode"
+    },
+    {
+      "id": "magna",
+      "name": "Magnamon",
+      "name_jp": "Magnamon",
+      "name_ko": "매그너몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/magna/frame1.gif",
+        "frame2": "sprites/magna/frame2.gif"
+      },
+      "artwork": "sprites/magna/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Holy Knight Digimon that evolved through the power of the \"Digimental of Miracles\". The \"Digimental of Miracles\" possesses the attribute of \"Metal\", and is made of the super-metal \"Chrome Digizoid\". It possesses not only tremendous defensive ability, but also offensive power equivalent to that of anUltimateDigimon or even greater, and it is also a member of the \"Royal Knights\". Those who acquire the power of the \"Digimental of Miracles\" are able to overcome any predicament they fall into through that miraculous power, and as such it is appropriately referred to as a Miracle Item. Its Special Moves are firing a shot of ball-shaped plasma (Plasma Shoot), and rapidly compressing space, then immediately and explosively expanding it, sweeping away surrounding enemies with a golden laser beam (Shining Gold Solar Storm).Digimon Reference Book⇨ English“奇跡のデジメンタル”のパワーによって進化したアーマー体の聖騎士型デジモン。“奇跡のデジメンタル”は“メタル”の属性を持っており、超金属「クロンデジゾイド」製である。絶大な防御能力を持ち、その攻撃力は究極体と対等か、それ以上で“ロイヤルナイツ”の一員でもある。“奇跡のデジメンタル”のパワーを得たものは、どんな窮地に陥っていても、その奇跡の力によって切りぬけることができるところから、まさにミラクルアイテムと呼ぶに相応しい。必殺技はボール状のプラズマ弾を発射する『プラズマシュート』と、空間を急速圧縮し、一気に膨張爆発させ、黄金のレーザー光で周辺の敵を一掃する『シャイニングゴールドソーラーストーム』。デジモン図鑑",
+        "ko": "\"기적의 디지멘탈 \"의 파워에 의해 진화 한 아머체 의 성기사형 디지몬. 기적의 디지멘탈은 \"메탈\"의 속성을 지니고 있으며, 초금속 ' 크롬디지조이드 '제이다. 절대적인 방어능력을 지니며, 그 공격력은 궁극체 와 대등하거나, 그 이상으로 \" 로얄 나이츠 \"의 일원이기도 하다. \"기적의 디지멘탈\"의 파워를 얻은 이는, 어떤 궁지에 몰려도 그 기적의 힘에 의해 헤쳐나올 수 있다고 하므로, 진정한 미라클 아이템이라고 부를 수 있다고 볼 수 있겠다. 필살기는 공 모양의 플라즈마 탄을 발사하는 \"플라즈마 슛 [11] \"과 공간을 급속압축해, 단숨에 팽창폭발시켜, 황금의 레이저빛으로 주변의 적을 일소하는 \"샤이닝 골드 솔라 스톰 [12] \". 디지몬 생활 \"기적의 디지멘탈\"의 파워에 의해 진화한 아머체의 성기사형 디지몬. 기적의 디지멘탈은 \"메탈\"의 속성을 지니고 있으며, 초금속 '크롬디지조이드'제이다. 절대적인 방어능력을 지니며, 그 공격력은 궁극체와 대등하거나, 그 이상이다. \"기적의 디지멘탈\"의 파워를 얻은 이는, 어떤 궁지에 몰려도 그 기적의 힘에 의해 헤쳐나올 수 있다고 하므로, 진정한 미라클 아이템이라고 부를 수 있다고 볼 수 있겠다. 필살기는 공 모양의 플라즈마 탄을 발사하는 \"플라즈마 슛\"과 디지멘탈의 파워를 극한까지 출력해, 전신에서 에너지파를 방사하는 \"익스트림 지하드\". D-3 기적의 디지멘탈에 의해 진화한 성기사형 디지몬. 필살기 - 공 모양의 플라즈마 탄을 발사하는 \"플라즈마 슛\"과 디지멘탈의 파워를 극한까지 출력해 전신에서 에너지파를 방사하는 \"익스트림 지하드\". 디지몬 제볼루션 캐릭터 소개 황금 갑옷을 입은 광속의 기사! 임무를 막는 자는 자비 없이 제거한다! 디지몬 월드 리디지타이즈 디코드 \"기적의 디지멘탈\"의 파워에 의해 진화한 아머체의 성기사형 디지몬. 기적의 디지멘탈은 \"메탈\"의 속성을 지니고 있으며, 초금속 '크롬디지조이드'제이다. 절대적인 방어능력을 지니며, 그 공격력은 궁극체와 대등하거나, 그 이상으로 \"로얄 나이츠\"의 일원기도 하다. \"기적의 디지멘탈\"의 파워를 얻은 이는, 어떤 궁지에 몰려도 그 기적의 힘에 의해 헤쳐나올 수 있다고 하므로, 진정한 미라클 아이템이라고 부를 수 있다고 볼 수 있겠다. 필살기는 공 모양의 플라즈마 탄을 발사하는 \"플라즈마 슛\"과 디지멘탈의 파워를 극한까지 출력해, 전신에서 에너지 파를 방사하는 \"익스트림 지하드\". 공간을 급속압축해, 단숨에 팽창폭발시켜, 황금의 레이저빛으로 주변의 적을 일소하는 \"샤이닝 골드 솔라 스톰\". 또한 디지멘탈의 파워를 극한까지 출력해, 전신에서 에너지 파를 방사하는 유일무이한 매그너몬 궁극의 금기이지만, 그 위력의 크기 때문에 자신의 데이터 손상이 가속적으로 빨라지는 것으로 판명되었기 때문에 지금은 봉인된 상태다. 디지몬 스토리 선버스트·문라이트 13체 있다는 로얄 나이츠의 일원 \"기적의 디지멘탈\"에 의해 브이몬이 아머 진화한 디지몬 '크롬디지조이드'제의 갑옷은 튼튼하고 뛰어난 방어력을 자랑한다 기적의 힘으로 어떤 위기도 이겨낼 수 있다고 한다 디지몬 스토리 사이버 슬루스 캐릭터 소개 상냥한 기적의 성기사 \"기적의 디지멘탈\"의 파워에 의해 진화한 아머체의 성기사형 디지몬. \"기적의 디지멘탈\"의 파워로, 어떤 궁지에 몰려도, 그 기적의 힘에 의해 헤쳐나올 수 있다고 말해지고 있다. 초금속 \"크롬디지조이드\"제이다. 절대적인 방어능력을 지니고 있다. 디지털 월드에 악영향을 미치는 현실세계를 붕괴시켜야 할지 고민하고 있으며 주인공이나 노키아의 행동을 보고 인간을 파악하려 한다. 디지털 몬스터 카드 게임 St-250 - 순수, 희망, 친절이 기적을 일으켜 탄생하는 황금의 전사! St-551 - 로열 나이트의 방어력을 자랑하는 황금의 성전사! St-724 - 로열 나이트 방어 최적, 기적의 갑옷기사! St-828 - 기적을 일으키며 성스러운 싸움에 임하는 황금 기사! Bo-300 - 초금속 크롬 디지조이드의 갑옷으로 몸을 감싼 기적의 성기사! Bo-432 - 궁극체 클래스의 공격력으로 발사하는 필살의 프리즘 광구! Bo-1116 - 어떤 궁지라도 헤쳐나가는 기적의 초강철기사 디지몬 진트릭스 3-022 - 기적의 디지멘탈의 힘으로 아머진화를 해낸 모습. 크롬디지조이드제 갑옷으로 몸을 감싸고, 궁극체수준의 힘을 발휘. 위기에 처했을 때는 기적의 힘으로 헤쳐나간다. 배틀스피리츠 CB05-X03- \"기적의 디지멘탈\"의 파워에 의해 진화한 아머체의 성기사형 디지몬."
+      },
+      "wikimon_url": "https://wikimon.net/Magnamon"
+    },
+    {
+      "id": "imperialdra_f",
+      "name": "Imperialdramon: Fighter Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A form of the Ancient Dragon DigimonImperialdramon: Dragon Modethat liberated all of its power, changing form into the legendaryFighter Mode. It is an ultimate Digimon that acquired a great intellect by changing from the difficult-to-controlDragon Modeto a human form. It is said that the power to destroy a planet dwells in its attacks. Its Special Moves are the \"Positron Laser\" equipped to its right arm, and inserting thePositron Laserinto the dragon-face on its chest, then emitting all of its body's energy as a destructive energy wave (Giga Death). Its power is ten times that ofDragon Mode's \"Mega Death\". Also, when it awakens to perfect justice, it is able to transform into an even furtherMode.Digimon Reference Book⇨ English古代竜型デジモンのインペリアルドラモン：ドラゴンモードが全てのパワーを開放し、伝説の竜戦士（ファイターモード）へと形態を変化させた姿。制御の難しかったドラゴンモードから、人型になることで高い知性を身につけた究極のデジモンである。その攻撃は惑星をも破壊するだけのパワーが宿っていると言われている。必殺技は右腕に装着した『ポジトロンレーザー』とポジトロンレーザーを胸部の竜顔にはめ込み、全身のエネルギーを放射する破壊のエネルギー波『ギガデス』。その威力はドラゴンモードの『メガデス』の十倍の威力を持っている。また、完全なる正義に目覚めたとき更なる別モードになることができると言われている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Imperialdramon:_Fighter_Mode"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "v",
+      "to": "vdra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "1,200+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "to": "xv",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "800+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "to": "fladra",
+      "conditions": {
+        "Trophies": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "v",
+      "to": "lighdra",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vdra",
+      "to": "aerovdra",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "to": "aerovdra",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "paildra",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "paildra",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vdra",
+      "to": "sagittari",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "to": "sagittari",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "dinobee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "dinobee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "vdra",
+      "to": "goldvdra",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "goldvdra",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fladra",
+      "to": "digitama",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "digitama",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "to": "ulforcevdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sagittari",
+      "to": "ulforcevdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "ulforcevdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "to": "imperialdra_d",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "imperialdra_d",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "imperialdra_d",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "sagittari",
+      "to": "magna",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "goldvdra",
+      "to": "magna",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "magna",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "imperialdra_f",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "imperialdra_f",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "goldvdra",
+      "to": "imperialdra_f",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "chico",
+      "to": "chibi",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "chibi",
+      "to": "v",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "vdra",
+      "to": "dinobee",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "vdra",
+      "to": "digitama",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "aerovdra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Adult"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "digitama",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "fladra",
+      "to": "paildra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Adult"
+      }
+    },
+    {
+      "from": "fladra",
+      "to": "goldvdra",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "aerovdra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Adult"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "sagittari",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "to": "magna",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "to": "imperialdra_f",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "ulforcevdra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "magna",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "sagittari",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Perfect"
+      }
+    },
+    {
+      "from": "sagittari",
+      "to": "imperialdra_f",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "ulforcevdra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "magna",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "goldvdra",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "goldvdra",
+      "to": "ulforcevdra",
+      "conditions": {
+        "text": "Jogress with Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "imperialdra_f",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    }
+  ]
+}

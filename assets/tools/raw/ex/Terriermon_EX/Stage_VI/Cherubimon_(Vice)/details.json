@@ -1,0 +1,74 @@
+{
+  "id": "cherubi_vice",
+  "name": "Cherubimon (Vice)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cherubi_vice.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cherubi_vice.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cherubi_vice.jpg",
+  "appearances": [
+    {
+      "dim_id": "terrier_ex",
+      "dim_name": "Terriermon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Cherubimon (Vice)",
+    "name_en": "Cherubimon (Evil)",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★8)",
+      "hp": "10",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "sindura",
+        "name": "Sinduramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "andira_d",
+        "name": "Andiramon (Deva)",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "andira",
+        "name": "Andiramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "rapid",
+        "name": "Rapidmon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "makura",
+        "name": "Makuramon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "pajira",
+        "name": "Pajiramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

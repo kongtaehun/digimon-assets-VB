@@ -1,0 +1,88 @@
+{
+  "id": "blackwargrey",
+  "name": "Black War Greymon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/blackwargrey.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/blackwargrey.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/blackwargrey.jpg",
+  "appearances": [
+    {
+      "dim_id": "mbr",
+      "dim_name": "Mad Black Roar",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "extyrano",
+        "skullgrey"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Black War Greymon",
+    "name_en": "BlackWarGreymon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "45 (★9)",
+      "hp": "14",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "metalgrey_vi",
+        "name": "Metalgreymon (Virus)",
+        "conditions": "• 15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio (MBR/DRo)• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (BRo)"
+      },
+      {
+        "id": "extyrano",
+        "name": "Ex-Tyranomon",
+        "conditions": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "skullgrey",
+        "name": "Skull Greymon",
+        "conditions": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "metalgrey_am",
+        "name": "Metal Greymon (Alterous Mode)",
+        "conditions": "Jogress with Data or Free Perfect (MBR)"
+      },
+      {
+        "id": "mametyra",
+        "name": "Mametyramon",
+        "conditions": "Jogress with Vaccine or Free Perfect (MBR)"
+      },
+      {
+        "id": "metalgrey_va",
+        "name": "Metal Greymon",
+        "conditions": "Jogress with Data, Virus or Free Perfect"
+      },
+      {
+        "id": "vermilli",
+        "name": "Vermillimon",
+        "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "omega_z",
+        "name": "Omegamon Zwart",
+        "conditions": "• Jogress with Metal Garurumon (Black) (MBR/Bro)• Stage 15 cleared, 30+ Trophies, 8,500+ Vital Values, 30+ Battles, 70%+ Win Ratio (DRo)"
+      }
+    ]
+  }
+}

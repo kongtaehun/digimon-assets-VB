@@ -1,0 +1,52 @@
+{
+  "id": "bigukko",
+  "name": "Big Ukkomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bigukko.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bigukko.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bigukko.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "ukkoSkipV"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Big Ukkomon",
+    "name_en": "BigUkkomon",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "6100",
+      "ap": "2200"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "ukko",
+        "name": "Ukkomon",
+        "conditions": "Stage 12 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio (Evolution takes 24 hours)"
+      }
+    ],
+    "evolves_to": []
+  }
+}

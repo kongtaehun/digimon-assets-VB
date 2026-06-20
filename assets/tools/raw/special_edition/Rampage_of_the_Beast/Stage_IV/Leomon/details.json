@@ -1,0 +1,73 @@
+{
+  "id": "leo",
+  "name": "Leomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/leo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/leo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/leo.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "corona",
+        "phasco"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Leomon",
+    "name_en": "Leomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "5000",
+      "hp": "3300",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "corona",
+        "name": "Coronamon",
+        "conditions": "Choose one:"
+      },
+      {
+        "id": "phasco",
+        "name": "Phascomon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "asta",
+        "name": "Astamon",
+        "conditions": "Stage 9 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "grappuleo",
+        "name": "Grappu Leomon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "thetis",
+  "name": "Thetismon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/thetis.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/thetis.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/thetis.jpg",
+  "appearances": [
+    {
+      "dim_id": "jelly",
+      "dim_name": "Jellymon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "ruka",
+        "teslajelly",
+        "manbo"
+      ],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Thetismon",
+    "name_en": "Thetismon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "8",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "ruka",
+        "name": "Rukamon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "teslajelly",
+        "name": "Tesla Jellymon",
+        "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Free Adult"
+      },
+      {
+        "id": "manbo",
+        "name": "Manbomon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "marinange",
+        "name": "Marin Angemon",
+        "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Vaccine Perfect"
+      },
+      {
+        "id": "ancientmermai",
+        "name": "Ancient Mermaimon",
+        "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+      },
+      {
+        "id": "puku",
+        "name": "Pukumon",
+        "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

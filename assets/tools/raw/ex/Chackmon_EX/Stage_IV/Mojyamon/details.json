@@ -1,0 +1,42 @@
+{
+  "id": "mojya",
+  "name": "Mojyamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mojya.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mojya.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mojya.jpg",
+  "appearances": [
+    {
+      "dim_id": "chack_ex",
+      "dim_name": "Chackmon EX",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mojyamon",
+    "name_en": "Mojyamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "stats": {
+      "dp": "20 (★)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "skullmam",
+  "name": "Skull Mammon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/skullmam.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/skullmam.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/skullmam.jpg",
+  "appearances": [
+    {
+      "dim_id": "bfa",
+      "dim_name": "Blizzard Fang",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "mam",
+        "panjya",
+        "daipen"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Skull Mammon",
+    "name_en": "SkullMammothmon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "45 (★9)",
+      "hp": "12",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "mam",
+        "name": "Mammon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "panjya",
+        "name": "Panjyamon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "daipen",
+        "name": "Daipenmon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "cresce",
+        "name": "Crescemon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "cryspaledra",
+        "name": "Crys Paledramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "frozo",
+        "name": "Frozomon",
+        "conditions": "Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

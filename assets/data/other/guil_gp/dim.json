@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "id": "guil_gp",
+  "name": "Guilmon GP",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_guil_gp.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "jyari",
+      "name": "Jyarimon",
+      "name_jp": "Jyarimon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/jyari/frame1.gif",
+        "frame2": "sprites/jyari/frame2.gif"
+      },
+      "artwork": "sprites/jyari/artwork.jpg",
+      "lore": {
+        "en": "An extremely scarce Digimon, whose population is small. The Babies of Dragon-species Digimon are small in absolute number, and it is said that most of them are captured or die before they grow up. You wouldn't know it to look at it, but there are tiny, closely packed fangs growing within its mouth, and it is foreseen that it will grow into a powerful Dragon-species Digimon. Although it is powerless, it has the disposition to face those with bodies larger than its own, and that becomes the reason for its low survival rate. It attacks with bubbles heated by the constant high temperatures within its body.Digimon Reference Book⇨ English個体数が少なく、非常に希少なデジモン。竜系のデジモンの幼年期は絶対的に数が少なく、そのほとんどが成長する前に捕獲や死滅してしまうと言われている。見た目では分からないが、口の中にはびっしりと細かい牙が生えており、力強い竜系のデジモンに成長することを予見させる。非力ではあるが、自分より体の大きなものに向かっていく性質をもっており、そのことが生存率の低さの理由にもなっている。体内が常に高温で熱気を帯びた泡で攻撃する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Jyarimon"
+    },
+    {
+      "id": "gigi",
+      "name": "Gigimon",
+      "name_jp": "Gigimon",
+      "name_ko": "기기몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/gigi/frame1.gif",
+        "frame2": "sprites/gigi/frame2.gif"
+      },
+      "artwork": "sprites/gigi/artwork.jpg",
+      "lore": {
+        "en": "A four-legged Baby Digimon that grew fromJyarimon. Its physical features resemble those ofTokomon, and powerful fangs also line the interior of its mouth. However, unlike Tokomon, who evolves into the Mammal-species, Gigimon, who evolves into the Dragon-species, has a rough personality and is ferocious despite its small size. There are more than a few even larger Digimon who were deceived by its appearance and suffered a counterattack. Its Special Move is snapping at the opponent (Hot Bite). Its body temperature is hot, just like Jyarimon, and it is said that it leaves burns on the areas it bites.Digimon Reference Book⇨ Englishジャリモンが成長した四足型の幼年期デジモン。身体的特徴はトコモンに酷似しており、口の中にも強力な牙が生え揃っている。しかし、哺乳類系に進化するトコモンとは違い、竜系に進化するギギモンは性格も荒く、小型ながら獰猛である。見た目に騙されて反撃を受ける大型のデジモンも少なくない。必殺技は相手に噛み付く『ホットバイト』。ジャリモンと同じく体温が熱く、噛まれたところが焼けどすると言われている。デジモン図鑑",
+        "ko": "쟈리몬 이 성장한 사족보행 유년기 디지몬 . 신체적 특징은 토코몬 비스무레해, 입 안에도 강력한 송곳니가 자라나고 있다. 하지만, 포유류 계열로 진화하는 토코몬과는 달리, 용 계열로 진화하는 기기몬은 성격도 거칠어, 소형이지만 영리하고 용맹하다. 겉모습만 보고 건드렸다가 반격당한 대형 디지몬도 적지 않다. 필살기는 상대를 물어뜯는 \"핫 바이트\". 쟈리몬과 같이 체온이 매우 높아, 물린 자리에는 화상을 입게 된다고 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Gigimon"
+    },
+    {
+      "id": "guil",
+      "name": "Guilmon",
+      "name_jp": "Guilmon",
+      "name_ko": "길몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/guil/frame1.gif",
+        "frame2": "sprites/guil/frame2.gif"
+      },
+      "artwork": "sprites/guil/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose appearance resembles a dinosaur that still retains its youth. Although it is still a Child, its potential as a \"Combat Species\"—something which all Digimon naturally possess—is very high, and beneath its surface lies the ferocious personality of a carnivorous beast. The mark depicted on its abdomen is called the \"Digital Hazard\", which is inscribed on those that have the potential to cause massive damage to computer data. However, as long as this ability is used peacefully, it is also possible for it to turn into a guardian of the Digital World. Its Signature Move is destroying rocks with its sturdy foreclaws (Rock Breaker). Its Special Move is spewing out a powerful flame shot (Fireball).Digimon Reference Book⇨ Englishまだ幼さを残す恐竜のような姿をしたデジモン。まだ成長期ではあるが、デジモン本来が持っている“戦う種”としてのポテンシャルは非常に高く、肉食獣のような凶暴性を秘めている。腹部に描かれたマークは“デジタルハザード”と呼ばれ、コンピュータデータに対して多大なる被害を及ぼす可能性があるものに刻印される。しかし、この能力も平和的に利用さえすれば、デジタルワールドの守護者たる存在となりえるだろう。得意技は強靭な前爪で岩石をも破壊する『ロックブレイカー』。必殺技は強力な火炎弾を吐き出す『ファイアーボール』。デジモン図鑑",
+        "ko": "아직 어린모습이 남아있는 공룡같이 생긴 디지몬. 성장기이지만 디지몬이 본래 가지고 있는 \"싸우는 종\"으로서의 잠재력은 매우 높고, 육식동물과 같은 흉폭함을 숨기고 있다. 복부에 그려진 마크는 ' 디지털 해저드 '라고 불리며 컴퓨터 데이터에 대해 막대한 피해를 미칠 가능성이 있는 것에 각인되는 것이다. 그러나, 이 능력도 평화적으로 이용한다면 디지털 월드의 수호자격의 존재 가 될 수 있을 것이다. 특기는 강인한 앞발톱으로 암석도 파괴하는 \"록 브레이커\". 필살기는 강력한 화염탄을 내뿜는 \"파이어 볼\"."
+      },
+      "wikimon_url": "https://wikimon.net/Guilmon"
+    },
+    {
+      "id": "grow",
+      "name": "Growmon",
+      "name_jp": "Growmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grow/frame1.gif",
+        "frame2": "sprites/grow/frame2.gif"
+      },
+      "artwork": "sprites/grow/artwork.jpg",
+      "lore": {
+        "en": "A Demon Dragon Digimon that is called the \"Deep-crimson Demon Dragon\". The childishness it had when it wasGuilmonhas vanished, and it evolved into a wilder, more brutal Digimon. Also, although it is a Virus Digimon, it may battle for justice depending on how it was raised by its Tamer, because it will be faithfully obedient. Growmon's roar has the power to shake the solid earth, and before battle it raises its voice to an offensive roar to intimidate the opponent. Its Signature Move is developingplasmaalong the blades on both of its elbows, then striking the opponent (Plasma Blade). Its Special Move is spewing out a powerful blaze with a roar (Exhaust Flame).Digimon Reference Book⇨ English「深紅の魔竜」と呼ばれている魔竜型デジモン。ギルモンの頃にあった幼さは消え、より野性的で凶暴なデジモンへと進化をしている。また、ウィルス種のデジモンではあるが、テイマーの育て方次第では忠実に従うので、正義のために戦うこともある。グラウモンの咆哮は大地を揺るがすほどの威力を持っており、戦いの前には攻撃的な唸り声をあげ敵を威嚇する。得意技は両肘のブレイドにプラズマを発生させ敵を攻撃する『プラズマブレイド』。必殺技は爆音と共に強力な火炎を吐き出す『エキゾーストフレイム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Growmon"
+    },
+    {
+      "id": "megalogrow",
+      "name": "Megalo Growmon",
+      "name_jp": "Megalo Growmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/megalogrow/frame1.gif",
+        "frame2": "sprites/megalogrow/frame2.gif"
+      },
+      "artwork": "sprites/megalogrow/artwork.jpg",
+      "lore": {
+        "en": "Possessing the name \"GreatGrowmon\", it is a Cyborg-type Perfect Digimon. As its name suggests, its body has grown gigantic, and its upper body has been metallized with the super-metal, \"Chrome Digizoid\". It is able to take flight with the twovernierattached to its shoulders, so it is possible for it to perform bothanti-airandanti-groundattacks. In order to restrain it from running wild due to excess power, a restraining tool similar to abitis attached to its jaw section. Also, since the \"Assault Balancer\" extending like a cable from its back section is extensible, it can be used to impale the opponent. Its Signature Move is cutting the opponent to pieces with the \"Pendulum Blades\" on its arms (Double Edge). Its Special Move is an attack fired from both of the gunports on its chest that destroys the opponent on the atomic level (Atomic Blaster).Digimon Reference Book⇨ English「巨大なグラウモン」の名前を持つ、サイボーグ型の完全体デジモン。その名の通り体は大きく巨大化しており、上半身は超金属“クロンデジゾイド”でメタル化されている。両肩に付いている２基のバーニアで飛行することもでき、対空・対地攻撃の両方が可能である。有り余るパワーで暴走するのを抑えるために、顎の部分にクツワのような拘束具を着けている。また背部の部分から帯のように伸びる「アサルトバランサー」は伸縮自在で、敵を貫き刺すこともできる。得意技は両腕の「ペンデュラムブレイド」で敵を切り裂く『ダブルエッジ』。必殺技は両胸の砲門から原子レベルで敵を破壊する『アトミックブラスター』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Megalo_Growmon"
+    },
+    {
+      "id": "medievalduke",
+      "name": "Medieval Dukemon",
+      "name_jp": "Medieval Dukemon",
+      "name_ko": "메디벌듀크몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/medievalduke/frame1.gif",
+        "frame2": "sprites/medievalduke/frame2.gif"
+      },
+      "artwork": "sprites/medievalduke/artwork.jpg",
+      "lore": {
+        "en": "In \"Witchelny\", theDigital Worldof another dimension, it is a Warrior Digimon praised as the \"Legendary Hero\". It suddenly appeared and drove out the invaders in ancient Witchelny, which was on the road to ruin because Sorcery (high-level programming language) was still immature and there were no means for it to defend itself from foreign invasions, and although it's not certain, it is said that it transcends time and is still in existence. It battles using armor made by Sorcery, it holds the alias of \"Whirlwind General\" due to it governing the Digimon known as the \"Vortex Warriors\", who, among all the magical systems of Fire, Earth, Water, and Wind, battle using weapons made by Wind Sorcery, and it possesses the mightiest magical lance, \"Dynas\", which conceals the power of thewyvern. Although there are almost none who have seen its form in the \"Digital World\", it is a Digimon called the \"Warrior of Fantasy\" in the \"Digital World\", as gaudy ornamentation is applied to the armor over its whole body, and a coat of arms is affixed to its solemn form. Its Special Moves are \"Rage of Wyvern\", fired fromDynas, and \"Final Crest\".Digimon Reference Book⇨ English別次元のデジタルワールド“ウィッチェルニー”において“伝説の英雄”と称えられている戦士型デジモン。魔術（高級プログラム言語）がまだ未成熟であり、外敵の侵略から身を守る術が無く、滅びの道を辿っていた古代“ウィッチェルニー”に突如現れ、外敵をことごとく撃退し、時を超越して今も尚存在しているというが定かではない。魔術によって創られた武具で戦い、炎・大地・水・風の魔術体系の中でも、風の魔術によって創られた武器で戦う“ヴォルテクスウォリアー”と呼ばれるデジモン達を束ねていることから“旋風将”の異名を持ち、飛竜の力を秘めた最強魔槍「デュナス」を持っている。“デジタルワールド”ではその姿を見た者は皆無に等しいが、全身に煌びやかな装飾を施した甲冑に、紋章を付した荘厳な姿から“デジタルワールド”では“幻想の戦士”と呼ばれているデジモンである。必殺技は「デュナス」より放つ『レイジ・オブ・ワイバーン』と、『ファイナル・クレスト』。デジモン図鑑",
+        "ko": "다른 차원의 디지털 월드 \" 윗체르니 \"에서 \"전설의 영웅\"으로 칭송받는 전사형 디지몬. 마술(고급 프로그램 언어)이 아직 미성숙해, 외적의 침략으로부터 몸을 보호할 방법이 없어, 멸망의 길을 걷고 있던 고대 \"윗체르니\"에 갑자기 나타나 외적을 모조리 격퇴하고, 시간을 초월하여 지금도 여전히 존재하고 있다고 하지만 확실하지 않다. 마술에 의해서 만들어진 무구로 싸우고, 불꽃·대지·물·바람의 마술 체계 중에서도, 바람의 마술에 의해서 만들어진 무기로 싸우는 \"볼텍스 워리어\"라 불리는 디지몬들을 통솔하고 있어 \"선풍장\"이라는 이명을 가지며, 비룡 의 힘을 지닌 최강 마창(魔槍) [3] \"듀나스\"를 지니고 있다. \"디지털 월드\"에서는 그 모습을 본 자는 전무한 것이나 다름 없지만, 전신에 화려한 장식을 한 갑주 에, 문장을 붙인 장엄한 모습으로 \"디지털 월드\"에서는 \"환상의 전사\"로 불리고 있는 디지몬이다. 필살기는 \"듀나스\"에서 내보내는 \"레이지·오브· 와이번 \"과, \"파이널·크레스트\"."
+      },
+      "wikimon_url": "https://wikimon.net/Medieval_Dukemon"
+    },
+    {
+      "id": "duke",
+      "name": "Dukemon",
+      "name_jp": "Dukemon",
+      "name_ko": "듀크몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/duke/frame1.gif",
+        "frame2": "sprites/duke/frame2.gif"
+      },
+      "artwork": "sprites/duke/artwork.jpg",
+      "lore": {
+        "en": "This Holy Knight Digimon is called one of the \"Royal Knights\" alongsideOmegamonandMagnamon. The Royal Knights are Digimon assigned the highest rank ofNetwork Security, so it is absolutely impossible to violateSecurityin their presence. It is a living contradiction, being a guardian deity of theNetdespite being a Virus attribute, and if by any chance its balance is lost, it is possible for it to becomea dangerous being. It is clad in holy armor refined and constructed from 99.9% pureChrome Digizoid, and it wields the holy lance \"Gram\" in its right hand and the holy shield \"Aegis\" in its left. It honors chivalry, and is a loyal vassal towards its lord. Its Special Moves are a strong blow dispatched from the holy lanceGram(Royal Saber), and firing a beam which purifies everything from the holy shieldAegisin its left hand (Final Elysion).Digimon Reference Book⇨ Englishオメガモン、マグナモンと共に聖騎士型デジモンは“ロイヤルナイツ”と呼ばれている。“ロイヤルナイツ”とはネットワークセキュリティの最高位に位置するデジモンで、このデジモン達を前にセキュリティを破るのは絶対に不可能である。ウィルス属性でありながらネットの守護神という矛盾を内包した存在であり、万が一でもバランスが崩れると危険な存在にもなりうる。９９.９％の高純度“クロンデジゾイド”を精製して造られた聖鎧を纏い、右手は聖槍「グラム」、左手は聖盾「イージス」になっている。騎士道を重んじ、主君に対しては忠義の士である。必殺技は聖槍「グラム」から繰出す強烈な一撃『ロイヤルセーバー』と左腕の聖盾「イージス」から全てを浄化するビームを放つ『ファイナル・エリシオン』。デジモン図鑑",
+        "ko": "오메가몬 , 매그너몬 과 함께 성기사형 디지몬은 \" 로얄 나이츠 \"로 불린다. \"로얄 나이츠\"란 네트워크 보안의 최고위에 위치하는 디지몬으로, 이 디지몬들을 앞에 두고 보안을 뚫는 것은 절대 불가능하다. 바이러스 속성이면서 넷의 수호신이라는 모순을 내포한 존재로, 혹시라도 밸런스가 붕괴되면 위험한 존재가 될 수 있다. [7] 99.9%의 고순도 \" 크롬디지조이드 \"를 정제하여 만든 성스러운 갑옷을 두르고, 오른손은 성창(聖槍) \" 그람 \", 왼손은 성순(聖盾) [8] \" 이지스 [9] \"로 되어 있다. [10] 기사도를 중히 여기며, 주군 에 대해서는 충의의 기사이다. 필살기는 성창 \"그람\"에서 내보내는 강렬한 일격 \"로얄 세이버 [11] \"와 왼팔의 성순 \"이지스\"에서 모든 것을 정화하는 빔을 쏘는 \"파이널 엘리시온 [12] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Dukemon"
+    },
+    {
+      "id": "chaosduke",
+      "name": "Chaos Dukemon",
+      "name_jp": "Chaos Dukemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/chaosduke/frame1.gif",
+        "frame2": "sprites/chaosduke/frame2.gif"
+      },
+      "artwork": "sprites/chaosduke/artwork.jpg",
+      "lore": {
+        "en": "Another form ofDukemon, which has awoken to its instincts as a Virus-species. Its heart and thoughts are completely Dark Side, and it is nothing more than the \"Digital Hazard\" that brings calamity to theDigital World. It is clad in black, demonic armor refined from high purityChrome Digizoidjust like Dukemon, and its right hand can become the demonic lance \"Balmung\" while its left hand can become the demonic shield \"Gorgon\". It is definitely a being set in opposition to Dukemon. Its Special Moves are the powerful barrage of attacks of its demonic lance (Demon's Disaster), and firing a dark wave which corrodes everything from the demonic shield in its left hand (Judecca Prison).Digimon Reference Book⇨ Englishウィルス種としての本能に目覚めた、デュークモンのもう一つの姿。その精神・思考は完全にダークサイドであり、デジタルワールドに災いをもたらす“デジタルハザード”以外の何者でもない。デュークモン同様に高純度の“クロンデジゾイド”を精製した黒い魔鎧を纏い、右手は魔槍「バルムンク」に、左手は魔盾「ゴーゴン」になっている。まさに、デュークモンとは対極をなす存在である。必殺技は魔槍の強力な連打攻撃『デモンズディザスター』と、左腕の魔盾から全てを腐食させる暗黒波動を放つ『ジュデッカプリズン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Chaos_Dukemon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "jyari",
+      "to": "gigi",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "gigi",
+      "to": "guil",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "guil",
+      "to": "grow",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "megalogrow",
+      "conditions": {
+        "text": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Vaccine, Data or Free Adult"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "duke",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "medievalduke",
+      "conditions": {
+        "text": "• 10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio• Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "chaosduke",
+      "conditions": {
+        "text": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Free Perfect"
+      }
+    }
+  ]
+}

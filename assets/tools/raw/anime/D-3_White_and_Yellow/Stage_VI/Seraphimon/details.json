@@ -1,0 +1,67 @@
+{
+  "id": "seraphi",
+  "name": "Seraphimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/seraphi.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/seraphi.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/seraphi.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "holyange"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "paildra"
+      ],
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Seraphimon",
+    "name_en": "Seraphimon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6400",
+      "hp": "5300",
+      "ap": "1950"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "holyange",
+        "name": "Holy Angemon",
+        "conditions": "12+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "15+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

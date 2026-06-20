@@ -1,0 +1,5288 @@
+{
+  "source_url": "https://humulos.com/digimon/vbdm/v/",
+  "total_dims": 5,
+  "total_digimon": 74,
+  "dims": [
+    {
+      "id": "gamma",
+      "name": "Gammamon",
+      "release": "JP: Oct 2021 - Retail (Set -V1-, also included with Digivice -V-)",
+      "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_gamma.png",
+      "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_curi.gif",
+      "digimon_ids": [
+        "curi",
+        "guri",
+        "gamma",
+        "betelgamma",
+        "kausgamma",
+        "wezengamma",
+        "gulusgamma",
+        "canoweiss",
+        "brachio",
+        "chimaira",
+        "tankdra",
+        "aegisdra",
+        "ultimatebrachi",
+        "chaosdra"
+      ]
+    },
+    {
+      "id": "angora",
+      "name": "Angoramon",
+      "release": "JP: Dec 2021 - Retail (Set -V2-)",
+      "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_angora.png",
+      "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_pyon.gif",
+      "digimon_ids": [
+        "pyon",
+        "bosa",
+        "angora",
+        "symbareangora",
+        "leo",
+        "komondo",
+        "porcupa",
+        "lamort",
+        "grappuleo",
+        "skullbaluchi",
+        "warumonzae",
+        "anubi",
+        "saberleo",
+        "griffo"
+      ]
+    },
+    {
+      "id": "jelly",
+      "name": "Jellymon",
+      "release": "JP: Dec 2021 - Retail (Set -V2-)",
+      "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_jelly.png",
+      "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_puyo.gif",
+      "digimon_ids": [
+        "puyo",
+        "puyoyo",
+        "jelly",
+        "ruka",
+        "teslajelly",
+        "geso",
+        "manbo",
+        "wha",
+        "thetis",
+        "hangyo",
+        "marindevi",
+        "marinange",
+        "ancientmermai",
+        "puku"
+      ]
+    },
+    {
+      "id": "espi",
+      "name": "Espimon",
+      "release": "JP: Aug 2022 - Retail (Set -V3-)",
+      "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_espi.png",
+      "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_cotsuco.gif",
+      "digimon_ids": [
+        "cotsuco",
+        "kakkin",
+        "ludo",
+        "espi",
+        "tialudo",
+        "hoverespi",
+        "reppa",
+        "blacktail_u",
+        "raijiludo",
+        "digitama",
+        "piccolo",
+        "rarerare",
+        "manticore",
+        "bryweludra",
+        "death_b",
+        "devitama"
+      ]
+    },
+    {
+      "id": "ryuda",
+      "name": "Ryudamon",
+      "release": "JP: Aug 2022 - Retail (Set -V3-)",
+      "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_ryuda.png",
+      "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_saku.gif",
+      "digimon_ids": [
+        "saku",
+        "sakutto",
+        "zuba",
+        "ryuda",
+        "zubaeager",
+        "ginryu",
+        "musya",
+        "dokugu",
+        "dura",
+        "hisyaryu",
+        "asura",
+        "gyuki",
+        "oboro",
+        "duranda",
+        "ouryu",
+        "zanba"
+      ]
+    }
+  ],
+  "digimon": {
+    "curi": {
+      "id": "curi",
+      "name": "Curimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/curi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/curi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/curi.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "I"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Curimon",
+        "name_en": "Curimon",
+        "attribute": "Free",
+        "stage_text": "Stage I (Baby I)",
+        "stats": {
+          "dp": "0 (★)",
+          "hp": "0",
+          "ap": "0"
+        },
+        "schedule": {
+          "awake_hours": "",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [],
+        "evolves_to": [
+          {
+            "id": "guri",
+            "name": "Gurimon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "guri": {
+      "id": "guri",
+      "name": "Gurimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/guri.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/guri.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/guri.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "II"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Gurimon",
+        "name_en": "Gurimon",
+        "attribute": "Free",
+        "stage_text": "Stage II (Baby II)",
+        "stats": {
+          "dp": "0 (★)",
+          "hp": "0",
+          "ap": "0"
+        },
+        "schedule": {
+          "awake_hours": "",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [
+          {
+            "id": "curi",
+            "name": "Curimon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "gamma",
+            "name": "Gammamon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "gamma": {
+      "id": "gamma",
+      "name": "Gammamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gamma.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Gammamon",
+        "name_en": "Gammamon",
+        "attribute": "Virus",
+        "stage_text": "Stage III (Child)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "guri",
+            "name": "Gurimon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "betelgamma",
+            "name": "Betel Gammamon",
+            "conditions": "10+ Trophies, 1,100+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "kausgamma",
+            "name": "Kaus Gammamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "wezengamma",
+            "name": "Wezen Gammamon",
+            "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+          },
+          {
+            "id": "gulusgamma",
+            "name": "Gulus Gammamon",
+            "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+          }
+        ]
+      }
+    },
+    "betelgamma": {
+      "id": "betelgamma",
+      "name": "Betel Gammamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/betelgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/betelgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/betelgamma.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "gamma"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,100+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Betel Gammamon",
+        "name_en": "Betel Gammamon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "25 (★5)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "gamma",
+            "name": "Gammamon",
+            "conditions": "10+ Trophies, 1,100+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Adult"
+          },
+          {
+            "id": "brachio",
+            "name": "Brachiomon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "chimaira",
+            "name": "Chimairamon",
+            "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Free Adult"
+          },
+          {
+            "id": "tankdra",
+            "name": "Tankdramon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "kausgamma": {
+      "id": "kausgamma",
+      "name": "Kaus Gammamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kausgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kausgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kausgamma.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "gamma"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "900+",
+            "Battles": "5+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Kaus Gammamon",
+        "name_en": "Kaus Gammamon",
+        "attribute": "Data",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Active",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "gamma",
+            "name": "Gammamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "brachio",
+            "name": "Brachiomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "wezengamma": {
+      "id": "wezengamma",
+      "name": "Wezen Gammamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wezengamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wezengamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wezengamma.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "gamma"
+          ],
+          "requirements": {
+            "Trophies": "5+",
+            "Vital Values": "600+",
+            "Battles": "3+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Wezen Gammamon",
+        "name_en": "Wezen Gammamon",
+        "attribute": "Data",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "15 (★3)",
+          "hp": "4",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "gamma",
+            "name": "Gammamon",
+            "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "tankdra",
+            "name": "Tankdramon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "gulusgamma": {
+      "id": "gulusgamma",
+      "name": "Gulus Gammamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gulusgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gulusgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gulusgamma.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "gamma"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Gulus Gammamon",
+        "name_en": "Gulus Gammamon",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "gamma",
+            "name": "Gammamon",
+            "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "chimaira",
+            "name": "Chimairamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "canoweiss": {
+      "id": "canoweiss",
+      "name": "Canoweissmon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/canoweiss.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/canoweiss.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/canoweiss.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "betelgamma",
+            "kausgamma",
+            "wezengamma",
+            "gulusgamma"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Canoweissmon",
+        "name_en": "Canoweissmon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "12",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "betelgamma",
+            "name": "Betel Gammamon",
+            "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Adult"
+          },
+          {
+            "id": "kausgamma",
+            "name": "Kaus Gammamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "wezengamma",
+            "name": "Wezen Gammamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "gulusgamma",
+            "name": "Gulus Gammamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "chaosdra",
+            "name": "Chaosdramon",
+            "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+          },
+          {
+            "id": "aegisdra",
+            "name": "Aegisdramon",
+            "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+          },
+          {
+            "id": "ultimatebrachi",
+            "name": "Ultimate Brachiomon",
+            "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+          }
+        ]
+      }
+    },
+    "brachio": {
+      "id": "brachio",
+      "name": "Brachiomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/brachio.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/brachio.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/brachio.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "betelgamma"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "kausgamma"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Brachiomon",
+        "name_en": "Brachiomon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "8",
+          "ap": "5"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "betelgamma",
+            "name": "Betel Gammamon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "kausgamma",
+            "name": "Kaus Gammamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "chaosdra",
+            "name": "Chaosdramon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "ultimatebrachi",
+            "name": "Ultimate Brachiomon",
+            "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "chimaira": {
+      "id": "chimaira",
+      "name": "Chimairamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chimaira.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chimaira.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chimaira.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "betelgamma",
+            "gulusgamma"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Chimairamon",
+        "name_en": "Kimeramon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Active",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "12",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "betelgamma",
+            "name": "Betel Gammamon",
+            "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Free Adult"
+          },
+          {
+            "id": "gulusgamma",
+            "name": "Gulus Gammamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "chaosdra",
+            "name": "Chaosdramon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "ultimatebrachi",
+            "name": "Ultimate Brachiomon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "tankdra": {
+      "id": "tankdra",
+      "name": "Tankdramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tankdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tankdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tankdra.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "wezengamma"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Tankdramon",
+        "name_en": "Tankdramon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "10",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "wezengamma",
+            "name": "Wezen Gammamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "betelgamma",
+            "name": "Betel Gammamon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "chaosdra",
+            "name": "Chaosdramon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "aegisdra",
+            "name": "Aegisdra",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "aegisdra": {
+      "id": "aegisdra",
+      "name": "Aegisdramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/aegisdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/aegisdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/aegisdra.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "canoweiss",
+            "tankdra"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Aegisdramon",
+        "name_en": "Aegisdramon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "14",
+          "ap": "7"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+          },
+          {
+            "id": "tankdra",
+            "name": "Tankdramon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "ultimatebrachi": {
+      "id": "ultimatebrachi",
+      "name": "Ultimate Brachiomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ultimatebrachi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ultimatebrachi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ultimatebrachi.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "canoweiss",
+            "brachio"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "4,500+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "chimaira"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Ultimate Brachiomon",
+        "name_en": "UltimateBrachiomon",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "50 (★9)",
+          "hp": "12",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+          },
+          {
+            "id": "brachio",
+            "name": "Brachiomon",
+            "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          },
+          {
+            "id": "chimaira",
+            "name": "Chimairamon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "chaosdra": {
+      "id": "chaosdra",
+      "name": "Chaosdramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chaosdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chaosdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chaosdra.jpg",
+      "appearances": [
+        {
+          "dim_id": "gamma",
+          "dim_name": "Gammamon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "canoweiss",
+            "brachio",
+            "chimaira",
+            "tankdra"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "7,000+",
+            "Battles": "25+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Chaosdramon",
+        "name_en": "Chaosdramon",
+        "attribute": "Virus",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Active",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "16",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "canoweiss",
+            "name": "Canoweissmon",
+            "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+          },
+          {
+            "id": "brachio",
+            "name": "Brachiomon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "chimaira",
+            "name": "Chimairamon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "tankdra",
+            "name": "Tankdramon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "pyon": {
+      "id": "pyon",
+      "name": "Pyonmon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pyon.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pyon.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pyon.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "I"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Pyonmon",
+        "name_en": "Pyonmon",
+        "attribute": "Free",
+        "stage_text": "Stage I (Baby I)",
+        "stats": {
+          "dp": "0 (★)",
+          "hp": "0",
+          "ap": "0"
+        },
+        "schedule": {
+          "awake_hours": "",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [],
+        "evolves_to": [
+          {
+            "id": "bosa",
+            "name": "Bosamon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "bosa": {
+      "id": "bosa",
+      "name": "Bosamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bosa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bosa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bosa.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "II"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Bosamon",
+        "name_en": "Bosamon",
+        "attribute": "Free",
+        "stage_text": "Stage II (Baby II)",
+        "stats": {
+          "dp": "0 (★)",
+          "hp": "0",
+          "ap": "0"
+        },
+        "schedule": {
+          "awake_hours": "",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [
+          {
+            "id": "pyon",
+            "name": "Pyonmon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "angora",
+            "name": "Angoramon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "angora": {
+      "id": "angora",
+      "name": "Angoramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/angora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/angora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/angora.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Angoramon",
+        "name_en": "Angoramon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage III (Child)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "bosa",
+            "name": "Bosamon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "symbareangora",
+            "name": "Symbare Angoramon",
+            "conditions": "10+ Trophies, 1,100+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "leo",
+            "name": "Leomon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "komondo",
+            "name": "Komondomon",
+            "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+          },
+          {
+            "id": "porcupa",
+            "name": "Porcupamon",
+            "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+          }
+        ]
+      }
+    },
+    "symbareangora": {
+      "id": "symbareangora",
+      "name": "Symbare Angoramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/symbareangora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/symbareangora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/symbareangora.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "angora"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,100+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Symbare Angoramon",
+        "name_en": "SymbareAngoramon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "25 (★5)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "angora",
+            "name": "Angoramon",
+            "conditions": "10+ Trophies, 1,100+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Adult"
+          },
+          {
+            "id": "grappuleo",
+            "name": "Grappu Leomon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "skullbaluchi",
+            "name": "Skull Baluchimon",
+            "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Free Adult"
+          },
+          {
+            "id": "warumonzae",
+            "name": "Waru Monzaemon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "leo": {
+      "id": "leo",
+      "name": "Leomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/leo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/leo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/leo.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "angora"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "900+",
+            "Battles": "5+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Leomon",
+        "name_en": "Leomon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "angora",
+            "name": "Angoramon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "grappuleo",
+            "name": "Grappu Leomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "komondo": {
+      "id": "komondo",
+      "name": "Komondomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/komondo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/komondo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/komondo.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "angora"
+          ],
+          "requirements": {
+            "Trophies": "5+",
+            "Vital Values": "600+",
+            "Battles": "3+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Komondomon",
+        "name_en": "Komondomon",
+        "attribute": "Data",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Active",
+        "stats": {
+          "dp": "15 (★3)",
+          "hp": "4",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "angora",
+            "name": "Angoramon",
+            "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "warumonzae",
+            "name": "Waru Monzaemon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "porcupa": {
+      "id": "porcupa",
+      "name": "Porcupamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/porcupa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/porcupa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/porcupa.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "angora"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Porcupamon",
+        "name_en": "Porcupamon",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "angora",
+            "name": "Angoramon",
+            "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "skullbaluchi",
+            "name": "Skull Baluchimon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "lamort": {
+      "id": "lamort",
+      "name": "Lamortmon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lamort.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lamort.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lamort.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "symbareangora",
+            "leo",
+            "komondo",
+            "porcupa"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Lamortmon",
+        "name_en": "Lamortmon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "12",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "symbareangora",
+            "name": "Symbare Angoramon",
+            "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Adult"
+          },
+          {
+            "id": "leo",
+            "name": "Leomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "porcupa",
+            "name": "Porcupamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "anubi",
+            "name": "Anubimon",
+            "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+          },
+          {
+            "id": "griffo",
+            "name": "Griffomon",
+            "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+          },
+          {
+            "id": "saberleo",
+            "name": "Saber Leomon",
+            "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+          }
+        ]
+      }
+    },
+    "grappuleo": {
+      "id": "grappuleo",
+      "name": "Grappu Leomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grappuleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grappuleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grappuleo.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "symbareangora"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "leo"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Grappu Leomon",
+        "name_en": "GrapLeomon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Active",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "10",
+          "ap": "5"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "symbareangora",
+            "name": "Symbare Angoramon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "leo",
+            "name": "Leomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "saberleo",
+            "name": "Saber Leomon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "griffo",
+            "name": "Griffomon",
+            "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "skullbaluchi": {
+      "id": "skullbaluchi",
+      "name": "Skull Baluchimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/skullbaluchi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/skullbaluchi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/skullbaluchi.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "symbareangora",
+            "porcupa"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Skull Baluchimon",
+        "name_en": "SkullBaluchimon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Active",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "10",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "symbareangora",
+            "name": "Symbare Angoramon",
+            "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Free Adult"
+          },
+          {
+            "id": "porcupa",
+            "name": "Porcupamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "anubi",
+            "name": "Anubimon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "griffo",
+            "name": "Griffomon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "warumonzae": {
+      "id": "warumonzae",
+      "name": "Waru Monzaemon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/warumonzae.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/warumonzae.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/warumonzae.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "komondo"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Waru Monzaemon",
+        "name_en": "WaruMonzaemon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "12",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "komondo",
+            "name": "Komondomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "symbareangora",
+            "name": "Symbare Angoramon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "anubi",
+            "name": "Anubimon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "saberleo",
+            "name": "Saber Leomon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "anubi": {
+      "id": "anubi",
+      "name": "Anubimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/anubi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/anubi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/anubi.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "lamort",
+            "skullbaluchi",
+            "warumonzae"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "7,000+",
+            "Battles": "25+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Anubimon",
+        "name_en": "Anubismon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "16",
+          "ap": "7"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+          },
+          {
+            "id": "skullbaluchi",
+            "name": "Skull Baluchimon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "warumonzae",
+            "name": "Waru Monzaemon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "saberleo": {
+      "id": "saberleo",
+      "name": "Saber Leomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/saberleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/saberleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/saberleo.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "lamort"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "4,500+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "grappuleo"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "7,000+",
+            "Battles": "25+",
+            "Win Ratio": "70%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "warumonzae"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Saber Leomon",
+        "name_en": "SaberLeomon",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Active",
+        "stats": {
+          "dp": "50 (★9)",
+          "hp": "14",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+          },
+          {
+            "id": "grappuleo",
+            "name": "Grappu Leomon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "warumonzae",
+            "name": "Waru Monzaemon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "griffo": {
+      "id": "griffo",
+      "name": "Griffomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/griffo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/griffo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/griffo.jpg",
+      "appearances": [
+        {
+          "dim_id": "angora",
+          "dim_name": "Angoramon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "lamort"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "grappuleo"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "4,500+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "skullbaluchi"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Griffomon",
+        "name_en": "Gryphonmon",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "14",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "lamort",
+            "name": "Lamortmon",
+            "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+          },
+          {
+            "id": "grappuleo",
+            "name": "Grappu Leomon",
+            "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          },
+          {
+            "id": "skullbaluchi",
+            "name": "Skull Baluchimon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "puyo": {
+      "id": "puyo",
+      "name": "Puyomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puyo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puyo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/puyo.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "I"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Puyomon",
+        "name_en": "Puyomon",
+        "attribute": "Free",
+        "stage_text": "Stage I (Baby I)",
+        "stats": {
+          "dp": "0 (★)",
+          "hp": "0",
+          "ap": "0"
+        },
+        "schedule": {
+          "awake_hours": "",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [],
+        "evolves_to": [
+          {
+            "id": "puyoyo",
+            "name": "Puyoyomon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "puyoyo": {
+      "id": "puyoyo",
+      "name": "Puyoyomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puyoyo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puyoyo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/puyoyo.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "II"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Puyoyomon",
+        "name_en": "Puyoyomon",
+        "attribute": "Free",
+        "stage_text": "Stage II (Baby II)",
+        "stats": {
+          "dp": "0 (★)",
+          "hp": "0",
+          "ap": "0"
+        },
+        "schedule": {
+          "awake_hours": "",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [
+          {
+            "id": "puyo",
+            "name": "Puyomon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "jelly",
+            "name": "Jellymon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "jelly": {
+      "id": "jelly",
+      "name": "Jellymon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jelly.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jelly.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/jelly.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Jellymon",
+        "name_en": "Jellymon",
+        "attribute": "Data",
+        "stage_text": "Stage III (Child)",
+        "activity": "Active",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "puyoyo",
+            "name": "Puyoyomon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ruka",
+            "name": "Rukamon",
+            "conditions": "10+ Trophies, 1,100+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "teslajelly",
+            "name": "Tesla Jellymon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "geso",
+            "name": "Gesomon",
+            "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+          },
+          {
+            "id": "manbo",
+            "name": "Manbomon",
+            "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+          }
+        ]
+      }
+    },
+    "ruka": {
+      "id": "ruka",
+      "name": "Rukamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ruka.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ruka.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ruka.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "jelly"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,100+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Rukamon",
+        "name_en": "Dolphmon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "jelly",
+            "name": "Jellymon",
+            "conditions": "10+ Trophies, 1,100+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "thetis",
+            "name": "Thetismon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "wha",
+            "name": "Whamon",
+            "conditions": "8+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "teslajelly": {
+      "id": "teslajelly",
+      "name": "Tesla Jellymon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/teslajelly.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/teslajelly.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/teslajelly.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "jelly"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "900+",
+            "Battles": "5+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Tesla Jellymon",
+        "name_en": "TeslaJellymon",
+        "attribute": "Data",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Active",
+        "stats": {
+          "dp": "25 (★5)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "jelly",
+            "name": "Jellymon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "thetis",
+            "name": "Thetismon",
+            "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Free Adult"
+          },
+          {
+            "id": "wha",
+            "name": "Whamon",
+            "conditions": "• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Vaccine Adult"
+          },
+          {
+            "id": "marindevi",
+            "name": "Marin Devimon",
+            "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "geso": {
+      "id": "geso",
+      "name": "Gesomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/geso.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/geso.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/geso.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "jelly"
+          ],
+          "requirements": {
+            "Trophies": "5+",
+            "Vital Values": "600+",
+            "Battles": "3+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Gesomon",
+        "name_en": "Gesomon",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "15 (★3)",
+          "hp": "4",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "jelly",
+            "name": "Jellymon",
+            "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "hangyo",
+            "name": "Hangyomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "marindevi",
+            "name": "Marin Devimon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "manbo": {
+      "id": "manbo",
+      "name": "Manbomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/manbo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/manbo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/manbo.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "jelly"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Manbomon",
+        "name_en": "Manbomon",
+        "attribute": "Free",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "jelly",
+            "name": "Jellymon",
+            "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "thetis",
+            "name": "Thetismon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "hangyo",
+            "name": "Hangyomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "wha": {
+      "id": "wha",
+      "name": "Whamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wha.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wha.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wha.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ruka"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "teslajelly"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Whamon",
+        "name_en": "Whamon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "12",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "ruka",
+            "name": "Rukamon",
+            "conditions": "8+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "teslajelly",
+            "name": "Tesla Jellymon",
+            "conditions": "• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Vaccine Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "marinange",
+            "name": "Marin Angemon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "puku",
+            "name": "Pukumon",
+            "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "thetis": {
+      "id": "thetis",
+      "name": "Thetismon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/thetis.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/thetis.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/thetis.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ruka",
+            "teslajelly",
+            "manbo"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Thetismon",
+        "name_en": "Thetismon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Active",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "8",
+          "ap": "5"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "ruka",
+            "name": "Rukamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "teslajelly",
+            "name": "Tesla Jellymon",
+            "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Free Adult"
+          },
+          {
+            "id": "manbo",
+            "name": "Manbomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "marinange",
+            "name": "Marin Angemon",
+            "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Vaccine Perfect"
+          },
+          {
+            "id": "ancientmermai",
+            "name": "Ancient Mermaimon",
+            "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+          },
+          {
+            "id": "puku",
+            "name": "Pukumon",
+            "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Virus Perfect"
+          }
+        ]
+      }
+    },
+    "hangyo": {
+      "id": "hangyo",
+      "name": "Hangyomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hangyo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hangyo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hangyo.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "geso"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "manbo"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Hangyomon",
+        "name_en": "Divermon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "12",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "geso",
+            "name": "Gesomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "manbo",
+            "name": "Manbomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ancientmermai",
+            "name": "Ancient Mermaimon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "puku",
+            "name": "Pukumon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "marindevi": {
+      "id": "marindevi",
+      "name": "Marin Devimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/marindevi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/marindevi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/marindevi.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "teslajelly",
+            "geso"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Marin Devimon",
+        "name_en": "MarineDevimon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "10",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "teslajelly",
+            "name": "Tesla Jellymon",
+            "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio• Jogress with Virus Adult"
+          },
+          {
+            "id": "geso",
+            "name": "Gesomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "marinange",
+            "name": "Marin Angemon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "ancientmermai",
+            "name": "Ancient Mermaimon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ]
+      }
+    },
+    "marinange": {
+      "id": "marinange",
+      "name": "Marin Angemon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/marinange.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/marinange.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/marinange.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "wha",
+            "thetis",
+            "marindevi"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "7,000+",
+            "Battles": "25+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Marin Angemon",
+        "name_en": "MarineAngemon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Active",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "14",
+          "ap": "7"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "wha",
+            "name": "Whamon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "thetis",
+            "name": "Thetismon",
+            "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Vaccine Perfect"
+          },
+          {
+            "id": "marindevi",
+            "name": "Marin Devimon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "ancientmermai": {
+      "id": "ancientmermai",
+      "name": "Ancient Mermaimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientmermai.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientmermai.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ancientmermai.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "thetis",
+            "marindevi"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "hangyo"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "7,000+",
+            "Battles": "25+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Ancient Mermaimon",
+        "name_en": "AncientMermaimon",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "15",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "thetis",
+            "name": "Thetismon",
+            "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+          },
+          {
+            "id": "hangyo",
+            "name": "Hangyomon",
+            "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "marindevi",
+            "name": "Marin Devimon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "puku": {
+      "id": "puku",
+      "name": "Pukumon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puku.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puku.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/puku.jpg",
+      "appearances": [
+        {
+          "dim_id": "jelly",
+          "dim_name": "Jellymon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "wha",
+            "thetis"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "4,500+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        },
+        {
+          "from_digimon": [
+            "hangyo"
+          ],
+          "requirements": {
+            "Trophies": "15+",
+            "Vital Values": "5,000+",
+            "Battles": "15+",
+            "Win Ratio": "60%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Pukumon",
+        "name_en": "Pukumon",
+        "attribute": "Virus",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "55 (★9)",
+          "hp": "13",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "wha",
+            "name": "Whamon",
+            "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          },
+          {
+            "id": "thetis",
+            "name": "Thetismon",
+            "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Virus Perfect"
+          },
+          {
+            "id": "hangyo",
+            "name": "Hangyomon",
+            "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "cotsuco": {
+      "id": "cotsuco",
+      "name": "Cotsucomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cotsuco.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cotsuco.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cotsuco.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "I"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Cotsucomon",
+        "name_en": "Cotsucomon",
+        "attribute": "Free",
+        "stage_text": "Stage I (Baby I)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "(★)",
+          "hp": "",
+          "ap": ""
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [],
+        "evolves_to": [
+          {
+            "id": "kakkin",
+            "name": "Kakkinmon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "kakkin": {
+      "id": "kakkin",
+      "name": "Kakkinmon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kakkin.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kakkin.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kakkin.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "II"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Kakkinmon",
+        "name_en": "Kakkinmon",
+        "attribute": "Free",
+        "stage_text": "Stage II (Baby II)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "(★)",
+          "hp": "",
+          "ap": ""
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [
+          {
+            "id": "cotsuco",
+            "name": "Cotsucomon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ludo",
+            "name": "Ludomon",
+            "conditions": "1,200+ Vital Values"
+          },
+          {
+            "id": "espi",
+            "name": "Espimon",
+            "conditions": "0-1,199 Vital Values"
+          }
+        ]
+      }
+    },
+    "ludo": {
+      "id": "ludo",
+      "name": "Ludomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ludo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ludo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ludo.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "kakkin"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "1,200+",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Ludomon",
+        "name_en": "Ludomon",
+        "attribute": "Data",
+        "stage_text": "Stage III (Child)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "kakkin",
+            "name": "Kakkinmon",
+            "conditions": "1,200+ Vital Values"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "tialudo",
+            "name": "Tialudomon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          }
+        ]
+      }
+    },
+    "espi": {
+      "id": "espi",
+      "name": "Espimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/espi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/espi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/espi.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "kakkin"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Espimon",
+        "name_en": "Espimon",
+        "attribute": "Virus",
+        "stage_text": "Stage III (Child)",
+        "activity": "Active",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "kakkin",
+            "name": "Kakkinmon",
+            "conditions": "0-1,199 Vital Values"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "hoverespi",
+            "name": "Hover Espimon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          }
+        ]
+      }
+    },
+    "tialudo": {
+      "id": "tialudo",
+      "name": "Tia Ludomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tialudo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tialudo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tialudo.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ludo"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,300+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Tia Ludomon",
+        "name_en": "TiaLudomon",
+        "attribute": "Data",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "25 (★5)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "ludo",
+            "name": "Ludomon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "hoverespi": {
+      "id": "hoverespi",
+      "name": "Hover Espimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hoverespi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hoverespi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hoverespi.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "espi"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,300+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Hover Espimon",
+        "name_en": "HoverEspimon",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Active",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "espi",
+            "name": "Espimon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "Jogress with Data Adult"
+          }
+        ]
+      }
+    },
+    "reppa": {
+      "id": "reppa",
+      "name": "Reppamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/reppa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/reppa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/reppa.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ludo",
+            "espi"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "900+",
+            "Battles": "5+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Reppamon",
+        "name_en": "Reppamon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "ludo",
+            "name": "Ludomon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "espi",
+            "name": "Espimon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "Jogress with Data or Free Adult"
+          },
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "blacktail_u": {
+      "id": "blacktail_u",
+      "name": "Black Tailmon Uver.",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/blacktail_u.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/blacktail_u.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/blacktail_u.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ludo",
+            "espi"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Black Tailmon Uver.",
+        "name_en": "BlackGatomon Uver.",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "5",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "ludo",
+            "name": "Ludomon",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          },
+          {
+            "id": "espi",
+            "name": "Espimon",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "Jogress with Data Adult"
+          }
+        ]
+      }
+    },
+    "raijiludo": {
+      "id": "raijiludo",
+      "name": "Raiji Ludomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/raijiludo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/raijiludo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/raijiludo.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "tialudo",
+            "reppa"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Raiji Ludomon",
+        "name_en": "RaijiLudomon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "9",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "tialudo",
+            "name": "Tia Ludomon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "hoverespi",
+            "name": "Hover Espimon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "Jogress with Data Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "bryweludra",
+            "name": "Bryweludramon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "devitama",
+            "name": "Devitamamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "death_b",
+            "name": "Deathmon (Black)",
+            "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+          }
+        ]
+      }
+    },
+    "digitama": {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/digitama.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/digitama.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/digitama.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "hoverespi"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Digitamamon",
+        "name_en": "Digitamamon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "25 (★5)",
+          "hp": "9",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "fladra",
+            "name": "Fladramon",
+            "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "lighdra",
+            "name": "Lighdramon",
+            "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "vdra",
+            "name": "V-dramon",
+            "conditions": "Jogress with Virus Adult"
+          },
+          {
+            "id": "xv",
+            "name": "XV-mon",
+            "conditions": "Jogress with Virus Adult"
+          },
+          {
+            "id": "hoverespi",
+            "name": "Hover Espimon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "tialudo",
+            "name": "Tia Ludomon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ulforcevdra",
+            "name": "Ulforce V-dramon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "magna",
+            "name": "Magnamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "imperialdra_d",
+            "name": "Imperialdramon: Dragon Mode",
+            "conditions": "Jogress with Vaccine or Free Perfect"
+          },
+          {
+            "id": "imperialdra_f",
+            "name": "Imperialdramon: Fighter Mode",
+            "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+          },
+          {
+            "id": "death_b",
+            "name": "Deathmon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "devitama",
+            "name": "Devitamamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "bryweludra",
+            "name": "Bryweludramon",
+            "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+          }
+        ]
+      }
+    },
+    "piccolo": {
+      "id": "piccolo",
+      "name": "Piccolomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/piccolo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/piccolo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/piccolo.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "hoverespi"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Piccolomon",
+        "name_en": "Piximon",
+        "attribute": "Data",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "6",
+          "ap": "5"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "hoverespi",
+            "name": "Hover Espimon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "tialudo",
+            "name": "Tia Ludomon",
+            "conditions": "Jogress with Virus Adult"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "Jogress with Data or Free Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "bryweludra",
+            "name": "Bryweludramon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "devitama",
+            "name": "Devitamamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "death_b",
+            "name": "Deathmon (Black)",
+            "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+          }
+        ]
+      }
+    },
+    "rarerare": {
+      "id": "rarerare",
+      "name": "Rare Raremon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rarerare.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rarerare.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rarerare.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "tialudo",
+            "reppa"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Rare Raremon",
+        "name_en": "RareRaremon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "10",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "tialudo",
+            "name": "Tia Ludomon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "hoverespi",
+            "name": "Hover Espimon",
+            "conditions": "Jogress with Data Adult"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "death_b",
+            "name": "Deathmon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "devitama",
+            "name": "Devitamamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "bryweludra",
+            "name": "Bryweludramon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          }
+        ]
+      }
+    },
+    "manticore": {
+      "id": "manticore",
+      "name": "Manticoremon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/manticore.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/manticore.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/manticore.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "tialudo",
+            "hoverespi",
+            "reppa"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Manticoremon",
+        "name_en": "Manticoremon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "8",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "tialudo",
+            "name": "Tia Ludomon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "hoverespi",
+            "name": "Hover Espimon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "reppa",
+            "name": "Reppamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "blacktail_u",
+            "name": "Black Tailmon Uver.",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "death_b",
+            "name": "Deathmon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "devitama",
+            "name": "Devitamamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "bryweludra",
+            "name": "Bryweludramon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          }
+        ]
+      }
+    },
+    "bryweludra": {
+      "id": "bryweludra",
+      "name": "Bryweludramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bryweludra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bryweludra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bryweludra.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "raijiludo",
+            "piccolo"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "5,000+",
+            "Battles": "20+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Bryweludramon",
+        "name_en": "BryweLudramon",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "50 (★9)",
+          "hp": "15",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ragnalord",
+            "name": "Ragna Lordmon",
+            "conditions": "Jogress with Durandamon (Ryuda)"
+          }
+        ]
+      }
+    },
+    "death_b": {
+      "id": "death_b",
+      "name": "Deathmon (Black)",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/death_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/death_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/death_b.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "digitama",
+            "rarerare",
+            "manticore"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "5,000+",
+            "Battles": "20+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Deathmon (Black)",
+        "name_en": "Ghoulmon (Black)",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Active",
+        "stats": {
+          "dp": "50 (★9)",
+          "hp": "12",
+          "ap": "7"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "devitama": {
+      "id": "devitama",
+      "name": "Devitamamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/devitama.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/devitama.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/devitama.jpg",
+      "appearances": [
+        {
+          "dim_id": "espi",
+          "dim_name": "Espimon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "raijiludo",
+            "digitama",
+            "piccolo",
+            "rarerare",
+            "manticore"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "4,500+",
+            "Battles": "15+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Devitamamon",
+        "name_en": "Devitamamon",
+        "attribute": "Data",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Lazy",
+        "stats": {
+          "dp": "45 (★8)",
+          "hp": "10",
+          "ap": "8"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 5"
+        },
+        "evolves_from": [
+          {
+            "id": "raijiludo",
+            "name": "Raiji Ludomon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "digitama",
+            "name": "Digitamamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "piccolo",
+            "name": "Piccolomon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "rarerare",
+            "name": "Rare Raremon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "manticore",
+            "name": "Manticoremon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "saku": {
+      "id": "saku",
+      "name": "Sakumon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/saku.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/saku.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/saku.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "I"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Sakumon",
+        "name_en": "Sakumon",
+        "attribute": "Free",
+        "stage_text": "Stage I (Baby I)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "(★)",
+          "hp": "",
+          "ap": ""
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [],
+        "evolves_to": [
+          {
+            "id": "sakutto",
+            "name": "Sakuttomon",
+            "conditions": "No requirements"
+          }
+        ]
+      }
+    },
+    "sakutto": {
+      "id": "sakutto",
+      "name": "Sakuttomon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sakutto.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sakutto.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sakutto.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "II"
+        }
+      ],
+      "evolution_conditions": [],
+      "details": {
+        "name_jp": "Sakuttomon",
+        "name_en": "Sakuttomon",
+        "attribute": "Free",
+        "stage_text": "Stage II (Baby II)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "(★)",
+          "hp": "",
+          "ap": ""
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn NA"
+        },
+        "evolves_from": [
+          {
+            "id": "saku",
+            "name": "Sakumon",
+            "conditions": "No requirements"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "zuba",
+            "name": "Zubamon",
+            "conditions": "1,200+ Vital Values"
+          },
+          {
+            "id": "ryuda",
+            "name": "Ryudamon",
+            "conditions": "0-1,199 Vital Values"
+          }
+        ]
+      }
+    },
+    "zuba": {
+      "id": "zuba",
+      "name": "Zubamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zuba.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zuba.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zuba.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "sakutto"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "1,200+",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Zubamon",
+        "name_en": "Zubamon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage III (Child)",
+        "activity": "Active",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "sakutto",
+            "name": "Sakuttomon",
+            "conditions": "1,200+ Vital Values"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "zubaeager",
+            "name": "Zubaeagermon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          }
+        ]
+      }
+    },
+    "ryuda": {
+      "id": "ryuda",
+      "name": "Ryudamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ryuda.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ryuda.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ryuda.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "III"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "sakutto"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Ryudamon",
+        "name_en": "Ryudamon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage III (Child)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "10 (★1)",
+          "hp": "3",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "sakutto",
+            "name": "Sakuttomon",
+            "conditions": "0-1,199 Vital Values"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ginryu",
+            "name": "Ginryumon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          }
+        ]
+      }
+    },
+    "zubaeager": {
+      "id": "zubaeager",
+      "name": "Zubaeagermon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zubaeager.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zubaeager.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zubaeager.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "zuba"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,300+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Zubaeagermon",
+        "name_en": "ZubaEagermon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Active",
+        "stats": {
+          "dp": "25 (★5)",
+          "hp": "5",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "zuba",
+            "name": "Zubamon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "dura",
+            "name": "Duramon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "Jogress with Data or Free Adult"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "ginryu": {
+      "id": "ginryu",
+      "name": "Ginryumon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ginryu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ginryu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ginryu.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ryuda"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "1,300+",
+            "Battles": "8+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Ginryumon",
+        "name_en": "Ginryumon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "ryuda",
+            "name": "Ryudamon",
+            "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "dura",
+            "name": "Duramon",
+            "conditions": "Jogress with Data or Free Adult"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "Jogress with Virus Adult"
+          }
+        ]
+      }
+    },
+    "musya": {
+      "id": "musya",
+      "name": "Musyamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/musya.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/musya.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/musya.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "zuba",
+            "ryuda"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "900+",
+            "Battles": "5+",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Musyamon",
+        "name_en": "Musyamon",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "4",
+          "ap": "3"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "zuba",
+            "name": "Zubamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          },
+          {
+            "id": "ryuda",
+            "name": "Ryudamon",
+            "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "dura",
+            "name": "Duramon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "Jogress with Data Adult"
+          }
+        ]
+      }
+    },
+    "dokugu": {
+      "id": "dokugu",
+      "name": "Dokugumon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dokugu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dokugu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dokugu.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "IV"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "zuba",
+            "ryuda"
+          ],
+          "requirements": {
+            "Trophies": "N/A",
+            "Vital Values": "N/A",
+            "Battles": "N/A",
+            "Win Ratio": "N/A"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Dokugumon",
+        "name_en": "Dokugumon",
+        "attribute": "Virus",
+        "stage_text": "Stage IV (Adult)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "20 (★4)",
+          "hp": "5",
+          "ap": "2"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "gabu",
+            "name": "Gabumon",
+            "conditions": "3+ Trophies, 500+ Vital Values"
+          },
+          {
+            "id": "zuba",
+            "name": "Zubamon",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          },
+          {
+            "id": "ryuda",
+            "name": "Ryudamon",
+            "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "parrot",
+            "name": "Parrotmon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "bigmame",
+            "name": "Big Mamemon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "orochi",
+            "name": "Orochimon",
+            "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "weregaruru",
+            "name": "Were Garurumon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "valve",
+            "name": "Valvemon",
+            "conditions": "Jogress with Data Adult"
+          },
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          },
+          {
+            "id": "dura",
+            "name": "Duramon",
+            "conditions": "Jogress with Data Adult"
+          }
+        ]
+      }
+    },
+    "dura": {
+      "id": "dura",
+      "name": "Duramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dura.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dura.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dura.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "zubaeager",
+            "musya"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Duramon",
+        "name_en": "Duramon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Active",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "9",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "zubaeager",
+            "name": "Zubaeagermon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "ginryu",
+            "name": "Ginryumon",
+            "conditions": "Jogress with Data or Free Adult"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "Jogress with Data Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "duranda",
+            "name": "Durandamon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "zanba",
+            "name": "Zanbamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "ouryu",
+            "name": "Ouryumon",
+            "conditions": "Jogress with Data, Virus or Free Perfect"
+          }
+        ]
+      }
+    },
+    "hisyaryu": {
+      "id": "hisyaryu",
+      "name": "Hisyaryumon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hisyaryu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hisyaryu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hisyaryu.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ginryu",
+            "dokugu"
+          ],
+          "requirements": {
+            "Trophies": "12+",
+            "Vital Values": "3,000+",
+            "Battles": "15+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Hisyaryumon",
+        "name_en": "Hisyaryumon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "8",
+          "ap": "5"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "ginryu",
+            "name": "Ginryumon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "zubaeager",
+            "name": "Zuba Eagermon",
+            "conditions": "Jogress with Data or Free Adult"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "Jogress with Data Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ouryu",
+            "name": "Ouryumon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "zanba",
+            "name": "Zanbamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "duranda",
+            "name": "Durandamon",
+            "conditions": "Jogress with Data, Virus or Free Perfect"
+          }
+        ]
+      }
+    },
+    "asura": {
+      "id": "asura",
+      "name": "Asuramon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/asura.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/asura.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/asura.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "zubaeager",
+            "musya"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Asuramon",
+        "name_en": "Asuramon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Stoic",
+        "stats": {
+          "dp": "35 (★7)",
+          "hp": "7",
+          "ap": "5"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 1"
+        },
+        "evolves_from": [
+          {
+            "id": "zubaeager",
+            "name": "Zubaeagermon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "ginryu",
+            "name": "Ginryumon",
+            "conditions": "Jogress with Virus Adult"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "duranda",
+            "name": "Durandamon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "zanba",
+            "name": "Zanbamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "ouryu",
+            "name": "Ouryumon",
+            "conditions": "Jogress with Data, Virus or Free Perfect"
+          }
+        ]
+      }
+    },
+    "gyuki": {
+      "id": "gyuki",
+      "name": "Gyukimon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gyuki.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gyuki.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gyuki.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "ginryu",
+            "dokugu"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "2,500+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Gyukimon",
+        "name_en": "Gyukimon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Normal",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "9",
+          "ap": "4"
+        },
+        "schedule": {
+          "awake_hours": "09:00 - 21:00",
+          "critical_hit": "Turn 3"
+        },
+        "evolves_from": [
+          {
+            "id": "ginryu",
+            "name": "Ginryumon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "zubaeager",
+            "name": "Zuba Eagermon",
+            "conditions": "Jogress with Virus Adult"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "Jogress with Vaccine or Free Adult"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ouryu",
+            "name": "Ouryumon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "zanba",
+            "name": "Zanbamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "duranda",
+            "name": "Durandamon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          }
+        ]
+      }
+    },
+    "oboro": {
+      "id": "oboro",
+      "name": "Oboromon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/oboro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/oboro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/oboro.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "V"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "zubaeager",
+            "ginryu",
+            "musya",
+            "dokugu"
+          ],
+          "requirements": {
+            "Trophies": "8+",
+            "Vital Values": "2,000+",
+            "Battles": "10+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Oboromon",
+        "name_en": "Oboromon",
+        "attribute": "Virus",
+        "stage_text": "Stage V (Perfect)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "30 (★6)",
+          "hp": "6",
+          "ap": "6"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "zubaeager",
+            "name": "Zubaeagermon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "ginryu",
+            "name": "Ginryumon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "musya",
+            "name": "Musyamon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "dokugu",
+            "name": "Dokugumon",
+            "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ouryu",
+            "name": "Ouryumon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "zanba",
+            "name": "Zanbamon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "duranda",
+            "name": "Durandamon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          }
+        ]
+      }
+    },
+    "duranda": {
+      "id": "duranda",
+      "name": "Durandamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/duranda.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/duranda.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/duranda.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "dura",
+            "asura"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "5,000+",
+            "Battles": "20+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Durandamon",
+        "name_en": "Durandamon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Active",
+        "stats": {
+          "dp": "50 (★9)",
+          "hp": "10",
+          "ap": "8"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "dura",
+            "name": "Duramon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "Jogress with Data, Virus or Free Perfect"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "Jogress with Vaccine, Data or Free Perfect"
+          }
+        ],
+        "evolves_to": [
+          {
+            "id": "ragnalord",
+            "name": "Ragna Lordmon",
+            "conditions": "Jogress with Bryweludramon (Espi)"
+          }
+        ]
+      }
+    },
+    "ouryu": {
+      "id": "ouryu",
+      "name": "Ouryumon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ouryu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ouryu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ouryu.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "hisyaryu",
+            "gyuki",
+            "oboro"
+          ],
+          "requirements": {
+            "Trophies": "20+",
+            "Vital Values": "5,000+",
+            "Battles": "20+",
+            "Win Ratio": "70%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Ouryumon",
+        "name_en": "Ouryumon",
+        "attribute": "Vaccine",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Active",
+        "stats": {
+          "dp": "50 (★9)",
+          "hp": "12",
+          "ap": "7"
+        },
+        "schedule": {
+          "awake_hours": "08:00 - 20:00",
+          "critical_hit": "Turn 2"
+        },
+        "evolves_from": [
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "Jogress with Data, Virus or Free Perfect"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "Jogress with Data, Virus or Free Perfect"
+          }
+        ],
+        "evolves_to": []
+      }
+    },
+    "zanba": {
+      "id": "zanba",
+      "name": "Zanbamon",
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zanba.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zanba.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zanba.jpg",
+      "appearances": [
+        {
+          "dim_id": "ryuda",
+          "dim_name": "Ryudamon",
+          "stage": "VI"
+        }
+      ],
+      "evolution_conditions": [
+        {
+          "from_digimon": [
+            "dura",
+            "hisyaryu",
+            "asura",
+            "gyuki",
+            "oboro"
+          ],
+          "requirements": {
+            "Trophies": "10+",
+            "Vital Values": "4,500+",
+            "Battles": "15+",
+            "Win Ratio": "50%+"
+          }
+        }
+      ],
+      "details": {
+        "name_jp": "Zanbamon",
+        "name_en": "Zanbamon",
+        "attribute": "Virus",
+        "stage_text": "Stage VI (Ultimate)",
+        "activity": "Indoor",
+        "stats": {
+          "dp": "45 (★8)",
+          "hp": "10",
+          "ap": "8"
+        },
+        "schedule": {
+          "awake_hours": "10:00 - 22:00",
+          "critical_hit": "Turn 4"
+        },
+        "evolves_from": [
+          {
+            "id": "dura",
+            "name": "Duramon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "hisyaryu",
+            "name": "Hisyaryumon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "asura",
+            "name": "Asuramon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "gyuki",
+            "name": "Gyukimon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          },
+          {
+            "id": "oboro",
+            "name": "Oboromon",
+            "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+          }
+        ],
+        "evolves_to": []
+      }
+    }
+  }
+}

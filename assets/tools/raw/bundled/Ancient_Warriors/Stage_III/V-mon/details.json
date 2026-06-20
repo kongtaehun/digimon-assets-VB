@@ -1,0 +1,60 @@
+{
+  "id": "v",
+  "name": "V-mon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/v.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/v.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/v.jpg",
+  "appearances": [
+    {
+      "dim_id": "awa",
+      "dim_name": "Ancient Warriors",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "V-mon",
+    "name_en": "Veemon",
+    "attribute": "Free",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "chibi",
+        "name": "Chibimon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "vdra",
+        "name": "V-dramon",
+        "conditions": "8+ Trophies, 1,200+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "xv",
+        "name": "XV-mon",
+        "conditions": "5+ Trophies, 800+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "fladra",
+        "name": "Fladramon",
+        "conditions": "3+ Trophies, 500+ Vital Values"
+      },
+      {
+        "id": "lighdra",
+        "name": "Lighdramon",
+        "conditions": "• 0-2 Trophies• 0-499 Vital Values"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "nidhogg",
+  "name": "Nidhoggmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/nidhogg.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/nidhogg.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/nidhogg.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "hisyaryu",
+        "orochi"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Nidhoggmon",
+    "name_en": "Nidhoggmon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "5000",
+      "hp": "6000",
+      "ap": "1950"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "orochi",
+        "name": "Orochimon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

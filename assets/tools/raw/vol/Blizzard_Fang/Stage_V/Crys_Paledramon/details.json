@@ -1,0 +1,83 @@
+{
+  "id": "cryspaledra",
+  "name": "Crys Paledramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cryspaledra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cryspaledra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cryspaledra.jpg",
+  "appearances": [
+    {
+      "dim_id": "bfa",
+      "dim_name": "Blizzard Fang",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "paledra",
+        "hyouga"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Crys Paledramon",
+    "name_en": "CrysPaledramon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "10",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "paledra",
+        "name": "Paledramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "hyouga",
+        "name": "Hyougamon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "moose",
+        "name": "Moosemon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ancientmegatheriu",
+        "name": "Ancient Megatheriumon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "hexeblau",
+        "name": "Hexeblaumon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "frosvelgr",
+        "name": "Fros Velgrmon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "skullmam",
+        "name": "Skull Mammon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      }
+    ]
+  }
+}

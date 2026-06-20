@@ -1,0 +1,57 @@
+{
+  "id": "mugendra",
+  "name": "Mugendramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mugendra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mugendra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mugendra.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "metaltyrano",
+        "megadra"
+      ],
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mugendramon",
+    "name_en": "Machinedramon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "4800",
+      "hp": "5450",
+      "ap": "1850"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "metaltyrano",
+        "name": "Metal Tyranomon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "megadra",
+        "name": "Megadramon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

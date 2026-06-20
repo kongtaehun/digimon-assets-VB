@@ -1,0 +1,1157 @@
+{
+  "schema_version": "1.0",
+  "id": "angora",
+  "name": "Angoramon",
+  "category": "anime",
+  "device": "VBBE",
+  "release": "JP: Jan 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_angora.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "pyon",
+      "name": "Pyonmon",
+      "name_jp": "Pyonmon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/pyon/frame1.gif",
+        "frame2": "sprites/pyon/frame2.gif"
+      },
+      "artwork": "sprites/pyon/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon covered in tufty body hair that has a single large ear. It was shy the moment it was born, so if someone stares at it, it will instantly lower its head. However, it is also friendly, and can be seen rubbing its body against Digimon that it is interested in, actively engaging inskin-to-skin contact. It hates opponents that mess with it, and has the power to blow even Child Digimon away with its \"Earnta\", in which it slaps them with its large ear. Similarly, it hates things which make loud noises that ring in its ear, so it lowers its ear and leaves.Digimon Reference Book⇨ English大きな１つの耳とフサフサな体毛に覆われている幼年期デジモン。生まれた時から恥ずかしがり屋で、目を見つめるとすぐに顔を伏せてしまう。しかし懐っこさも持ち、気になるデジモンには体をすりすりして積極的にスキンシップをとる様子も見られている。ちょっかいを出してくる相手は嫌い、大きな耳でひっぱたく『イヤンタ』で成長期デジモンも吹っ飛ばす威力がある。同じく、耳に響くような大きな音を出すモノを嫌い、耳を伏せて去っていく。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pyonmon"
+    },
+    {
+      "id": "bosa",
+      "name": "Bosamon",
+      "name_jp": "Bosamon",
+      "name_ko": "보사몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/bosa/frame1.gif",
+        "frame2": "sprites/bosa/frame2.gif"
+      },
+      "artwork": "sprites/bosa/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromPyonmon. Its bangs have grown out, hiding its eyes, so it can now move around without worrying about others looking at it. Its shy personality has changed into one that is calm. It now has two long ears and its sense of hearing has further developed. It is able to perceive sound in three dimensions, and listening to conversations between fellow Digimon from a distance has become its hobby. It has a lot of information about things that it has not experienced firsthand thanks to that. It hates fighting; it is able to quickly detect the approach of an enemy, which prompts it to leave the area. Even if its escape route is blocked, it will use its combo attack \"Mikkomi\", in which it slaps the opponent with its ears, and take the opportunity to hide while the opponent is still startled.Digimon Reference Book⇨ Englishピョンモンが進化したレッサー型デジモン。前髪が伸び目が隠れたことで他人の視線を気にせず動き回れるようになった。恥ずかしがり屋な性格は穏やかさへと変化している。長い耳が２つになり聴覚が発達。音を立体的に感知することが可能となり、デジモン同士の会話を遠くから聞くことが趣味になった。そのおかげか経験していないことも情報だけはとても豊富に持っている。戦いは好まず、敵の接近をいち早く察知しその場を去る。逃げ場を立ち塞がれても耳ではたく連撃『ミッコミ』で、相手が怯んだうちに身を隠す。デジモン図鑑",
+        "ko": "뿅몬 이 진화한 레서형 디지몬. 앞머리가 늘어져 눈이 가려지면서 다른 사람들의 시선을 의식하지 않고 돌아다닐 수 있게 되었다. 수줍음을 잘 타는 성격은 온화하게 바뀌고 있다. 긴 귀가 2개가 되어 청각이 발달, 소리를 입체적으로 감지하는 것이 가능해지면서 디지몬끼리의 대화를 멀리서 듣는 것이 취미가 됐다. 그 덕분인지 경험하지 못한 것들도 정보만큼은 아주 풍부하게 갖고 있다. 싸움은 좋아하지 않고 적의 접근을 재빨리 눈치채고 그곳을 떠난다. 도망갈 곳을 가로막아도 귀로 때리는 연격 \"밋코미\"로, 상대가 움츠린 사이에 몸을 숨긴다."
+      },
+      "wikimon_url": "https://wikimon.net/Bosamon"
+    },
+    {
+      "id": "angora",
+      "name": "Angoramon",
+      "name_jp": "Angoramon",
+      "name_ko": "앙고라몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4600",
+        "hp": "3200",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/angora/frame1.gif",
+        "frame2": "sprites/angora/frame2.gif"
+      },
+      "artwork": "sprites/angora/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon characterized by its long ears and the fur that covers its whole body. It hates fighting and has a calm personality, and avoids battle by detecting the approach of enemies from a distance with its long ears. Also, its long ears spin, allowing it to fly slowly. It has a great appetite to maintain its large physique, and completely loses its super-hearing to detect the enemy only when its stomach rumbles.Its Special Moves are mowing down enemies in its surroundings by spinning both of its large arms (Double Lariat), a small tornado generated by the propeller rotation of both its ears (Petit Tornado), and a technique in which it jumps high into the sky and then crushes the enemy with its large build (Pyon Dump).Digimon Reference Book⇨ English長い耳と全身を覆う体毛が特徴的な獣型デジモン。戦いを好まない穏やかな性格を持ち、長い耳で遠くから敵の接近を察知して戦闘を回避する。また、長い耳は回転させることでゆっくりと飛翔することもできる。大きな体格を維持するために食欲旺盛、空腹でおなかの音が鳴るときだけは敵を察知する超聴覚が失われてしまう。必殺技は、大きな両腕の回転で周囲の敵をなぎ払う『ダブルラリアット』、両耳のプロペラ回転で巻き起こす小型竜巻『プチトルネード』、そして高空へとジャンプして巨体で敵を押し潰す技『ピョンダンプ』を使う。デジモン図鑑",
+        "ko": "긴 귀와 온몸을 덮는 체모가 특징인 짐승형 디지몬. 싸움을 좋아하지 않는 온화한 성격을 가지고 있고, 긴 귀로 멀리있는 적의 접근을 감지해 전투를 회피한다. 또 긴 귀는 회전시켜 천천히 비행할 수 있다. 큰 몸집을 유지하기 위해 식욕이 왕성하고, 공복으로 배에서 소리가 날 때만큼은 적을 감지하는 초청각을 잃어버린다. 필살기는 큰 양팔을 회전시켜 주위의 적을 쓰러뜨리는 \"더블 래리어트\", 양쪽 귀를 프로펠러처럼 회전시켜 일으키는 소형 회오리바람 \"쁘띠 토네이도\", 그리고 고공으로 점프해 거구로 적을 짓누르는 기술인 \"뿅 덤프\"를 사용한다."
+      },
+      "wikimon_url": "https://wikimon.net/Angoramon"
+    },
+    {
+      "id": "dracu",
+      "name": "Dracumon",
+      "name_jp": "Dracumon",
+      "name_ko": "드라큐몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4100",
+        "hp": "2800",
+        "ap": "1050"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/dracu/frame1.gif",
+        "frame2": "sprites/dracu/frame2.gif"
+      },
+      "artwork": "sprites/dracu/artwork.jpg",
+      "lore": {
+        "en": "TheDark Area's most mischievous Digimon. For the sake of a prank, it will meet the challenge unflinchingly even if it is accompanied by some risk. It once nearly got itself killed trying to graffiti the faces of all four of theFour Holy Beasts...(it's unknown whether it succeeded). It was once a bloodsucking Digimon, but these days it forgets to suck blood, and it seems it's trying to play some kind of trick on theRoyal Knights. It is said that those who look into the \"Eye of Nightmare\" cast from theevil eyeson the palms of its hands have their hearts completely dominated by Dracumon. Also, appropriately for a vampire, it seems to have a biting attack technique using its fangs called \"Undead Fang\".Digimon Reference Book⇨ Englishダークエリアいちのいたずら好きデジモン。いたずらのためなら多少の危険が伴ってもひるまず挑戦する。四聖獣の４体すべての顔に落書きを試みて死にかけたこともあるとか・・・（成功したかは不明）。一応吸血デジモンであるが、最近は血を吸うことも忘れて、ロイヤルナイツに何かいたずらしようとしているらしい。両手の掌にある邪眼から発せられる『アイオブナイトメア』を直視したものはドラクモンに心を支配されてしまうという。また吸血鬼らしく、牙によるカミツキ攻撃『アンデッドファング』という技もあるらしい。デジモン図鑑",
+        "ko": "다크 에리어 제 1의 장난꾸러기 디지몬. 장난을 위해서라면 다소의 위험이 따르더라도 상관않고 도전한다. 4성수 4체 모두의 얼굴에 낙서를 시도하려다 다 죽어간 적도 있다던가... (성공했는지는 불명) 일단 흡혈 디지몬이지만, 최근에는 피를 빠는 것도 잊고, 로얄 나이츠 에게 무언가 장난하려는 것 같다. 양 손에 있는 사악한 눈동자에서 발해지는 \"아이 오브 나이트메어\"를 직시한 것은 드라크몬에게 마음이 지배되어 버린다고 한다. 또 흡혈귀다워서, 송곳니에 의한 물고 늘어지는 공격 \"언데드 팡\"이라는 기술도 있는 것 같다."
+      },
+      "wikimon_url": "https://wikimon.net/Dracumon"
+    },
+    {
+      "id": "symbareangora",
+      "name": "Symbare Angoramon",
+      "name_jp": "Symbare Angoramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5500",
+        "hp": "3500",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/symbareangora/frame1.gif",
+        "frame2": "sprites/symbareangora/frame2.gif"
+      },
+      "artwork": "sprites/symbareangora/artwork.jpg",
+      "lore": {
+        "en": "The Adult form ofAngoramonthat has shed the long, soft fur covering it in pursuit of agility. Although it has lost the defense offered by the cushioning fur that used to cover its body, its movements have become nimble. It strives for beauty in its behavior and movements, and in battle, it dodges the enemy's attacks as if it were dancing, in lockstep with its own attacks.Its Special Moves are dishing out a barrage of quick kicks while standing on one leg (Jive), spinning its body and slashing the enemy with the razor-sharp tips of its ears (Ländlizer), and unleashing a powerful tornado from both of its hands (Breakin'Stream). It strives for beauty even when unleashing these techniques.Digimon Reference Book⇨ Englishアンゴラモンが瞬発性を求め、纏っていた長柔毛を解いた成熟期の姿。体を覆っていたクッション性のある毛による防御力は失ったが、身のこなしが軽やかになった。振る舞いや動きに美しさを求め、戦いにおいては舞を舞うように敵の攻撃を受け流して自身の攻撃に繋げる。必殺技は、片脚立ちの体勢から素早い蹴りの連打を繰り出す『ジャイブ』、体を回転させて切れ味鋭い耳先で敵を切る『レントライザー』、さらに両手から強力な竜巻を放つ『ブレイキンストリーム』。技を放つ時でも美しさを追及する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Symbare_Angoramon"
+    },
+    {
+      "id": "siesa",
+      "name": "Siesamon",
+      "name_jp": "Siesamon",
+      "name_ko": "시사몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5100",
+        "hp": "3200",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/siesa/frame1.gif",
+        "frame2": "sprites/siesa/frame2.gif"
+      },
+      "artwork": "sprites/siesa/artwork.jpg",
+      "lore": {
+        "en": "A Digimon which has the appearance of the legendary holy beast, the \"Siisaa\". It has the power to sweep away calamity, and exhibits tremendous power toward evildoers. It is an ally to those that are kind-hearted, and will try to protect its Tamer from every calamity, even if it has to sacrifice its own body. Contrary to its heroic appearance, it usually basks leisurely in the sunlight, due to its docile personality. However, the sunlight is an important factor for Siesamon, because it charges its life energy. Its Signature Move \"Sekkantou\" temporarily prevents the intrusion of evil Viruses, as a kind ofFirewall. Its Special Move is firing countless holy arrows of sunlight (Tiida Ija).Digimon Reference Book⇨ English伝説の聖獣“シーサー”の姿をしたデジモン。災いを払う力を持ち、邪悪なるものには絶大なパワーを発揮する。心優しきものの味方であり、自らの身をていしてでも、テイマーをあらゆる災厄から守ろうとする。その雄々しい姿とは裏腹に、普段は大人しい性格で、太陽の光を浴びてのんびりしている。しかし、シーサモンにとって太陽の光は生命エネルギーを充電するための重要な要素である。得意技の『石敢当（せっかんとう）』は邪悪なウィルスの侵入を一時的に防ぐ、一種のファイアーウォール。必殺技は聖なる太陽光の矢を無数に放つ『ティーダ・イヤ』。デジモン図鑑",
+        "ko": "전설의 성수 \"시사\"의 모습을 한 디지몬. 재앙을 거두는 힘을 가지며, 사악한 자에겐 절대적인 파워를 발휘한다. 상냥한 마음을 지녔으며, 자신의 몸을 돌보지 않으면서까지 테이머를 모든 재액에서 지키려고 한다. 그 위엄있는 자태와는 별개로, 보통은 어른스러운 성격이며 햇빛을 쬐며 느긋하게 있곤 한다. 하지만, 시사몬에게 있어 햇빛은 생명 에너지를 충전하기 위한 중요한 요소이다. 특기인 \"석감당\"은 사악한 바이러스의 침입을 단숨에 막는 일종의 방화벽. 필살기는 성스러운 햇빛의 화살을 무수히 날리는 \"티다 이야\" [1] 다."
+      },
+      "wikimon_url": "https://wikimon.net/Siesamon"
+    },
+    {
+      "id": "dog",
+      "name": "Dogmon",
+      "name_jp": "Dogmon",
+      "name_ko": "도그몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "4800",
+        "hp": "3700",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/dog/frame1.gif",
+        "frame2": "sprites/dog/frame2.gif"
+      },
+      "artwork": "sprites/dog/artwork.jpg",
+      "lore": {
+        "en": "A Puppet Digimon that was produced from an American cartoon TV database. Because its body is very soft and strong, and can expand and contract like rubber, it completely absorbs every attack. Although its appearance gives off the impression that it is very dangerous, it is a harmless Digimon with no malice or aggression. Its Signature Move is inflicting damage to the opponent's sense of hearing with a great howl, making them lose their fighting spirit (DistemHowling). Its Special Move \"Ultra Kamitsuku\" is an intense technique in which it snaps at them with its sharp fangs.Dogmon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Mr. Higuchi Keiichi fromHyōgo prefecture.Digimon Reference Book⇨ Englishアメリカのカートゥーンテレビのデータベースから生まれたパペット型デジモン。体が非常にやわらかく頑丈で、ゴムの様に伸び縮みするため、あらゆる攻撃を吸収してしまう。見た目は大変あぶない印象を受けるが、悪意や攻撃性はなく人畜無害なデジモンである。得意技は大きな咆吼で相手の聴覚にダメージを与え戦意を喪失させる『ジステン・ハウリング』。必殺技の『ウルトラかみつく』は鋭い牙で噛み付く強烈な技だ。 ※ドッグモンは「デジモンウェブドット絵コンテスト」で兵庫県の「樋口景一」さんのデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": "아메리카의 카툰 텔레비전의 데이터베이스로부터 태어난 퍼펫형 디지몬. 몸이 매우 매우 부드럽고 단단하여 고무처럼 늘어나도록 온갖 공격을 흡수해버린다. 겉보기에는 매우 위험한 인상을 주지만, 악의나 공격성은 없는 인축무해한 디지몬이다. 장기는 거대한 포효로 상대의 청각에 대미지를 주어 전의를 상실시키는 『디스템 [2] 하울링』. 필살기인 『울트라 물어뜯기』는 날카로운 어금니로 물어뜯는 강렬한 기술이다."
+      },
+      "wikimon_url": "https://wikimon.net/Dogmon"
+    },
+    {
+      "id": "sangloup",
+      "name": "Sangloupmon",
+      "name_jp": "Sangloupmon",
+      "name_ko": "상굴몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5800",
+        "hp": "3000",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/sangloup/frame1.gif",
+        "frame2": "sprites/sangloup/frame2.gif"
+      },
+      "artwork": "sprites/sangloup/artwork.jpg",
+      "lore": {
+        "en": "A noble, bloodsucking wolf Digimon. It is a considerably old species of Digimon, and is said to have survived since theGenesisof theDigital World. Digimon who have had their blood sucked by Sangloupmon have all the information drawn out of theirDigicores, cease vital functions, and die. Sangloupmon is able to instantly move to different places as it rushes about theNetby breaking down its data intopacketsof its own volition. For this reason, it is said to be very difficult to capture Sangloupmon. Its Special Moves are flinging thousands of tiny blades and instantaneously skewering the opponent from within (Sticker Blade), and disassembling its own data and melting into the opponent's shadow (Black Mind).Digimon Reference Book⇨ English崇高なる吸血オオカミデジモン。デジモンとしてはかなり古い種であり、デジタルワールド創世記のころから生き残っているといわれている。サングルゥモンに血を吸われたデジモンはデジコアの情報を全て抜き取られ、生命活動が出来なくなり絶命する。サングルゥモンは自分の意志で自らをデータ分解しパケット単位でネットを駆け巡ることで瞬時に別の場所に移動することができる。このためサングルゥモンを捕獲するのは非常に困難であると言われている。必殺技は、数千の小型ブレードを投げ飛ばし相手を一瞬のうちに串刺しにする『スティッカーブレイド』と、自らのデータを分解し相手の影の中に溶け込み消える『ブラックマインド』。デジモン図鑑",
+        "ko": "숭고한 흡혈 늑대 디지몬. 디지몬으로선 상당히 오래된 종이며, 디지털 월드 창세기 무렵부터 살아남았다고 한다. 상굴몬에게 피를 빨린 디지몬은 디지코어의 정보가 모두 뽑혀 생명 활동을 할 수 없게 돼 절명한다. 상굴몬은 자신의 의지로 스스로를 데이터 분해하여 패킷 단위로 넷을 돌아다닐 수 있어 순식간에 다른 장소로 이동한다. 그 때문에 상굴몬을 포획하는 것은 매우 어렵다고 한다. 필살기는 수천의 소형 블레이드를 던져 상대를 단숨에 고슴도치로 만드는 \"스틱커 블레이드\"와 스스로의 데이터를 분해해 상대의 그림자 속으로 숨어들어가는 \"블랙 마인드\"."
+      },
+      "wikimon_url": "https://wikimon.net/Sangloupmon"
+    },
+    {
+      "id": "publi",
+      "name": "Publimon",
+      "name_jp": "Publimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5200",
+        "hp": "3100",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/publi/frame1.gif",
+        "frame2": "sprites/publi/frame2.gif"
+      },
+      "artwork": "sprites/publi/artwork.jpg",
+      "lore": {
+        "en": "A Mutation Digimon wearing a shell hood that loves observing other Digimon, and transmits the data it has compiled on them throughout theDigital World. Since the content is very trivial, it will occasionally report things regardless of whether it puts its life at risk, for example, clashing with Angel Digimon for taking an interest in theThree Archangels. Although it is supported by a large number of readers due to the content that it publishes, there are many readers who detest it. However, those who harm its readers will fall victim to its forced coverage of them vigorously.Its Special Moves are sandwiching the enemy between two giantwindowswith great force (Dual Presser), and sending its windows flying like paper airplanes to pierce them (Juke-crack).Digimon Reference Book⇨ Englishデジモン観察を好み作り上げたデータをデジタルワールド内に発信する、貝殻フードをかぶった突然変異型デジモン。内容はとても些細なことから、時には三大天使に興味を向け天使型デジモンと対立するなど、命の危険すら顧みない取材を行う。発信される内容から多数の読者に支持されているが、嫌う読者も少なくはない。しかし、読者を害する者は力による強制取材の餌食となる。必殺技は、２つの巨大ウィンドウで勢いよく挟む『デュアルプレッサー』と、ウィンドウを紙飛行機のようにして飛ばし敵を貫通する『ジュークラック』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Publimon"
+    },
+    {
+      "id": "lamort",
+      "name": "Lamortmon",
+      "name_jp": "Lamortmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "4600",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lamort/frame1.gif",
+        "frame2": "sprites/lamort/frame2.gif"
+      },
+      "artwork": "sprites/lamort/artwork.jpg",
+      "lore": {
+        "en": "A Perfect Digimon whose hidden feral instincts have been unleashed. It will immediately swoop down on Digimon that express their disgust towards it and keep smashing them until they stop breathing. Although it is an impetuous Digimon that has uncontrollable impulses, it seems that there are some individuals who are ashamed of and despise their own impulses. The vacuum blades that surround the two \"Jūran-maru\" longswords it carries on its waist become stronger and sharper the more it unleashes its ferocity. Taming a rampaging Lamortmon is impossible unless one has built a great deal of trust with them.Its Special Moves are slicing open the enemy's belly with its claws (Kaisaisō), repeatedly swinging its two longswords with all its might to pulverize the enemy (Kōhabattō), and unleashing the vacuum blades that envelop its longswords (Fūga Rekkanjin). In addition, its \"Gōon Kieizan\", in which it converts all of its reason into ferocity and bisects the enemy with its two longswords, is Lamortmon's most destructive technique which slashes the enemy while smashing them to smithereens at the same time.Digimon Reference Book⇨ English秘められた野性本能が解放された完全体デジモン。自分に対して嫌悪感を示したデジモンには即座に飛び掛かり、息の根が止まるまで叩き潰し続ける。直情的で自制のきかない衝動を持つデジモンだが自身の衝動を恥じて嫌う個体もいるようだ。腰に携えている2本の大刀「獣嵐丸（じゅうらんまる）」は野性を解放するほどに纏う真空の刃が強まり切れ味が増していく。暴れるラモールモンを大人しくさせるには相当な信頼関係を築いていなければ不可能だろう。必殺技は、爪で敵の腹を掻っ捌く『禍災爪』、そして2本の大刀を力任せに振るい続け敵を粉砕する『叩破伐倒』や、大刀に纏った真空の刃を放つ『風牙烈巻迅』がある。また、理性を全て野性に変換し2本の大刀で両断する『豪怨毀永斬』はラモールモン最大の破壊力となって敵を断つと同時に木端微塵にする。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lamortmon"
+    },
+    {
+      "id": "cerberu",
+      "name": "Cerberumon",
+      "name_jp": "Cerberumon",
+      "name_ko": "케르베로스몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5700",
+        "hp": "4500",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/cerberu/frame1.gif",
+        "frame2": "sprites/cerberu/frame2.gif"
+      },
+      "artwork": "sprites/cerberu/artwork.jpg",
+      "lore": {
+        "en": "A Demon Beast Digimon called the \"Watchdog of Hell\". The claws on its legs are hard enough to easily tear through low-purityChrome Digizoid. Also, its body is protected by a hard living shell, which has the ability to instantly repair any damage it incurs. The armor on its shoulders each possess sentience, and are able to instantly sense an attack coming from any direction, then report it to Cerberumon's central body. Its Signature Move, \"Inferno Gate\", is opening a \"Hell Gate\" engraved in the earth, then casting the opponent through it to the jet-blackDark Area. Its Special Move is a scorching flamethrower (Hellfire).Digimon Reference Book⇨ English“地獄の番犬”と言われる魔獣型デジモン。四肢の鉤爪は純度の低いクロンデジゾイドならば、簡単に引き裂くだけの硬度を持っている。また、体は硬質な生体外殻に守られており、ダメージを負っても瞬時に修復してしまう能力を持っている。両肩のアーマーは、それぞれが意識を持ち、前後左右あらゆる方向からの攻撃を瞬時に察知し、本体のケルベロモンに伝達する。得意技の『インフェルノゲート』は大地に描いた「地獄の門」を開け漆黒のダークエリアに相手を突き落とす。必殺技は灼熱の火炎放射『ヘルファイアー』。デジモン図鑑",
+        "ko": "\"지옥의 파수견\"이라고 불리는 마수형 디지몬. 네 발에 있는 갈고리발톱은 순도가 낮은 크롬 디지조이드 는 쉽게 찢을 만큼 단단하다. 또한 몸은 단단한 외피로 보호하며, 대미지를 입어도 순식간에 회복하는 능력을 지니고 있다. 양어깨에 있는 머리는 각각 의식이 있으며 앞뒤, 좌우 모든 방향의 공격을 순식간에 감지해 본체인 케르베로스몬에게 전달한다. 필살기는 대지에 만든 「지옥의 문」을 열고 칠흑의 다크 에어리어에 상대를 밀어 떨어뜨리는 『인페르노 게이트』와 뜨겁게 타오르는 화염방사 『헬 파이어』다."
+      },
+      "wikimon_url": "https://wikimon.net/Cerberumon"
+    },
+    {
+      "id": "hippogriffo",
+      "name": "Hippogriffomon",
+      "name_jp": "Hippogriffomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "4200",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/hippogriffo/frame1.gif",
+        "frame2": "sprites/hippogriffo/frame2.gif"
+      },
+      "artwork": "sprites/hippogriffo/artwork.jpg",
+      "lore": {
+        "en": "A mythical beast Digimon which has the appearance of achimera. It is said it will become aGriffomonif it evolves, but the details are not clear. Its intelligence is not as high as Griffomon's, and since its being is closer to that of a beast, its personality is also ferocious. Its Special Move is spewing out an extremely high-temperature wind (Heat Wave).Digimon Reference Book⇨ English合成獣の姿をした幻獣デジモン。進化するとグリフォモンになると言われているが、詳しいことは判っていない。グリフォモンほど知性は高くなく、より獣に近い存在で、性格も獰猛である。必殺技は超高温の熱風を吐き出す『ヒートウェーブ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Hippogriffomon"
+    },
+    {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "name_jp": "Digitamamon",
+      "name_ko": "디지타몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5300",
+        "hp": "4200",
+        "ap": "1610"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/digitama/frame1.gif",
+        "frame2": "sprites/digitama/frame2.gif"
+      },
+      "artwork": "sprites/digitama/artwork.jpg",
+      "lore": {
+        "en": "The ultimate Digimon which has the appearance of a \"Digitama\", the beginning and end of all Digimon. It is said that Digitamamon, who is at the apex of evolution, will not evolve from normal Digimon, and will never evolve unless it fuses with data from another dimension. It is covered in an egg-shaped exoskeleton that renders all attacks meaningless. Its Special Moves are destroying the enemy's spirit (Enigma) and an orb of darkness (Nightmare Syndrome). All Digimon who suffer these attacks have their vital functions brought to a halt.Digimon Reference Book⇨ Englishすべてのデジモンの始まりであり、終わりである“デジタマ”の姿をした究極のデジモン。進化の頂点にいるこのデジタマモンは通常のデジモンからは進化することは無く、別次元のデータと融合しないと決して進化することは無いと言われている。タマゴのような形をした外骨格に覆われており、この外骨格の前には全ての攻撃が無意味と化す。必殺技は敵の精神を破壊してしまう『エニグマ』と暗黒の球体『ナイトメアシンドローム』。これらの攻撃を受けると、すべてのデジモンは生命活動を停止してしまう。デジモン図鑑",
+        "ko": "모든 디지몬의 시작이자 끝인 \" 디지타마 \"의 모습을 한 궁극의 디지몬 . 진화의 정점 에 있는 이 디지타몬은 통상의 디지몬에서는 진화하는 일은 없고, 다른 차원의 데이터와 융합하지 않으면 결코 진화하는 일은 없다고 알려져 있다. 달걀처럼 생긴 외골격으로 덮여 있어 이 외골격 앞에는 모든 공격이 무의미해진다. 필살기는 적의 정신을 파괴해 버리는 ‘에니그마 [7] ’와 암흑의 구체 ‘나이트메어 신드롬 [8] ’. 이 공격들을 받는 모든 디지몬은 생명활동을 정지해 버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Digitamamon"
+    },
+    {
+      "id": "matadr",
+      "name": "Matadrmon",
+      "name_jp": "Matadrmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6200",
+        "hp": "4600",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/matadr/frame1.gif",
+        "frame2": "sprites/matadr/frame2.gif"
+      },
+      "artwork": "sprites/matadr/artwork.jpg",
+      "lore": {
+        "en": "A bloodsucking martial artist Digimon that performs a magnificent dance. It is said that it was born from the folk-dance database of a certain museum, and that it has mastered the unique steps of the \"Bulldog\". It uses its fluttering garment to deceive the opponent, and when the opponent drops its guard from a glance at the soft-colored cloth, it falls upon them with the countless rapiers stocked on its arms. Because it is a vampire, it can't survive unless it sucks a Digimon's blood, but as not just anyone will do, it seeks only the blood of strong Digimon and seems to constantly be moving from place to place. Its Special Moves are its \"Thousand Arrow\", unleashed from rapiers stocked on its arms, and a mighty kicking technique drawn from its unique martial art, the \"Bulldog\" (Chouzetsu Rappashū).Digimon Reference Book⇨ English華麗な舞を踊る、吸血武闘家デジモン。とある博物館の民族舞踊データベースから生まれたといわれ、舞の動きを独自にアレンジした「武舞独繰（ブルドック）」を極めているといわれる。ヒラヒラした衣装は敵を欺くために使われ、一見すると柔らかな布に油断した敵に両腕に仕込んだ無数のレイピアが襲い掛かる。吸血鬼なのでデジモンの血を吸わなければ生きていくことは出来ないが、誰でも良いわけではなく、強いデジモンの血のみ求めて各地を転々としているらしい。必殺技は、腕に仕込んだレイピアから繰り出される『サウザンドアロー』と、「武舞独繰」独自の体術から繰り出される強烈な蹴り技『蝶絶喇叭蹴（ちょうぜつらっぱしゅう）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Matadrmon"
+    },
+    {
+      "id": "mephis",
+      "name": "Mephismon",
+      "name_jp": "Mephismon",
+      "name_ko": "메피스몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "4200",
+        "ap": "1610"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/mephis/frame1.gif",
+        "frame2": "sprites/mephis/frame2.gif"
+      },
+      "artwork": "sprites/mephis/artwork.jpg",
+      "lore": {
+        "en": "A Fallen Angel Digimon which has the appearance of a giant male goat. It is also a dark being born from the lingering thought-data of anApocalymonthat attempted to destroy all life. Like Apocalymon, its governing principle is the extermination of all life. It specializes in the black magic of the Dark-species, and its personality is endlessly cruel. However, it is highly intelligent, and is also a tactician. Its Signature Move \"Black Sabbath\" is a dark incantation in which it prays for a festival of death. Those who hear this spell will soon die. Its Special Move is generating a cloud of darkness which causes everything to decay (Death Cloud).Digimon Reference Book⇨ English巨大な雄山羊の姿をした堕天使型デジモン。全ての生命を滅亡せんとしたアポカリモンの残留思念データから産まれた闇の存在でもある。その行動原理はアポカリモンと同じく、あらゆる生命の殲滅にある。暗黒系の魔術を得意とし、その性格は残虐極まりない。しかし、知性が高く、策士家でもある。得意技の『ブラックサバス』は死の祝祭を祈祷する暗黒の呪文。この呪文を耳にした者は程なく死に至る。必殺技は全てを腐食させる暗黒の雲を発生させる『デスクラウド』。デジモン図鑑",
+        "ko": "거대한 숫염소의 모습을 한 타천사형 디지몬. 모든 생명을 멸망시키려 했던 아포카리몬 의 잔류 사념 데이터에서 생겨난 어둠의 존재이기도 하다. 이러한 행동은 아포카리몬과 마찬가지로 모든 생물의 멸망을 바라기 때문이다. 암흑 계열의 마술에 능하며 성격은 잔학무도하다. 하지만 지성이 높은 책략가이기도 하다. 필살기는 『블랙 사바스』는 죽음의 축제를 기도하는 암흑 주문이다. 이 주문을 들은 사람은 머지않아 죽음에 이른다. 또한, 모든 것을 부식시키는 암흑의 구름을 생성하는 『데스 클라우드』도 있다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Mephismon"
+    },
+    {
+      "id": "pheles",
+      "name": "Phelesmon",
+      "name_jp": "Phelesmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "6000",
+        "hp": "4200",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/pheles/frame1.gif",
+        "frame2": "sprites/pheles/frame2.gif"
+      },
+      "artwork": "sprites/pheles/artwork.jpg",
+      "lore": {
+        "en": "A Fallen Angel Digimon shaped like an aristocrat. In exchange for granting someone their desires, it is said that it will snatch away their soul. It is said that it is aBoogiemonthat advanced and evolved, but the details are still uncertain. Its Signature Move is changing the opponent into a black stone statue (Black Statue). Its Special Move is driving the enemy to insanity with a curse-filled shout (Demon's Shout).Digimon Reference Book⇨ English貴族のような姿の堕天使型デジモン。人の願い事をかなえる換わりに、魂を奪うと言われている。ブギーモンが出世して進化すると言われているが、詳しい事は未だ不明である。得意技は、相手を黒い石像に変えてしまう『ブラックスタチュー』。必殺技は、呪いのこもった叫び声で敵を狂わせてしまう『デーモンズシャウト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Phelesmon"
+    },
+    {
+      "id": "olea",
+      "name": "Oleamon",
+      "name_jp": "Oleamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5550",
+        "hp": "4800",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/olea/frame1.gif",
+        "frame2": "sprites/olea/frame2.gif"
+      },
+      "artwork": "sprites/olea/artwork.jpg",
+      "lore": {
+        "en": "An Insectivorous Plant Digimon confirmed to inhabit the forest regions of theDigital World. The scent emitted from its flower lures Insect Digimon in particular. It wraps its tongue around prey entranced by its scent to taste them, and then preys on them with its \"Jameal\", in which it spreads its petals wide. The Digimon that it preys upon are slowly digested and become its nourishment. Oleamon, who mingles with and lives among other Plant Digimon, is a very terrifying being to Insect Digimon that coexist in the same area.Its \"Leaf Red\", wherein it uses its poisonous leaves, which function as its hands, is a Signature Move where it sends them flying or bundles them together to form a blade to wield freely.Digimon Reference Book⇨ Englishデジタルワールドの森林地帯に生息が確認された食虫植物型デジモン。花から発する香りは特に昆虫型デジモンを誘惑する。香りに酔った獲物に舌をからめて味見をして、花弁を大きく拡げた『ジャミール』で捕食する。捕食されたデジモンはゆっくり消化され養分となっていく。他の植物型デジモンに混じり生息するオウリアモンは、同じ地域で共生する昆虫型デジモンにとって、とても恐ろしい存在である。手となっている毒葉を使う『リーフレッド』は飛ばしたり、束ねると刃となり自在に振るう得意技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Oleamon"
+    },
+    {
+      "id": "baste",
+      "name": "Bastemon",
+      "name_jp": "Bastemon",
+      "name_ko": "바스테몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "4600",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/baste/frame1.gif",
+        "frame2": "sprites/baste/frame2.gif"
+      },
+      "artwork": "sprites/baste/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon also referred to as the \"Goddess of Cats\". It loves to be showy and has a sly personality, and its specialty is using its charmingly sparkling eyes and the jewels worn all over its body to bewitch the opponent, allowing it to manipulate them as it desires. Most fall victim to Bastemon'sglamour, causing them to be completely eviscerated. Although it excels in nimbleness with its flexible movements, it is also powerful despite its appearance, and the claws on its hands are sharp enough to cut even rocks to pieces. It is said to be at loggerheads withNefertimon, who is an avatar of light. Its Special Moves are beguiling the opponent with the bewitching charms of its belly dance (Helter Skelter), and getting close to the opponent while dancing, then sucking out all the blood in their body, down to the last drop (Vampire Dance).Digimon Reference Book⇨ English猫の女神と言われる獣人型デジモン。派手好きでずる賢い性格を持ち、体中にまとった宝石と妖しく輝く瞳で敵を幻惑し相手を思い通りに操るのが得意。大抵はバステモンの魅力の虜となり、骨抜きにされてしまう。しなやかな動きで敏捷性に優れているが見た目に反して力もあり、両手の鉤爪は岩をも切り裂く鋭さがある。光の化身であるネフェルティモンとは犬猿の仲と言われている。必殺技は、妖しい魅惑のベリーダンスで敵を混乱させ操る『ヘルタースケルター』と、踊りながら相手に近づき体中の血液を一滴残らず吸い取る『ヴァンパイアダンス』。デジモン図鑑",
+        "ko": "고양이 여신이라고 불리는 수인형 디지몬. 화려한 것을 좋아하고 약삭빠른 성격이며 특기는 온몸에 휘감은 보석과 신비롭게 빛나는 눈동자로 적을 현혹해 자기 뜻대로 조종하는 것이다. 대부분 바스테몬의 매력에 사로잡혀 정신을 못 차리게 된다. 부드럽고 탄력 있는 움직임 덕분에 민첩성이 뛰어나며, 겉모습과 달리 힘도 세고 양손의 갈고리발톱은 바위를 가를 정도로 날카롭다. 빛의 화신인 네페르티몬과는 앙숙이라고 한다. [1] 필살기는 신비롭고 매혹적인 밸리 댄스로 적을 혼란시켜 조종하는 『헬터 스켈터』와 춤추면서 상대에게 다가가 온몸의 혈액을 한 방울도 남기지 않고 빨아들이는 『뱀파이어 댄스』다."
+      },
+      "wikimon_url": "https://wikimon.net/Bastemon"
+    },
+    {
+      "id": "diarbbit",
+      "name": "Diarbbitmon",
+      "name_jp": "Diarbbitmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6300",
+        "hp": "5300",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/diarbbit/frame1.gif",
+        "frame2": "sprites/diarbbit/frame2.gif"
+      },
+      "artwork": "sprites/diarbbit/artwork.jpg",
+      "lore": {
+        "en": "An astute Beast Knight Digimon that protects the nature-rich land inhabited by many Beast Digimon. It has a gentle personality and prefers spending its time quietly while interacting with the Digimon around it. If an enemy that threatens the land appears, it will draw its two cherished swords, \"Móralltach\" and \"Beagalltach\", and drive the enemy back with its nimble movements. Even though Diarbbitmon is usually well-mannered, it will invoke its rage against those who ravage the land, and chop them up until not even a trace of them remains, and will also keep pursuing their allies until they are annihilated.Its Special Moves are slashing the enemy with its unrestrained swordsmanship (Trusgain), and summoning two magic spears which home in on them (Buidhedearg). In addition, it also cuts off the enemy's path of retreat with its \"Buck Strash\", in which it minces the enemy as it leaves behind high-speed afterimages in all directions around them.Digimon Reference Book⇨ English多くの獣型デジモンが生息する自然豊かな大地を守護する頭脳明晰な獣騎士型デジモン。穏やかな性格で周りのデジモンと触れ合いながら静かに過ごすことを好む。そんな大地を脅かす敵が現れれば2本の愛剣「モラルタ」と「ベガルタ」を抜き素早い動きで敵を撃退する。大地を酷く荒らす者には、普段は紳士的なディルビットモンでも激憤を呼び痕跡すら残さぬまで斬り刻み、その仲間も消滅するまで追い続ける。必殺技は、無涯の太刀筋で敵に斬りこむ『トラスゲイン』と、2本の魔槍を召喚し自動追尾する『ボルジャーグ』。さらに敵を中心に全方位に高速残像を残しながら斬り刻む『バックストラッシュ』で敵の退路も断つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Diarbbitmon"
+    },
+    {
+      "id": "mars",
+      "name": "Marsmon",
+      "name_jp": "Marsmon",
+      "name_ko": "마르스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6250",
+        "hp": "5200",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/mars/frame1.gif",
+        "frame2": "sprites/mars/frame2.gif"
+      },
+      "artwork": "sprites/mars/artwork.jpg",
+      "lore": {
+        "en": "A member of the enigmatic \"Olympos XII\", it is a Digimon \"God of War\" with the appearance of apanther-man. The Olympos XII lie in the shadows and possess ability rivaling that of the guardian deities of theNet, the \"Royal Knights\", and each protects its own domain while maintaining a position of neutrality regarding the incidents which arise in theDigital World. Marsmon is well-versed in all sorts of combat techniques known throughout the world, including underhanded techniques, and has absolute confidence in battles against others in the same weight class. While Marsmon typically uses wrestling techniques, it is so fixated on victory and glory that when push comes to shove, it will not hesitate to use concealed weapons such as its \"Tria Knuckle\" or \"Metal Cothurnus\". However, its true power is exhibited when it uses its bare hands and feet. Its Special Move is a magnificent aerial assault performed while clad in flames (Corona Sanctions).Digimon Reference Book⇨ English謎の集団“オリンポス十二神族”の一人で、豹人の姿をした軍神デジモン。オリンポス十二神族達はネットの守護神“ロイヤルナイツ”に匹敵する能力を持ち、互いの領域を守りつつデジタルワールドで起きた事変には中立の立場を守ってきた影の存在であった。マルスモンは世界中の反則技を含む全ての格闘技に通じ、同体重同士の一対一での戦闘には絶対の自信を持っている。基本的にはレスリング系の技を用いるが、勝利と栄光に強くこだわるマルスモンは、いざともなればためらうことなくトリアナックルやメタルコルトノスの隠し武器も使う。しかし、真のパワーが発揮されるのは素手・素足になってから。必殺技は炎をまとった華麗な空中殺法『コロナサンクションズ』。デジモン図鑑",
+        "ko": "수수께끼의 집단 \" 올림푸스 12신 족\"의 일원으로 표범인간의 모습을 한 군신 디지몬. 올림푸스 12신족들은 네트워크의 수호신 \" 로얄 나이츠 \"에 필적하는 힘을 지녔으며, 그들과 같은 영역을 수호하나 디지털 월드 에 사건이 발생하면 중립을 지키려 하는 음지의 존재들이다. 마르스몬은 반칙기술을 포함해 세계에 존재하는 모든 격투기에 통달했으며, 같은 체급의 1대1 결투에 대단한 자신감을 지니고 있다. 기본적으론 레슬링 계열의 기술을 사용하나, 승리의 영광에 집착하는 마르스몬은 종종 궁지에 몰리면 숨겨진 무장을 사용하는 것도 주저치 않는다. 하지만, 진정한 파워를 발휘할 수 있는 분야는 맨손맨발을 사용할 때이다. 필살기는 불꽃에 휘감긴 채 사용하는 화려한 공중살법 \"코로나 생션즈\". [1]"
+      },
+      "wikimon_url": "https://wikimon.net/Marsmon"
+    },
+    {
+      "id": "pluto",
+      "name": "Plutomon",
+      "name_jp": "Plutomon",
+      "name_ko": "플루토몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6200",
+        "hp": "5000",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/pluto/frame1.gif",
+        "frame2": "sprites/pluto/frame2.gif"
+      },
+      "artwork": "sprites/pluto/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that defeats evil with terror and violence, and governs the realm of the dead. It wanders the world pursuing criminals or villains who deserve to fall into the realm of the dead, and it is said that if it detects prey, Plutomon appears wrapped up in a deep darkness. Plutomon, who finds joy only in chewing the wicked, has mouths lined with sharp fangs throughout its body, and the mouths make a chattering sound in want of prey. It is feared even by good Digimon for this oddity.Plutomon's techniques have the ferocity to cast any villain into the realm of the dead, and one of them, \"Hell's Gate\", causes a gigantic mouth to appear from the darkness and swallows villains whole, disassembling those who have been swallowed into scraps of fragmented data. Its \"Haggard Cluster\", in which it bares the fangs on its chest and releases from them a pitch-black darkness, absorbs all substances and vaporizes everything. In addition, \"Chaos Rights\", which Plutomon invokes once it gets too engrossed in battle, is the peak of its frenzy; it chews the enemy with the mouths all over its body, devouring data with each bite, giving it the very image of a terrifying predator.Although it shares its goal of punishing evil withJupitermon, who belongs to theOlympos XII, Jupitermon does not approve of Plutomon's cruelty, and it's said that there's always been a longstanding discord between the two.Digimon Reference Book⇨ English恐怖と暴力をもって悪を討つ、冥界を統べるデジモン。冥界に堕ちるに相応しい罪人や悪人を求めて世界を流浪し、獲物を見つければ一面を濃い闇に包みプルートモンは現れるという。悪人を咀嚼することだけに悦びを見出すプルートモンは体中に鋭い牙の並んだ口を持ち、その口は獲物を求めてガチガチと音を立ている。その異様さに善良なデジモンからも恐れられている。プルートモンの持つ技はどれも悪人を冥界に突き落とす凶悪さを秘めており、技の１つ「ヘルズゲート」は闇より巨大な口を出現させて悪人を丸飲みにし、飲み込んだ相手を断片化されたデータの屑にまで分解してしまう。胸の牙を解放し黒き闇を解き放つ「ハガードクラスター」は、あらゆる物質も吸い込み全てを蒸発させていく。そしてプルートモンが戦いに熱中するあまり発動させてしまう「ケイオスライツ」は狂暴の極みであり、体中の口で敵に噛みついては一咬みごとにデータをむさぼり喰う姿となり、おぞましき捕食者の様である。悪を罰するという目的ではオリンポス十二神に属するユピテルモンと共通するが、その残虐さにユピテルモンは認めておらず、互いは長きに渡る険悪な状態が続いているという。デジモン図鑑",
+        "ko": "공포와 폭력으로 악을 공격하는, 명계 를 총괄하는 신인형 디지몬. 명계에 떨어질만 한 죄인이나 악인을 찾아 세계를 유랑하며 먹이를 보면 일면을 짙은 어둠으로 감싸면서 플루토몬은 나타난다고 한다. 악인을 물어뜯는 일에서만 기쁨을 느끼는 플루토몬은 온몸에 날카로운 송곳니가 늘어선 입을 가지고, 그 입은 사냥감을 요구하며 딱딱 소리를 내고있다. 그 이상함에 선량한 디지몬도 두려워하고 있다. 플루토몬이 가진 기술은 모두 악인을 명계에 밀어내는 흉악함을 숨기고 있으며, 기술 중 하나인 「 헬 즈 게이트」 [1] 는 어둠보다 거대한 입을 출현시켜 악인을 통째로 삼키고 삼킨 상대를 단편화된 데이터의 쓰레기로 분해해 버린다. 가슴의 송곳니를 해방해 검은 어둠을 풀어내는 「해거드 클러스터」는, 모든 물질을 빨아들여 모든 것을 증발시켜 나간다. 그리고 플루토몬이 싸움에 열중하다 발동시켜 버리는 「 케이오스 라이츠」는 광폭의 극치이며, 온몸의 입으로 적을 물어서 한 번 물을 때마다 데이터를 탐식하는 모습이 되어, 끔찍한 포식자의 형상이 된다. 악을 벌한다는 목적은 올림푸스 12신 에 속하는 유피테르몬 과 같지만 그 잔학함에 유피테르몬은 인정하지 않고, 서로 긴 세월에 걸쳐 험악한 상태가 계속되고 있다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Plutomon"
+    },
+    {
+      "id": "granddracu",
+      "name": "Grand Dracumon",
+      "name_jp": "Grand Dracumon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6400",
+        "hp": "6000",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/granddracu/frame1.gif",
+        "frame2": "sprites/granddracu/frame2.gif"
+      },
+      "artwork": "sprites/granddracu/artwork.jpg",
+      "lore": {
+        "en": "A Demon Beast Digimon that is considered the king of vampire Digimon. It has kept acastlein theDark Areasince ancient times, and it boasts of such power that even theSeven Great Demon Lordscannot interfere with it. It has a gentlemanly demeanor, and because of the \"Charm\" effect within the voice Grand Dracumon exudes, there have been anecdotes that it has led many of the Angel Digimon who have come to subdue it intofalling down. It is told that it possesses an undying body, and although it is said that it is connected to the details of how the Dark Area came to be within the Digital World, or that it knows the truth of the mysterious evolution, \"Death-X\", because it's not an easy feat to even reach its castle in the first place, it can only be said that questioning it about these mysteries would be extremely difficult. Its Special Moves are instantly transforming all of the opponents into ice crystals (Crystal Revolution), and anevil eyethat imprisons within darkness the hearts of the opponents that gaze at it (Eye of the Gorgon).Digimon Reference Book⇨ English吸血鬼デジモンの王と黙される魔獣デジモン。古くからダークエリアに城を構え、かの七大魔王といえども手出しすることができないほどの強さを誇るといわれる。物腰は紳士的であり、グランドラクモンの発する声には「魅了」の効果もある為、討伐に出た天使デジモンを何体もフォールダウン（堕天）させたこともある逸話を持つ。死なない体を持っていると伝承されており、デジタルワールドにダークエリアが生まれる経緯に関係しているとか、謎の進化「Death-X（デクス）」の真相を知っていると言われているが、彼の城まで辿りつくこと自体困難であるため、この謎を彼に問いただすのは非常に困難であると言うしかない。必殺技はあらゆる敵を瞬時に氷の結晶体へと変える『クリスタルレボリューション』と、見据えた相手の心を闇のとりこにしてしまう邪眼『アイオブザゴーゴン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Grand_Dracumon"
+    },
+    {
+      "id": "pie",
+      "name": "Piemon",
+      "name_jp": "Piemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6700",
+        "hp": "5000",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/pie/frame1.gif",
+        "frame2": "sprites/pie/frame2.gif"
+      },
+      "artwork": "sprites/pie/artwork.jpg",
+      "lore": {
+        "en": "A strange-looking and elusive Demon Man Digimon that is completely shrouded in mystery. Demon Man Digimon have many mysterious qualities, and since Demon- and Undead-species are basically beings from another dimension, their true forms are not totally understood. Why it appeared, and the purpose of its existence are also unclear; there are currently no means of clarifying those questions. However, its strength is without equal, and if you happen to stumble across Piemon, you probably won't be able to do anything but curse your fate. Its Special Move is an inescapable technique in which it teleports the four swords that pierce the \"Magic Box\" on its back, causing them to skewer the opponent in the following instant (Trump Sword).Digimon Reference Book⇨ English奇抜な姿と神出鬼没な、全てが謎に包まれている魔人型デジモン。魔人型のデジモンは謎の部分が多く、悪魔系や、アンデット系とはまったく別次元的な存在で、正体はまったくの不明である。何の為に出現したのか、その存在目的も不明であり、それを解明する手段も現時点では無い。しかし、その力は強力無比であり、ピエモンと出会ってしまった場合は、己の運命を呪うしかないだろう。必殺技は背中の「マジックボックス」に突き立てた４本の剣をテレポートさせ、次の瞬間には敵を串刺しする脱出不可能な技『トランプ・ソード』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Piemon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bosa",
+      "to": "angora",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bosa",
+      "to": "dracu",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "symbareangora",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "siesa",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "dog",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "dracu",
+      "to": "dog",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "dracu",
+      "to": "sangloup",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "to": "publi",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "lamort",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "cerberu",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "cerberu",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dog",
+      "to": "cerberu",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "to": "hippogriffo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "hippogriffo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "dog",
+      "to": "digitama",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "publi",
+      "to": "digitama",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "sangloup",
+      "to": "matadr",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sangloup",
+      "to": "mephis",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "sangloup",
+      "to": "pheles",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "dog",
+      "to": "olea",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "sangloup",
+      "to": "olea",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "publi",
+      "to": "olea",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "baste",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 10 Cleared"
+      }
+    },
+    {
+      "from": "lamort",
+      "to": "diarbbit",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "cerberu",
+      "to": "diarbbit",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "baste",
+      "to": "diarbbit",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "to": "mars",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hippogriffo",
+      "to": "mars",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baste",
+      "to": "mars",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cerberu",
+      "to": "mars",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "mephis",
+      "to": "mars",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "olea",
+      "to": "mars",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "to": "pluto",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hippogriffo",
+      "to": "pluto",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "pluto",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "matadr",
+      "to": "pluto",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "olea",
+      "to": "pluto",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cerberu",
+      "to": "granddracu",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "matadr",
+      "to": "granddracu",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "pheles",
+      "to": "granddracu",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "mephis",
+      "to": "granddracu",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "hippogriffo",
+      "to": "pie",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "pie",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "pheles",
+      "to": "pie",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "mephis",
+      "to": "pie",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "pyon",
+      "to": "bosa",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

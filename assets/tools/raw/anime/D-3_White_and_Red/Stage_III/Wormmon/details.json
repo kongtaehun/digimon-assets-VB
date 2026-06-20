@@ -1,0 +1,77 @@
+{
+  "id": "worm",
+  "name": "Wormmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/worm.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/worm.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/worm.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "poro"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Wormmon",
+    "name_en": "Wormmon",
+    "attribute": "Free",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "3900",
+      "hp": "3000",
+      "ap": "1200"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "mino",
+        "name": "Minomon",
+        "conditions": "Stage 2 cleared, 5+ PP, 500+ Vital Values"
+      },
+      {
+        "id": "poro",
+        "name": "Poromon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "sting",
+        "name": "Stingmon",
+        "conditions": "Stage 4 cleared, 20+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "sting",
+        "name": "Stingmon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "hols",
+        "name": "Holsmon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "shuri",
+        "name": "Shurimon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

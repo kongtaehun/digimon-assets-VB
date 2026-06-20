@@ -1,0 +1,266 @@
+{
+  "id": "gabu_ex",
+  "name": "Gabumon EX",
+  "release": "JP: Mar 2021 - Retail (Set EX)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_gabu_ex.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_puni.gif",
+  "digimon": [
+    {
+      "id": "puni",
+      "name": "Punimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puni.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puni.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/puni.jpg"
+    },
+    {
+      "id": "tuno",
+      "name": "Tsunomon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tuno.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tuno.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tuno.jpg"
+    },
+    {
+      "id": "gabu",
+      "name": "Gabumon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gabu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gabu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gabu.jpg"
+    },
+    {
+      "id": "garuru",
+      "name": "Garurumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/garuru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/garuru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/garuru.jpg"
+    },
+    {
+      "id": "gori",
+      "name": "Gorimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gori.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gori.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gori.jpg"
+    },
+    {
+      "id": "dokugu",
+      "name": "Dokugumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dokugu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dokugu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dokugu.jpg"
+    },
+    {
+      "id": "algo_iv",
+      "name": "Algomon (Adult)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/algo_iv.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/algo_iv.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/algo_iv.jpg"
+    },
+    {
+      "id": "weregaruru",
+      "name": "Were Garurumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/weregaruru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/weregaruru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/weregaruru.jpg"
+    },
+    {
+      "id": "parrot",
+      "name": "Parrotmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/parrot.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/parrot.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/parrot.jpg"
+    },
+    {
+      "id": "valve",
+      "name": "Valvemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/valve.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/valve.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/valve.jpg"
+    },
+    {
+      "id": "bigmame",
+      "name": "Big Mamemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★5)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bigmame.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bigmame.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bigmame.jpg"
+    },
+    {
+      "id": "orochi",
+      "name": "Orochimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/orochi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/orochi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/orochi.jpg"
+    },
+    {
+      "id": "waruseadra",
+      "name": "Waru Seadramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/waruseadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/waruseadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/waruseadra.jpg"
+    },
+    {
+      "id": "cresgaruru",
+      "name": "Cres Garurumon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cresgaruru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cresgaruru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cresgaruru.jpg"
+    },
+    {
+      "id": "nidhogg",
+      "name": "Nidhoggmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/nidhogg.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/nidhogg.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/nidhogg.jpg"
+    },
+    {
+      "id": "metalgaruru",
+      "name": "Metal Garurumon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalgaruru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalgaruru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalgaruru.jpg"
+    }
+  ],
+  "evolution_edges": []
+}

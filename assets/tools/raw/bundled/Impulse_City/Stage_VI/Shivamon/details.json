@@ -1,0 +1,78 @@
+{
+  "id": "shiva",
+  "name": "Shivamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shiva.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shiva.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shiva.jpg",
+  "appearances": [
+    {
+      "dim_id": "ici",
+      "dim_name": "Impulse City",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "shoot",
+        "dive",
+        "climb"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shivamon",
+    "name_en": "Shivamon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "45 (★8)",
+      "hp": "16",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "shoot",
+        "name": "Shootmon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dive",
+        "name": "Divemon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "climb",
+        "name": "Climbmon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "pist",
+        "name": "Pistmon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "tempo",
+        "name": "Tempomon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "bout",
+        "name": "Boutmon",
+        "conditions": "Jogress with Data or Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

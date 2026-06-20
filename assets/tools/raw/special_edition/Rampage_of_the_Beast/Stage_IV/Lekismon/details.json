@@ -1,0 +1,68 @@
+{
+  "id": "lekis",
+  "name": "Lekismon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/lekis.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/lekis.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/lekis.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "gao",
+        "luna"
+      ],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Lekismon",
+    "name_en": "Lekismon",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "5500",
+      "hp": "3600",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "gao",
+        "name": "Gaomon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "luna",
+        "name": "Lunamon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "machgaoga",
+        "name": "Mach Gaogamon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "cresce",
+        "name": "Crescemon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

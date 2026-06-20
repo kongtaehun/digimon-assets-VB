@@ -1,0 +1,514 @@
+{
+  "schema_version": "1.0",
+  "id": "blitz_ex",
+  "name": "Blitzmon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Light)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_blitz_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "choro",
+      "name": "Choromon",
+      "name_jp": "Choromon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/choro/frame1.gif",
+        "frame2": "sprites/choro/frame2.gif"
+      },
+      "artwork": "sprites/choro/artwork.jpg",
+      "lore": {
+        "en": "A super-tiny Machine Digimon which has red eyes that act asphotosensors. The appearance of it moving around restlessly seems very cute, but because it is carrying nothing but a simple program that moves in reaction to bright lights, if its surroundings go dark it becomes completely unable to move. The reason why is not understood, but when it is in a good mood, it discharges electricity from the tip of its tail. Its Special Move is releasing iron grains to cause temporary disorder in the opponent'sAI(Jamming Powder). It flees while the opponent is confused by this technique.Digimon Reference Book⇨ English光センサーになっている赤い目を持つ超小型のマシーンデジモン。ちょこまかと動き回る姿はとても可愛らしいが、明るい光に反応して動き回る単純なプログラムしか持ち合わせていないため、周りが暗くなると動くことが出来なくなってしまう。なぜか分からないが機嫌の良いときは尻尾の先から電気を放電させている。持ち技は鉄の粒子を放出して敵のAI(人工知能)を一時的に混乱させる『ジャミングパウダー』。この技で敵が混乱している間に逃げ出してしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Choromon"
+    },
+    {
+      "id": "capri",
+      "name": "Caprimon",
+      "name_jp": "Caprimon",
+      "name_ko": "카프리몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/capri/frame1.gif",
+        "frame2": "sprites/capri/frame2.gif"
+      },
+      "artwork": "sprites/capri/artwork.jpg",
+      "lore": {
+        "en": "A tiny Baby Digimon wearing a metallic helmet. Within the two horns attached to its helmet, it has antennae that are able to receive any radio wave or sound. Caprimon has bat-like traits such as having weak eyesight, instead producing ultrasonic waves from its mouth to detect objects ahead of it based on the rebounding sound waves. For that reason, Caprimon is able to remain active regardless of whether it is day or night. Its technique is generating a resonance between its two horns (Howling Hertz); even a large Digimon will have their sense of hearing paralyzed if they suffer this technique.Digimon Reference Book⇨ English金属性のヘルメットを被った小型の幼年期デジモン。ヘルメットに付いている２本の角の中にはあらゆる電波や音を受信できるアンテナを持っている。カプリモンは視力が弱く、口から超音波を出して、戻ってくる音波で前方の対象物を認識する、コウモリのような特性を持っている。そのために、カプリモンは昼夜関係無く行動することができる。持ち技は、２本の角を共振させて発生する『ハウリングヘルツ』。この技を受けると大型デジモンでも聴覚がマヒしてしまう。デジモン図鑑",
+        "ko": "금속성의 헬멧을 쓴 소형 유년기 디지몬. 헬멧에 붙어 있는 2개의 뿔 안에 모든 전파와 소리를 수신할 수 있는 안테나를 지니고 있다. 카프리몬은 시력이 나빠서 입으로 초음파를 내보낸 후 돌아오는 음파로 전방의 대상물을 인식하는 박쥐 같은 특성을 지니고 있다. 그렇기에 카프리몬은 낮과 밤 모두 활동할 수 있다. 지닌 기술은 2개의 뿔을 공진시켜 만드는 『하울링 헤르츠』다. 이 기술에 당하면 대형 디지몬도 청각이 마비된다."
+      },
+      "wikimon_url": "https://wikimon.net/Caprimon"
+    },
+    {
+      "id": "kokabuteri",
+      "name": "Kokabuterimon",
+      "name_jp": "Kokabuterimon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/kokabuteri/frame1.gif",
+        "frame2": "sprites/kokabuteri/frame2.gif"
+      },
+      "artwork": "sprites/kokabuteri/artwork.jpg",
+      "lore": {
+        "en": "A small-built but very strong Insect Digimon. It has a large horn and forefeet, and it is feared in its surroundings, but really it hates fighting and has a gentle personality. However, it is considerably strong, and it appears to have lifted aTortamonin the experiment of a certain research institution. Its Special Moves are scooping up the opponent and jettisoning them with its prided horn (Scoop Smash) and lunging from its large forefeet (Beetle Lariat).Digimon Reference Book⇨ English小柄だが、とても力持ちな昆虫型デジモン。大きなツノと前足を持っており、周囲からは恐れられているが、実は争いを好まない温和な性格の持ち主である。但し、力は相当強く、とある研究機関の実験でトータモンを持ちあげたこともあるらしい。必殺技は自慢のツノで敵をすくい上げて弾き飛ばす『スクープスマッシュ』と大きな前足から繰り出す『ビートルラリアット』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kokabuterimon"
+    },
+    {
+      "id": "kokuwa",
+      "name": "Kokuwamon",
+      "name_jp": "Kokuwamon",
+      "name_ko": "코쿠와몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/kokuwa/frame1.gif",
+        "frame2": "sprites/kokuwa/frame2.gif"
+      },
+      "artwork": "sprites/kokuwa/artwork.jpg",
+      "lore": {
+        "en": "A very unusual Insect Mecha-Digimon that was recently discovered. Insect Mecha-Digimon had not been discovered until now, and their existence itself was never even imagined. It is best not to carelessly approach it, as it will discharge 1 MV of electricity from thestun gun-shaped head and arms it possesses if it senses danger. However, it has not an aggressive personality, but a docile personality which seeks tranquility. Electricity acts as its source of nutrients, and it charges electric power with its two middle limbs. Its Special Move is discharging electricity from the pincers on both of its arms and cutting through even solid objects (Scissor Arms Mini).Digimon Reference Book⇨ English新たに発見された非常に珍しい昆虫型のメカデジモン。昆虫型メカデジモンは今まで発見されておらず、その存在自体も考えられていなかった。スタンガン状の頭部と両腕を持ち、危険を察知すると１００万ボルトの電気を放電させるため、うかつに近寄れない。しかし、攻撃的な性格ではなく、平穏を求めるおとなしい性格である。電気を栄養源としており真ん中の２肢で電力を充電する。必殺技は両腕の鋏を放電させて硬いものでも切り裂いてしまう『シザーアームズミニ』。デジモン図鑑",
+        "ko": "새롭게 발견된 매우 드문 곤충형의 메카 디지몬. 이 디지몬의 발견전까지는 곤충형 메카 디지몬은 발견되지 않았고, 그 존재 자체도 생각할 수 없었다. 스턴건 모양의 머리 부분과 양팔을 가져, 위험을 감지하면 100만 볼트 [3] 의 전기를 방전시키기 때문에 함부로 접근할 수 없다. 그러나, 공격적인 성격이 아니고 평온을 요구하는 점잖은 성격이다. 전기를 영양원으로 하고 있어 팔 아래의 두 개의 A 타입 플러그로 전력을 충전한다. 필살기는 양 손의 집게를 방전시켜 단단한 것도 잘게 잘라버리는 \"시저암 미니\"."
+      },
+      "wikimon_url": "https://wikimon.net/Kokuwamon"
+    },
+    {
+      "id": "blitz",
+      "name": "Blitzmon",
+      "name_jp": "Blitzmon",
+      "name_ko": "블리츠몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/blitz/frame1.gif",
+        "frame2": "sprites/blitz/frame2.gif"
+      },
+      "artwork": "sprites/blitz/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Thunder which bears the might of one of the legendaryTen Warriors. Its keen movements, unbecoming of its large build, are a technique to form a high voltage current running throughout its body. It generates a special magnetic field that produces ananti-gravitystate in its vicinity, and is capable of high-speed movement. Its overflowing thunder power comes out as sparks from various parts of its body, and although Blitzmon looks mechanical, its personality is, in contrast, expressive and human. Its language istrollish, but it additionally conveys excess warmth. In battle, its underwater mobility is weak due to the nature of its wrestler-like style. Its Special Moves are clasping its hands together, then dynamically swinging them down (Thor Hammer), and making lightning fall from the sky like rain (Mjölnir Thunder).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、雷の能力を持つデジモン。巨体に似合わぬ俊敏な動きは体内を駆け巡る高圧電流の為せる技。特殊な磁場を発生させて反重力に近い状況を作り、高速移動を可能にする。あふれんばかりの雷の力は身体の各所で火花となって現われ、ブリッツモンを機械的に見せるが、性格は反対に表情豊かで人間的。言葉使いも荒っぽいが、それも余計に暖かさを感じさせる。戦いにおいてはレスラー的なスタイルで性質上水中での行動は苦手。必殺技は両手を握り合わせ、豪快に振り下ろす『トールハンマー』と、天空から稲妻を雨のように降らせる『ミョルニルサンダー』。デジモン図鑑",
+        "ko": "전설 10투사의 힘이 깃든 천둥의 능력을 지닌 디지몬. 거구에 어울리지 않게 움직임이 민첩한 이유는 체내에 흐르는 고압 전류를 만들어내는 기술이 있기 때문이다. 특수한 자기장을 발생시켜 반중력에 가까운 상황을 만들어 고속으로 이동할 수 있다. 넘칠 듯한 천둥의 힘은 신체 각 부위에서 불꽃으로 나타나기에 블리츠몬이 기계처럼 보이지만, 성격은 반대로 표정이 다양하고 인간적이다. 거친 말투에서도 쓸데없이 따뜻함이 느껴진다. 싸울 때는 레슬러 같은 모습이며 성질상 물속에서 행동하기는 어렵다. 필살기는 양손을 맞잡고 호쾌하게 내려치는 『토르 해머』와 하늘에서 번개를 비처럼 내리게 하는 『묠니르 썬더』다. 슬라이드 에볼루션 시 보르그몬 이 되며, 십투사 원형은 에인션트비트몬 ."
+      },
+      "wikimon_url": "https://wikimon.net/Blitzmon"
+    },
+    {
+      "id": "thunderball",
+      "name": "Thunderballmon",
+      "name_jp": "Thunderballmon",
+      "name_ko": "번개콩알몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/thunderball/frame1.gif",
+        "frame2": "sprites/thunderball/frame2.gif"
+      },
+      "artwork": "sprites/thunderball/artwork.jpg",
+      "lore": {
+        "en": "Also known as the \"Digimon Dynamo\", this Mutation Digimon is conjectured to be a member of theMamemon-species. Its tiny body has the properties of a magnet, and is always clad in electricity and discharging lightning. When under enemy attack, it fires spheres of discharged electricity at as much as 10 MV towards them (Thunder Ball).Digimon Reference Book⇨ English“デジモン発電機”とも呼ばれ、マメモン系の一種と推測されている突然変異型デジモン。小さな体は磁石の性質を持ち、常に電気をまとって放電している。攻撃してくる敵には１０００万ボルトにもなる放電球を発射する『サンダーボール』。デジモン図鑑",
+        "ko": "\"디지몬 발전기\"라고 불리는 콩알몬계의 일종이라고 추측되고 있는 돌연변이형 디지몬. 작은 몸은 자석의 성질을 가져서 전기를 휘감고 방전하고 있다. 공격해 오는 적에게 1000만 볼트나 되는 고전압의 방전구를 발사하는 \"썬더 볼\"."
+      },
+      "wikimon_url": "https://wikimon.net/Thunderballmon"
+    },
+    {
+      "id": "mercure",
+      "name": "Mercuremon",
+      "name_jp": "Mercuremon",
+      "name_ko": "머큐레몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/mercure/frame1.gif",
+        "frame2": "sprites/mercure/frame2.gif"
+      },
+      "artwork": "sprites/mercure/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Steel which bears the might of one of the legendaryWarrior Ten. It acts as an advisor among theEvil Warriors, to whom it imparts its wisdom. Due to its aristocratic tendencies, it often obsesses over making sure things are done to its liking; this obsession carries over into battle, where it explains its tactics and the splendor of the equipment it uses one by one. While its brilliant mind allows it to come up with various strategies, at the same time, it often ends up arguing with itself in a fast-paced soliloquy because of it. The powerful mirrors on both of its arms are referred to as theIrony no Tate, and they reflect any damage dealt to it by the opponent's attacks back at the opponent. It also utilises a peculiar trick where it reflects itself in its mirror, then proceeds to enter the mirror and vanish without a trace. Its Special Moves are reflecting the opponent's attacks back at it with itsIrony no Tate(Generous Mirror), and reversing the properties of the opponent's attacks and offsetting them (Offset Reflector).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、鋼の能力を持つデジモン。悪の闘士の中では参謀格で知恵を授ける存在。貴族趣味で何かと自分の流儀にこだわる性質で、戦闘においてもこだわりは発揮され、自分の戦法や使用する武器の素晴らしさをいちいち説明したりする。同時に幾つもの作戦を思いつくほど頭の回転が速いため、いつも早口の独り言で議論をしたりもする。両腕の鏡は強力な“イロニーの盾”と呼ばれ、相手の攻撃で受けたダメージをそのまま返す。自分自身を鏡の中に映し、そのまま鏡に入って姿を消してしまう奇怪な技も使う。必殺技はイロニーの盾で相手の攻撃をそのまま跳ね返す『ジェネラスミラー』と、相手の攻撃の性質を反転させて相殺してしまう『オフセットリフレクター』。デジモン図鑑",
+        "ko": "전설의 10투사 의 힘을 내포한 강철의 능력을 사용하는 디지몬. 악의 투사중에서는 참모격으로 지혜를 하사하는 존재. 귀족같은 취미로 무엇인가 자신의 유파의 의식을 고집하는 성질로 전투에 대해서도 조건은 발휘되어, 자신의 전법이나 사용하는 무기의 훌륭함을 하나하나 설명하기도 한다. [1] 동시에 몇몇의 작전을 생각해내는 만큼 머리의 회전이 빠르기 때문에, 언제나 빠른말로 혼잣말을 해서 논의를 하고 있다. 양팔의 거울은 강력한 아이러니의 방패로 불리며, 상대의 공격을 그대로 돌려준다. [2] 자기 자신을 거울 안에 비추어 그대로 거울에 들어가 자취를 감추어 버리는 기괴한 기술도 사용한다. 필살기 는 아이러니의 방패 로 상대의 기술을 그대로 반사 하는 제네러스 미러와 한쪽의 방패로 공격을 흡수하고 다른쪽 방패로 공격을 내보내는 오프셋 리플렉터이다."
+      },
+      "wikimon_url": "https://wikimon.net/Mercuremon"
+    },
+    {
+      "id": "bladekuwaga",
+      "name": "Blade Kuwagamon",
+      "name_jp": "Blade Kuwagamon",
+      "name_ko": "블레이드쿠가몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/bladekuwaga/frame1.gif",
+        "frame2": "sprites/bladekuwaga/frame2.gif"
+      },
+      "artwork": "sprites/bladekuwaga/artwork.jpg",
+      "lore": {
+        "en": "An Insect-type Machine Digimon whose entire body has been weaponized. Although it is an Adult, it is a rare species whose whole body has been turned intoChrome Digizoid. It has a habit of reacting indiscriminately to anything that moves, and even Ultimate Digimon have been known to get pierced all over their bodies when attacked by a swarm of Blade Kuwagamon, killing them. Its Special Moves are turning into a blade of light and piercing with it (Spark Blade), and generating a vacuum wave (Air Knife).Digimon Reference Book⇨ English全身が凶器と化した昆虫タイプのマシーン型デジモン。成熟期にして、全身がクロンデジゾイド化されている希少種である。動くものに見境無く反応する習性があり、ブレイドクワガーモンの群れに襲われると究極体デジモンですら全身を貫かれ絶命することもあるという。必殺技は、光の刃となって貫く『スパークブレイド』と、真空波を生み出す『エアーナイフ』。デジモン図鑑",
+        "ko": "온몸이 흉기로 되어있는 곤충형태를 하고 있는 머신형 디지몬. 성숙기인데도 온몸이 크롬디지조이드화된 희귀종이다. 움직이는 것에 구별없이 반응하는 습성이 있어서 블레이드쿠가몬의 무리에 휩싸이면 궁극체 디지몬도 온몸이 관통되어 절명할 수도 있다. 필살기는 빛의 칼날이 되어 적을 꿰뚫는 스파크 블레이드와 진공파를 날리는 에어 나이프이다."
+      },
+      "wikimon_url": "https://wikimon.net/Blade_Kuwagamon"
+    },
+    {
+      "id": "rhinokabuteri",
+      "name": "Rhino Kabuterimon",
+      "name_jp": "Rhino Kabuterimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/rhinokabuteri/frame1.gif",
+        "frame2": "sprites/rhinokabuteri/frame2.gif"
+      },
+      "artwork": "sprites/rhinokabuteri/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Thunder that has transcended legend by inheriting all the might of one of the legendaryTen Warriorsand acquiring unknown abilities. It has such a gigantic body and a heavy shell that it could be mistaken for a Dinosaur. It has the ability to generate a special magnetic field with ultrahigh voltage electric current, and is able to freely manipulate it using its gigantic horn. Although rushing techniques are its specialty, it doesn't actually come into contact with the opponent, but instead tosses them away with that special magnetic field. Its Special Moves are dynamically wielding its horn and liberating all of the electricity accumulated within its body all at once, swallowing up the opponent in a lightning storm (Condenser Storm), and firing all the electricity accumulated in its horn like a laser (Thunder Laser).Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた雷の能力を持つデジモン。恐竜型と見違えんばかりの巨大な体と重甲殻を持つ。超高圧電流で特殊な磁場を発生させる能力を持ち、その巨大な角を使って自在に操ることが出来る。突進系の技が得意であるが、実際は敵に触れることなく、その特殊な磁場で敵を突き飛ばしている。必殺技は角を豪快に振り回して体内に蓄積した全電気量を一気に開放し、敵を稲妻の嵐で巻き込む『コンデンサストーム』と、角に集めた全電気量をレーザーの如く放つ『サンダーレーザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rhino_Kabuterimon"
+    },
+    {
+      "id": "bolg",
+      "name": "Bolgmon",
+      "name_jp": "Bolgmon",
+      "name_ko": "보르그몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/bolg/frame1.gif",
+        "frame2": "sprites/bolg/frame2.gif"
+      },
+      "artwork": "sprites/bolg/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Thunder which bears the might of one of the legendaryTen Warriors. It has a cautious and prudent personality because it was discovered in a defense system created in reference to theScarabtreasure chamber in the deepest part of apyramid. During battle, it patiently serves as a shield for its comrades using its sturdy armor and endures the opponent's attacks, but if it reaches its critical point it will go on an intense offensive with all of its gunports until even the opponent's form is reduced to nothing. Because its heavy weight lowers its mobility, it is basically the one in charge of logistical support. However, in close-range battles it obliterates the opponent with its various armaments. Its Special Moves are collecting and then firing all of its energy from both of its arms (Ultimate Thunder), and firing an extremely high-speedpositronlaser from its head-turret (Field Destroyer).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、雷の能力を持つデジモン。ピラミッドの最奥部にあるスカラベの宝物庫を参考に作成された警備システムから発見されたため、性格は用心深く慎重。戦闘時には堅い装甲で忍耐強く仲間の盾になって相手の攻撃を受けるが、臨界点に達すると全砲門で相手の形が無くなるまで強烈な徹底攻撃をする。自重が重く移動力が低いため基本的には後方支援担当。しかし、近接戦においても多彩な武装で敵を破壊する。必殺技は全エネルギーを両腕からまとめて放出する『アルティメットサンダー』と、頭部砲塔から超高速の陽電子レーザーを放つ『フィールドデストロイヤー』。デジモン図鑑",
+        "ko": "전설의 10투사의 힘을 내포한, 번개의 능력을 가지는 디지몬. 피라미드의 최상부에 있는 스카라베의 보물고를 참고해 작성된 경비 시스템으로부터 발견되었기 때문에 성격은 조심스러우며 신중하다. 전투시에는 딱딱한 장갑으로 인해 강하게 동료의 방패가 되어 상대의 공격을 받지만, 임계점에 이르면 전포문에서 상대의 형태가 없어질 때가지 강렬히 철저한 공격을 한다. 자중이 무거워 이동력이 낮기 때문에 기본적으로는 후방 지원 담당이다. 그러나, 근접전에 있어도 다채로운 무장으로 적을 파괴한다. 필살기는 모든 에너지를 양팔에 모아 방출하는 『얼티메이트 썬더』와 머리의 대포에서 초고속 양전자 레이저를 쏘는 『필드 디스트로이어』다."
+      },
+      "wikimon_url": "https://wikimon.net/Bolgmon"
+    },
+    {
+      "id": "sephiroth",
+      "name": "Sephirothmon",
+      "name_jp": "Sephirothmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/sephiroth/frame1.gif",
+        "frame2": "sprites/sephiroth/frame2.gif"
+      },
+      "artwork": "sprites/sephiroth/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Steel which bears the might of one of the legendaryWarrior Ten. It possesses thinking like that of a machine, which lacks emotions. By instantly analyzing the enemy, it accurately points out their weaknesses. However, it is very fragile when the enemy makes an action that falls outside of its calculations. Itsten sphereseach have the same attribute as the other Warrior Ten, and are able to perform attacks with, and conversely, absorb attacks with those attributes. When the enemy's attack misses or its own attack hits, it gives out a low-pitched, creepy laugh from its eerie mouth. Its Special Move is randomly performing attacks with the same attributes as the Warrior Ten from the sphere in the position where it stopped after shuffling its spheres through itscalvaria(Rumble Blend Number (1-10)).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、鋼の能力を持つデジモン。感情が一切排除された機械のような思考の持ち主。敵を瞬時に分析して的確に相手の弱点をつく。ただし、計算外の行動を取られると非常にもろい。１０個の球体は各々他の十闘士と同じ属性を持ち、同属性の攻撃をしたり、逆に同属性の攻撃を吸収することができる。不気味な口からは、敵の攻撃が外れた際や自分の攻撃が当たった際に、低音の気持ちの悪い笑い声があがる。必殺技は球体をシャッフルした後に頭頂部で止まった位置の球体からランダムに十闘士と同じ属性の攻撃をする『ランブルブレンドナンバー（１～１０）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sephirothmon"
+    },
+    {
+      "id": "metallifekuwaga",
+      "name": "Metallife Kuwagamon",
+      "name_jp": "Metallife Kuwagamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/metallifekuwaga/frame1.gif",
+        "frame2": "sprites/metallifekuwaga/frame2.gif"
+      },
+      "artwork": "sprites/metallifekuwaga/artwork.jpg",
+      "lore": {
+        "en": "A subspecies ofKuwagamonwhich rapidly boosted its offensive power by means of armification. It has also gained grappling ability due to the fact that its form has become humanoid, and as it has both a tough shell as well as nimble movements, it boasts top-class balance among Perfect Digimon. It is able to freely alter the trajectory of its \"Homing Laser\", a beam fired from the gun points equipped to the fingertips of its hands, at its own will, allowing the beam to avoid any kind of obstacle and hit the opponent dead on. Also, it demonstrates its power in close combat with its \"Emit Blade\", which emits a beam in the shape of a blade and slashes with it.Digimon Reference Book⇨ English武装化により、攻撃力を飛躍的にアップさせたクワガーモンの亜種。形状が人型になったことで格闘能力も得ており、固い甲殻と素早い動きを併せ持ち、完全体デジモンの中ではトップクラスのバランスを誇る。両手の指先に装備した銃口から放つビーム攻撃『ホーミングレーザー』はメタリフェクワガーモンの意志で自在に軌道を曲げることが可能で、いかなる障害物もかわして敵に直撃させることが可能となっている。また、ビームを刃状に放出し切りつける『エミットブレイド』は近接戦闘で威力を発揮する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metallife_Kuwagamon"
+    },
+    {
+      "id": "wise",
+      "name": "Wisemon",
+      "name_jp": "Wisemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/wise/frame1.gif",
+        "frame2": "sprites/wise/frame2.gif"
+      },
+      "artwork": "sprites/wise/artwork.jpg",
+      "lore": {
+        "en": "A Digimon completely shrouded in mystery, it can appear anywhere in time and space via theBook. Treating theBookas a spiritual vessel, it frequently alters its shape to appear anywhere within the spaces and times which theBookhas connected, and it is said that its true form remains within a separate dimension. Among researchers it is rumored that it is in the same family asPiemon, and of the same Demon Man type. TheSpace-time Stonesit holds in its hands are able to playback a record of a space, preserving every event or object of theDigital Worldwithin space and time. Its Special Moves are repeatedly preserving opponent's attacks within space and time and then performing a high-speed playback (Pandora Dialogue), and confining the opponent within theSpace-time Stonesfor an eternity (Eternal Nirvana).Digimon Reference Book⇨ English全てが謎に包まれたデジモンで、“本”を通じてあらゆる時間と空間に出現することができる。“本”を依り代とし、“本”が繋がる時空間のどこにでも姿形を変えて出没するため、本体は別次元に存在するのではないかと言われている。研究者の間では同じ魔人型のピエモンとは同眷属だと囁かれている。両手に持つ“時空石”は空間の記録と再生をすることが可能で、デジタルワールドのあらゆる事象や物象を時空間に保存している。必殺技は時空間に保存していた敵の攻撃を連続で高速再生する『パンドーラ・ダイアログ』と、敵を永遠に“時空石”に封じ込める『エターナル・ニルヴァーナ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wisemon"
+    },
+    {
+      "id": "ancientbeat",
+      "name": "Ancient Beatmon",
+      "name_jp": "Ancient Beatmon",
+      "name_ko": "에이션트비트몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientbeat/frame1.gif",
+        "frame2": "sprites/ancientbeat/frame2.gif"
+      },
+      "artwork": "sprites/ancientbeat/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Thunder\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it has an appearance fused from many insects such as theRhinoceros beetleandStag beetle. Its shell has a hardness rivaling that ofChrome Digizoid, so thefalxon both of its arms can cut through anything, and it can easily lift up objects hundreds of times its own weight. Ancient Beatmon's abilities were later passed on to the \"Insect Digimon\". Its Special Moves are a calamitous thunder which brings about super-disasters (Calamity Thunder), and a super-electrical attack with a thousand times the power ofGiga Blaster(Tera Blaster).Digimon Reference Book⇨ English“雷”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、カブトムシやクワガタムシなど多くの昆虫を合わせた様な姿を持つ。クロンデジゾイドに匹敵する硬度な外殻をもち、鎌状の両腕はあらゆる物を切断し、自らの質量の何百倍の物を軽々と持ち上げるパワーを持つ。エンシェントビートモンの能力は、その後“昆虫型デジモン”等へ引き継がれていった。必殺技は超災害をもたらす災厄のイカヅチ『カラミティサンダー』と、ギガブラスターの千倍の超放電攻撃『テラブラスター』。デジモン図鑑",
+        "ko": "\"천둥\" 속성을 지닌 고대 디지털 월드를 구한 전설의 10투사 디지몬. 아득히 고대에 존재했던 최초의 궁극체이며, 장수풍뎅이 나 사슴벌레 [2] 등 여러 곤충을 합친 듯한 모습을 가졌다. 크롬디지조이드 에 필적하는 경도의 외골격, 모든 것을 절단하는 낫 모양의 양팔, 자신의 몇백배나 되는 질량조차 가볍게 들어 올리는 파워를 가졌다. 에인션트비트몬의 능력은, 그 후 “ 곤충 형 디지몬” 등에 계승되어 갔다. 필살기는 초재해를 불러오는 재액의 번개 \"캘러미티 썬더\"와 기가 블래스터 의 천배의 초방전 공격 \"테라 블래스터\"."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Beatmon"
+    },
+    {
+      "id": "grandiskuwaga",
+      "name": "Grandis Kuwagamon",
+      "name_jp": "Grandis Kuwagamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "45 (★)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/grandiskuwaga/frame1.gif",
+        "frame2": "sprites/grandiskuwaga/frame2.gif"
+      },
+      "artwork": "sprites/grandiskuwaga/artwork.jpg",
+      "lore": {
+        "en": "Only the strongest few among the evilGran Kuwagamon, called the \"Demon of the Deep Forest\", have evolved into it, and if you come across Grandis Kuwagamon, you can call yourself lucky to some extent. Its presence is concealed like dense fog, and it is the rarest species among Insect Digimon. It takes pride in being aVirus-species, and according to one theory, it is said to be a warrior in league withBlack War Greymon, who preaches its own justice as a Virus-species. The \"Gran Killers\" on both of its arms are capable of damaging even the hardest of shells or metals, so it deepens the wounds and eventually brings down the enemy. Its Special Move is clamping the enemy with the enormous pincers on its head and cutting them to pieces (Grandis Scissor).Digimon Reference Book⇨ English“深き森の悪魔”と呼ばれる邪悪なグランクワガーモンの一部の強者だけが進化した、このグランディスクワガーモンに出会うことがあったなら、ある意味幸運と言えるだろう。その存在は深い霧のごとく覆われ、昆虫型デジモンの中でも随一の希少種である。ウィルス種としてのプライドを持ち、一説ではウィルス種としての自らの正義を説くブラックウォーグレイモンと同盟を組む戦士とも言われている。両腕の『グランキラー』はどれほど硬い甲殻やメタルでも傷つけることが可能で、その傷を深くして最終的には敵を仕留めてしまう。必殺技は頭部の巨大な鋏で敵を締め付け切り裂く『グランディスシザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Grandis_Kuwagamon"
+    },
+    {
+      "id": "ancientwise",
+      "name": "Ancient Wisemon",
+      "name_jp": "Ancient Wisemon",
+      "name_ko": "에이션트와이즈몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientwise/frame1.gif",
+        "frame2": "sprites/ancientwise/frame2.gif"
+      },
+      "artwork": "sprites/ancientwise/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Steel\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is the wisest person in the Digital World. Due to theAkashic Recordswhich record all of the excellent intellects of ancient times, it is said that there is nothing which Ancient Wisemon doesn't know. It is a sage that possesses the knowledge of the distant past, but can also forecast the distant future. Also, it is said that Ancient Wisemon's mirror body is connected to the spirit world (another universe). Ancient Wisemon's abilities were later passed on to the \"Mutation Digimon\". Its Special Moves are calculating the coordinates to the spirit world with ultimate wisdom and imprisoning the opponent for eternity in that separate universe (Laplace no Ma), and summoning the ultimate evil god from that universe (Elder Sign).Digimon Reference Book⇨ English“鋼”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、デジタルワールドいちの知恵者である。古代の卓越した叡智を全て記録するアカシックレコード的な存在で、エンシェントワイズモンに判らないことは無いと言われる。遥か古代の叡智を持って、遥か未来を見通す賢者でもある。またエンシェントワイズモンの体の鏡は別の宇宙（異界）に繋がっていると言われている。エンシェントワイズモンの能力は、その後“突然変異型デジモン”等へ引き継がれていった。必殺技は究極の叡智を持って異界への座標を割り出し、未来永劫に渡って別宇宙に敵を閉じ込める『ラプラスの魔』と別宇宙から究極の邪神を召喚する『エルダーサイン』。デジモン図鑑",
+        "ko": "\"강철\"의 속성을 지닌 고대 디지털 월드를 구한 전설의 십투사 디지몬. 아득한 고대에 존재했던 최초의 궁극체이며, 디지털 월드 제일의 지혜로운 자이다. 고대의 뛰어난 지혜를 모두 기록하는 아카식 레코드적인 존재로, 에이션트와이즈몬이 모르는 것은 없다고 한다. [4] 아득한 고대의 지혜를 가지고, 먼 미래를 내다 보는 현자이기도 하다. 또한 에이션트와이즈몬의 몸의 거울은 다른 우주(이계)에 연결되어있는 것으로 알려져있다. 에이션트와이즈몬의 능력은 그후 \"돌연변이형 디지몬\"에게 이어져 갔다. 필살기는 궁극적인 지혜로 이계의 좌표를 파악하여 미래 영겁에 걸쳐 다른 우주에 적을 가두는 \" 라플라스의 악마 \"와 다른 우주로부터 궁극의 사신 을 소환하는 \" 엘더 사인 \"."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Wisemon"
+    },
+    {
+      "id": "murmukus",
+      "name": "Murmukusmon",
+      "name_jp": "Murmukusmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/murmukus/frame1.gif",
+        "frame2": "sprites/murmukus/frame2.gif"
+      },
+      "artwork": "sprites/murmukus/artwork.jpg",
+      "lore": {
+        "en": "Although it was originally a high-ranking Angel Digimon, it fell from grace and became a Demon Lord Digimon. It is in the ruling class of theNightmare Soldiers, with the title of \"Count\", and it manages thirty legions of demons. Also, it is attended by the Mythical Beast DigimonGriffomon, which it uses as its own hands and feet. Its Special Move is spewing hellfire, which is said to inflict eternal suffering even in death (Gehenna Flame).Digimon Reference Book⇨ English元々は上級天使型デジモンだったが、堕天して魔王型デジモンになった。ナイトメアソルジャーズの幹部クラスであり「伯爵」の名で呼ばれており、３０の魔軍団をまとめている。また、幻獣デジモンのグリフォモンを従えており、自らの手足として使役している。必殺技は業火を吐き出し、死してなお永遠に苦しむと言われる『ゲヘナ・フレイム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Murmukusmon"
+    }
+  ],
+  "evolutions": []
+}

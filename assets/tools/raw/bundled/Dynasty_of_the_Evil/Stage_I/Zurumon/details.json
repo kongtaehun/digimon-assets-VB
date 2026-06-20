@@ -1,0 +1,38 @@
+{
+  "id": "zuru",
+  "name": "Zurumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zuru.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zuru.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/zuru.jpg",
+  "appearances": [
+    {
+      "dim_id": "dev",
+      "dim_name": "Dynasty of the Evil",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Zurumon",
+    "name_en": "Zurumon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn NA"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "pagu",
+        "name": "Pagumon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "id": "angora",
+  "name": "Angoramon",
+  "release": "JP: Jan 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_angora.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_angora.gif",
+  "digimon": [
+    {
+      "id": "pyon",
+      "name": "Pyonmon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pyon.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pyon.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pyon.jpg"
+    },
+    {
+      "id": "bosa",
+      "name": "Bosamon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bosa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bosa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bosa.jpg"
+    },
+    {
+      "id": "angora",
+      "name": "Angoramon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4600",
+        "hp": "3200",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/angora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/angora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/angora.jpg"
+    },
+    {
+      "id": "dracu",
+      "name": "Dracumon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4100",
+        "hp": "2800",
+        "ap": "1050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dracu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dracu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dracu.jpg"
+    },
+    {
+      "id": "symbareangora",
+      "name": "Symbare Angoramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5500",
+        "hp": "3500",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/symbareangora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/symbareangora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/symbareangora.jpg"
+    },
+    {
+      "id": "siesa",
+      "name": "Siesamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5100",
+        "hp": "3200",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/siesa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/siesa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/siesa.jpg"
+    },
+    {
+      "id": "dog",
+      "name": "Dogmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "4800",
+        "hp": "3700",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dog.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dog.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dog.jpg"
+    },
+    {
+      "id": "sangloup",
+      "name": "Sangloupmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5800",
+        "hp": "3000",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/sangloup.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/sangloup.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sangloup.jpg"
+    },
+    {
+      "id": "publi",
+      "name": "Publimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5200",
+        "hp": "3100",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/publi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/publi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/publi.jpg"
+    },
+    {
+      "id": "lamort",
+      "name": "Lamortmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "4600",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/lamort.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/lamort.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lamort.jpg"
+    },
+    {
+      "id": "cerberu",
+      "name": "Cerberumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5700",
+        "hp": "4500",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/cerberu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/cerberu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cerberu.jpg"
+    },
+    {
+      "id": "hippogriffo",
+      "name": "Hippogriffomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "4200",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/hippogriffo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/hippogriffo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hippogriffo.jpg"
+    },
+    {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5300",
+        "hp": "4200",
+        "ap": "1610"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/digitama.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/digitama.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/digitama.jpg"
+    },
+    {
+      "id": "matadr",
+      "name": "Matadrmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6200",
+        "hp": "4600",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/matadr.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/matadr.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/matadr.jpg"
+    },
+    {
+      "id": "mephis",
+      "name": "Mephismon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "4200",
+        "ap": "1610"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mephis.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mephis.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mephis.jpg"
+    },
+    {
+      "id": "pheles",
+      "name": "Phelesmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "6000",
+        "hp": "4200",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pheles.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pheles.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pheles.jpg"
+    },
+    {
+      "id": "olea",
+      "name": "Oleamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5550",
+        "hp": "4800",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/olea.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/olea.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/olea.jpg"
+    },
+    {
+      "id": "baste",
+      "name": "Bastemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "4600",
+        "ap": "1400"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/baste.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/baste.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/baste.jpg"
+    },
+    {
+      "id": "diarbbit",
+      "name": "Diarbbitmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6300",
+        "hp": "5300",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/diarbbit.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/diarbbit.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/diarbbit.jpg"
+    },
+    {
+      "id": "mars",
+      "name": "Marsmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6250",
+        "hp": "5200",
+        "ap": "1900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mars.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mars.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mars.jpg"
+    },
+    {
+      "id": "pluto",
+      "name": "Plutomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6200",
+        "hp": "5000",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pluto.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pluto.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pluto.jpg"
+    },
+    {
+      "id": "granddracu",
+      "name": "Grand Dracumon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6400",
+        "hp": "6000",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/granddracu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/granddracu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/granddracu.jpg"
+    },
+    {
+      "id": "pie",
+      "name": "Piemon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6700",
+        "hp": "5000",
+        "ap": "1950"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pie.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pie.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pie.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "bosa",
+      "from_name": "Bosamon",
+      "to": "angora",
+      "to_name": "Angoramon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bosa",
+      "from_name": "Bosamon",
+      "to": "dracu",
+      "to_name": "Dracumon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "symbareangora",
+      "to_name": "Symbare Angoramon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "siesa",
+      "to_name": "Siesamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "dog",
+      "to_name": "Dogmon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "dracu",
+      "from_name": "Dracumon",
+      "to": "dog",
+      "to_name": "Dogmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "dracu",
+      "from_name": "Dracumon",
+      "to": "sangloup",
+      "to_name": "Sangloupmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "angora",
+      "from_name": "Angoramon",
+      "to": "publi",
+      "to_name": "Publimon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "from_name": "Symbare Angoramon",
+      "to": "lamort",
+      "to_name": "Lamortmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "from_name": "Symbare Angoramon",
+      "to": "cerberu",
+      "to_name": "Cerberumon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "siesa",
+      "from_name": "Siesamon",
+      "to": "cerberu",
+      "to_name": "Cerberumon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dog",
+      "from_name": "Dogmon",
+      "to": "cerberu",
+      "to_name": "Cerberumon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "symbareangora",
+      "from_name": "Symbare Angoramon",
+      "to": "hippogriffo",
+      "to_name": "Hippogriffomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "siesa",
+      "from_name": "Siesamon",
+      "to": "hippogriffo",
+      "to_name": "Hippogriffomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "dog",
+      "from_name": "Dogmon",
+      "to": "digitama",
+      "to_name": "Digitamamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "publi",
+      "from_name": "Publimon",
+      "to": "digitama",
+      "to_name": "Digitamamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "sangloup",
+      "from_name": "Sangloupmon",
+      "to": "matadr",
+      "to_name": "Matadrmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sangloup",
+      "from_name": "Sangloupmon",
+      "to": "mephis",
+      "to_name": "Mephismon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "sangloup",
+      "from_name": "Sangloupmon",
+      "to": "pheles",
+      "to_name": "Phelesmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "dog",
+      "from_name": "Dogmon",
+      "to": "olea",
+      "to_name": "Oleamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "sangloup",
+      "from_name": "Sangloupmon",
+      "to": "olea",
+      "to_name": "Oleamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "publi",
+      "from_name": "Publimon",
+      "to": "olea",
+      "to_name": "Oleamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "siesa",
+      "from_name": "Siesamon",
+      "to": "baste",
+      "to_name": "Bastemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 10 Cleared"
+      }
+    },
+    {
+      "from": "lamort",
+      "from_name": "Lamortmon",
+      "to": "diarbbit",
+      "to_name": "Diarbbitmon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "cerberu",
+      "from_name": "Cerberumon",
+      "to": "diarbbit",
+      "to_name": "Diarbbitmon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "baste",
+      "from_name": "Bastemon",
+      "to": "diarbbit",
+      "to_name": "Diarbbitmon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "from_name": "Lamortmon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hippogriffo",
+      "from_name": "Hippogriffomon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baste",
+      "from_name": "Bastemon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cerberu",
+      "from_name": "Cerberumon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "mephis",
+      "from_name": "Mephismon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "olea",
+      "from_name": "Oleamon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lamort",
+      "from_name": "Lamortmon",
+      "to": "pluto",
+      "to_name": "Plutomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hippogriffo",
+      "from_name": "Hippogriffomon",
+      "to": "pluto",
+      "to_name": "Plutomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "from_name": "Digitamamon",
+      "to": "pluto",
+      "to_name": "Plutomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "matadr",
+      "from_name": "Matadrmon",
+      "to": "pluto",
+      "to_name": "Plutomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "olea",
+      "from_name": "Oleamon",
+      "to": "pluto",
+      "to_name": "Plutomon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cerberu",
+      "from_name": "Cerberumon",
+      "to": "granddracu",
+      "to_name": "Grand Dracumon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "matadr",
+      "from_name": "Matadrmon",
+      "to": "granddracu",
+      "to_name": "Grand Dracumon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "pheles",
+      "from_name": "Phelesmon",
+      "to": "granddracu",
+      "to_name": "Grand Dracumon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "mephis",
+      "from_name": "Mephismon",
+      "to": "granddracu",
+      "to_name": "Grand Dracumon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "hippogriffo",
+      "from_name": "Hippogriffomon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "digitama",
+      "from_name": "Digitamamon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "pheles",
+      "from_name": "Phelesmon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "mephis",
+      "from_name": "Mephismon",
+      "to": "pie",
+      "to_name": "Piemon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "schema_version": "1.0",
+  "id": "agni_ex",
+  "name": "Agnimon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Flame)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_agni_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "moku",
+      "name": "Mokumon",
+      "name_jp": "Mokumon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/moku/frame1.gif",
+        "frame2": "sprites/moku/frame2.gif"
+      },
+      "artwork": "sprites/moku/artwork.jpg",
+      "lore": {
+        "en": "A Digimon Baby which envelops its whole body with a smoke-like vapor. It is a unique Digimon whosecomputer kernel(Digicore), said to be at the center of a Digimon's body, is bare, so it seems it protects its Digicore withSmoke. Because its Digicore is bare, Mokumon is a Digimon of an unusual way of life which covers its body inSmokefrom when it was burned. It scatters theSmokeissuing from its body all around, then seizes the opportunity to flee.Digimon Reference Book⇨ English体中に煙のような気体を取り巻いているデジモンベビー。デジモンの体の中心にあるといわれている電脳核（デジコア）が剥き出し状態の特殊なデジモンで、そのデジコアをスモークで守っているらしい。モクモンはデジコアが剥き出し状態なので、燃焼したときのスモークが体を覆っている変わった生態系のデジモンである。体からでるスモークを辺り一帯に撒き散らし、その隙に逃げてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mokumon"
+    },
+    {
+      "id": "petimera",
+      "name": "Peti Meramon",
+      "name_jp": "Peti Meramon",
+      "name_ko": "푸치메라몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/petimera/frame1.gif",
+        "frame2": "sprites/petimera/frame2.gif"
+      },
+      "artwork": "sprites/petimera/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved fromMokumon, its entire body is ablaze due to how fiercely itsDigicoreburns for a body of its size. It has a wild temperament for its small size, causing its Digicore to burn intensely, but it cannot fight properly despite its aggressive personality as its offensive power is still low. Not only that, it is extremely weak to water and Ice-Snow type Digimon, so it will flee the moment it encounters them. Incidentally, any relation between it andMeramonhas not yet been made clear. It spits \"Chīsana Kaendan\" out from its mouth to attack the opponent, but they aren't very powerful.Digimon Reference Book⇨ Englishモクモンの進化系デジモンで、小さい体ながらデジコアを激しく燃焼させているため、体中が燃えている姿をしている。小型デジモンにしては気性が荒いため、デジコアを激しく燃焼させており、攻撃的な性格ではあるが、まだまだ攻撃力が低いためまともに戦うことはできない。また、水系・氷雪系のデジモンが非常に苦手で、出会うと直ぐに逃げ出してしまう。ちなみにメラモンとの関係は今だ不明。口から小さな火炎弾を吐き出し相手に攻撃するが威力はイマイチ。デジモン図鑑",
+        "ko": "모크몬 의 진화형 디지몬으로, 작은 몸이면서 디지코어 를 격렬하게 연소시키고 있기 때문에, 체내가 불타는 모습을 하고 있다. 소형 디지몬치고는 천성이 난폭하기 때문에, 디지코어를 격렬하게 연소시키고 있어 공격적인 성격이지만, 공격력이 낮기 때문에 온전하게 싸울 수 없다. 또, 수계, 빙설계 디지몬에게 매우 약하고, 만나면 도망쳐버린다. 입으로부터 작은 화염탄을 토해내 상대에게 공격하지만, 위력은 조금 모자라다."
+      },
+      "wikimon_url": "https://wikimon.net/Peti_Meramon"
+    },
+    {
+      "id": "fla",
+      "name": "Flamon",
+      "name_jp": "Flamon",
+      "name_ko": "화염몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/fla/frame1.gif",
+        "frame2": "sprites/fla/frame2.gif"
+      },
+      "artwork": "sprites/fla/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that was transformed into a half-beast, half-man form whenAgnimonlost its power. It is missing the \"Combat Instinct\" that Digimon naturally possess, and moreover, it has lost power. However, it is a being that has inherited aSpiritof the legendaryTen Warriorswho possess ultimate strength, so although it has lost power, ordinary Adult-class Digimon aren't a match for it. If anything, it has kindness inappropriate for a Digimon and is similar to a Child Digimon, counterbalancing its mischievous part. Its Special Move is firing off an aura of flames (Baby Salamander).Digimon Reference Book⇨ Englishアグニモンがパワーを失い、半獣半人の姿になってしまったデジモン。デジモン本来が持つ\"闘争本能\"が欠けてしまっており、それによりパワーも失っている。しかし、究極の強さを持つ伝説の十闘士のスピリットを受け継いだ存在なので、パワーを失っているとはいえ、並みの成熟期クラスのデジモンでは太刀打ちできない。どちらかというと、デジモンらしからぬ優しさを持ち、成長期のデジモンのようなやんちゃな部分を持ち合わせている。必殺技は炎のオーラを打ち出す『ベビーサラマンダー』。デジモン図鑑",
+        "ko": "아그니몬 이 파워를 잃어, 반인반수의 모습이 되어 버린 디지몬. 디지몬이 본래 가진 ”투쟁 본능”이 빠져버린 상태라, 그로 인해 파워도 잃고 있다. 그러나, 궁극의 힘을 가지는 전설의 10투사의 스피릿을 계승한 존재이므로, 파워를 잃고 있다고는 해도, 보통의 성숙기 클래스 디지몬으로는 맞겨룸 할 수 없다. 굳이 말하자면, 디지몬답지 않은 상냥함과, 성장기 디지몬과 같은 장난스러운 부분을 가지고 있다. 필살기는 불꽃의 아우라를 내뿜는 \"베이비 샐러맨더\"."
+      },
+      "wikimon_url": "https://wikimon.net/Flamon"
+    },
+    {
+      "id": "gottsu",
+      "name": "Gottsumon",
+      "name_jp": "Gottsumon",
+      "name_ko": "울퉁몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/gottsu/frame1.gif",
+        "frame2": "sprites/gottsu/frame2.gif"
+      },
+      "artwork": "sprites/gottsu/artwork.jpg",
+      "lore": {
+        "en": "An Ore Digimon that is clad in ore data from the fields that has high defenses. With its mischievous and cheerful personality, it brings low generation Digimon along with it as if it were a ringleader, and is a live wire that jumps about in the system. It is sometimes a bit selfish, and once it is angered, it goes on a violent rampage like a volcanic eruption, becoming unstoppable. The ore data it expresses varies depending on the conditions and place of its origin, and it has the potential for various evolutions. Its Special Move is shooting super-hard ore from the top of its head (Angry Rock).Digimon Reference Book⇨ Englishフィールド中の鉱石データをまとい、強力な防御力を持つ鉱石型のデジモン。やんちゃで陽気な性格で、まるでガキ大将のように世代の低いデジモンを引き連れて、システム内を跳ね回る元気者。少々わがままなところもあり、一旦怒ると火山の噴火の様な激しさで暴れ回り、手がつけられなくなる。発生場所や条件によって、表出する鉱石データが変化し、様々な進化の可能性を秘めている。必殺技は、超硬度の鉱石を頭頂より射出する『アングリーロック』。デジモン図鑑",
+        "ko": "필드 속의 광석 데이터를 휘감아, 강력한 방어력을 손에 넣은 광석형 디지몬. 장난꾸러기에 활발한 성격으로, 마치 골목대장처럼 진화 세대가 낮은 디지몬들을 거느린 채, 시스템 내를 돌아다니는 건강한 꼬마. 조금 제멋대로인 구석도 있어서, 일단 화내기 시작하면 분화해버린 화산 같은 격렬함으로 마구 설쳐대, 손쓸 길이 없다. 발생 장소나 조건에 따라, 표출되는 광석 데이터가 변화해, 여러 가지 진화의 가능성을 숨기고 있다. 필살기는 초강도의 광석을 정수리에서 사출하는 \"앵그리 록 [4] \""
+      },
+      "wikimon_url": "https://wikimon.net/Gottsumon"
+    },
+    {
+      "id": "agni",
+      "name": "Agnimon",
+      "name_jp": "Agnimon",
+      "name_ko": "아그니몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/agni/frame1.gif",
+        "frame2": "sprites/agni/frame2.gif"
+      },
+      "artwork": "sprites/agni/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Flame which bears the might ofoneof the legendaryWarrior Ten. Because its \"Digicore\" is wrapped in theSpiritual Firewhich is called a holy blaze, it is able to freely manipulate flames. It is an incarnation of the \"Firewall\" that defends theNet, and is also a guardian deity. Because of its easily fired-up personality, it has a soldier-like aspect that practices mental training withyogaexercises, and its way of speaking is somewhat archaic, like akenpoartist. In battle, it fights by freely using Oriental martial arts, and accumulates flames at one point of its body with a trick that focuses its spirit, to raise its offensive ability. Its Special Moves are unleashing a blazing dragon from its flame-clad fist (BurningSalamander), and unleashing a whirlwind kick of flames (Salamander Break).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、火の能力を持つデジモン。「デジコア（電脳核）」が聖なる炎と呼ばれるスピリチュアルファイアーで包まれているため、炎を自在に操ることができる。ネットの防御壁「ファイアーウォール」の化身であり、守護神でもある。熱しやすい性格なため、ヨガ呼吸で精神修養に励む武人的な一面があり、話し言葉は、どこか古風で拳法家的。戦闘では東洋の武術を駆使して戦い、気を集中させる要領で身体の一ヶ所に炎を集めて攻撃力を上げる。必殺技は炎で包まれた拳から火炎竜を繰り出す『バーニングサラマンダー』と、火炎の旋風脚を繰り出す『サラマンダーブレイク』。デジモン図鑑",
+        "ko": "전설의 10투사 의 힘을 지닌, 불의 능력을 가진 디지몬. 디지코어 가 성스러운 불꽃이라고도 불리는 스피리츄얼 파이어에 휘감겨 있으므로, 불꽃을 마음대로 다룰 수 있다. 네트의 방어벽 \"파이어월\"의 화신이며, 수호신이기도 하다. 뜨거워지기 쉬운 성격이므로, 요가 호흡으로 정신수행에 힘쓰는 무인다운 면이 있으며, 말씨는 어딘가 고풍스러운 권법가스럽다. 전투에선 동양의 무술을 구사해 싸우며, 기를 집중시키는 요령으로 신체 한군데에 불꽃을 모아 공격력을 올린다. 필살기는 불꽃에 휘감긴 주먹에서 화염룡을 내보내는 『버닝 샐러맨더 [3] 』와 불꽃에 휩싸인 다리를 360도 회전하며 공격하는 『샐러맨더 브레이크』다."
+      },
+      "wikimon_url": "https://wikimon.net/Agnimon"
+    },
+    {
+      "id": "mera",
+      "name": "Meramon",
+      "name_jp": "Meramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/mera/frame1.gif",
+        "frame2": "sprites/mera/frame2.gif"
+      },
+      "artwork": "sprites/mera/artwork.jpg",
+      "lore": {
+        "en": "A Flame Digimon whose entire body is shrouded in crimson flames. As a Digimon generated from the defensive \"Firewall\" which prevents illegal entries from the Internet and the like, it possesses a violent temperament like the flames that envelop its body, and tries to incinerate everything it touches. Its fire power is stronger than those of the same species onFile Island, and because taming this Digimon is extremely difficult, even if it's tamed, there's no telling when it will bare its fangs. Its Special Move is flaring up both of its arms, and knocking away the opponent (Burning Fist).Digimon Reference Book⇨ English全身に紅蓮の炎を纏った火炎型デジモン。インターネットなどで不正な進入を防ぐための防御壁「ファイアーウォール」から発生したデジモンで、その身を包む炎のように激しい気性を持っており、触れるもの全てを焼き尽くそうとする。ファイル島の同種より火力が強く、このデジモンを手なづけることは非常に難しいため、手なづけたとしてもいつ牙を剥くかわからない。必殺技は両腕を燃え上がらせ、相手を殴りぬける『バーニングフィスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Meramon"
+    },
+    {
+      "id": "star",
+      "name": "Starmon",
+      "name_jp": "Starmon",
+      "name_ko": "스타몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/star/frame1.gif",
+        "frame2": "sprites/star/frame2.gif"
+      },
+      "artwork": "sprites/star/artwork.jpg",
+      "lore": {
+        "en": "A Planet Digimon that was accidentally discovered within planet-analyzing software at a space development center. It is a space warrior equipped with a star-shaped armor suit, and star-marked gloves and boots. Its tattered yellow scarf indicates Starmon's combat experience. The eyes at the center of its body burn with fighting spirit, and are able to convey its will to the opponent without even saying a word. In addition, they can also be used in an advanced way to hypnotize the opponent. It is a hot-blooded Digimon that looks up to the hero,Leomon. Its Special Move is causing small meteors to rain down on the enemy (Meteor Squall).Digimon Reference Book⇨ English宇宙開発センターの惑星解析用ソフトの中で偶然発見された惑星型のデジモン。星形のアーマースーツと星マークのグラブとブーツを装備した宇宙の戦士。ズタズタになった黄色マフラーが、スターモンの戦歴を物語っている。体の中央の目は闘志に燃え、言葉を話さなくとも相手に意思を伝えることができる。また、その高度な利用法として、相手に催眠術をかけることも可能。勇者レオモンにあこがれる熱血漢なデジモンだ。必殺技は、小型の流星を敵の頭上に降り注ぐ『メテオスコール』。デジモン図鑑",
+        "ko": "우주 개발 센터의 행성 해석용 소프트 안에서 우연히 발견된 행성형의 디지몬. 별모양의 아머 슈트와 별 마크의 글러브와 부츠를 장비한 우주의 전사다. 너덜너덜한 황색 머플러로 스타몬의 전투경력을 조금이나마 확인할 수 있다. 몸 중앙의 눈은 투지에 불타며 말을 하지 않아도 상대에게 의사를 전할 수 있으며, 이를 이용해 상대에게 최면술을 거는 일도 가능하다. 용사 레오몬을 동경하는 뜨거운 피가 흐르는 디지몬. 필살기는 소형의 유성을 적의 머리 위로 떨어뜨리는 \"메테오 스콜 [2] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Starmon"
+    },
+    {
+      "id": "grotte",
+      "name": "Grottemon",
+      "name_jp": "Grottemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/grotte/frame1.gif",
+        "frame2": "sprites/grotte/frame2.gif"
+      },
+      "artwork": "sprites/grotte/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Earth which bears the might of one of the legendaryWarrior Ten. Various weapons and armor are brought to life from its large hands and thick fingers, and its craftsmanship is practical yet artistic. TheGrotte Armorthat it wears and its main weapon, theGrotte Hammer, are both of the handmade Grotte-brand. It prefers to act alone since it hates being ordered about, however its artisan pride is such that once it recognizes someone's true merit, it will obediently abide them, and immerse itself in its own work. Although it's not very intelligent, its pride towards its work is intensely high and it has a strong tendency to take the opponent lightly. In battle, it mainly uses its \"Snake Eye Break\", in which it petrifies enemies touched by itsGrotte Hammerand then smashes them, and \"Jack in the Box\", where it burrows into the ground and ambushes the opponent from beneath them, but in fact it also has a technique which createsGolemonusing the earth around it and orders them to attack.Digimon Reference Book⇨ English伝説の十闘士の力を宿した、土の能力を持つデジモン。大きな手のひらと太い指からは様々な武器や防具が産み出され、その出来は実用的かつ芸術的。自身が身に着けている防具グロットアーマーも、主戦武器のグロットハンマーも、全て手製のグロットブランド。命令されるのが嫌いで単独行動を好むが、一度相手の実力を認めると素直に従って自分の作業に没頭する職人気質。頭はあまり良くないが、仕事に関しては強烈にプライドが高く、相手をなめてかかる傾向が強い。戦闘においてはグロットハンマーで触れた敵を石化させて破壊する『スネークアイブレイク』と、地面に潜り込み、相手の足元から奇襲をかける『ジャック・イン・ザ・ボックス』が主だが、実は手近の土でゴーレモンを作って襲撃させる技もある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Grottemon"
+    },
+    {
+      "id": "alda",
+      "name": "Aldamon",
+      "name_jp": "Aldamon",
+      "name_ko": "아루다몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/alda/frame1.gif",
+        "frame2": "sprites/alda/frame2.gif"
+      },
+      "artwork": "sprites/alda/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Flame that has transcended legend by inheriting all the might ofoneof the legendaryWarrior Tenand acquiring unknown abilities. Although it makes many enemies with its rough behavior, its name is derived from thefused form of a godof Indian mythology, and since it possesses both the wildness of a beast and the intelligence of a human, it is a Demon God that fights by converting anger or fear into righteous strength. In battle, it unleashes super-wide ranged attacks that melt everything then burn it up without a trace. This aspect has enough destructive power, in that moment, to bear a close resemblance to the menace of modern nuclear weapons. Its Special Moves are enhancing the holy flames of its \"Digicore\" to their utmost limit, then personally manufacturing the high temperature and high density core of the sun, before detonating it (Brahmashira), and the high-speed rapid-firing of the extremely high-temperature shots it unleashes from the \"Rudriya Darpaṇa\" superweapons on both of its arms (Brahmastra).[N 1]Also, it is capable of fighting using theRudriya Darpaṇain hand-to-hand combat, and it specializes in close combat.Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた火の能力を持つデジモン。乱暴な素行から敵をつくることが多いが、その名はインド神話における神の融合形態に由来しており、獣の野性と人の知性を併せ持つことで、怒りや恐怖を正義の力に変えて戦う魔神である。戦闘においては、全てを溶かし全てを焼き尽す超広範囲な攻撃を繰り出す。その様相はあたかも現代核兵器の脅威を彷彿とさせる破壊力である。必殺技は「デジコア（電脳核）」の聖なる炎を極限まで高め、太陽の高温・高密度の中心核を自らつくりだして大爆発させる『ブラフマシル』と、両腕の超兵器“ルードリー・タルパナ”から放つ超高熱弾の高速連射『ブラフマストラ』。また、ルードリー・タルパナは格闘戦に用いて戦うことも可能であり、接近戦も得意とする。デジモン図鑑",
+        "ko": "전설의 10투사 의 힘을 전부 계승해, 미지의 힘을 얻어 전설 을 넘는 불의 능력을 지닌 디지몬. 난폭한 행동으로 적을 만드는 경우도 많지만, 인도 신화에서 신의 융합형태를 유래로 하는 이름처럼 짐승의 야성과 인간의 지성을 겸비해 분노나 공포를 정의의 힘으로 바꿔서 싸우는 마신이다. 전투에 있어서는 모든 것을 녹이고 불태우는 초광범위한 공격을 구사한다. 그 양상은 그야말로 현대 핵병기의 위협을 방불케 하는 파괴력이다. 필살기는 디지코어의 성스러운 불꽃을 한계까지 불태워서 태양의 고온, 고밀도의 중심핵을 스스로 만들어내서 대폭발시키는 브라흐마 실 과, 양 팔의 루드리 타르파나 에서 발사하는 초고열탄의 연속발사 브라흐마스트라 [2] . 또한, 루드리 타르파나는 격투전에서도 사용할 수 있으며, 접근전도 특기이다."
+      },
+      "wikimon_url": "https://wikimon.net/Aldamon"
+    },
+    {
+      "id": "vritra",
+      "name": "Vritramon",
+      "name_jp": "Vritramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/vritra/frame1.gif",
+        "frame2": "sprites/vritra/frame2.gif"
+      },
+      "artwork": "sprites/vritra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Flame which bears the might ofoneof the legendaryWarrior Ten. This firefighter has skin that can withstand high temperatures and the ability to move even through lava, and snuffs out flames with instant, explosive blazes. It is said that it was born from active volcano research data, and it is thought that it contains an immeasurable, unknown energy. The name of thefire dragon, who is considered the nemesis of the thunder godIndraof Indian mythology, is embodied in its ferocious nature. The more heroic its tactics and the more powerful the opponent is, the more it burns with combativeness. It also has a reckless side that doesn't understand retreating, even in a disadvantageous fight. Its Special Moves are firing lasers that rival a solar heat ray from the \"Rudriya Darpaṇa\" superweapons[N 1]on both of its arms (Corona Blaster), setting its whole body aflame, then releasing a high-temperature tornado by flapping its wings (Flame Storm).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、火の能力を持つデジモン。高熱に耐える表皮を持ち、溶岩の中でも行動可能で、炎を一瞬の爆発的な火炎で打ち消すファイアーファイター。活火山研究用のデータから発生したと言われ、測定不可能な未知のエネルギーを内包していると思われる。インド神話における雷神インドラの仇敵とされる火龍の呼び名は、その猛々しい性格に現われている。戦法は豪快で相手が強大であればあるほど闘志を燃やす。不利な戦いでも引く事を知らない無謀な一面もある。必殺技は両腕の超兵器\"ルードリー・タルパナ\"から、太陽の熱線に匹敵するレーザーを放つ『コロナブラスター』と、全身を燃焼させ、翼のはばたきで高熱の竜巻を放つ『フレイムストーム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Vritramon"
+    },
+    {
+      "id": "superstar",
+      "name": "Super Starmon",
+      "name_jp": "Super Starmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/superstar/frame1.gif",
+        "frame2": "sprites/superstar/frame2.gif"
+      },
+      "artwork": "sprites/superstar/artwork.jpg",
+      "lore": {
+        "en": "The space warriorStarmonturned into this Perfect level Mutation Digimon. It raised its self-satisfaction and clothed itself in a flashy outfit, making its debut as a star. Although it means to use its sunglasses as a disguise to conceal its superstar identity, they do not help at all. Its Special Move, \"Halley Squall\", involves summoning countless meteors to rain down upon the enemy from overhead.Digimon Reference Book⇨ English宇宙の戦士であるスターモンが完全体になったミュータント型デジモン。 自己満足度に磨きをかけて、派手な衣装を身に纏いスターとなってデビューした。 スーパースターのため身を隠そうとサングラスで変装しているつもりらしいが役にたっていない。 無数の隕石を呼び寄せ敵の頭上にふりそそぐ必殺技『ハレースコール』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Super_Starmon"
+    },
+    {
+      "id": "gigas",
+      "name": "Gigasmon",
+      "name_jp": "Gigasmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/gigas/frame1.gif",
+        "frame2": "sprites/gigas/frame2.gif"
+      },
+      "artwork": "sprites/gigas/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Earth which bears the might of one of the legendaryWarrior Ten. It is an earth giant that materialized by coalescing soil from the ground and the components of the atmosphere. At the moment of its materialization, itquenchedat a high temperature, and its skin changed to one of super-hardness surpassing that of ceramics. Its personality and thoughts are just as arrogant asGrottemon's. Due to it becoming gigantic, it has become more overconfident and its tactics are also extremely violent. Fundamentally, because it makes light of its opponents, it thinks that fighting them is boring and will often yawn during battle. Its Special Moves are striking and raising up the ground with intense force after a huge jump (Earthquake), and stretching out its arms and then unleashing adouble lariatby rapidly spinning (Hurricane Bomber).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、土の能力を持つデジモン。地面の土や、大気中の成分を凝固させて実体化する土の巨人。実体化の瞬間、高熱で焼きが入り、表皮はセラミックを越える超硬度に変化する。性格・思考はグロットモンに順じて尊大。巨大になったことで、さらに自信過剰になり、戦法も乱暴極まりない。基本的に相手をなめているため、戦闘は退屈なものと思っていて、戦闘中よくあくびをする。必殺技は大ジャンプ後に強烈な勢いで地面を叩きあげる『アースクェイク』と、両腕を広げ高速回転でダブルラリアットを繰り出す『ハリケーンボンバー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gigasmon"
+    },
+    {
+      "id": "darksuperstar",
+      "name": "Dark Super Starmon",
+      "name_jp": "Dark Super Starmon",
+      "name_ko": "다크슈퍼스타몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/darksuperstar/frame1.gif",
+        "frame2": "sprites/darksuperstar/frame2.gif"
+      },
+      "artwork": "sprites/darksuperstar/artwork.jpg",
+      "lore": {
+        "en": "Produced from the observational data of ablack hole, it is a Digimon steeped in darkness. It has left behind its dreams and its wishes, and it appears to be so heavily burdened by its past that it uses its sunglasses to shut out all light. Its Special Moves are attacking with the exploded fragments of asupernova(Dark Explosion), using a black fog that covers everything in darkness (Schwarz Nebel), and creating a hole that swallows the surrounding bodies (Dark Hole).Digimon Reference Book⇨ Englishブラックホールの観測データから生まれた、闇に染まったデジモン。夢も希望も忘れ去りサングラスで光を閉ざしてしまうほどの重い過去を背負っているらしい。必殺技は、超新星爆発した破片で攻撃する「ダークイクスプロージョン」と、全てを闇で覆う黒い霧「シュバルツネーベル」、周囲の物体を飲み込む穴を生み出す「ダークホール」。デジモン図鑑",
+        "ko": "우주 개발 센터의 행성 해석용 소프트 안에서 우연히 발견된 행성형의 디지몬. 별모양의 아머 슈트와 별 마크의 글러브와 부츠를 장비한 우주의 전사다. 너덜너덜한 황색 머플러로 스타몬의 전투경력을 조금이나마 확인할 수 있다. 몸 중앙의 눈은 투지에 불타며 말을 하지 않아도 상대에게 의사를 전할 수 있으며, 이를 이용해 상대에게 최면술을 거는 일도 가능하다. 용사 레오몬을 동경하는 뜨거운 피가 흐르는 디지몬. 필살기는 소형의 유성을 적의 머리 위로 떨어뜨리는 \"메테오 스콜 [2] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Dark_Super_Starmon"
+    },
+    {
+      "id": "kaisergrey",
+      "name": "Kaiser Greymon",
+      "name_jp": "Kaiser Greymon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/kaisergrey/frame1.gif",
+        "frame2": "sprites/kaisergrey/frame2.gif"
+      },
+      "artwork": "sprites/kaisergrey/artwork.jpg",
+      "lore": {
+        "en": "ATranscendent-speciesDigimon that possesses power over Flame which is said to have surpassed even the might of the legendaryTen Warriors. It is said to bear the power of the ninedragon's veinsthat flow throughGaia, and it has been prophesied that if it can restrain the might of the nine dragons, it will demonstrate unfathomable ability and even be able to rule Gaia. It is said that, in order to control their power, it possesses the \"Ryūgonken\" in which the dragon's souls are sealed. Its Special Moves are firing arrows from the \"Ryūgonken\", whose flames are so intense that they become a white light (Enryūgeki), and releasing the eight dragon's veins dwelling within Gaia, then becoming the final dragon itself and pulverizing the opponent with its greatsword (Kuzuryūjin).Digimon Reference Book⇨ English伝説の十闘士の力をも超えるとも云われる、炎の能力を持つ超越種デジモン。大地（ガイア）を流れる九本の龍脈のパワーを体内に宿していると言われ、九龍の力を制御することができれば、計り知れない能力を発揮し、大地（ガイア）をも支配できると予言されている。その力を制御する為に、龍の魂を封印しているといわれる「龍魂剣（りゅうごんけん）」を持つとされる。必殺技は、「龍魂剣」から炎を白光にまで極めた矢を放つ『炎龍撃（えんりゅうげき）』と、大地に宿る八つの龍脈を放ち、自らが最後の龍となって敵を大剣で討ち砕く『九頭龍陣（くずりゅうじん）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kaiser_Greymon"
+    },
+    {
+      "id": "ancientgrey",
+      "name": "Ancient Greymon",
+      "name_jp": "Ancient Greymon",
+      "name_ko": "에이션트그레이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientgrey/frame1.gif",
+        "frame2": "sprites/ancientgrey/frame2.gif"
+      },
+      "artwork": "sprites/ancientgrey/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Flame\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is told that its strength surpasses that of current Ultimates, and it is certainly an \"Ultimate\" being. Ancient Greymon's abilities were later passed on to the \"Dragon Digimon\", such as theGreymon-species. It is said that in the previous crusade, it survived to the end alongsideAncient Garurumon, and sealed awayLucemon. Its Special Moves are gathering the spirit of the land and creating a tornado to swallow up the opponent and blow them away (Gaia Tornado), and inducing a super-detonation over the surrounding kilometers with an intense flash (Omega Burst).Digimon Reference Book⇨ English“火”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体で、その強さは現在の究極体をも凌駕すると伝えられており、正に“究極”の存在である。エンシェントグレイモンの能力は、その後グレイモン種等の“竜型デジモン”に引き継がれていった。先の聖戦ではエンシェントガルルモンと共に最後まで生き残り、ルーチェモンを封印したと言われている。必殺技は大地の気を集め竜巻にして敵を巻き込み吹き飛ばす『ガイアトルネード』と、強烈な閃光とともに周囲数キロにわたって超爆発を引き起こす『オメガバースト』。デジモン図鑑",
+        "ko": "\"불\" 속성을 지닌 고대 디지털 월드를 수호한 전설의 10투사 디지몬. 고대에 존재했던 최초의 궁극체로, 그 강함은 현대의 궁극체를 능가한다 [1] 고 하여 진정한 \"궁극\"의 존재다. 에인션트그레이몬의 능력은 그 후 그레이몬 계열 등의 \"용형 디지몬\"에게 이어져 내려왔다. 과거의 성전에서는 에이션트가루몬 과 함께 끝까지 살아남아, 루체몬 을 봉인했다고 전해진다. 필살기는 대지의 기를 모은 회오리로 적을 날려버리는 \"가이아 토네이도\"와, 강렬한 섬광과 함께 주위 수 킬로미터까지 닿는 초폭발을 일으키는 \"오메가 버스트\". [2] [3]"
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Greymon"
+    },
+    {
+      "id": "ancientvolca",
+      "name": "Ancient Volcamon",
+      "name_jp": "Ancient Volcamon",
+      "name_ko": "에이션트볼케몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★10)",
+        "hp": "18",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientvolca/frame1.gif",
+        "frame2": "sprites/ancientvolca/frame2.gif"
+      },
+      "artwork": "sprites/ancientvolca/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Earth\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it has the most power among the Ancient Digimon. There is always high temperature magma welling up inside its body, which becomes the source of its mighty power. Ancient Volcamon's abilities were later passed on to the \"Ore\" and \"Mineral\" types of Rock-species Digimon. Its Special Moves are detonating the volcano on its back, and performing a super-stronglariatwith this propulsion (Atomic Bomber), and generatingantimatterwithin its body, carrying out a super-detonation comparable to a tinyBig Bang(Supernova).Digimon Reference Book⇨ English“土”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、エンシェントデジモンの中でも最高のパワーを持つ。体内では常に高温のマグマが湧きあがり、強力なパワーの源になっている。エンシェントボルケーモンの能力は、その後“鉱石型”や“鉱物型”等の岩石系デジモンに引き継がれていった。必殺技は背中の火山を大爆発させ、その推進力で超強烈なラリアットを繰り出す『アトミックボンバー』と、体内で反物質を生成し、小型のビックバンに匹敵する超爆発を起こす『スーパーノヴァ』デジモン図鑑",
+        "ko": "\"흙\" 속성을 지닌 고대 디지털 월드를 수호한 전설의 10투사 디지몬. 아득한 고대에 존재했던 최초의 궁극체이며 에이션트 디지몬 중에서도 최고의 파워를 자랑한다. 체내에서는 항상 고온의 마그마 가 솟아나, 강력한 파워의 근원이 되고 있다. 에인션트 볼케몬의 능력은 그 후 \"광석형\"이나 \"광물형\"등의 암석계 디지몬 등에게 이어졌다. 필살기는 등의 화산을 대폭발시켜서 그 추진력으로 아주 강력한 래리어트 를 가하는 \"아토믹 봄버\"와 체내에서 반물질 을 생성해 소형의 빅뱅 에 필적하는 초폭발을 일으키는 \" 슈퍼 노바 \"."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Volcamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "moku",
+      "to": "petimera",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

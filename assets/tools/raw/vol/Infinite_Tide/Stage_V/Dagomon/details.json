@@ -1,0 +1,88 @@
+{
+  "id": "dago",
+  "name": "Dagomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dago.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dago.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/dago.jpg",
+  "appearances": [
+    {
+      "dim_id": "iti",
+      "dim_name": "Infinite Tide",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "shell",
+        "oct"
+      ],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Dagomon",
+    "name_en": "Dragomon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Lazy",
+    "stats": {
+      "dp": "30 (★6)",
+      "hp": "9",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "shell",
+        "name": "Shellmon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "oct",
+        "name": "Octmon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "seadra",
+        "name": "Seadramon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "tobiu",
+        "name": "Tobiumon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "plesio",
+        "name": "Plesiomon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "metalseadra",
+        "name": "Metal Seadramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "neptune",
+        "name": "Neptunemon",
+        "conditions": "Jogress with Data Perfect"
+      },
+      {
+        "id": "regalecus",
+        "name": "Regalecusmon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      }
+    ]
+  }
+}

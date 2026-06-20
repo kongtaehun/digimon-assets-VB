@@ -1,0 +1,1062 @@
+{
+  "schema_version": "1.0",
+  "id": "pulse",
+  "name": "Pulsemon",
+  "category": "seekers",
+  "device": "VBBE",
+  "release": "JP: Feb 2024 - Premium Bandai",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_pulse.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "doki",
+      "name": "Dokimon",
+      "name_jp": "Dokimon",
+      "name_ko": "도키몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/doki/frame1.gif",
+        "frame2": "sprites/doki/frame2.gif"
+      },
+      "artwork": "sprites/doki/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon that was born from human vital data. You can't tell from just its appearance, but when picked up, its whole body vibrates at a constant rhythm. The rhythm of these vibrations seems to reflect that of the heartbeat of the person who is holding it. When it is in danger, it threatens the enemy with static electricity emitted from the tip of its horn.Digimon Reference Book⇨ English人間のバイタルデータから生まれたスライム型のデジモン。見た目では分からないが、体を持ち上げると全身が一定のリズムで振動しているのが分かる。その振動のリズムは、持ち上げた者の鼓動の速さが反映されているらしい。身の危険を感じたときはツノの先端から静電気を発して敵を威嚇する。デジモン図鑑",
+        "ko": "인간의 바이탈 데이터로부터 태어난 슬라임형의 디지몬. 겉으로 봐서는 알 수 없지만 몸을 들어올리면 온몸이 일정한 리듬으로 진동하는 것을 알 수 있다. 그 진동의 리듬은, 들어올린 사람의 고동의 속도가 반영되는 것 같다. 신변의 위협을 느낄 때는 뿔 끝에서 정전기를 발하여 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Dokimon"
+    },
+    {
+      "id": "bibi",
+      "name": "Bibimon",
+      "name_jp": "Bibimon",
+      "name_ko": "비비몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/bibi/frame1.gif",
+        "frame2": "sprites/bibi/frame2.gif"
+      },
+      "artwork": "sprites/bibi/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromDokimon. It lacks composure, and is always moving around mischievously. However, because it is not used to dealing with four legs yet, it very often loses its balance in the middle of running and rolls over. When it comes to battle, it uses its \"Minimal Flash\", a static electricity-laced tackle, to fight bravely against the enemy, even though it is a Baby.Digimon Reference Book⇨ Englishドキモンが進化したレッサー型デジモン。落ち着きがなく、いつもやんちゃに動き回っている。しかしまだ四肢の扱いに慣れていないため、走っている最中にバランスを崩して転がっていくのが日常茶飯事だ。戦いになると、静電気を纏ったタックル『ミニマルフラッシュ』で幼年期ながらも勇敢に敵に立ち向かう。デジモン図鑑",
+        "ko": "도키몬 이 진화한 렛서형 디지몬. 침착하지 못해 항상 천방지축으로 돌아다니고 있다. 하지만 아직 사지를 다루는 데 익숙하지 않아 달리다 중심을 잃고 구르기 일쑤다. 싸움이 벌어지면 정전기를 두른 태클 '미니멀 플래쉬'로 유년기임에도 용감하게 적과 맞선다."
+      },
+      "wikimon_url": "https://wikimon.net/Bibimon"
+    },
+    {
+      "id": "pulse",
+      "name": "Pulsemon",
+      "name_jp": "Pulsemon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "4800",
+        "hp": "2700",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/pulse/frame1.gif",
+        "frame2": "sprites/pulse/frame2.gif"
+      },
+      "artwork": "sprites/pulse/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved under the influence of pulse waveform data stored in hospitals and gyms. It has a lively personality that treats anyone without discrimination. Pulsemon's characteristic hair is linked to its emotions, and droops whenever it feels down. It is a cunning fighter who battles by capitalizing on its natural agility, and moving around in the shape of a lightning bolt.Its Special Moves are ramming into the enemy with all its might at lightning speed (Elec Rush), and discharging electricity generated within its body from its hair (Petit Impulse).In addition, many other Digimon like Pulsemon that are influenced by the vital data of others, improving their physical abilities and evolving, have been discovered.Digimon Reference Book⇨ English病院やジムに保存されている、心拍波形データの影響を受けて進化したデジモン。誰にでも分け隔てなく接する活発な性格をしている。特徴的な前髪はパルスモンの感情とリンクしており、元気がないとヘタレてしまう。持ち前の素早さを活かし、稲妻を描くように動き回って戦うトリッキーファイターだ。必殺技は電光石火の速度で敵に全力の体当たりをかます『エレキラッシュ』と、体内で生み出した電気を前髪から放つ『プチインパルス』。また、パルスモンのように他者のバイタルデータに影響を受けて、身体能力の向上や進化をするデジモンが他にも多く発見されている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pulsemon"
+    },
+    {
+      "id": "kuda",
+      "name": "Kudamon",
+      "name_jp": "Kudamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5000",
+        "hp": "2500",
+        "ap": "900"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/kuda/frame1.gif",
+        "frame2": "sprites/kuda/frame2.gif"
+      },
+      "artwork": "sprites/kuda/artwork.jpg",
+      "lore": {
+        "en": "A Holy Beast Digimon that is always wreathed around a holy cartridge and never separates from it. It is said that day after day, it accumulates holy power within the earring on its left ear, and that the stored power is great enough to have influence on its next evolution. It has a calm, cool, and collected personality, conducting a precise assessment of the situation even in combat, and attaining the advantage in battle. Conversely, when it gets outnumbered, it possesses a defensive technique in which it goes into its cartridge and settles down. Its Special Moves are striking with the whole cartridge while spinning its body (Dangan Senpū), and blinding with a great radiance emitted from its earring (Zekkoushou).Digimon Reference Book⇨ English聖なる薬莢を常に巻きつけて離さない聖獣型デジモン。左耳のイヤリングに聖なる力を日々溜めていると言われ、蓄えた力が大きいほど次の進化に影響があるという。冷静沈着な性格をしており、戦いにおいても的確に状況判断を行って、戦いを優勢に進める。逆に劣勢になった場合は薬莢の中に入り、身を固める防御技も持っている。必殺技は身体を回転しつつ薬莢ごとぶつける『弾丸旋風（だんがんせんぷう）』と、ピアスから発する大きな輝きで目を眩ます『絶光衝（ぜっこうしょう）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kudamon"
+    },
+    {
+      "id": "shout",
+      "name": "Shoutmon",
+      "name_jp": "Shoutmon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "4700",
+        "hp": "3100",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/shout/frame1.gif",
+        "frame2": "sprites/shout/frame2.gif"
+      },
+      "artwork": "sprites/shout/artwork.jpg",
+      "lore": {
+        "en": "A ferocious Digimon with extremely high aggressiveness due to its hot-blooded enthusiasm. However, it is friendly towards its comrades, and its friendship with other Digimon, surpassing species, can be deepened even further if they are recognized by Shoutmon.There is a unique feature to Shoutmon's singing that converts its passion to energy, and it can perform an attack called \"Soul Crusher\", which uses its mic to amplify the heated emotions blazing within its chest, then bash the opponent. Because passion is the very source of the attack, it will definitely inflict damage no matter the target, and since Shoutmon won't give up fighting unless its passion disappears, this is the reason Shoutmon is said to be a ferocious Digimon with high aggressiveness.On one hand it seems ferocious, but on the other it is said to love music and songs, and it likes to hum songs with natural soundingbackground musiclike the sound of the wind, raindrops, the murmuring of a river, or the stirring of leaves on a tree. Because it can often become too enthusiastic in its song, accidentally letting off its \"Soul Crusher\" even though there aren't any enemies, it's probably safest to leave the spot at once if Shoutmon starts singing, so that it doesn't notice you.Shoutmon itself is said to have the mysterious trait of always having itsMcField-brand mic[N 1]in its possession, and a Shoutmon without the mic is not really a Shoutmon. It is said that a Shoutmon that has completely lost its mic will rapidly lose power from the shock of not being a Shoutmon anymore, and before long it will have wasted away. Therefore, you should never play a practical joke like hiding the mic. Incidentally, its \"Rowdy Rocker\" lets it wield the mic as inbōjutsu, so it is excellent not only in scuffling matches but also in performances.Digimon Reference Book⇨ English血気盛んで非常に攻撃性の高い凶暴なデジモン。しかし仲間に対しては友好的であり、シャウトモンに認められれば種族を超えた親交も深めることができる。シャウトモンのノドには情熱をエネルギーに変換する特殊な機能があり、胸の奥に燃えさかる熱い想いをマイクで増幅し相手にぶつける「ソウルクラッシャー」という攻撃を行う。情熱こそが攻撃の源であるため、いかに体にダメージを与えようとも、情熱が消えない限りシャウトモンが戦いを諦めることはなく、シャウトモンが攻撃性の高い凶暴なデジモンと言われる由縁である。凶暴に見える反面、音楽や歌が好きという一面があり、風の音、雨だれ、川のせせらぎ、木の葉のざわめきなど自然の音をＢＧＭに歌を口ずさむのを好む。しばしば歌に熱中しすぎて敵もいないのに「ソウルクラッシャー」を暴発させる場合もあるため、シャウトモンが歌い始めたら気付かれないようにその場を離れるのが無難だろう。シャウトモンにはマクフィルド社製のマイクを必ず所有するという不思議な習性があり、マイクを持っていないシャウトモンはシャウトモンではない。マイクを無くししまったシャウトモンは、シャウトモンでなくなってしまったショックにより急速にパワーを失い、やがて衰弱してしまうと言われている。よってマイクを隠すなどのイタズラは決してしてはいけない。ちなみにこのマイクを棒術のように使った「ラウディーロッカー」は格闘戦だけではなく、パフォーマンスとしても秀逸であるデジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shoutmon"
+    },
+    {
+      "id": "bulk",
+      "name": "Bulkmon",
+      "name_jp": "Bulkmon",
+      "name_ko": "벌크몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5200",
+        "hp": "3600",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/bulk/frame1.gif",
+        "frame2": "sprites/bulk/frame2.gif"
+      },
+      "artwork": "sprites/bulk/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved via the data of a body composition monitor​ that measures muscle mass. It has a bellicose personality, and the power brought about by its unnaturally well-developed upper body muscles is top-class even among Adult Digimon. Its reaction speed is extremely high despite its large size, and it overwhelms its enemies with its tremendous power and speed. It is a hard worker, always continuing its training when it is not eating or sleeping.Its Special Move is sending the enemy flying with a blow from its electricity-laced fist (Electrical Fist). To deal with opponents that refuse to come closer, it unleashes an electric attack by discharging the electrical energy stored in its horn (Thunder Dread).Digimon Reference Book⇨ English筋肉量を調べる体組成計のデータで進化したデジモン。好戦的な性格で、異常に発達した上半身の筋肉から生み出されるパワーは成熟期デジモンの中でもトップクラスだ。そして巨体ながら瞬発力も非常に高く、豪快なパワーとスピードで敵を圧倒する。食事と睡眠の時以外は常にトレーニングを続ける努力家。必殺技は電気を纏った拳で敵を吹き飛ばす『エレクトリカルフィスト』。近づいてこない相手にはツノに溜め込んだ電気エネルギーを放出する雷撃『サンダードレッド』で対応する。デジモン図鑑",
+        "ko": "근육량을 조사하는 체조성계의 데이터로 진화한 디지몬. 호전적인 성격이며, 과도하게 발달한 상반신의 근육에서 발산되는 파워는 성숙기 디지몬 중에서도 탑 클래스다. 그리고 거구이지만 순발력도 상당히 높아, 호쾌한 파워와 스피드로 적을 압도한다. 식사와 수면 때 이외에는 항상 트레이닝을 계속하는 노력가. 필살기는 전기를 두른 주먹으로 적을 날려버리는 '일렉트릭컬 피스트'. 접근해오지 않는 상대에게는 뿔에 모아둔 전기 에너지를 방출하는 뇌격 '썬더 드레드'로 대응한다."
+      },
+      "wikimon_url": "https://wikimon.net/Bulkmon"
+    },
+    {
+      "id": "reppa",
+      "name": "Reppamon",
+      "name_jp": "Reppamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "3700",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/reppa/frame1.gif",
+        "frame2": "sprites/reppa/frame2.gif"
+      },
+      "artwork": "sprites/reppa/artwork.jpg",
+      "lore": {
+        "en": "Akamaitachi-like Digimon whose tail has become a blade. There is a will in the blade on its tail, and it has become possible for it to cope even with attacks that surprise it from behind. However, it isn't suited for mutual communication, and it has been seen quarreling with its tail in the middle of battle. It prefers to fight within forests, and it skillfully employs its claws and tail to easily climb trees, so close attention is necessary when fighting Reppamon in the forest. Its Special Moves are striking during a forward somersault (Kurukuru Rekkūzan), and wildly ripping apart the opponent with its sharp claws (Jūga Rangeki). Also, when it shakes its tail, it releases its \"Shinkū Kamaitachi\", a blade of wind that can't be seen by the eye, so it is a Digimon that you can't drop your guard around.Digimon Reference Book⇨ English尻尾が刃になっている鎌鼬（カマイタチ）の様なデジモン。尻尾の刃自身に意思があり、背後からの不意をついた攻撃にも対処できるようになっている。しかし意思の疎通が合わず戦いの最中に尻尾とケンカをしている姿も目撃されている。森の中での戦闘を好み、爪と尻尾を上手く使い木々を軽々と駆け登るため、森の中でレッパモンと戦うのは細心の注意が必要とされる。必殺技は、前転しながら突撃する『駆駆裂空斬（くるくるれっくうざん）』と、鋭い爪で相手を乱れ裂く『獣牙乱撃（じゅうがらんげき）』。また、尻尾を振った時には、目には見えない風の刃『真空カマイタチ』を放つので油断できないデジモンである。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Reppamon"
+    },
+    {
+      "id": "thunderball",
+      "name": "Thunderballmon",
+      "name_jp": "Thunderballmon",
+      "name_ko": "번개콩알몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4800",
+        "hp": "3300",
+        "ap": "1150"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/thunderball/frame1.gif",
+        "frame2": "sprites/thunderball/frame2.gif"
+      },
+      "artwork": "sprites/thunderball/artwork.jpg",
+      "lore": {
+        "en": "Also known as the \"Digimon Dynamo\", this Mutation Digimon is conjectured to be a member of theMamemon-species. Its tiny body has the properties of a magnet, and is always clad in electricity and discharging lightning. When under enemy attack, it fires spheres of discharged electricity at as much as 10 MV towards them (Thunder Ball).Digimon Reference Book⇨ English“デジモン発電機”とも呼ばれ、マメモン系の一種と推測されている突然変異型デジモン。小さな体は磁石の性質を持ち、常に電気をまとって放電している。攻撃してくる敵には１０００万ボルトにもなる放電球を発射する『サンダーボール』。デジモン図鑑",
+        "ko": "\"디지몬 발전기\"라고 불리는 콩알몬계의 일종이라고 추측되고 있는 돌연변이형 디지몬. 작은 몸은 자석의 성질을 가져서 전기를 휘감고 방전하고 있다. 공격해 오는 적에게 1000만 볼트나 되는 고전압의 방전구를 발사하는 \"썬더 볼\"."
+      },
+      "wikimon_url": "https://wikimon.net/Thunderballmon"
+    },
+    {
+      "id": "bladekuwaga",
+      "name": "Blade Kuwagamon",
+      "name_jp": "Blade Kuwagamon",
+      "name_ko": "블레이드쿠가몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5000",
+        "hp": "3000",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/bladekuwaga/frame1.gif",
+        "frame2": "sprites/bladekuwaga/frame2.gif"
+      },
+      "artwork": "sprites/bladekuwaga/artwork.jpg",
+      "lore": {
+        "en": "An Insect-type Machine Digimon whose entire body has been weaponized. Although it is an Adult, it is a rare species whose whole body has been turned intoChrome Digizoid. It has a habit of reacting indiscriminately to anything that moves, and even Ultimate Digimon have been known to get pierced all over their bodies when attacked by a swarm of Blade Kuwagamon, killing them. Its Special Moves are turning into a blade of light and piercing with it (Spark Blade), and generating a vacuum wave (Air Knife).Digimon Reference Book⇨ English全身が凶器と化した昆虫タイプのマシーン型デジモン。成熟期にして、全身がクロンデジゾイド化されている希少種である。動くものに見境無く反応する習性があり、ブレイドクワガーモンの群れに襲われると究極体デジモンですら全身を貫かれ絶命することもあるという。必殺技は、光の刃となって貫く『スパークブレイド』と、真空波を生み出す『エアーナイフ』。デジモン図鑑",
+        "ko": "온몸이 흉기로 되어있는 곤충형태를 하고 있는 머신형 디지몬. 성숙기인데도 온몸이 크롬디지조이드화된 희귀종이다. 움직이는 것에 구별없이 반응하는 습성이 있어서 블레이드쿠가몬의 무리에 휩싸이면 궁극체 디지몬도 온몸이 관통되어 절명할 수도 있다. 필살기는 빛의 칼날이 되어 적을 꿰뚫는 스파크 블레이드와 진공파를 날리는 에어 나이프이다."
+      },
+      "wikimon_url": "https://wikimon.net/Blade_Kuwagamon"
+    },
+    {
+      "id": "shout_x4",
+      "name": "Shoutmon X4",
+      "name_jp": "Shoutmon X4",
+      "name_ko": "샤우트몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "4000",
+        "ap": "1350"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/shout_x4/frame1.gif",
+        "frame2": "sprites/shout_x4/frame2.gif"
+      },
+      "artwork": "sprites/shout_x4/artwork.jpg",
+      "lore": {
+        "en": "A miraculous form called the \"Victory Mode\", born from four Digimon's powerful desire to gain absolute victory. Its raison d'être is nothing but enforcing this conviction. That power is tremendous, and it isn't a mistake to count it as one of the strongest Digimon.Its main specialty is in battling on the ground, where it can cut any opponent in two with a single stroke, even if they are moving about quickly (Burning Star Crusher), use a comeback punch that will find it a way out of any predicament (Three Impact), and so forth. Incidentally, it can also hurl a wave from theStar Sword DX(Burning Star Slasher).Digimon Reference Book⇨ English４体のデジモンの絶対に勝利を勝ち取るという強い想いが誕生させたのが『ヴィクトリー形態』という奇跡の姿。信念を貫き通すことだけがその存在理由である。その力は絶大であり、間違いなく最強のデジモンの１体に数えられる。主に地上での戦いを得意とし、立ち回りが早くどんな敵も一刀両断する「バーニングスタークラッシャー」や、窮地において活路を見いだす起死回生のパンチ「スリーインパクト」などがある。ちなみにスターソードＤＸから波動をとばす「バーニングスタースラッシャー」もある。デジモン図鑑",
+        "ko": "혈기가 왕성한데다 공격성이 비상히 높은 흉폭한 디지몬. 하지만 동료에 한해선 우호적이며 샤우트몬과 안면을 트면 종족을 뛰어넘은 친교관계를 맺는 것도 가능하다. 샤우트몬의 노드에는 정열을 에너지로 변환하는 특수한 기능이 있어, 흉부의 안쪽에서 타오르는 뜨거운 마음을 마이크로 증폭해 적에게 쏘는 「소울 크러셔」라는 공격을 할 수 있다. 정열이야말로 공격의 원천이기 때문에, 아무리 데미지를 입어도, 정열이 식지 않는 한 샤우트몬이 싸움을 끝내지 않아, 샤우트몬이 공격성 강한 흉폭한 디지몬이라고 알려진 연유이기도 하다. 흉폭해 보이는 반면, 음악이나 노래를 좋아한다는 일면도 있어, 바람의 소리, 비내리는 소리, 시냇물이 흐르는 소리, 나뭇잎 소리 등 자연의 소리를 배경삼아 목청껏 노래부르는 것을 즐긴다. 노래부르는 데 한창 열중하면 적이 없음에도 불구하고 「소울 크러셔」가 제멋대로 폭발하는 일도 있으므로, 샤우트몬이 노래를 시작했다면 방해하지 말고 곧장 그곳을 뜨는 게 무난할 것이다. 샤우트몬에게는 맥필드 사(社) 제의 마이크를 반드시 소유하고 있다는 영문 모를 성질이 있어, 마이크를 지니지 않은 샤우트몬은 샤우트몬이라고 할 수 없다. 마이크를 잃어버린 샤우트몬은, 샤우트몬이 아니게 되었다는 쇼크로 인해 급속히 파워를 잃고, 이윽고 쇠약해지고 만다고 전해진다. 그래서 마이크를 숨기는 등의 장난을 결코 해선 안된다. 덧붙여 이 마이크를 봉술을 쓰듯 사용하는 「라우디 락커」는 격투전 뿐만 아니라, 퍼포먼스로도 선보여진다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Shoutmon_X4"
+    },
+    {
+      "id": "bout",
+      "name": "Boutmon",
+      "name_jp": "Boutmon",
+      "name_ko": "바우트몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5230",
+        "hp": "4500",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/bout/frame1.gif",
+        "frame2": "sprites/bout/frame2.gif"
+      },
+      "artwork": "sprites/bout/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved from the data ofcombat sportssuch askarate. It is a courteous sportsman who has learned the rules of every type of martial arts, and values ​​fighting in the game format its opponent wants. Although Boutmon uses a wide variety of techniques, other than those from sports, non-existent techniques like those in fighting games also show up from time to time.Its Special Moves are landing anaxe kickinto the opponent's skull with lightning (Raigekishou), and firing oversized energy shots from its held-out palms (Budenhadan). In addition, it dishes out a series of kicking and punching techniques without giving the opponent a chance to strike back (Jinrai Kaitengeki).Digimon Reference Book⇨ English空手などの格闘競技のデータから進化したデジモン。あらゆる格闘技のルールがラーニングされており、相手が望む試合形式で戦うことを重んじる礼儀正しいスポーツマンだ。バウトモンが使う技もバラエティに富んでいるが、時々スポーツだけではなく格闘ゲームなどの実在しない技が飛び出すことがある。必殺技は雷と共にかかと落としを相手の脳天に入れる『雷撃踵（らいげきしょう）』、構えた両掌から特大のエネルギー弾を放つ『武電破弾（ぶでんはだん）』。そして、相手に反撃の隙を与えず蹴りやパンチの連続技を叩き込む『迅雷廻天戟（じんらいかいてんげき）』。デジモン図鑑",
+        "ko": "가라데 등의 격투 경기의 데이터로부터 진화한 디지몬. 모든 격투기의 룰이 러닝되어 있고, 상대가 원하는 경기 형식으로 싸우는 것을 중시하는 예의 바른 스포츠맨이다. 바우트몬이 사용하는 기술도 다양하지만, 때때로 스포츠뿐만 아니라 격투게임 등 실재하지 않는 기술이 튀어나올 때도 있다. 필살기는 번개와 함께 발뒤꿈치를 상대의 정수리에 내리꽂는 '뇌격종', 준비된 양 손바닥에서 특대의 에너지탄을 뿜어내는 '무전파탄'. 그리고 상대방에게 반격의 틈을 주지 않고 발차기나 펀치의 연속기로 공격하는 '신뢰회천극'."
+      },
+      "wikimon_url": "https://wikimon.net/Boutmon"
+    },
+    {
+      "id": "tyilin",
+      "name": "Tyilinmon",
+      "name_jp": "Tyilinmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5400",
+        "hp": "4200",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/tyilin/frame1.gif",
+        "frame2": "sprites/tyilin/frame2.gif"
+      },
+      "artwork": "sprites/tyilin/artwork.jpg",
+      "lore": {
+        "en": "Said to be an ancient Digimon that was born at the creation of theDigital World, it is a Holy Beast Digimon that has been handed down through legend as boasting strength on par with an Ultimate, even though it is a Perfect. Although it is a Digimon that possesses mighty strength, it deeply detests conflict, and it is said that it will never shed blood. Although it has a deeply compassionate personality that loves everything living in the Digital World, when it is up against a being that commits senseless killings, it is said that it will inflict merciless punishment. Its Special Moves are abruptly swooping from the skies, running through the opponent with the horn on its head (Shippū Tenshouken), and using its fast movements to unleash clones and confound the opponent (Jinsoku no Kokoroe). Also, Tyilinmon emits an aura, and when it flaps its wings, its \"Kaishin no Hadou\" is fired off, which guides even its opponents on the path to holiness.Digimon Reference Book⇨ Englishデジタルワールド創生の頃に誕生した古代デジモンであると言われており、完全体にして究極体と互角の強さを誇ると伝承されている聖獣型デジモン。強大な力を持つデジモンであるが、争いを極端に嫌い、殺生は決して行わないと伝えられている。デジタルワールドに生きるすべてのものを慈しむ慈悲深い性格を持つが、それ故に無益な殺生を行う存在に対しては、手加減なしの制裁を加えることもあるという。必殺技は、上空から一気に急降下し、頭部の角で敵を貫く『疾風天翔剣（しっぷうてんしょうけん）』と、素早い動きで分身を繰り出し相手を撹乱する『迅速の心得（じんそくのこころえ）』。また、チィリンモンがオーラを放ち、ひとたび翼を羽ばたく時、敵をも聖なる道へと導く『改心の波動』が放たれる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tyilinmon"
+    },
+    {
+      "id": "giro",
+      "name": "Giromon",
+      "name_jp": "Giromon",
+      "name_ko": "째리몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5000",
+        "hp": "4400",
+        "ap": "1450"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/giro/frame1.gif",
+        "frame2": "sprites/giro/frame2.gif"
+      },
+      "artwork": "sprites/giro/artwork.jpg",
+      "lore": {
+        "en": "A Digimon who patrols within theComputer Networkwhile floating lightly in the air. Also known as the \"Net Keeper\", it repels Digimon who try to enter theNetworkillegally. It is a truly frightening Digimon; the moment it judges someone to be an enemy, it will fend them off with all the attacks it is able to muster, and it is said that if it is driven into a predicament, it will completely annihilate the intruder by blowing itself up. Its Special Move is a super-powerful hand grenade (Deadly Bomb).Digimon Reference Book⇨ Englishふわふわと空中に浮きながら、コンピュータネットワーク内をパトロールしているデジモン。別名“ネットキーパー”とも呼ばれ、違法にネットワークに進入しようとするデジモンを撃退する。敵と判断すると、持てる全ての攻撃で敵を撃退し、窮地に追い込まれると自ら自爆して進入者を消滅させてしまうと言われている恐ろしいデジモンなのだ。必殺技は超強力な手投げ爆弾『デッドリーボム』。デジモン図鑑",
+        "ko": "두둥실 공중을 떠다니며 컴퓨터 네트워크 내부를 순찰하는 디지몬. \"네트워크 키퍼\"라는 별명으로도 불리며 위법으로 네트워크에 침입하려는 디지몬을 물리친다. 적이라고 판단하면 자신이 지닌 모든 공격을 퍼부어 적을 물리치며 궁지에 몰리면 스스로 자폭해서 침입자를 소멸시켜 버린다고 알려진 무서운 디지몬이다. [4] 필살기는 초강력 투척 폭탄 『데들리 봄 [5] 』이다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Giromon"
+    },
+    {
+      "id": "kyuki",
+      "name": "Kyukimon",
+      "name_jp": "Kyukimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5100",
+        "hp": "3900",
+        "ap": "1450"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/kyuki/frame1.gif",
+        "frame2": "sprites/kyuki/frame2.gif"
+      },
+      "artwork": "sprites/kyuki/artwork.jpg",
+      "lore": {
+        "en": "A Bewitching Beast Digimon with an appearance resembling the \"Kamaitachi\", a legendaryyōkai. The hairs that cover it from head to toe indiscriminately tear anything in its surroundings to pieces with their sharp edges, so it is truly a deadly weapon-like bladed beast. It is also fast, tearing its whole body to shreds as it raises a whirlwind. Its Special Moves are creating a tornado around the enemy, and mincing them with vacuum blades (Blade Twister), and shooting diamond-shaped seals from its brow (Sanrensei).Digimon Reference Book⇨ English伝説上の妖怪“カマイタチ”のような姿をした妖獣型デジモン。体中の体毛が鋭い刃で周りのものを見境なく切り裂き、まさに凶器の様な剣獣だ。スピードも速く、つむじ風が起きたと同時に体中を切り裂かれてしまう。必殺技は、敵を中心に竜巻を起こし、真空の刃で切り刻む『ブレイドツイスター』と、額から菱形の印を撃つ『三連星』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kyukimon"
+    },
+    {
+      "id": "metallifekuwaga",
+      "name": "Metallife Kuwagamon",
+      "name_jp": "Metallife Kuwagamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4800",
+        "hp": "4000",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metallifekuwaga/frame1.gif",
+        "frame2": "sprites/metallifekuwaga/frame2.gif"
+      },
+      "artwork": "sprites/metallifekuwaga/artwork.jpg",
+      "lore": {
+        "en": "A subspecies ofKuwagamonwhich rapidly boosted its offensive power by means of armification. It has also gained grappling ability due to the fact that its form has become humanoid, and as it has both a tough shell as well as nimble movements, it boasts top-class balance among Perfect Digimon. It is able to freely alter the trajectory of its \"Homing Laser\", a beam fired from the gun points equipped to the fingertips of its hands, at its own will, allowing the beam to avoid any kind of obstacle and hit the opponent dead on. Also, it demonstrates its power in close combat with its \"Emit Blade\", which emits a beam in the shape of a blade and slashes with it.Digimon Reference Book⇨ English武装化により、攻撃力を飛躍的にアップさせたクワガーモンの亜種。形状が人型になったことで格闘能力も得ており、固い甲殻と素早い動きを併せ持ち、完全体デジモンの中ではトップクラスのバランスを誇る。両手の指先に装備した銃口から放つビーム攻撃『ホーミングレーザー』はメタリフェクワガーモンの意志で自在に軌道を曲げることが可能で、いかなる障害物もかわして敵に直撃させることが可能となっている。また、ビームを刃状に放出し切りつける『エミットブレイド』は近接戦闘で威力を発揮する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metallife_Kuwagamon"
+    },
+    {
+      "id": "omegashout",
+      "name": "Omega Shoutmon",
+      "name_jp": "Omega Shoutmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5900",
+        "hp": "4900",
+        "ap": "1700"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/omegashout/frame1.gif",
+        "frame2": "sprites/omegashout/frame2.gif"
+      },
+      "artwork": "sprites/omegashout/artwork.jpg",
+      "lore": {
+        "en": "Omega Shoutmon is a form obtained whenOmegamonbestowed the legendary \"Evolution\" upon aShoutmonthat released its boiling hot soul. In addition to its intense passion, it shines gold because its whole body is clad in theOmega inForce, a power received from Omegamon, and its build has also become crisp and sharp. Because of its body's glitter and sharpness, its enemies only see Omega Shoutmon's figure as an afterimage that cannot be pursued. Its \"Heavy Metal Vulcan\", which fires from its chest a hail of shots converted from the passion of its overflowing friendship into firepower, is not only an attack but also becomes an impregnable barrage that keeps opponents away, protecting its comrades. It effuses its passion to justice from the \"V\" on its head and assaults the opponent while shining greater than the sun, eradicating them (Victorize Banking). With its \"Hard Rock Damashī\", in which the passion of its courage turns into flames and surges in its fists, it is able to suit its attack to the situation, by striking the opponent when in close range, and hurling the flames when at long range. Its \"Beat Slash\", in which its feet become blades by filling them with the passion of its fighting spirit, kicks and cuts apart the opponent. Its \"Omega the Fusion\", in which it draws the power of the Omega inForce from its whole body, concentrates it into an aura, and shoots it at the opponent, blows away even the morale of those who witness it.Digimon Reference Book⇨ Englishオメガシャウトモンは湧き上がる熱いソウルを解き放ったシャウトモンにオメガモンが伝説の「進化」を与え手に入れた姿だ。激しい情熱に加え、オメガモンから授かった力、オメガインフォースを全身に纏ったことで黄金に輝き、キレのあるシャープな体付きとなっている。その体のきらめきと鋭さから敵はオメガシャウトモンの姿を追えず光の残像として目撃することとなる。胸から溢れ出る友情の情熱を火力に変えた弾丸を猛射する「ヘヴィメタルバルカン」は攻撃だけではなく、敵を寄せ付けない鉄壁の弾幕となって仲間を護る。頭のＶ字から正義への情熱が迸り太陽よりも輝かせ突撃し敵を一掃する「ビクトライズ・バンキング」。勇気の情熱が炎となって拳にほとばしる「ハードロックダマシー」は近距離時で敵を殴り、遠距離時は炎を飛ばし状況に応じた攻撃ができる。足に闘志の情熱を込めることで刃となり「ビートスラッシュ」で敵を蹴り裂く。全身にオメガインフォースの力を引き出したオーラで包み凝縮して敵に撃ち放つ「オメガ・ザ・フュージョン」は、その輝かしさの前に見た者の士気すら消し飛ばしてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Omega_Shoutmon"
+    },
+    {
+      "id": "kazuchi",
+      "name": "Kazuchimon",
+      "name_jp": "Kazuchimon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6500",
+        "hp": "5000",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/kazuchi/frame1.gif",
+        "frame2": "sprites/kazuchi/frame2.gif"
+      },
+      "artwork": "sprites/kazuchi/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Digimon that evolved by tempering its body and soul to the limit through unimaginable training. To Kazuchimon, fighting is something it has devoted everything to, and is a sacred rite that must never be desecrated. It is a natural-born warrior who is so immersed in refining its tactics and strategies that it forgets to eat and sleep, and once in battle, it turns into a raging war god and exhibits the strength to take on a thousand warriors.Its Special Moves are cutting down the enemy with the lightning swords it holds bydual wieldingthem (Nitou Seirai), and erecting a barrier of lightning and forcing them into a one-on-one battle (Shidou Ittetsu). In addition, it makes sure to finish them off with its final secret technique \"Shinden Shouraikou\", where it condenses the electrical energy in its surroundings and fires an ultra-high density shot of lightning.Digimon Reference Book⇨ English想像を絶する修行で、肉体と精神を限界まで鍛え上げ進化した究極体デジモン。カヅチモンにとって戦いは全てを捧げるもので、決して汚してはならない聖なる儀式だ。寝食を忘れて戦法や戦略を錬り続けるほどのめり込む生粋の戦士であり、ひとたび戦となると荒ぶる戦神となって一騎当千の力を発揮する。必殺技は二刀流で構えた雷の刀で敵を斬り伏せる『二刀勢雷（にとうせいらい）』と、稲妻の結界を張って一対一の戦いを強制する『士道一徹（しどういってつ）』。そして、周囲の電気エネルギーを圧縮した超高密度の雷の弾を放つ最終奥義『神電召雷光（しんでんしょうらいこう）』で確実にとどめを刺す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kazuchimon"
+    },
+    {
+      "id": "mitama",
+      "name": "Mitamamon",
+      "name_jp": "Mitamamon",
+      "name_ko": "미타마몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5600",
+        "hp": "5700",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/mitama/frame1.gif",
+        "frame2": "sprites/mitama/frame2.gif"
+      },
+      "artwork": "sprites/mitama/artwork.jpg",
+      "lore": {
+        "en": "A holy Digimon that is said to send the souls of Digimon who have done good deeds in their past lives to heaven. It is a collective of the four energies of fire, water, lightning and wind, and it lacks physical form except for itsDigicore. Despite being visible, it cannot be touched; only those who have been recognized by Mitamamon itself or Digimon who are on the brink of death are allowed to touch it.However, those who have deduced the location of Mitamamon's Digicore are also capable of touching it; hence, although extremely rare, there are times when it is challenged to battle by rough-tempered Digimon.Because Mitamamon has a calm personality and despises conflict, it very often dismisses battles that it has been challenged to. However, when facing those who have already incurred its wrath, Mitamamon changes into a raging beast that deals to them a crushing blow without mercy.Its Special Moves are shooting its wheels, cloaked in flame, along with a gust of wind (Gouenrin), and striking down the enemy with lightning that never misses, unleashed from its eye (Kaijinraidou). In addition, it also has a healing technique called \"Kyouka Suigetsu\", where it heals injuries received in battle using the element of water.Digimon Reference Book⇨ English生前に善行を積んだデジモンの魂を天に送るといわれている神聖なデジモン。火・水・雷・風という四つのエネルギーの集合体であり、デジコア以外の実体が存在しない。姿は視認出来ても触ることが出来ず、ミタマモン自身が認めた者か死の間際にいるデジモンだけが触れることを許される。しかし、デジコアの位置を見抜いた者もミタマモンに触れることが出来てしまうため、極希だが気性の荒いデジモン達に戦いを挑まれる事がある。ミタマモン自身は心穏やかな性格で争いを好まないことから、挑まれた戦いは無視する事の方が多い。だが、ひとたび逆鱗に触れた者に対しては、ミタマモンは容赦なく鉄槌を下す怒れる獣と化す。必殺技は、炎を纏わせた車輪を突風と共に射出する『轟炎輪（ごうえんりん）』と、瞳から放つ必中の雷で敵を討つ『灰迅雷瞳（かいじんらいどう）』。その他にも、水の元素により戦いの傷を治癒する『響香水月（きょうかすいげつ）』という回復技も存在する。デジモン図鑑",
+        "ko": "생전에 선행을 쌓은 디지몬의 영혼을 하늘로 보낸다고 알려진 신성한 디지몬. 불, 물, 천둥, 바람 4개의 에너지의 집합체로 디지코어 외에는 실체가 존재하지 않는다. 모습은 확인할 수 있어도 만질 수 없으며 미타마몬이 인정한 자 또는 죽음의 문턱에 있는 디지몬에게만 손을 대는 것을 허락한다. 하지만 디지코어의 위치를 알아차린 자도 미타마몬을 만질 수 있기 때문에 드물지만 사나운 디지몬들이 싸움을 거는 경우가 있다. 미타마몬 본인은 평온한 성격으로 싸움을 좋아하지 않기에 누군가 싸움을 걸면 무시할 때가 많다. 하지만 한번 역린을 건드린 자에게는 미타마몬이 가차 없이 철퇴를 가하는 성난 짐승으로 돌변한다. 필살기는 불꽃을 휘감은 바퀴를 돌풍과 함께 발사하는 『굉염륜』과 눈동자에서 쏘는 백발백중의 벼락으로 적을 토벌하는 『회신뇌동』이다. 그 외에도 물의 원소로 전투에서 생긴 상처를 치료하는 『향향수월』이라는 회복 기술도 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Mitamamon"
+    },
+    {
+      "id": "raijin",
+      "name": "Raijinmon",
+      "name_jp": "Raijinmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "5200",
+        "ap": "1850"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/raijin/frame1.gif",
+        "frame2": "sprites/raijin/frame2.gif"
+      },
+      "artwork": "sprites/raijin/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon bestowed with the name of theRaijinof Oriental folklore. A fighting-type that is strong in close combat, its Signature Move is \"Blitz Arm\", in which it dishes out a barrage of punches with the same lightning-type arm asJustimon. Its Special Move is charging with the connector on its tail, and firing intense lightning from its shoulders into its surroundings (Elekugel).Digimon Reference Book⇨ English東洋の伝説にある雷神の名を与えられたサイボーグ型デジモン。近接戦闘に強い格闘タイプで、ジャスティモンと同じ電撃タイプの腕でパンチの連打をきめる『ブリッツアーム』が得意技だ。必殺技は、尻尾のコネクタで充電し、両腕から激しい雷撃を周囲に放つ『エレクーゲル』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Raijinmon"
+    },
+    {
+      "id": "raiden",
+      "name": "Raidenmon",
+      "name_jp": "Raidenmon",
+      "name_ko": "라이덴몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4900",
+        "hp": "5600",
+        "ap": "1800"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/raiden/frame1.gif",
+        "frame2": "sprites/raiden/frame2.gif"
+      },
+      "artwork": "sprites/raiden/artwork.jpg",
+      "lore": {
+        "en": "A heavyweight-class Machine type Digimon equipped with electromagnetic weapons. It was created as a shooting-type, unlikeRaijinmon, who similarly uses lightning as its energy. Although it is not as adept in close combat, it defends itself using its thick armor, and counterattacks with its left arm. Its Special Moves are causing acorona dischargebrought upon by a 45000-volt electric attack (KirlianBrand), and firing ultra-high temperature spheres from the gun barrels on both of its shoulders (Rising Sun).Digimon Reference Book⇨ English電磁兵器を装備した重量級のマシーン型デジモン。同じく雷をエネルギーとしているライジンモンと違い、射撃タイプとして造られた。格闘戦は苦手だが厚い装甲で身を守り、左手のアームで反撃する。必殺技は、45,000ボルトの電撃で放電を起こす『キルリアン・ブラント』と、両肩の砲身から超高熱球を放つ『ライジング・サン』デジモン図鑑",
+        "ko": "전자 병기를 장비한 중량급의 머신형 디지몬. 같은 번개를 에너지로 하는 뇌신몬 과 달리, 사격 타입으로 만들어졌다. 격투전은 잘 못하지만 두꺼운 갑옷으로 몸을 지키고 왼손의 암으로 반격한다. 필살기는 45000볼트의 전격으로 코로나 방전 을 일으키는 ' 키를리안 브랜드 [2] '와 양 어깨의 포신에서 초고열구를 발사하는 ‘라이징 선’."
+      },
+      "wikimon_url": "https://wikimon.net/Raidenmon"
+    },
+    {
+      "id": "shout_dx",
+      "name": "Shoutmon DX",
+      "name_jp": "Shoutmon DX",
+      "name_ko": "샤우트몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "5800",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/shout_dx/frame1.gif",
+        "frame2": "sprites/shout_dx/frame2.gif"
+      },
+      "artwork": "sprites/shout_dx/artwork.jpg",
+      "lore": {
+        "en": "The \"Crusade Mode\", born whenOmega Shoutmon, who boasts the swiftest speed, obtained the fighting strength ofZeke Greymon, who boasts unparalleled power, incarnating its high defensive and offensive power without losing Omega Shoutmon's speed by obtaining Zeke Greymon's \"Gold Digizoid\". There is never an opponent too formidable before the \"Crusade Mode\", who boasts high mobility and offensive power.Shoutmon DX possesses a disposition that contrasts clever divinity with ferocious bestiality, deriving from the instincts within Omega Shoutmon and Zeke Greymon. Although it normally has a mild, kind, and friendly personality, once it gets into battle, it has a complete about-face to a warrior burning with fury. It becomes both cool and audacious enough for battles to get violent, and that appearance is fitting to the name of \"Crusade Mode\", as it seems to be one who acts as an agent of divine punishment.The \"Electric Buster Xros\" bayonets equipped to its right arm demonstrate their power in both gun and sword attacks, and the gigantic \"TridentJusFang\" claws on its left arm not only release a powerful blow, but also use that sturdiness to function as a shield.\"Brave Beat Rock Double Xros\" is Shoutmon DX's Final Move. Omega Shoutmon's and Zeke Greymon's flames become one, clothing its body with the hellfire that purifies all corruption. Its appearance when it becomes an incarnation of flame and assaults the opponent looks like a meteor, and completely vaporizes all of the opponents.Digimon Reference Book⇨ English神速のスピードを誇るオメガシャウトモンが無双のパワーを誇るジークグレイモンの戦闘力を手に入れて誕生した『クルセイド形態』は、ジークグレイモンの“ゴールドデジゾイド”を得たことでオメガシャウトモンのスピードを失わずに高い防御力と攻撃力を具現化させている。高機動高攻撃力を誇る『クルセイド形態』の前にはかつての強敵も相手ではない。シャウトモンＤＸは内面にオメガシャウトモンとジークグレイモンの本能に由来するクレバーな神性と凶暴な獣性の相反する性質を持っている。通常は温和で優しく親しみやすい性格であるが、一たび戦闘になると激情に燃える戦士へと一変する。戦いが激しくなるほど冷静沈着かつ大胆になり、その姿は『クルセイド形態』の名のとおり神罰を代行する者の様だ。右手に装備する銃剣「エレキバスタークロス」は銃撃と剣撃の両方に威力を発揮し、左手の巨大な爪「トライデントジャスファング」は強力な一撃を放つだけではなくその強固さを利用して盾としても機能する。「ブレイブビートロックダブルクロス」はシャウトモンＤＸの最終技である。オメガシャウトモンの炎とジークグレイモンの炎が１つとなり、一切の汚れを浄化する業火を身にまとう。炎の化身となって敵に突撃するその様は流星に見え、すべての敵は爆散蒸発してしまう。デジモン図鑑",
+        "ko": "혈기가 왕성한데다 공격성이 비상히 높은 흉폭한 디지몬. 하지만 동료에 한해선 우호적이며 샤우트몬과 안면을 트면 종족을 뛰어넘은 친교관계를 맺는 것도 가능하다. 샤우트몬의 노드에는 정열을 에너지로 변환하는 특수한 기능이 있어, 흉부의 안쪽에서 타오르는 뜨거운 마음을 마이크로 증폭해 적에게 쏘는 「소울 크러셔」라는 공격을 할 수 있다. 정열이야말로 공격의 원천이기 때문에, 아무리 데미지를 입어도, 정열이 식지 않는 한 샤우트몬이 싸움을 끝내지 않아, 샤우트몬이 공격성 강한 흉폭한 디지몬이라고 알려진 연유이기도 하다. 흉폭해 보이는 반면, 음악이나 노래를 좋아한다는 일면도 있어, 바람의 소리, 비내리는 소리, 시냇물이 흐르는 소리, 나뭇잎 소리 등 자연의 소리를 배경삼아 목청껏 노래부르는 것을 즐긴다. 노래부르는 데 한창 열중하면 적이 없음에도 불구하고 「소울 크러셔」가 제멋대로 폭발하는 일도 있으므로, 샤우트몬이 노래를 시작했다면 방해하지 말고 곧장 그곳을 뜨는 게 무난할 것이다. 샤우트몬에게는 맥필드 사(社) 제의 마이크를 반드시 소유하고 있다는 영문 모를 성질이 있어, 마이크를 지니지 않은 샤우트몬은 샤우트몬이라고 할 수 없다. 마이크를 잃어버린 샤우트몬은, 샤우트몬이 아니게 되었다는 쇼크로 인해 급속히 파워를 잃고, 이윽고 쇠약해지고 만다고 전해진다. 그래서 마이크를 숨기는 등의 장난을 결코 해선 안된다. 덧붙여 이 마이크를 봉술을 쓰듯 사용하는 「라우디 락커」는 격투전 뿐만 아니라, 퍼포먼스로도 선보여진다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Shoutmon_DX"
+    },
+    {
+      "id": "shout_x7",
+      "name": "Shoutmon X7",
+      "name_jp": "Shoutmon X7",
+      "name_ko": "샤우트몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5800",
+        "hp": "6200",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/shout_x7/frame1.gif",
+        "frame2": "sprites/shout_x7/frame2.gif"
+      },
+      "artwork": "sprites/shout_x7/artwork.jpg",
+      "lore": {
+        "en": "The \"Ardor-burst Mode\" whichdigixrosedfour Digimon withShoutmon DXand attained further power. Its four passionate hearts burn within the \"Gold Digizoid\" that forms its body, and emit a divine aura. When Shoutmon X7 stands upon the battlefield, it is in the realization of a peaceful world, which is the entire goal of the Digimon that digixrosed into Shoutmon X7. If it carries those wishes in its heart, it is able to keep going forward without even yielding to any kind of attack. It overcomes close-combat battles with its \"Xros Burning Rocker\", in which it uses its passionate soul that longs for peace in the middle of the battlefield to light itsMcField-brand mic[N 1]in hellfire, then grandly swings it down, and dominates long-range battles with its \"Double Flare Buster\", in which it shoots all of its energy from theZanahoriain its left hand. And when it clinches victory, or finds itself in a tight spot due to an opponent's fierce attacks, it seals the victory with its golden-hot \"Seven Victorize\" that concentrates its entire aura in its chest and fires it from its \"V\".Digimon Reference Book⇨ EnglishシャウトモンＤＸに４体のデジモンがデジクロスしてさらなるパワーアップを経た『アルダーバースト形態』である。ボディを形成する“ゴールドデジゾイド”に４体の熱きハートが灯り、さらに神々しいオーラを発している。シャウトモン×７が戦場に立つのは、平和な世界の実現にあり、それはシャウトモン×７にデジクロスしたデジモン達すべての願いでもある。その願いをハートに持てばいかなる攻撃にも屈することなく前に進み続けることができるのである。戦場の中心で平和を願う熱き魂でマクフィルド社製のマイクに業火が灯り、大きく振り降ろす「クロスバーニングロッカー」で格闘戦を競り勝ち、左手のサナオリアから全エネルギーを射出する「ダブルフレアバスター」で遠距離戦も制する。そして勝利を決定づける時、または敵の猛攻で窮地に立たされた時、全オーラを胸に込めＶ字から発射される金色灼熱の「セブンビクトライズ」で戦いに決着をつける。デジモン図鑑",
+        "ko": "혈기가 왕성한데다 공격성이 비상히 높은 흉폭한 디지몬. 하지만 동료에 한해선 우호적이며 샤우트몬과 안면을 트면 종족을 뛰어넘은 친교관계를 맺는 것도 가능하다. 샤우트몬의 노드에는 정열을 에너지로 변환하는 특수한 기능이 있어, 흉부의 안쪽에서 타오르는 뜨거운 마음을 마이크로 증폭해 적에게 쏘는 「소울 크러셔」라는 공격을 할 수 있다. 정열이야말로 공격의 원천이기 때문에, 아무리 데미지를 입어도, 정열이 식지 않는 한 샤우트몬이 싸움을 끝내지 않아, 샤우트몬이 공격성 강한 흉폭한 디지몬이라고 알려진 연유이기도 하다. 흉폭해 보이는 반면, 음악이나 노래를 좋아한다는 일면도 있어, 바람의 소리, 비내리는 소리, 시냇물이 흐르는 소리, 나뭇잎 소리 등 자연의 소리를 배경삼아 목청껏 노래부르는 것을 즐긴다. 노래부르는 데 한창 열중하면 적이 없음에도 불구하고 「소울 크러셔」가 제멋대로 폭발하는 일도 있으므로, 샤우트몬이 노래를 시작했다면 방해하지 말고 곧장 그곳을 뜨는 게 무난할 것이다. 샤우트몬에게는 맥필드 사(社) 제의 마이크를 반드시 소유하고 있다는 영문 모를 성질이 있어, 마이크를 지니지 않은 샤우트몬은 샤우트몬이라고 할 수 없다. 마이크를 잃어버린 샤우트몬은, 샤우트몬이 아니게 되었다는 쇼크로 인해 급속히 파워를 잃고, 이윽고 쇠약해지고 만다고 전해진다. 그래서 마이크를 숨기는 등의 장난을 결코 해선 안된다. 덧붙여 이 마이크를 봉술을 쓰듯 사용하는 「라우디 락커」는 격투전 뿐만 아니라, 퍼포먼스로도 선보여진다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Shoutmon_X7"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bibi",
+      "to": "pulse",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bibi",
+      "to": "kuda",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bibi",
+      "to": "shout",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 3 Cleared"
+      }
+    },
+    {
+      "from": "pulse",
+      "to": "bulk",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "shout",
+      "to": "bulk",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kuda",
+      "to": "reppa",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "shout",
+      "to": "reppa",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "to": "thunderball",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kuda",
+      "to": "thunderball",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kuda",
+      "to": "bladekuwaga",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "to": "shout_x4",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "shout",
+      "to": "shout_x4",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "bout",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "thunderball",
+      "to": "bout",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "tyilin",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "giro",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "bladekuwaga",
+      "to": "giro",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "thunderball",
+      "to": "giro",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "kyuki",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "bladekuwaga",
+      "to": "kyuki",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "metallifekuwaga",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "thunderball",
+      "to": "metallifekuwaga",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "omegashout",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "bout",
+      "to": "kazuchi",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "omegashout",
+      "to": "kazuchi",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "tyilin",
+      "to": "mitama",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "kyuki",
+      "to": "mitama",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "giro",
+      "to": "raijin",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "kyuki",
+      "to": "raijin",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "metallifekuwaga",
+      "to": "raijin",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "tyilin",
+      "to": "raiden",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "giro",
+      "to": "raiden",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "metallifekuwaga",
+      "to": "raiden",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "bout",
+      "to": "shout_dx",
+      "conditions": {
+        "PP": "32+",
+        "Vital Values": "3,300+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "omegashout",
+      "to": "shout_dx",
+      "conditions": {
+        "PP": "32+",
+        "Vital Values": "3,300+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "omegashout",
+      "to": "shout_x7",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "doki",
+      "to": "bibi",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "bladekuwaga",
+      "to": "metallifekuwaga",
+      "conditions": {
+        "text": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      }
+    },
+    {
+      "from": "shout_x4",
+      "to": "omegashout",
+      "conditions": {
+        "text": "Stage 8 cleared, 12+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    },
+    {
+      "from": "shout_x4",
+      "to": "bout",
+      "conditions": {
+        "text": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "shout_x4",
+      "to": "tyilin",
+      "conditions": {
+        "text": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    }
+  ]
+}

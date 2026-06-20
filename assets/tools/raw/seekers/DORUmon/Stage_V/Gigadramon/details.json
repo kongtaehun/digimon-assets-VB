@@ -1,0 +1,78 @@
+{
+  "id": "gigadra",
+  "name": "Gigadramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gigadra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gigadra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/gigadra.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "darktyrano"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "airdra"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Gigadramon",
+    "name_en": "Gigadramon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "4800",
+      "hp": "4250",
+      "ap": "1250"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "darktyrano",
+        "name": "Dark Tyranomon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      },
+      {
+        "id": "airdra",
+        "name": "Airdramon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 8+ Battles, 30%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "metalseadra",
+        "name": "Metal Seadramon",
+        "conditions": "20+ PP, 2,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "gundra",
+        "name": "Gundramon",
+        "conditions": "13+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "schema_version": "1.0",
+  "id": "terrier_ex",
+  "name": "Terriermon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Feb 2022 - Retail (Set EX2)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_terrier_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "zeri",
+      "name": "Zerimon",
+      "name_jp": "Zerimon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/zeri/frame1.gif",
+        "frame2": "sprites/zeri/frame2.gif"
+      },
+      "artwork": "sprites/zeri/artwork.jpg",
+      "lore": {
+        "en": "An extremely rare Digimon, which is born in pairs from a singleDigitama. The reason why only Zerimon andCocomonare born as twins is unclear at the present stage. Moreover, they are not restricted to always being born as twins, and either a Zerimon or Cocomon may be born from a single Digitama. Compared to the extremely energetic, one-horned Zerimon, the three-horned Cocomon has a relatively docile personality. In addition, unlike other Slime Digimon, more of Zerimon than just the horn on its head is firm-knit and rigid. Like other Baby Digimon, it spits acid bubbles to intimidate opponents.Digimon Reference Book⇨ English１つのデジタマから２匹が産まれる、非常に希少なデジモン。なぜ、ゼリモンとココモンだけが双生児として産まれるかは、現在の段階では解明されていない。しかも、必ず双生児として産まれるとは限らず、ゼリモンとココモンそれぞれが１つのデジタマで産まれることもある。１本角の非常に元気なゼリモン対して、３本角のココモンは比較的に大人しい性格をしている。また、他のスライム型デジモンとは違い、ゼリモンの頭部の角は以外にもしっかりしていて硬い。他の幼年期デジモンと同じく、酸の泡を吐いて敵を威嚇する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zerimon"
+    },
+    {
+      "id": "gummy",
+      "name": "Gummymon",
+      "name_jp": "Gummymon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/gummy/frame1.gif",
+        "frame2": "sprites/gummy/frame2.gif"
+      },
+      "artwork": "sprites/gummy/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that grew up fromZerimon. As it inherited an exceedingly energetic personality from Zerimon, it is both cheerful and lively. Although it is growing, it's squishy because its body tissue is as unstable as usual, but just like Zerimon, parts of its horn have hardened and it intimidates the opponent with headbutts. Its greatest change from Zerimon is that it has a body and ear-like objects coming out of its head. Its Special Move is spewing out a lot of adhesive bubbles (Double Bobble).Digimon Reference Book⇨ Englishゼリモンが成長したデジモン。とても元気な性格はゼリモン譲りで、明朗活発である。成長はしているが、相変わらず体の体組織は不安定でプニプニしているが、ゼリモン同様角の部分は硬くなっていて頭突きで敵を威嚇する。ゼリモンからの大きな変化は体と耳らしきものが頭部より出ている。必殺技は粘着質の泡を沢山吐き出す『ダブルボブル』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gummymon"
+    },
+    {
+      "id": "terrier",
+      "name": "Terriermon",
+      "name_jp": "Terriermon",
+      "name_ko": "테리어몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/terrier/frame1.gif",
+        "frame2": "sprites/terrier/frame2.gif"
+      },
+      "artwork": "sprites/terrier/artwork.jpg",
+      "lore": {
+        "en": "With one horn growing from its head, it is a Digimon shrouded in mystery. It can be classified as a Beast Digimon from its body structure, but it's still not understood what kind of evolved form it will take on. Also, it is rumored that it is sometimes born with a twin. It's a very cute type of Digimon, and from its calm behavior it's hard to believe that it is a \"Combat Species\" Digimon, but when it comes to battle, it shows that it is more powerful than it appears. Its Signature Move is generating a tiny tornado by spinning its ears like a propeller (Petit Twister). Its Special Move is spewing out a shot of superheated air (Blazing Fire). Also, it possesses a great power in the Unison TechniqueDouble Typhoonthat it performs withLopmon, its twin.Digimon Reference Book⇨ English頭部に１本角を生やした、謎に包まれたデジモン。体構造から獣系のデジモンであることは分類できるが、どのような進化形態を経たのかは依然分かっていない。また、稀に双子で誕生するという噂も存在する。非常に可愛らしいタイプのデジモンで、ゆったりとした行動からはとても“戦闘種族”としてのデジモンを実感することができないが、戦闘の際には、その見た目以上のパワーを発揮する。得意技は両耳をプロペラの様にして小型竜巻を起こす『プチツイスター』。必殺技は高熱の熱気弾を吐き出す『ブレイジングファイア』。また、双子の片割れであるといわれるロップモンとの合体技である『ダブルタイフーン』も強力な威力を持つという。デジモン図鑑",
+        "ko": "머리에 뿔 한개를 기른 수수께끼에 싸인 디지몬. 몸구조로부터 짐승계의 디지몬임을 분류할 수 있지만, 어떠한 진화형태를 거쳤는지는 여전히 알려져있지 않다. 또 드물게 쌍둥이로 탄생한다고 하는 소문도 있다. 매우 사랑스러운 타입의 디지몬으로 느긋한 행동에서 그다지 \"전투종족\"으로서의 디지몬을 실감할 수 없지만, 전투시에는 그 외형 이상의 파워를 발휘한다. 특기는 양쪽귀를 프로펠러처럼 하고 소형 회오리를 발생시키는 \"쁘띠 트위스터\" [1] . 필살기는 고온의 열기탄을 내뱉는 \"블레이징 파이어\" [2] . 또 쌍둥이의 반쪽이라 불리는 로프몬 과의 합체기인 \"더블 타이푼\"도 강력한 위력을 갖는다고 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Terriermon"
+    },
+    {
+      "id": "galgo",
+      "name": "Galgomon",
+      "name_jp": "Galgomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/galgo/frame1.gif",
+        "frame2": "sprites/galgo/frame2.gif"
+      },
+      "artwork": "sprites/galgo/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon that evolved fromTerriermonand is a Hunter Digimon skilled in hunting. Despite its outward appearance, it uses attacks of unparalleled accuracy and its nimble movements to reliably bring down the opponent. Its leg strength is strong enough for it to jump sky high, and it is also able to spread out its ears to glide. Although it usually has a cheerful personality, it gets out of hand once it is angered. It is obsessed with its cherished \"D-VI'S 503xx\" jeans. Its Special Moves are thevulcanson both of its arms (Gatling Arm), and getting under the opponent's bosom, then thrusting up aGatling Armfrom below (DumdumUpper).Digimon Reference Book⇨ Englishテリアモンが進化した獣人型デジモンで、狩猟が得意なハンターデジモンでもある。見た目の姿に反して、素早い動きで確実に敵を仕留める正確無比な攻撃をする。脚力が強く空高く飛び上がり、耳を広げて滑空することもできる。普段は陽気な性格だが、一旦怒ると手が付けられなくなるところがある。愛用のジーンズ「Ｄ－ＶＩ'Ｓ５０３ｘｘ」はこだわりの一品である。必殺技は両腕のバルカン『ガトリングアーム』と、敵の懐に入り込んで、下からガトリングアームで突き上げる『ダムダムアッパー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Galgomon"
+    },
+    {
+      "id": "turuie",
+      "name": "Turuiemon",
+      "name_jp": "Turuiemon",
+      "name_ko": "토리에몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/turuie/frame1.gif",
+        "frame2": "sprites/turuie/frame2.gif"
+      },
+      "artwork": "sprites/turuie/artwork.jpg",
+      "lore": {
+        "en": "A martial artist Digimon discovered within the hinterlands of a Chinese mountain province. It wandered the world in pursuit of its mortal enemy, the viruses that exploit e-mails to do evil. Although it is blessed with exceptional potential forCh'uan Fa, it is still developing its skills. It practicesTogaken, a style it invented itself. Its Signature Move is a quick and stealthy Ch'uan Fa which capitalizes on its great leaping power (Ninjinken)[N 1]. Its Special Move is a striking technique using the \"Tokaku Tessou\"[N 2]on both of its arms (Gauntlet). It is a combo-attack technique unleashed with a great leap and rabbit-like agility.Digimon Reference Book⇨ English中国深山省の奥地で発見された武闘家デジモン。メールに乗じて悪事を働くウィルスを宿敵として追い掛けていて、世界を放浪していた。類い稀なる拳法の素質に恵まれているが未だ発展途上。独自で編み出した兎牙拳を使う。得意技は高い跳躍力を活かした素早い忍びの拳法『忍迅拳（にんじんけん）』。必殺技は両腕の「兎角鉄爪（とかくてっそう）」を利用した打撃技『巌兎烈斗（ガントレット）』。兎のような敏捷かつ高い跳躍からくりだす連撃技である。デジモン図鑑",
+        "ko": "중국 심산성의 오지에서 발견된 무투가 디지몬. 메일에 첨부되어 악행을 저지르는 바이러스를 숙적으로 삼고 추격하며, 세계를 방랑하고 있다. 희귀한 권법의 소질을 가졌으나 아직 발전 중. 독자적으로 엮어낸 토아권(兎牙拳)을 사용한다. 특기는 높은 도약력을 활용한 민첩한 닌자 의 권법 \" 닌진 켄(忍迅拳: 인신권)\". [1] 필살기는 양팔의 \"토각철조(兎角鉄爪)\"를 이용한 타격기 \" 건틀릿 (巌兎烈斗: 암토열두)\". [2] 토끼 와도 같은 민첩함과 높은 도약력으로 만드는 연타기이다."
+      },
+      "wikimon_url": "https://wikimon.net/Turuiemon"
+    },
+    {
+      "id": "harpy",
+      "name": "Harpymon",
+      "name_jp": "Harpymon",
+      "name_ko": "하피몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/harpy/frame1.gif",
+        "frame2": "sprites/harpy/frame2.gif"
+      },
+      "artwork": "sprites/harpy/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Mythical Beast Digimon that evolved through the power of the \"Digimental of Light\". Possessing wing-arms and a female upper body, it is a thief Digimon that is called the \"Snatcher\" from how it steals valuable data (treasure) from databases (ruins). It shows up like a gale, seizing treasure and attacking with its large talons. Although its power is lacking, the continuous attacks unleashed using its speed are terrifying. Its Special Move is manipulating the wind, generating a vacuum blade (Wind Seeker).Harpymon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Ms. Sudou Chie fromSaitama prefecture.Digimon Reference Book⇨ English“光のデジメンタル”のパワーによって進化した、アーマー体の幻獣型デジモン。翼の腕と女性の上半身を持っており、データベース（遺跡）から貴重なデータ（秘宝）を奪うところから「かすめ取る者」と呼ばれる盗賊デジモンである。疾風のごとく現れては、その大きな鉤爪で宝を奪い攻撃する。力はさほど強くないが、その速さから繰り出される連続攻撃は恐ろしいものがある。必殺技は風を操り、真空刃を発生させる『ウィンドシーカー』。　※ハーピモンは「デジモンウェブドット絵コンテスト」で埼玉県の「須藤千絵」さんのデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": "\"빛의 디지멘탈\"의 파워에 의해서 진화한 아머체 의 환수형 디지몬. 날개의 팔과 여성의 상반신을 가지고 있어 데이터 베이스(유적)로부터 귀중한 데이터(비보)를 빼앗아 오는 것으로 '몰래 훔치는 자'라고 불리는 도적 디지몬이다. 질풍과 같이 나타나서는 그 큰 발톱으로 보물을 빼앗고 공격한다. 힘은 그다지 강하지 않지만 그 속도로 계속 내던지는 연속 공격은 무서운 면이 있다. 필살기는 바람을 조종하여 진공 칼날을 발생시키는 \"윈드 시커\"."
+      },
+      "wikimon_url": "https://wikimon.net/Harpymon"
+    },
+    {
+      "id": "wendi",
+      "name": "Wendimon",
+      "name_jp": "Wendimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/wendi/frame1.gif",
+        "frame2": "sprites/wendi/frame2.gif"
+      },
+      "artwork": "sprites/wendi/artwork.jpg",
+      "lore": {
+        "en": "Lopmonunderwent a \"Dark Evolution\" due to anger and hatred, becoming a brutal Beast Man Digimon. It is not completely \"evil\", and deep within its heart it possesses the gentle side it had while it was Lopmon. However, its \"warmth\" can be broken by the power of its anger, so that it runs the whole gamut of destruction. Also, it has the ability to manipulate time and space, and is able to warp by passing through other dimensions, as well as to create a special space. Its Special Moves are destroying even rocks with a shock wave (Destroyed Voice), and swinging both of its arms like clubs (Club Arm).Digimon Reference Book⇨ Englishロップモンが怒りや憎しみによって「暗黒進化」をしてしまった、凶暴な獣人型デジモン。完全なる“悪”ではなく、ロップモンの頃に持っていた優しい部分を心の奥底に持っている。しかし、怒りのパワーによって“優しさ”を押込め、破壊の限りを尽くす。また、時間と空間を操る能力があり、別次元を通ってワープをしたり、特殊空間を作り出すことができる。必殺技は衝撃波で岩をも壊す『デストロイドボイス』と、両腕を棍棒の様に振り回す『クラブアーム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wendimon"
+    },
+    {
+      "id": "rapid",
+      "name": "Rapidmon",
+      "name_jp": "Rapidmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/rapid/frame1.gif",
+        "frame2": "sprites/rapid/frame2.gif"
+      },
+      "artwork": "sprites/rapid/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rapidmon"
+    },
+    {
+      "id": "sindura",
+      "name": "Sinduramon",
+      "name_jp": "Sinduramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/sindura/frame1.gif",
+        "frame2": "sprites/sindura/frame2.gif"
+      },
+      "artwork": "sprites/sindura/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theRooster. As a follower of theFour Holy BeastsDigimonBaihumon, it likes to quarrel and gossip above all else. With its provocative attitude, it will pick a fight with its opponent one way or another, but when they move to attack, it immediately draws its head and wings within its spherical armor. Its armor is the hardest among all of the Deva's equipment, and once it gets inside of the armor, it is absolutely protected. During battle, it is occasionally possible to cut through the breach when it rolls around in that state. Just likeKumbhiramon, it carries theBǎo Chǔon its back, and its Special Move consists of unleashing an intense lightning strike from it (Púyaváha).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、鳥に似た姿の完全体デジモン。四聖獣デジモンであるバイフーモンの配下で、口喧嘩と噂話を何より好む。態度は挑発的で何かと相手に喧嘩を売るが、相手が攻撃態勢に移ると、すぐに丸い鎧の中に頭や羽根を引っ込めてしまう。鎧はデーヴァの装備の中でも最も硬く、一旦その中に入ると絶対防御の態勢になる。戦闘時には、その態勢で転がって突破口を切り開くこともある。クンビラモンと同形の宝杵（パオツゥ）を背負い、そこから強烈な電撃を放出する『プーヤヴァーハ』を必殺技として使う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sinduramon"
+    },
+    {
+      "id": "makura",
+      "name": "Makuramon",
+      "name_jp": "Makuramon",
+      "name_ko": "마쿠라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/makura/frame1.gif",
+        "frame2": "sprites/makura/frame2.gif"
+      },
+      "artwork": "sprites/makura/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theMonkey. As a follower of theFour Holy BeastsDigimonBaihumon, it has a curious disposition of not speaking and not showing its emotions on its face. However, contrasted with its facial expressions, its body movements are overflowing and its emotions are expressed through its bodily poses. Those suggest that it is often in a more or less good mood, but that its overflowing curiosity doesn't last very long. It makes a hobby out of collecting and locking up the things that catch its eye in itsBǎo Yù, and in battle, it is a pacifist that locks up the opponent to settle its issues. Its Special Move is \"Raurava\", in which it crushes theBǎo Yùimprisoning its opponent, completely erasing the opponent along with it.[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、猿に似た姿の完全体デジモン。四聖獣デジモンであるバイフーモンの配下で、言葉をしゃべらず、顔に感情の現われない奇妙な性質を持っている。ただし、身体の動きは逆に表情に溢れ、喜怒哀楽は全身を使ったポーズで現われる。それから察するに概ね機嫌のいい時が多いが、好奇心旺盛で興味が長続きしない。気に入った物を宝玉（パオユー）に閉じこめて集める趣味があり、戦闘においても相手を閉じこめて一見落着させてしまう平和主義者。敵を閉じこめた宝玉を握り潰し、中の敵ごと消し去ってしまう『ラウラヴァ』が必殺技にあたる。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 원숭이 와 비슷한 형상의 완전체 디지몬. 4성수 디지몬인 백호몬 의 부하로 무표정 하고, 말을 잘 하지 않는 기묘한 특징을 지녔다. 하지만 표정과 반대로 몸의 움직임이 넘쳐나 희로애락을 온몸을 이용한 포즈로 나타낸다. 그러다 보니 대체로 기분 좋을 때가 많지만 호기심이 많고 흥미가 오래가지 않는다. 마음에 드는 것을 보옥(宝玉, 파오유)에 가두어 모으는 취미가 있고, 전투에서도 상대를 가둬 일단락시키는 평화주의자. 적을 가둔 보옥을 짓뭉개 내부의 적들을 몽땅 없애버리는 \"라우라바(Raurava) [1] \". 여담으로 데바들 중 유일하게 이마에 세 개의 뿔이 아예 없고, 눈의 형태도 흰자와 검은 눈동자가 구분된 모습이다."
+      },
+      "wikimon_url": "https://wikimon.net/Makuramon"
+    },
+    {
+      "id": "andira_d",
+      "name": "Andiramon (Deva)",
+      "name_jp": "Andiramon (Deva)",
+      "name_ko": "안티라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "7",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/andira_d/frame1.gif",
+        "frame2": "sprites/andira_d/frame2.gif"
+      },
+      "artwork": "sprites/andira_d/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theRabbit. As a follower of theFour Holy BeastsDigimonQinglongmon, it is the owner of a gentle spirit. It likes small things, and because it attends to them with profound tenderness, if anything appears that tries to tread on them then its personality is completely reversed, and it attacks with theBǎo Fǔwhich transformed its hands into razor-sharp axes. Once a cut is made, it won't stop spreading until the enemy's form is no more. Its Special Move is spinning like a tornado with its body as the axis, cutting anything surrounding it with theBǎo Fǔon its hands (Asipatravana).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、兎に似た姿の完全体デジモン。四聖獣デジモンであるチンロンモンの配下で、優の心の持ち主。小さな物が好きで、深い優しさをもって接しているため、それらを踏み躙ろうとする物が現われると性格は一変し、両手を切れ味鋭い斧に変化させた宝斧（パオフー）で戦う。一度切れると回りに敵の姿が無くなるまでは納まらない。必殺技は、自身を軸に竜巻のように回転し、両手の宝斧で周囲の物を切断する『アシパトラヴァナ』。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 토끼 를 닮은 모습의 완전체 디지몬. 4성수 디지몬인 청룡몬 의 부하로, 상냥한 마음의 소유자. 작은 것들을 좋아하여 깊은 상냥함을 담아 쓰다듬는 것을 즐기기에, 그것들을 건드리는 자가 나타나면 성격은 일변, 양손을 날카로운 도끼로 변화시킨 \"보부(宝斧, 파오후)\"로 싸운다. 한번 베기 시작하면 적이 무로 돌아갈 때까지 끝내지 않는다. 필살기는 자신을 축으로 삼아 회오리처럼 회전해, 양손의 파오후로 주위의 모든 것을 절단하는 \"아시파트라바나(Asipatravana) [1] \". 1."
+      },
+      "wikimon_url": "https://wikimon.net/Andiramon_(Deva)"
+    },
+    {
+      "id": "pajira",
+      "name": "Pajiramon",
+      "name_jp": "Pajiramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/pajira/frame1.gif",
+        "frame2": "sprites/pajira/frame2.gif"
+      },
+      "artwork": "sprites/pajira/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theSheep. As a follower of theFour Holy BeastsDigimonZhuqiaomon, it is a powerful figure who rules the world of dreams. It doesn't befriend the other Deva and is always calm, never changing its mind. Among the Deva, it has surprisingly many secrets whose truth is not divulged, and it is also known as theDark Deva. Its personality is cruel, and lacks feelings of consideration for others. The arrows of light fired off from itsBǎo Gōng, which it never parts with even for a moment, have the power to knock out the opponent. Its Special Move is confining the opponent within a nightmare world from which they cannot awaken, by means of its special arrows (Vahnijvala). Among the Deva, onlyKumbhiramonis able to counter it, through the power of its thoughts.[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、羊に似た姿の完全体デジモン。四聖獣デジモンであるスーツェーモンの配下にして、夢の世界を支配する実力者。他のデーヴァと親しむことは無く、常に冷静で自分の考えを変えない。デーヴァの中でも特に秘密が多く、その実像は明かされず、別名、闇のデーヴァと呼ばれている。性格は冷酷で、他者を思いやる気持ちは無い。片時も手放さない宝弓（パオゴン）で打ち出す光の矢は、相手を気絶させる力がある。必殺技は特製の矢によって、相手を覚めない悪夢の世界に封じ込める『ヴァフニジュヴァーラ』。念の力で対抗できるのは、デーヴァの中ではクンビラモンのみ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pajiramon"
+    },
+    {
+      "id": "andira",
+      "name": "Andiramon",
+      "name_jp": "Andiramon",
+      "name_ko": "안티라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "7",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/andira/frame1.gif",
+        "frame2": "sprites/andira/frame2.gif"
+      },
+      "artwork": "sprites/andira/artwork.jpg",
+      "lore": {
+        "en": "A Perfect Digimon which has the appearance of the \"Rabbit\" from among the twelve holy beasts of oriental legends. It is able to freely manipulate the \"qi\" flowing within its body, allowing it to interact with softness as well as hardness, so that at times it moves flexibly as if it were flowing, and at other times it unleashes heavy blows like iron. Its Signature Move is recovering from any kind of damage in an instant (Meditation Cure). Its Special Move is hardening its body tissue to the level ofChrome Digizoidby liberating all of the energy within its body, then unleashing a mighty blow (Mantra Chant).Digimon Reference Book⇨ English東洋の伝承に登場する、１２体の聖獣の中の兎の姿をした完全体デジモン。体内に流れる“気”を自在に操ることができ、時には流れるようにしなやかな動き、時には鉄の様に重い一撃を繰出すなど柔にも剛にも対応できる。得意技はいかなるダメージも瞬時に回復する『メディテーションキュア』。必殺技は体内の全エネルギーを解放することによって、体組織をクロンデジゾイドなみに硬質化させ、強力な一撃を繰出す『マントラチャント』。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 토끼 를 닮은 모습의 완전체 디지몬. 4성수 디지몬인 청룡몬 의 부하로, 상냥한 마음의 소유자. 작은 것들을 좋아하여 깊은 상냥함을 담아 쓰다듬는 것을 즐기기에, 그것들을 건드리는 자가 나타나면 성격은 일변, 양손을 날카로운 도끼로 변화시킨 \"보부(宝斧, 파오후)\"로 싸운다. 한번 베기 시작하면 적이 무로 돌아갈 때까지 끝내지 않는다. 필살기는 자신을 축으로 삼아 회오리처럼 회전해, 양손의 파오후로 주위의 모든 것을 절단하는 \"아시파트라바나(Asipatravana) [1] \". 1."
+      },
+      "wikimon_url": "https://wikimon.net/Andiramon"
+    },
+    {
+      "id": "saintgalgo",
+      "name": "Saint Galgomon",
+      "name_jp": "Saint Galgomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "18",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/saintgalgo/frame1.gif",
+        "frame2": "sprites/saintgalgo/frame2.gif"
+      },
+      "artwork": "sprites/saintgalgo/artwork.jpg",
+      "lore": {
+        "en": "A colossal Machine Digimon whose whole body has become a mass of weapons. The amount of weapons it has equipped rivals that ofMetal Garurumon(Incidentally, while Metal Garurumon uses cold-based weapons, Saint Galgomon uses heat-based weapons). Each of its weapons, such as its lasers, missiles, bazookas,vulcans, and flamethrowers, are concealed. Although its speed is considerably slow, because it puts all of that energy into power, it possesses unbelievable destructive force. Because its lack of speed is compensated for by its weapons, it is able to cope with attacks from every direction without moving even a little. Its Special Moves are a volley firing of its firearms (Burst Shot) and firing a gigantic megaton-class missile from the gun turrets on its shoulders (Giant Missile).Digimon Reference Book⇨ English全身が兵器の塊になっている、超巨大なマシーン型デジモン。兵器搭載量はメタルガルルモンに匹敵する。（ちなみにメタルガルルモンは冷気系だが、セントガルゴモンは熱系兵器）レーザー、ミサイル、バズーカ、バルカン、火炎放射器等あらゆる武器が隠されている。スピードはかなり遅いが、その分のエネルギーを全てパワーに回しているため、信じられないほどの破壊力を持っている。スピードの無さは兵器が補うため、一歩も動かずともあらゆる方向からの攻撃に対処できる。必殺技は銃火器の一斉射撃『バーストショット』と両肩の砲塔からメガトン級の巨大ミサイルを発射する『ジャイアントミサイル』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Saint_Galgomon"
+    },
+    {
+      "id": "cherubi",
+      "name": "Cherubimon (Virtue)",
+      "name_jp": "Cherubimon (Virtue)",
+      "name_ko": "케루비몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/cherubi/frame1.gif",
+        "frame2": "sprites/cherubi/frame2.gif"
+      },
+      "artwork": "sprites/cherubi/artwork.jpg",
+      "lore": {
+        "en": "An Angel Digimon which has the appearance of a beast. It is one of theThree ArchangelDigimon assigned the highest rank, just like the Seraph DigimonSeraphimon. Its primary duty is to defend the Digital World's \"Kernel\". Angel Digimon, which are positioned at the ultimate \"Virtue\", have the aspect of their being easily stained by its antithesis of \"Vice\" as a consequence of their extremity. It uses mighty lightning techniques, and their strike is thought to be divine punishment. Its Special Moves are firing a spear of lightning (Lightning Spear), and summoning a gigantic thundercloud, then loosing innumerable thunderbolts on the opponent (Heaven's Judgment).Digimon Reference Book⇨ English獣の姿をした天使型デジモン。熾天使型デジモンのセラフィモンと同じく最高位に位置する３大天使デジモンの１体である。本来の役目はデジタルワールドの“カーネル（中核）”を守護することである。究極の“善”に位置する天使型デジモンは、その極端さゆえに対極である“悪”に身を染めやすい一面を持っている。強烈な雷系の技を使い、その一撃は神の天罰を思わせる。必殺技は雷の槍を放つ『ライトニングスピア』と、巨大な雷雲を呼び、無数の雷を敵に落とす『ヘブンズ・ジャッジメント』。デジモン図鑑",
+        "ko": "[6] 짐승의 모습을 한 천사형 디지몬. 치천사형 디지몬의 세라피몬 과 같이 최고위에 위치하는 3대 천사 디지몬 중 하나이다. 본래의 역할은 디지털 월드 의 커넬(핵심)을 수호하는 것이다. 궁극의 선에 위치한 천사형 디지몬은, 그 극단적인 성향 때문에 반대 성향인 악에 타락하기 쉬운 일면을 가지고 있다. 강력한 번개 계열의 기술을 사용해, 그 일격은 신 의 천벌을 생각하게 한다. 필살기는 번개의 창을 발하는 라이트닝 스피어와 거대한 뇌운을 불러, 무수한 번개를 적에게 떨어뜨리는 헤븐즈 저지먼트. 디지몬 스토리 선버스트·문라이트 짐승의 모습을 하고 있는 「지천사」디지몬. 강력한 번개 기술을 사용할 수 있으며 그 기술은 마치 「천벌」과 같다. 세라피몬 , 오파니몬 과 함께 「 3대 천사 」의 일원이다. 디지털 몬스터 카드 게임 St-477 - 신의 지혜를 맡고있는 3대 천사의 일원. 세계의 중핵을 맡고 있다! Bo-279 - 디지털 월드의 수호를 담당하는 성스러운 존재! Bo-958 - 번개구름을 불러 번개창으로 신의 벌을 내리는 궁극의 성천사! 디지털 월드 연구백서 디지몬 대도감 짐승의 모습을 한 지천사형 디지몬. 3대 천사 디지몬의 1체로 디지털월드의 \"커널(핵심)\"을 수호하고 있다. 그러나 궁극의 선에 위치하고 있기 때문에 그 정반대인 악에 물들기 쉬운 일면을 가진 것 같다. 필살기는 신벌과 같은 천둥번개를 치는 라이트닝 스피어. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Cherubimon_(Virtue)"
+    },
+    {
+      "id": "cherubi_vice",
+      "name": "Cherubimon (Vice)",
+      "name_jp": "Cherubimon (Vice)",
+      "name_ko": "케루비몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/cherubi_vice/frame1.gif",
+        "frame2": "sprites/cherubi_vice/frame2.gif"
+      },
+      "artwork": "sprites/cherubi_vice/artwork.jpg",
+      "lore": {
+        "en": "An Angel Digimon which has the appearance of a beast. It is one of theThree ArchangelDigimon assigned the highest rank, just like the Seraph DigimonSeraphimon. Its primary duty is to defend the Digital World's \"Kernel\". Angel Digimon, which are positioned at the ultimate \"Virtue\", have the aspect of their being easily stained by its antithesis of \"Vice\" as a consequence of their extremity. It uses mighty lightning techniques, and their strike is thought to be divine punishment. Its Special Moves are firing a spear of lightning (Lightning Spear), and summoning a gigantic thundercloud, then loosing innumerable thunderbolts on the opponent (Heaven's Judgment).Digimon Reference Book⇨ English獣の姿をした天使型デジモン。熾天使型デジモンのセラフィモンと同じく最高位に位置する３大天使デジモンの１体である。本来の役目はデジタルワールドの“カーネル（中核）”を守護することである。究極の“善”に位置する天使型デジモンは、その極端さゆえに対極である“悪”に身を染めやすい一面を持っている。強烈な雷系の技を使い、その一撃は神の天罰を思わせる。必殺技は雷の槍を放つ『ライトニングスピア』と、巨大な雷雲を呼び、無数の雷を敵に落とす『ヘブンズ・ジャッジメント』。デジモン図鑑",
+        "ko": "[6] 짐승의 모습을 한 천사형 디지몬. 치천사형 디지몬의 세라피몬 과 같이 최고위에 위치하는 3대 천사 디지몬 중 하나이다. 본래의 역할은 디지털 월드 의 커넬(핵심)을 수호하는 것이다. 궁극의 선에 위치한 천사형 디지몬은, 그 극단적인 성향 때문에 반대 성향인 악에 타락하기 쉬운 일면을 가지고 있다. 강력한 번개 계열의 기술을 사용해, 그 일격은 신 의 천벌을 생각하게 한다. 필살기는 번개의 창을 발하는 라이트닝 스피어와 거대한 뇌운을 불러, 무수한 번개를 적에게 떨어뜨리는 헤븐즈 저지먼트. 디지몬 스토리 선버스트·문라이트 짐승의 모습을 하고 있는 「지천사」디지몬. 강력한 번개 기술을 사용할 수 있으며 그 기술은 마치 「천벌」과 같다. 세라피몬 , 오파니몬 과 함께 「 3대 천사 」의 일원이다. 디지털 몬스터 카드 게임 St-477 - 신의 지혜를 맡고있는 3대 천사의 일원. 세계의 중핵을 맡고 있다! Bo-279 - 디지털 월드의 수호를 담당하는 성스러운 존재! Bo-958 - 번개구름을 불러 번개창으로 신의 벌을 내리는 궁극의 성천사! 디지털 월드 연구백서 디지몬 대도감 짐승의 모습을 한 지천사형 디지몬. 3대 천사 디지몬의 1체로 디지털월드의 \"커널(핵심)\"을 수호하고 있다. 그러나 궁극의 선에 위치하고 있기 때문에 그 정반대인 악에 물들기 쉬운 일면을 가진 것 같다. 필살기는 신벌과 같은 천둥번개를 치는 라이트닝 스피어. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Cherubimon_(Vice)"
+    },
+    {
+      "id": "rapid_a",
+      "name": "Rapidmon (Armor)",
+      "name_jp": "Rapidmon (Armor)",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "12",
+        "ap": "9"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/rapid_a/frame1.gif",
+        "frame2": "sprites/rapid_a/frame2.gif"
+      },
+      "artwork": "sprites/rapid_a/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "zeri",
+      "to": "gummy",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "gummy",
+      "to": "terrier",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "terrier",
+      "to": "galgo",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "terrier",
+      "to": "turuie",
+      "conditions": {
+        "text": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "terrier",
+      "to": "wendi",
+      "conditions": {
+        "text": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "terrier",
+      "to": "harpy",
+      "conditions": {
+        "text": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    },
+    {
+      "from": "galgo",
+      "to": "rapid",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "galgo",
+      "to": "andira_d",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "galgo",
+      "to": "andira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "galgo",
+      "to": "sindura",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "galgo",
+      "to": "pajira",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "galgo",
+      "to": "makura",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "turuie",
+      "to": "rapid",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "turuie",
+      "to": "makura",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "turuie",
+      "to": "pajira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "turuie",
+      "to": "sindura",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "turuie",
+      "to": "andira",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "turuie",
+      "to": "andira_d",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "harpy",
+      "to": "sindura",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "harpy",
+      "to": "makura",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "harpy",
+      "to": "pajira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "harpy",
+      "to": "rapid",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "harpy",
+      "to": "andira_d",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "harpy",
+      "to": "andira",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "wendi",
+      "to": "sindura",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "wendi",
+      "to": "andira_d",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "wendi",
+      "to": "andira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "wendi",
+      "to": "rapid",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "wendi",
+      "to": "pajira",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "wendi",
+      "to": "makura",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "rapid",
+      "to": "rapid_a",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "rapid",
+      "to": "saintgalgo",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "rapid",
+      "to": "cherubi_vice",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "rapid",
+      "to": "cherubi",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "sindura",
+      "to": "cherubi",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "sindura",
+      "to": "cherubi_vice",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "sindura",
+      "to": "saintgalgo",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "sindura",
+      "to": "rapid_a",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "makura",
+      "to": "rapid_a",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "makura",
+      "to": "saintgalgo",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "makura",
+      "to": "cherubi",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "makura",
+      "to": "cherubi_vice",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "andira_d",
+      "to": "cherubi",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "andira_d",
+      "to": "cherubi_vice",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "andira_d",
+      "to": "rapid_a",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "andira_d",
+      "to": "saintgalgo",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "pajira",
+      "to": "rapid_a",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "pajira",
+      "to": "saintgalgo",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "pajira",
+      "to": "cherubi_vice",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "pajira",
+      "to": "cherubi",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "andira",
+      "to": "cherubi",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "andira",
+      "to": "cherubi_vice",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "andira",
+      "to": "saintgalgo",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "andira",
+      "to": "rapid_a",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Data Perfect"
+      }
+    }
+  ]
+}

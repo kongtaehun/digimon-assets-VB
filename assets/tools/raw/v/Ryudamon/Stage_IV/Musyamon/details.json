@@ -1,0 +1,83 @@
+{
+  "id": "musya",
+  "name": "Musyamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/musya.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/musya.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/musya.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "zuba",
+        "ryuda"
+      ],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Musyamon",
+    "name_en": "Musyamon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "zuba",
+        "name": "Zubamon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "ryuda",
+        "name": "Ryudamon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "dura",
+        "name": "Duramon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "asura",
+        "name": "Asuramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "oboro",
+        "name": "Oboromon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "gyuki",
+        "name": "Gyukimon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      },
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ]
+  }
+}

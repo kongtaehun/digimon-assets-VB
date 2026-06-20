@@ -1,0 +1,45 @@
+{
+  "id": "medal",
+  "name": "Medal",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/medal.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/medal.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/medal.jpg",
+  "appearances": [
+    {
+      "dim_id": "medarot",
+      "dim_name": "Medarot",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Medal",
+    "name_en": "Medal",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn NA"
+    },
+    "evolves_from": [
+      {
+        "id": "weatheredmedal",
+        "name": "Weathered Medal",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "tinpet",
+        "name": "Tinpet",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

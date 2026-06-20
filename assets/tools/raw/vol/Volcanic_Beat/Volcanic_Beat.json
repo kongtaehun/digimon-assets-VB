@@ -1,0 +1,619 @@
+{
+  "id": "vbe",
+  "name": "Volcanic Beat",
+  "release": "JP: Apr 2021 - Retail (Set Vol.01)EN: Jul 2022 - Retail (Set Vol.01)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_vbe.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_moku.gif",
+  "digimon": [
+    {
+      "id": "moku",
+      "name": "Mokumon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/moku.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/moku.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/moku.jpg"
+    },
+    {
+      "id": "petimera",
+      "name": "Peti Meramon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/petimera.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/petimera.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/petimera.jpg"
+    },
+    {
+      "id": "vorvo",
+      "name": "Vorvomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/vorvo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/vorvo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vorvo.jpg"
+    },
+    {
+      "id": "birdra",
+      "name": "Birdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/birdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/birdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/birdra.jpg"
+    },
+    {
+      "id": "mera",
+      "name": "Meramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mera.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mera.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mera.jpg"
+    },
+    {
+      "id": "tyrano",
+      "name": "Tyranomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tyrano.jpg"
+    },
+    {
+      "id": "lavorvo",
+      "name": "Lavorvomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lavorvo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lavorvo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lavorvo.jpg"
+    },
+    {
+      "id": "mastertyrano",
+      "name": "Master Tyranomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mastertyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mastertyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mastertyrano.jpg"
+    },
+    {
+      "id": "flare",
+      "name": "Flaremon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/flare.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/flare.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/flare.jpg"
+    },
+    {
+      "id": "deathmera",
+      "name": "Death Meramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/deathmera.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/deathmera.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/deathmera.jpg"
+    },
+    {
+      "id": "volca",
+      "name": "Volcamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/volca.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/volca.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/volca.jpg"
+    },
+    {
+      "id": "lavogarita",
+      "name": "Lavogaritamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lavogarita.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lavogarita.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lavogarita.jpg"
+    },
+    {
+      "id": "groundra",
+      "name": "Groundramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/groundra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/groundra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/groundra.jpg"
+    },
+    {
+      "id": "mars",
+      "name": "Marsmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mars.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mars.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mars.jpg"
+    },
+    {
+      "id": "cannondra",
+      "name": "Cannondramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cannondra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cannondra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cannondra.jpg"
+    },
+    {
+      "id": "volcanicdra",
+      "name": "Volcanicdramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/volcanicdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/volcanicdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/volcanicdra.jpg"
+    },
+    {
+      "id": "ancientvolca",
+      "name": "Ancient Volcamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★10)",
+        "hp": "18",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientvolca.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientvolca.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ancientvolca.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "vorvo",
+      "from_name": "Vorvomon",
+      "to": "birdra",
+      "to_name": "Birdramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vorvo",
+      "from_name": "Vorvomon",
+      "to": "mera",
+      "to_name": "Meramon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vorvo",
+      "from_name": "Vorvomon",
+      "to": "tyrano",
+      "to_name": "Tyranomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vorvo",
+      "from_name": "Vorvomon",
+      "to": "lavorvo",
+      "to_name": "Lavorvomon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "birdra",
+      "from_name": "Birdramon",
+      "to": "mastertyrano",
+      "to_name": "Master Tyranomon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "from_name": "Tyranomon",
+      "to": "mastertyrano",
+      "to_name": "Master Tyranomon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mera",
+      "from_name": "Meramon",
+      "to": "flare",
+      "to_name": "Flaremon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "from_name": "Lavorvomon",
+      "to": "flare",
+      "to_name": "Flaremon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mera",
+      "from_name": "Meramon",
+      "to": "deathmera",
+      "to_name": "Death Meramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "from_name": "Tyranomon",
+      "to": "deathmera",
+      "to_name": "Death Meramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "birdra",
+      "from_name": "Birdramon",
+      "to": "volca",
+      "to_name": "Volcamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "from_name": "Lavorvomon",
+      "to": "volca",
+      "to_name": "Volcamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "birdra",
+      "from_name": "Birdramon",
+      "to": "lavogarita",
+      "to_name": "Lavogaritamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "from_name": "Lavorvomon",
+      "to": "lavogarita",
+      "to_name": "Lavogaritamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mera",
+      "from_name": "Meramon",
+      "to": "groundra",
+      "to_name": "Groundramon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "from_name": "Tyranomon",
+      "to": "groundra",
+      "to_name": "Groundramon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "flare",
+      "from_name": "Flaremon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "deathmera",
+      "from_name": "Death Meramon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "from_name": "Groundramon",
+      "to": "mars",
+      "to_name": "Marsmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "from_name": "Master Tyranomon",
+      "to": "cannondra",
+      "to_name": "Cannondramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lavogarita",
+      "from_name": "Lavogaritamon",
+      "to": "cannondra",
+      "to_name": "Cannondramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "from_name": "Groundramon",
+      "to": "cannondra",
+      "to_name": "Cannondramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "from_name": "Master Tyranomon",
+      "to": "volcanicdra",
+      "to_name": "Volcanicdramon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "volca",
+      "from_name": "Volcamon",
+      "to": "volcanicdra",
+      "to_name": "Volcanicdramon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lavogarita",
+      "from_name": "Lavogaritamon",
+      "to": "volcanicdra",
+      "to_name": "Volcanicdramon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "flare",
+      "from_name": "Flaremon",
+      "to": "ancientvolca",
+      "to_name": "Ancient Volcamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "deathmera",
+      "from_name": "Death Meramon",
+      "to": "ancientvolca",
+      "to_name": "Ancient Volcamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "volca",
+      "from_name": "Volcamon",
+      "to": "ancientvolca",
+      "to_name": "Ancient Volcamon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

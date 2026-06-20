@@ -1,0 +1,42 @@
+{
+  "id": "kokabuteri",
+  "name": "Kokabuterimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kokabuteri.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kokabuteri.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/kokabuteri.jpg",
+  "appearances": [
+    {
+      "dim_id": "blitz_ex",
+      "dim_name": "Blitzmon EX",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Kokabuterimon",
+    "name_en": "KoKabuterimon",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "stats": {
+      "dp": "(★)",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "luna",
+  "name": "Lunamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/luna.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/luna.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/luna.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "wanya"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Lunamon",
+    "name_en": "Lunamon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "4800",
+      "hp": "2900",
+      "ap": "1000"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "wanya",
+        "name": "Wanyamon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "madleo",
+        "name": "Mad Leomon",
+        "conditions": "Stage 6 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "gaoga",
+        "name": "Gaogamon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "lekis",
+        "name": "Lekismon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      }
+    ]
+  }
+}

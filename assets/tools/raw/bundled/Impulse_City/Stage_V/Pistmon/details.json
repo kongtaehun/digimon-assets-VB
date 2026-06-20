@@ -1,0 +1,83 @@
+{
+  "id": "pist",
+  "name": "Pistmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pist.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pist.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pist.jpg",
+  "appearances": [
+    {
+      "dim_id": "ici",
+      "dim_name": "Impulse City",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "exer",
+        "runner"
+      ],
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Pistmon",
+    "name_en": "Pistmon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "9",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "exer",
+        "name": "Exermon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "runner",
+        "name": "Runnermon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "bulk",
+        "name": "Bulkmon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "kazuchi",
+        "name": "Kazuchimon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "achilles",
+        "name": "Achillesmon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "shiva",
+        "name": "Shivamon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "shroud",
+        "name": "Shroudmon",
+        "conditions": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    ]
+  }
+}

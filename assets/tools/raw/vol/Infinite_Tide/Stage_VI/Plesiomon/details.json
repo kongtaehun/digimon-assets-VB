@@ -1,0 +1,78 @@
+{
+  "id": "plesio",
+  "name": "Plesiomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/plesio.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/plesio.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/plesio.jpg",
+  "appearances": [
+    {
+      "dim_id": "iti",
+      "dim_name": "Infinite Tide",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "marinchimaira",
+        "megaseadra",
+        "dago"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Plesiomon",
+    "name_en": "Plesiomon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "70 (★10)",
+      "hp": "12",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "marinchimaira",
+        "name": "Marin Chimairamon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "megaseadra",
+        "name": "Mega Seadramon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dago",
+        "name": "Dagomon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "gusoku",
+        "name": "Gusokumon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "mermai",
+        "name": "Mermaimon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "pirani",
+        "name": "Piranimon",
+        "conditions": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

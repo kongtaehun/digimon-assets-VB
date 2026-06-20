@@ -1,0 +1,39 @@
+{
+  "id": "puni",
+  "name": "Punimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puni.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puni.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/puni.jpg",
+  "appearances": [
+    {
+      "dim_id": "tsh",
+      "dim_name": "True Shadow Howl",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Punimon",
+    "name_en": "Punimon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn NA"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "tuno",
+        "name": "Tunomon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

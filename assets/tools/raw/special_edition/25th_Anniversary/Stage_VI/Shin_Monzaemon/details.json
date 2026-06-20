@@ -1,0 +1,49 @@
+{
+  "id": "shinmonzae_d",
+  "name": "Shin Monzaemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shinmonzae_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shinmonzae_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shinmonzae.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shin Monzaemon",
+    "name_en": "ShinMonzaemon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6500",
+      "hp": "5100",
+      "ap": "1950"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "monzae_d",
+        "name": "Monzaemon",
+        "conditions": "20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

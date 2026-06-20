@@ -1,0 +1,81 @@
+{
+  "id": "pie",
+  "name": "Piemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pie.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pie.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pie.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "hippogriffo",
+        "digitama",
+        "pheles"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from_digimon": [
+        "mephis"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Piemon",
+    "name_en": "Piedmon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6700",
+      "hp": "5000",
+      "ap": "1950"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "hippogriffo",
+        "name": "Hippogriffomon",
+        "conditions": "Stage 12 cleared, 30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "Stage 12 cleared, 30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "mephis",
+        "name": "Mephismon",
+        "conditions": "Stage 12 cleared, 25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "pheles",
+        "name": "Phelesmon",
+        "conditions": "Stage 12 cleared, 30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

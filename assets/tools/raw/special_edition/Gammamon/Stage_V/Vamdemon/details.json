@@ -1,0 +1,80 @@
+{
+  "id": "vamde",
+  "name": "Vamdemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/vamde.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/vamde.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/vamde.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "gulusgamma"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from_digimon": [
+        "sealsdra"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "40%+",
+        "Area": "Stage 9 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Vamdemon",
+    "name_en": "Myotismon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5900",
+      "hp": "4800",
+      "ap": "1450"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "gulusgamma",
+        "name": "Gulus Gammamon",
+        "conditions": "Stage 9 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "sealsdra",
+        "name": "Sealsdramon",
+        "conditions": "Stage 9 cleared, 12+ PP, 2,000+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "arcturus",
+        "name": "Arcturusmon",
+        "conditions": "Stage 12 cleared, 20+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "kuzuha",
+        "name": "Kuzuhamon",
+        "conditions": "Stage 11 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

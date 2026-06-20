@@ -1,0 +1,794 @@
+{
+  "schema_version": "1.0",
+  "id": "agu_ex",
+  "name": "Agumon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Mar 2021 - Retail (Set EX)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_agu_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "name_jp": "Botamon",
+      "name_ko": "깜몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bota/frame1.gif",
+        "frame2": "sprites/bota/frame2.gif"
+      },
+      "artwork": "sprites/bota/artwork.jpg",
+      "lore": {
+        "en": "A Digital Monster that was born just recently. On the surface of its slime-shaped body, it has grown thick, black fuzz. It is unable to battle as it has just been born, but it can produce bubble-like objects from its mouth to intimidate the enemy.Digimon Reference Book⇨ English生まれたばかりのデジタルモンスター。スライム状の体の表面には、黒い産毛がびっしり生えている。生まれたてなので戦うことはできないが、口から泡のようなものを出して敵を威嚇する。デジモン図鑑",
+        "ko": "태어난지 얼마 안 된 디지털 몬스터. 슬라임과 같은 몸 표면에는 새까만 솜털이 빽빽이 자라나 있다. 갓 태어나서 싸울 수는 없지만, 입에서 거품을 내뿜어 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Botamon"
+    },
+    {
+      "id": "koro",
+      "name": "Koromon",
+      "name_jp": "Koromon",
+      "name_ko": "코로몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/koro/frame1.gif",
+        "frame2": "sprites/koro/frame2.gif"
+      },
+      "artwork": "sprites/koro/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon that shed the fuzz covering its surface, and whose body grew even bigger. Although it has become able to move around more actively, it is still unable to battle. It can produce bubbles from its mouth to intimidate opponents.Digimon Reference Book⇨ English表面を覆っていた産毛が抜け、体も一回り大きくなった小型デジモン。活発に動き回れるようになったが、まだ戦うことはできない。口から泡を出して敵を威嚇する。デジモン図鑑",
+        "ko": "표면을 덮고 있던 솜털이 빠지고 몸도 한층 더 커진 소형 디지몬 . 활발하게 돌아다닐 수 있게 됐지만 아직 싸우기엔 무리다. 입에서 거품을 뿜어내 적을 위협한다. 디지몬 대백과 깜몬 의 몸을 지키던 검은 솜털이 빠지고, 몸도 한 층 더 커진 소형 디지몬. 활기차고 활발하게 움직이지만, 배틀은 아직 이르다. 하지만, 자라서 싸울 수 있게 되는 것은 시간 문제다. 깜몬과 마찬가지로, 입에서 산성 거품을 뿜어내 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Koromon"
+    },
+    {
+      "id": "agu",
+      "name": "Agumon",
+      "name_jp": "Agumon",
+      "name_ko": "아구몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/agu/frame1.gif",
+        "frame2": "sprites/agu/frame2.gif"
+      },
+      "artwork": "sprites/agu/artwork.jpg",
+      "lore": {
+        "en": "A Reptile Digimon with an appearance resembling a small dinosaur, it has grown and become able to walk on two legs. Its strength is weak as it is still in the process of growing, but it has a fearless and rather ferocious personality. Hard, sharp claws grow from both its hands and feet, and their power is displayed in battle. It also foreshadows an evolution into a great and powerful Digimon. Its Special Move is spitting a fiery breath from its mouth to attack the opponent (Baby Flame).Digimon Reference Book⇨ English成長して二足歩行ができるようになった、小型の恐竜の様な姿をした爬虫類型デジモン。まだ成長途中なので力は弱いが、性格はかなり獰猛で恐いもの知らず。両手足には硬く鋭い爪が生えており、戦闘においても威力を発揮する。力ある偉大なデジモンへの進化を予測させる存在でもある。必殺技は口から火炎の息を吐き敵を攻撃する『ベビーフレイム』。デジモン図鑑",
+        "ko": "성장해 이족보행을 할 수 있게 된 공룡과 비슷한 모습을 한 파충류형 디지몬 . 비록 아직 성장 도중이라 힘은 약하지만 성격은 꽤 사납고 두려움을 모른다. 양손과 발에 단단하고 날카로운 손톱이 나있어 전투에서도 위력을 발휘한다. 강하고 위대한 디지몬 으로의 진화가 예측되는 존재이기도 하다. 필살기는 입에서 화염의 숨결을 내뱉어 적을 공격하는 \"베이비 플레임 [11] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Agumon"
+    },
+    {
+      "id": "grey",
+      "name": "Greymon",
+      "name_jp": "Greymon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grey/frame1.gif",
+        "frame2": "sprites/grey/frame2.gif"
+      },
+      "artwork": "sprites/grey/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon whose cranial skin has hardened so that it is covered in arhinoceros beetle-like shell. It is an extremely aggressive Digimon, with a body like a lethal weapon covered in sharp claws and gigantic horns. However, it is highly intelligent, and if you're able to tame it then there probably isn't any monster as strong. Its Special Move \"Mega Flame\" is spewing extremely high-temperature flames from its mouth and reducing everything to ashes.Digimon Reference Book⇨ English頭部の皮膚が硬化して甲虫のような殻に覆われた恐竜型デジモン。鋭い爪、巨大な角を持った全身凶器のような体で、非常に攻撃的なデジモンである。しかし、知性が高く手なづけることが出来れば恐らくこれほど強いモンスターはいない。必殺技の『メガフレイム』は口から超高熱火炎を吐き出し全てを焼き払う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Greymon"
+    },
+    {
+      "id": "coela",
+      "name": "Coelamon",
+      "name_jp": "Coelamon",
+      "name_ko": "실리컨몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/coela/frame1.gif",
+        "frame2": "sprites/coela/frame2.gif"
+      },
+      "artwork": "sprites/coela/artwork.jpg",
+      "lore": {
+        "en": "An ancient fish Digimon that possesses gigantic claws and a hard outer skin. When theComputer Networkwas being repaired after being disrupted by a malicioushacker, this Digimon was discovered in theNet Ocean, and as its body structure is extremely primitive, it has fins that have developed like hands and feet. Based on this fact, it is conjectured that primeval Digimon that originated in the Net Ocean experienced many evolutions and took on terrestrial forms, and increased their numbers into various strains. Its Special Move is falling upon the opponent with its gigantic claws (Variable Darts).Digimon Reference Book⇨ English硬質な外皮と、巨大な鍵爪を持つ古代魚デジモン。悪質なハッカーにより破壊されたコンピュータネットワークを修復している際に、ネットの海で発見されたデジモンで、体の構造が非常に原始的で、手足のように発達したヒレを持っている。この事から、ネットの海で発生した原始デジモンは幾多の進化を経て陸生形態になり、さまざまな種類へとその数を増やしていったと考えられる。必殺技は巨大な鍵爪で敵に襲い掛かる『ヴァリアブルダーツ』。デジモン図鑑",
+        "ko": "단단한 외피와 거대한 갈고리발톱을 지닌 고대어 디지몬. 악질적인 해커로 인해 파괴된 컴퓨터 네트워크를 복원하던 중 네트워크 바다에서 발견된 디지몬으로, 몸의 구조가 매우 원시적이며 손발처럼 발달한 지느러미를 지니고 있다. 이를 보았을 때 네트워크 바다에서 발생한 원시 디지몬은 수많은 진화를 거쳐 육지에서 살아가는 형태가 되었고 다양한 종류로 그 수를 늘려간 것으로 보인다. 필살기는 거대 갈고리발톱으로 적에게 덤벼드는 『베리어블 다트』다."
+      },
+      "wikimon_url": "https://wikimon.net/Coelamon"
+    },
+    {
+      "id": "ogre",
+      "name": "Ogremon",
+      "name_jp": "Ogremon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/ogre/frame1.gif",
+        "frame2": "sprites/ogre/frame2.gif"
+      },
+      "artwork": "sprites/ogre/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose form resembles that of theOnifrom Eastern legends. The attacks it performs using its absurdly developed muscles exhibit tremendous destructive power. Although it has high intelligence, it has a violent temperament, and there is no limit to the destruction that it brings about with 'anger' acting as its driving force. Due to its intense love for battle, it will boldly challenge even opponents that greatly surpass it in combat ability, earning it the name \"Digimon Hunter\". TheHone Konbouit wields in its right arm was earned from defeatingSkull Greymonin battle. Its Special Move isHaouken, fired off from its two gigantic arms.Digimon Reference Book⇨ English東洋の伝説に登場する「オニ」のような姿をしたデジモン。恐ろしく発達した筋肉から繰り出される攻撃はすさまじい破壊力を持つ。知性は高いが気性が荒く、「怒り」を原動力としている彼らは破壊の限りを尽くす。非常に好戦的で、自分より遙かに戦闘力の高い相手にも果敢に戦いを挑むところから“デジモンハンター”と呼ばれている。右腕に持つ骨棍棒はスカルグレイモンを倒した時の戦利品なのだ。必殺技は巨大な両腕から繰り出される『覇王拳』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ogremon"
+    },
+    {
+      "id": "algo_iv",
+      "name": "Algomon (Adult)",
+      "name_jp": "Algomon (Adult)",
+      "name_ko": "아르고몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/algo_iv/frame1.gif",
+        "frame2": "sprites/algo_iv/frame2.gif"
+      },
+      "artwork": "sprites/algo_iv/artwork.jpg",
+      "lore": {
+        "en": "A form of Algomon that evolved to Adult whose processing ability has increased abnormally. Its power has also been strengthened, and it can lift up even large enemies with its hands, which have turned into industrialmanipulators. Its Special Moves are restraining the enemy with the tentacles that extend from its mouth (Imprisonment), and sending an electric shock through them (Volt Line).Digimon Reference Book⇨ English処理能力が異常に高まり成熟期へ進化したアルゴモンの姿。パワーも強くなり、工業用マニュピレーターとなった両手で、大きな敵も持ち上げる。必殺技は、口から伸びた触手で敵を拘束する『インプリズメント』と、敵に電撃を流し込む『ボルトライン』。デジモン図鑑",
+        "ko": "연산 프로그램=알고리즘의 버그로부터 발생한 유년기 디지몬. 대용량의 데이터가 흘러나오는 곳을 찾아내, 접근하는 습성이 있다. 하나하나가 모여 큰 떼를 지은 후, 덮쳐든다. 디지몬 펜들럼 Z 에서 공개. 디지몬 어드벤처: 에서도 디지타마에서 유년기 II가 태어나는 장면에서 아주 잠깐 유년기 I로 보이는 실루엣이 나온다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Algomon_(Adult)"
+    },
+    {
+      "id": "metalgrey_va",
+      "name": "Metal Greymon (Vaccine)",
+      "name_jp": "Metal Greymon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgrey_va/frame1.gif",
+        "frame2": "sprites/metalgrey_va/frame2.gif"
+      },
+      "artwork": "sprites/metalgrey_va/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon which has mechanized more than half of its body. TheMetal GreymonofFile Islandwere able to drastically extend their vital functions through remodeling, but their flesh portions could not hold out and were discolored blue. However, perfect Metal Greymon are Cyborg Digimon that succeed in evolving fromGreymon, and draw out a stronger power. In order to evolve to Metal Greymon, it must fight its way through and defeat the formidable opponents who come against it. Also, Metal Greymon's offensive power is said to equal that of a single nuclear warhead, and if the likes of a low-level Digimon suffered that blow, it would be annihilated without leaving a trace. Its Special Moves are its \"Trident Arm\" made from enhancedChrome Digizoid, and firing its \"Giga Destroyer\" organic missiles from the hatch on its chest. In  addition, it can also send out a high-temperature energy wave from the firing ports on its chest (Giga Storm).Digimon Reference Book⇨ English体の半分以上を機械化しているサイボーグ型デジモン。ファイル島のメタルグレイモンは改造によって生命活動を大幅に長くすることができたが、肉体部分が耐え切れず青色に変色していた。しかし、完全なメタルグレイモンはグレイモンからの進化に成功しており、より強力なパワーを引き出しているサイボーグ型デジモンである。メタルグレイモンに進化するためには、襲い来る強敵を倒し、勝ち抜いていかなければならない。また、メタルグレイモンの攻撃力は核弾頭一発分に匹敵するといわれ、その一撃を受けるとレベルの低いデジモンなどは跡形も残さず消滅する。必殺技は強化されたクロンデジゾイド製の『トライデントアーム』と、胸の部分にあるハッチから有機体系ミサイル『ギガデストロイヤー』を発射する。さらに胸部の発射口から高熱のエネルギー波『ジガストーム』を噴出させることもできる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Greymon_(Vaccine)"
+    },
+    {
+      "id": "andro",
+      "name": "Andromon",
+      "name_jp": "Andromon",
+      "name_ko": "안드로몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/andro/frame1.gif",
+        "frame2": "sprites/andro/frame2.gif"
+      },
+      "artwork": "sprites/andro/artwork.jpg",
+      "lore": {
+        "en": "A human-type Cyborg Digimon. It possesses a fighting strength which can fell a Digimon below Perfect in a single blow. Andromon was developed as aprototypefor Cyborg Digimon, and the mechanically-based Andromon and organically-based cyborgBoltmonwere manufactured at the same time. This technology was appropriated forMetal GreymonandMegadramon. As a prototype Digimon it possesses neither will nor emotion, and it is faithful to its programmed behavior. It was upgraded with a program based on the data acquired from the Andromon ofFile Island, and the strength of that program varies. Its Special Move is a blade of energy which it fires from its arm module (Spiral Sword).Digimon Reference Book⇨ English人型タイプのサイボーグデジモン。完全体になりきれていないデジモンなど一撃で倒す戦闘力を持っている。アンドロモンはサイボーグデジモンの試作型として開発され、機械ベースのアンドロモンと肉体ベースのサイボーグ「ボルトモン」は同時期に製造された。その技術はメタルグレイモンやメガドラモンに流用されている。試作型のデジモンのため意思や感情は持っておらず、プログラムされた行動に忠実である。ファイル島のアンドロモンから得たデータを元にバージョンアップのプログラムを施されており、その強さは桁違いである。必殺技はアーム部分から発射されるエネルギー状の刃物『スパイラルソード』。デジモン図鑑",
+        "ko": "인간형 사이보그 디지몬. 완전체가 되지 못한 디지몬이라면 일격에 쓰러뜨리는 전투력을 가지고 있다. 안드로몬은 사이보그 디지몬의 시작형으로 개발됐고, 기계 기반의 안드로몬과 육체 기반의 사이보그 볼트몬 은 같은 시기에 제조됐다. 그 기술은 메탈그레이몬 이나 메가드라몬 에 유용되고 있다. 시작형 디지몬이기 때문에 의지나 감정은 가지고 있지 않고, 프로그램된 행동에 충실하다. 파일섬의 안드로몬으로부터 얻은 데이터를 바탕으로 버전 업 프로그램을 사용하고 있어, 그 강함은 월등하다. 필살기는 암 부분에서 발사되는 에너지 형상의 칼날 「스파이럴 소드 [4] [5] [6] 」. 디지털 몬스터 인간형 사이보그 디지몬. 인간형으로서는 최강의 강함을 자랑하며, 완전체가 되지 못한 디지몬이라면 일격에 쓰러뜨리는 파괴력을 가지고 있다. 안드로몬은 사이보그 디지몬의 시작형으로서 개발되었고, 그 기술은 메탈그레이몬 이나 메탈콩알몬 으로 완성되었다. 시작형 디지몬이기 때문에 감정이나 의지를 갖고 있지 않고, 프로그램된 행동밖에 할 수 없다. 필살기는 가슴 해치에서 발사되는 소형의 「개틀링 미사일」과 암 부분에서 발사되는 에너지 형상의 칼날 「스파이럴 소드」."
+      },
+      "wikimon_url": "https://wikimon.net/Andromon"
+    },
+    {
+      "id": "anomalocari",
+      "name": "Anomalocarimon",
+      "name_jp": "Anomalocarimon",
+      "name_ko": "스콜피오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/anomalocari/frame1.gif",
+        "frame2": "sprites/anomalocari/frame2.gif"
+      },
+      "artwork": "sprites/anomalocari/artwork.jpg",
+      "lore": {
+        "en": "Acomputer virusinfected the databanks of a laboratory where the investigations and excavations of ancient life forms is performed, and took in the data of an ancient life form and evolved. It became like the life form which in ancient times was the apex of the food chain,  which had a great appetite and supplied it with an ability capable of allowing it to see food that was of the finest quality. Skillfully using the tentacles that grow from its head, it catches the enemy and kills them with the sharp blade that grows from its tail. When the progression of a fight becomes disadvantageous, it uses its sharp tentacles to hoist up the soil of the seabed to hide its body. The radar eye that projects from its head captures the enemy like a night vision scope, watching for the chance to create a turnabout. Its Special Move is crossing its right and left forelimbs and shooting with \"Stinger Surprise\".Digimon Reference Book⇨ English古代生物の調査や発掘を行っている研究所のデータバンクにコンピュータウィルスが感染し、古代生物のデータを取り込み進化した。古代に食物連鎖の頂点にいた生物同様、旺盛な食欲と、高い補食能力を身につけている。頭部から生えた触手を器用に使って敵を捕まえ、尻尾から生えた鋭いブレードで仕留める。戦況が不利になると、鋭い触手で海底の土を巻上げて身を隠す。頭部から突き出ているレーダーアイは暗視装置のように敵を捕捉し、逆転の機会を狙う。必殺技は左右の前肢をクロスさせ放つ『スティンガーサプライズ』。デジモン図鑑",
+        "ko": "고대 생물의 조사와 발굴을 하고있는 연구소의 데이터 뱅크에 감염된 컴퓨터 바이러스가 고대 생물의 데이터를 수집해 진화했다. 고대에 먹이사슬의 정점에 있던 생물처럼 왕성한 식욕과 높은 보식 [5] 능력을 가지고 있다. 머리에 난 촉수를 능숙하게 사용하여 적을 잡고, 꼬리에서 난 날카로운 블레이드로 사냥한다. 전황이 불리해지면 날카로운 촉수로 해저의 흙을 말아올려 몸을 숨긴다. 머리에서 튀어나온 레이더아이는 야간투시장치처럼 적을 포착해 역전의 기회를 노린다. 필살기는 좌우 앞다리를 교차시켜 공격하는 스팅거 서프라이즈 [6] . 모티브는 고대생물인 아노말로카리스 . 한국과 북미에서는 주 시청자인 어린이들이 아노말로카리스를 모를 것이라 생각한 탓인지 모습이 비슷한 전갈에서 이름을 따왔다. 덕분에 진짜 \"스콜피오몬\"은 전갈몬 으로 로컬라이징."
+      },
+      "wikimon_url": "https://wikimon.net/Anomalocarimon"
+    },
+    {
+      "id": "mame",
+      "name": "Mamemon",
+      "name_jp": "Mamemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mame/frame1.gif",
+        "frame2": "sprites/mame/frame2.gif"
+      },
+      "artwork": "sprites/mame/artwork.jpg",
+      "lore": {
+        "en": "A Mutation Digimon that evolved in a harsh environment. Contrary to its cute appearance, it hides terrifying destructive power. Apart from just one other species of Digimon, it may be classed as the strongest. The huge hands on its small body are capable of turning into powerful bombs and detaching themselves. Its nickname is the \"Smiley Bomber\".Digimon Reference Book⇨ English過酷な環境の元で進化した突然変異型デジモン。見た目の可愛さとは裏腹に恐るべき破壊力を秘めている。たった１種のデジモンを除いて、恐らく最強の部類に入るだろう。小さな体についている巨大な手は、それ自体が強力な爆弾になっていて取り外しが可能。愛称は“スマイリーボマー”。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mamemon"
+    },
+    {
+      "id": "neodevi",
+      "name": "Neo Devimon",
+      "name_jp": "Neo Devimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/neodevi/frame1.gif",
+        "frame2": "sprites/neodevi/frame2.gif"
+      },
+      "artwork": "sprites/neodevi/artwork.jpg",
+      "lore": {
+        "en": "An evolved form ofDevimonthat was enhanced by someone. It is a Geno Digimon that was artificially strengthened and completely controlled, even as far as its own will. The mask which covers its face suppresses Neo Devimon's own power, and it is said that it is worn in order to control its will. Its Special Move is an enhanced version ofDeath Claw(Guilty Claw).Digimon Reference Book⇨ English何者かによって、強化されたデビモンの進化形態。人為的に強化されており、個体の意思までも完全に制御された人造デジモンでもある。顔面を覆うマスクはネオデビモン自体のパワーを制御し、意思をコントロールするために付けられていると言われている。必殺技はデスクロウの強化版『ギルティクロウ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Neo_Devimon"
+    },
+    {
+      "id": "metaltyrano",
+      "name": "Metal Tyranomon",
+      "name_jp": "Metal Tyranomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/metaltyrano/frame1.gif",
+        "frame2": "sprites/metaltyrano/frame2.gif"
+      },
+      "artwork": "sprites/metaltyrano/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that remodeled its body in order to acquire mightier powers. AfterMegadramonwas remodeled foranti-airuse, Metal Tyranomon was remodeled as ananti-groundinterceptor Digimon. Its reinforced body deflects all attacks, and it possesses the terrifying offensive power to smash through armor with its sturdy chin, no matter how hard it may be. Its Special Moves are a missile fired from its right arm (Giga Destroyer II), and an energy shell fired from its left arm (Nuclear Laser).Digimon Reference Book⇨ English強力なパワーを身につけるため体を改造したサイボーグデジモン。対空用に改造された「メガドラモン」につづきメタルティラノモンは対地用迎撃デジモンとして改造された。強化されたボディーはあらゆる攻撃を跳ね返し、強靭な顎でどんなに硬い装甲でも砕いてしまう凄まじい攻撃力をもつ。必殺技は右腕から発射されるミサイル『ギガデストロイヤーⅡ』と左腕から発射されるエネルギー弾『ヌークリアレーザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Tyranomon"
+    },
+    {
+      "id": "blitzgrey",
+      "name": "Blitz Greymon",
+      "name_jp": "Blitz Greymon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/blitzgrey/frame1.gif",
+        "frame2": "sprites/blitzgrey/frame2.gif"
+      },
+      "artwork": "sprites/blitzgrey/artwork.jpg",
+      "lore": {
+        "en": "An ultimate form ofGreymon-speciesDigimon, it is a subspecies ofWar Greymonarmed with electric-powered weapons.It reinforces its heavyweight grappling with electricity, striking with the \"Plasma Stakes\" on both arms, which send electric current flowing into even the sturdiest of structures and destroying them from within.It is capable of rotating the \"Thunder Verniers\" on its back to face forward, from which it fires electricity, or using them while faced backwards to propel it forward.Not only that, it is capable of releasing plasma particles into its surroundings and using them to erect a barrier around it (Elec Guard).Digimon Reference Book⇨ Englishグレイモン系デジモンの究極形態であり、電流火器が備わったウォーグレイモンの亜種。どっしりとした格闘戦に電撃を加え、強固なものであっても両腕の『プラズマステーク』から電撃を流し込み内側から破壊する。背中の『サンダーバーニア』を前方に転回して雷を撃ち、背面へ放出すれば自身の推進力増量にも活用できる。さらにプラズマ粒子を周囲に展開しバリアを形成する『エレックガード』を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Blitz_Greymon"
+    },
+    {
+      "id": "donedevi",
+      "name": "Done Devimon",
+      "name_jp": "Done Devimon",
+      "name_ko": "단데블몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/donedevi/frame1.gif",
+        "frame2": "sprites/donedevi/frame2.gif"
+      },
+      "artwork": "sprites/donedevi/artwork.jpg",
+      "lore": {
+        "en": "A form ofDevimonthat took in negative data to its limit and became an Ultimate. Its mental state is between normal and abnormal, and once it is angered, its intelligence vanishes, and it attacks in a ferocious manner. Digimon that are attacked by a berserk Done Devimon disappear without a trace.Its Special Moves are piercing the opponent's entire body (Destroy Claw), a destructive energy wave emitted from its mouth (Ultimate Flare), and crushing the opponent with its two arms, which materialize as a result of its overflowing negative data (Mias-spew).Digimon Reference Book⇨ Englishマイナスのデータを限界まで取り込み究極体となったデビモンの姿。精神状態が正常と異常の狭間にあり、ひとたび激怒すれば知性は消え、獰猛な形相で襲い掛かる。暴走したダンデビモンに襲われたデジモンは跡形もなく消去される。必殺技は、相手の体を丸ごと突き通す『デストロイクロウ』と、口から放射する破壊のエネルギー波『アルティメットフレア』、そして溢れ出るマイナスのデータにより出現する2本の腕で敵を叩き潰す『マイアスピウ』。デジモン図鑑",
+        "ko": "마이너스 데이터를 한계까지 받아들여 궁극체가 된 데블몬의 모습. 정신상태가 정상과 이상 사이에 있으며, 한번 격노하면 지성은 사라지고 사납기 그지없는 모습으로 변모하여 덤벼든다. 폭주한 던데블몬의 습격을 받은 디지몬은 흔적도 없이 소멸하게 된다. 필살기는 상대의 몸을 통째로 꿰뚫는 디스트로이 클로와, 입에서 발사되는 파괴의 에너지파 얼티밋 플레어. [1] 그리고 쏟아져 나오는 마이너스 데이터로 인해 생겨난 두 개의 팔로 적을 무찌르는 마이아스피우."
+      },
+      "wikimon_url": "https://wikimon.net/Done_Devimon"
+    },
+    {
+      "id": "wargrey",
+      "name": "War Greymon",
+      "name_jp": "War Greymon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/wargrey/frame1.gif",
+        "frame2": "sprites/wargrey/frame2.gif"
+      },
+      "artwork": "sprites/wargrey/artwork.jpg",
+      "lore": {
+        "en": "The strongest dragon warrior whose body is clad in armor of the super-metal \"Chrome Digizoid\", it is the ultimate form ofGreymon-speciesDigimon. Though it differs from the gigantic figure seen in Greymon-species Digimon, and has the form of a Man-type, it has rapidly improved its speed and power, and it is likely impossible to defeat it with the attacks of a Perfect Digimon. The \"Dramon Killers\" equipped to both of its arms exhibit immense power againstDramon-typeDigimon, while simultaneously being double-edged swords that put its own life at great risk. Also, when the shells equipped on its back unite into one, they become the \"Brave Shield\", which is a shield of the strongest toughness. It is said that the moment that a true hero among veteran warriors awakens to its own mission, it evolves into War Greymon. Its Special Move is taking all of the energy within the atmosphere and concentrating it into one spot, then firing it as an extremely dense, high-temperature energy shot (GaiaForce). In addition, it has \"Brave Tornado\", in which it combines the \"Dramon Killers\" on its arms above its head, and pierces the enemy by charging at them while rapidly spinning.Digimon Reference Book⇨ English超金属「クロンデジゾイド」の鎧を身にまとった最強の竜戦士であり、グレイモン系デジモンの究極形態である。グレイモン系デジモンに見られた巨大な姿とは違い、人型の形態をしているが、スピード、パワーとも飛躍的に向上しており、完全体デジモンの攻撃程度では倒すことは不可能だろう。両腕に装備している「ドラモンキラー」はドラモン系デジモンには絶大な威力を発揮するが、同時に自らを危険にさらしてしまう諸刃の剣でもある。また、背中に装備している外殻を１つに合わせると最強硬度の盾「ブレイブシールド」になる。歴戦の強者の中でも真の勇者が自らの使命に目覚めたときウォーグレイモンに進化すると言われている。必殺技は大気中に存在する、全てのエネルギーを１点に集中させて放つ、超高密度の高熱エネルギー弾『ガイアフォース』。また両腕の「ドラモンキラー」を頭上で合わせ、高速回転しながら突撃し敵を貫通する『ブレイブトルネード』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/War_Greymon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bota",
+      "to": "koro",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "koro",
+      "to": "agu",
+      "conditions": {
+        "text": "• No requirements (Agu EX)• 1,200+ Vital Values (DRo)"
+      }
+    },
+    {
+      "from": "agu",
+      "to": "grey",
+      "conditions": {
+        "text": "• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (Agu EX)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (DRo)"
+      }
+    },
+    {
+      "from": "agu",
+      "to": "algo_iv",
+      "conditions": {
+        "text": "5+ Trophies, 800+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "agu",
+      "to": "ogre",
+      "conditions": {
+        "text": "3+ Trophies, 500+ Vital Values"
+      }
+    },
+    {
+      "from": "agu",
+      "to": "coela",
+      "conditions": {
+        "text": "• 0-2 Trophies• 0-499 Vital Values"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "metalgrey_va",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "anomalocari",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "metaltyrano",
+      "conditions": {
+        "text": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "andro",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "neodevi",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "coela",
+      "to": "andro",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "coela",
+      "to": "anomalocari",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "coela",
+      "to": "neodevi",
+      "conditions": {
+        "text": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "coela",
+      "to": "metalgrey_va",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "coela",
+      "to": "metaltyrano",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "ogre",
+      "to": "andro",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "ogre",
+      "to": "mame",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "ogre",
+      "to": "neodevi",
+      "conditions": {
+        "text": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "ogre",
+      "to": "metalgrey_va",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "ogre",
+      "to": "anomalocari",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "algo_iv",
+      "to": "metalgrey_va",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "algo_iv",
+      "to": "mame",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "algo_iv",
+      "to": "metaltyrano",
+      "conditions": {
+        "text": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "algo_iv",
+      "to": "andro",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "algo_iv",
+      "to": "anomalocari",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "metalgrey_va",
+      "to": "wargrey",
+      "conditions": {
+        "text": "• 10+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (Agu EX)• 10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "metalgrey_va",
+      "to": "blitzgrey",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_va",
+      "to": "donedevi",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "andro",
+      "to": "donedevi",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "andro",
+      "to": "wargrey",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "andro",
+      "to": "blitzgrey",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "anomalocari",
+      "to": "wargrey",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "anomalocari",
+      "to": "blitzgrey",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "anomalocari",
+      "to": "donedevi",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "mame",
+      "to": "donedevi",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "mame",
+      "to": "blitzgrey",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "mame",
+      "to": "wargrey",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "neodevi",
+      "to": "donedevi",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "neodevi",
+      "to": "blitzgrey",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "neodevi",
+      "to": "wargrey",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "to": "wargrey",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "to": "blitzgrey",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "to": "donedevi",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    }
+  ]
+}

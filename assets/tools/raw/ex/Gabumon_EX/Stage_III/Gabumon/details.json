@@ -1,0 +1,70 @@
+{
+  "id": "gabu",
+  "name": "Gabumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gabu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gabu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/gabu.jpg",
+  "appearances": [
+    {
+      "dim_id": "gabu_ex",
+      "dim_name": "Gabumon EX",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Gabumon",
+    "name_en": "Gabumon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "tuno",
+        "name": "Tunomon",
+        "conditions": "• No requirements (Gabu EX)• 1,200+ Vital Values (WHo)"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "garuru",
+        "name": "Garurumon",
+        "conditions": "• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (Gabu EX)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (WHo)"
+      },
+      {
+        "id": "gori",
+        "name": "Gorimon",
+        "conditions": "5+ Trophies, 800+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "dokugu",
+        "name": "Dokugumon",
+        "conditions": "3+ Trophies, 500+ Vital Values"
+      },
+      {
+        "id": "algo_iv",
+        "name": "Algomon (Adult)",
+        "conditions": "• 0-2 Trophies• 0-499 Vital Values"
+      },
+      {
+        "id": "dorulu",
+        "name": "Dorulumon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "drimoge",
+        "name": "Drimogemon",
+        "conditions": "• 0-7 Trophies• 0-899 Vital Values• 0-4 Battles"
+      }
+    ]
+  }
+}

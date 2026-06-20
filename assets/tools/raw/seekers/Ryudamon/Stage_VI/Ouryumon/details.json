@@ -1,0 +1,79 @@
+{
+  "id": "ouryu",
+  "name": "Ouryumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/ouryu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/ouryu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ouryu.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "hisyaryu",
+        "cargodra"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "tankdra"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ouryumon",
+    "name_en": "Ouryumon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "6600",
+      "hp": "5800",
+      "ap": "1900"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "cargodra",
+        "name": "Cargodramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "tankdra",
+        "name": "Tankdramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "alpha_o",
+        "name": "Alphamon: Ouryuken",
+        "conditions": "Jogress with Alphamon  from the DORUmon BE Memory Dim"
+      }
+    ]
+  }
+}

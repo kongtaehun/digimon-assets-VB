@@ -1,0 +1,67 @@
+{
+  "id": "commandra",
+  "name": "Commandramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/commandra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/commandra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/commandra.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "kyokyo"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Commandramon",
+    "name_en": "Commandramon",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "4900",
+      "hp": "2800",
+      "ap": "900"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "kyokyo",
+        "name": "Kyokyomon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "sealsdra",
+        "name": "Sealsdramon",
+        "conditions": "Stage 6 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "hicommandra",
+        "name": "Hi-Commandramon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "nume",
+        "name": "Numemon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

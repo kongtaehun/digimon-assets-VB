@@ -1,0 +1,60 @@
+{
+  "id": "pulse",
+  "name": "Pulsemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pulse.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pulse.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pulse.jpg",
+  "appearances": [
+    {
+      "dim_id": "ici",
+      "dim_name": "Impulse City",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Pulsemon",
+    "name_en": "Pulsemon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "bibi",
+        "name": "Bibimon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "bulk",
+        "name": "Bulkmon",
+        "conditions": "8+ Trophies, 1,200+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "runner",
+        "name": "Runnermon",
+        "conditions": "5+ Trophies, 800+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "exer",
+        "name": "Exermon",
+        "conditions": "3+ Trophies, 500+ Vital Values"
+      },
+      {
+        "id": "namake",
+        "name": "Namakemon",
+        "conditions": "• 0-2 Trophies• 0-499 Vital Values"
+      }
+    ]
+  }
+}

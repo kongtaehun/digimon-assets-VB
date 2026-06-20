@@ -1,0 +1,60 @@
+{
+  "id": "tinpet",
+  "name": "Tinpet",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tinpet.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tinpet.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/tinpet.jpg",
+  "appearances": [
+    {
+      "dim_id": "medarot",
+      "dim_name": "Medarot",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Tinpet",
+    "name_en": "Tinpet",
+    "attribute": "Free",
+    "stage_text": "Stage III (Child)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "medal",
+        "name": "Medal",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "grey",
+        "name": "Greymon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "garuru",
+        "name": "Garurumon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "metabee_p",
+        "name": "Metabee (Head and Arm)",
+        "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "rokusho_p",
+        "name": "Rokusho (Head and Arm)",
+        "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    ]
+  }
+}

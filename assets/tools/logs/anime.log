@@ -1,0 +1,126 @@
+[*] Fetching https://humulos.com/digimon/vbbe/anime/
+[*] Endpoint: unified (device=14)
+[*] Found 5 dim card(s)
+[*] Found 113 unique digimon — fetching details & assets...
+  [  1/113] Curimon
+  [  2/113] Gurimon
+  [  3/113] Gammamon
+  [  4/113] Bokomon
+  [  5/113] Koemon
+  [  6/113] Betel Gammamon
+  [  7/113] Kaus Gammamon
+  [  8/113] Wezen Gammamon
+  [  9/113] Gulus Gammamon
+  [ 10/113] Sealsdramon
+  [ 11/113] Canoweissmon
+  [ 12/113] Fumamon
+  [ 13/113] Ghilliedhumon
+  [ 14/113] Bombermon
+  [ 15/113] Zanmetsumon
+  [ 16/113] Regulusmon
+  [ 17/113] Vamdemon
+  [ 18/113] Siriusmon
+  [ 19/113] Cannondramon
+  [ 20/113] Spinomon
+  [ 21/113] Kuzuhamon
+  [ 22/113] Arcturusmon
+  [ 23/113] Pyonmon
+  [ 24/113] Bosamon
+  [ 25/113] Angoramon
+  [ 26/113] Dracumon
+  [ 27/113] Symbare Angoramon
+  [ 28/113] Siesamon
+  [ 29/113] Dogmon
+  [ 30/113] Sangloupmon
+  [ 31/113] Publimon
+  [ 32/113] Lamortmon
+  [ 33/113] Cerberumon
+  [ 34/113] Hippogriffomon
+  [ 35/113] Digitamamon
+  [ 36/113] Matadrmon
+  [ 37/113] Mephismon
+  [ 38/113] Phelesmon
+  [ 39/113] Oleamon
+  [ 40/113] Bastemon
+  [ 41/113] Diarbbitmon
+  [ 42/113] Marsmon
+  [ 43/113] Plutomon
+  [ 44/113] Grand Dracumon
+  [ 45/113] Piemon
+  [ 46/113] Puyomon
+  [ 47/113] Puyoyomon
+  [ 48/113] Jellymon
+  [ 49/113] Kodokugumon
+  [ 50/113] Tesla Jellymon
+  [ 51/113] Ikkakumon
+  [ 52/113] Tobiumon
+  [ 53/113] Karatsuki Numemon
+  [ 54/113] Chamblemon
+  [ 55/113] Kinkakumon
+  [ 56/113] Thetismon
+  [ 57/113] Zudomon
+  [ 58/113] Waru Seadramon
+  [ 59/113] Marin Chimairamon
+  [ 60/113] Anomalocarimon X
+  [ 61/113] Black King Numemon
+  [ 62/113] Majiramon
+  [ 63/113] Toropiamon
+  [ 64/113] Amphimon
+  [ 65/113] Vikemon
+  [ 66/113] Giga Seadramon
+  [ 67/113] Platinum Numemon
+  [ 68/113] Cthyllamon
+  [ 69/113] Tsubumon
+  [ 70/113] Upamon
+  [ 71/113] Armadimon
+  [ 72/113] Patamon
+  [ 73/113] V-mon
+  [ 74/113] Ankylomon
+  [ 75/113] Angemon
+  [ 76/113] XV-mon
+  [ 77/113] Digmon
+  [ 78/113] Submarimon
+  [ 79/113] Pegasmon
+  [ 80/113] Fladramon
+  [ 81/113] Lighdramon
+  [ 82/113] Shakkoumon
+  [ 83/113] Holy Angemon
+  [ 84/113] Paildramon
+  [ 85/113] Arachnemon
+  [ 86/113] Seraphimon
+  [ 87/113] Imperialdramon: Dragon Mode
+  [ 88/113] Magnamon
+  [ 89/113] Belial Vamdemon
+  [ 90/113] Black War Greymon
+  [ 91/113] Pururumon
+  [ 92/113] Poromon
+  [ 93/113] Hawkmon
+  [ 94/113] Tailmon (Child)
+  [ 95/113] Wormmon
+  [ 96/113] Ukkomon
+  [ 97/113] Aquilamon
+  [ 98/113] Tailmon
+  [ 99/113] Stingmon
+  [100/113] Holsmon
+  [101/113] Nefertimon
+  [102/113] Shurimon
+  [103/113] Silphymon
+  [104/113] Angewomon
+  [105/113] Dinobeemon
+  [106/113] Mummymon
+  [107/113] Chimairamon
+  [108/113] Valkyrimon
+  [109/113] Holydramon
+  [110/113] Imperialdramon: Fighter Mode
+  [111/113] Imperialdramon: Paladin Mode
+  [112/113] Armagemon
+  [113/113] Big Ukkomon
+
+[✓] Output written to ./anime/
+    data.json   — 5 dims, 113 digimon
+    5 dim folder(s)
+      Angoramon                        23 digimon  (46 frames + 23 artwork + 23 details.json)
+      D-3_White_and_Red                23 digimon  (46 frames + 23 artwork + 23 details.json)
+      D-3_White_and_Yellow             23 digimon  (46 frames + 23 artwork + 23 details.json)
+      Gammamon                         22 digimon  (44 frames + 22 artwork + 22 details.json)
+      Jellymon                         23 digimon  (46 frames + 23 artwork + 23 details.json)

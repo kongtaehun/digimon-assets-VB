@@ -1,0 +1,57 @@
+{
+  "id": "chaosdra",
+  "name": "Chaosdramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/chaosdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/chaosdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/chaosdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "deathxdorugure",
+        "metaltyrano"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Chaosdramon",
+    "name_en": "Chaosdramon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "4900",
+      "hp": "6100",
+      "ap": "2000"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "deathxdorugure",
+        "name": "Death-X-Doruguremon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "metaltyrano",
+        "name": "Metal Tyranomon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

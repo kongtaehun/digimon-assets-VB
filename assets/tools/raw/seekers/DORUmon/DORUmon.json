@@ -1,0 +1,800 @@
+{
+  "id": "doru",
+  "name": "DORUmon",
+  "release": "JP: Oct 2023 - Premium Bandai",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_doru.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_doru.gif",
+  "digimon": [
+    {
+      "id": "dodo",
+      "name": "Dodomon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dodo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dodo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dodo.jpg"
+    },
+    {
+      "id": "dori",
+      "name": "Dorimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dori.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dori.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dori.jpg"
+    },
+    {
+      "id": "doru",
+      "name": "DORUmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5100",
+        "hp": "3000",
+        "ap": "1050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/doru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/doru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/doru.jpg"
+    },
+    {
+      "id": "agu_b",
+      "name": "Agumon (Black)",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4500",
+        "hp": "2700",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/agu_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/agu_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/agu_b.jpg"
+    },
+    {
+      "id": "doruga",
+      "name": "DORUgamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "3500",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/doruga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/doruga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/doruga.jpg"
+    },
+    {
+      "id": "deathxdoruga",
+      "name": "Death-X-Dorugamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4900",
+        "hp": "3200",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/deathxdoruga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/deathxdoruga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/deathxdoruga.jpg"
+    },
+    {
+      "id": "darktyrano",
+      "name": "Dark Tyranomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4700",
+        "hp": "3300",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/darktyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/darktyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/darktyrano.jpg"
+    },
+    {
+      "id": "airdra",
+      "name": "Airdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "4900",
+        "hp": "3200",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/airdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/airdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/airdra.jpg"
+    },
+    {
+      "id": "raptordra",
+      "name": "Raptordramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5700",
+        "hp": "3400",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/raptordra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/raptordra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/raptordra.jpg"
+    },
+    {
+      "id": "dorugure",
+      "name": "DORUguremon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6400",
+        "hp": "5000",
+        "ap": "1400"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dorugure.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dorugure.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dorugure.jpg"
+    },
+    {
+      "id": "deathxdorugure",
+      "name": "Death-X-Doruguremon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5400",
+        "hp": "4400",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/deathxdorugure.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/deathxdorugure.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/deathxdorugure.jpg"
+    },
+    {
+      "id": "metaltyrano",
+      "name": "Metal Tyranomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4900",
+        "hp": "4500",
+        "ap": "1400"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/metaltyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/metaltyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metaltyrano.jpg"
+    },
+    {
+      "id": "megadra",
+      "name": "Megadramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4900",
+        "hp": "4300",
+        "ap": "1350"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/megadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/megadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/megadra.jpg"
+    },
+    {
+      "id": "gigadra",
+      "name": "Gigadramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "4800",
+        "hp": "4250",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gigadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gigadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gigadra.jpg"
+    },
+    {
+      "id": "grade",
+      "name": "Grademon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "4700",
+        "ap": "1650"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/grade.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/grade.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grade.jpg"
+    },
+    {
+      "id": "dorugora",
+      "name": "DORUgoramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6100",
+        "hp": "5900",
+        "ap": "1950"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/dorugora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/dorugora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dorugora.jpg"
+    },
+    {
+      "id": "deathxdorugora",
+      "name": "Death-X-Dorugoramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5900",
+        "hp": "5500",
+        "ap": "2050"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/deathxdorugora.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/deathxdorugora.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/deathxdorugora.jpg"
+    },
+    {
+      "id": "chaosdra",
+      "name": "Chaosdramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4900",
+        "hp": "6100",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/chaosdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/chaosdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chaosdra.jpg"
+    },
+    {
+      "id": "metalseadra",
+      "name": "Metal Seadramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5000",
+        "hp": "5400",
+        "ap": "1800"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/metalseadra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/metalseadra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalseadra.jpg"
+    },
+    {
+      "id": "mugendra",
+      "name": "Mugendramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4800",
+        "hp": "5450",
+        "ap": "1850"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mugendra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mugendra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mugendra.jpg"
+    },
+    {
+      "id": "gundra",
+      "name": "Gundramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5200",
+        "hp": "5000",
+        "ap": "1800"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gundra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gundra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gundra.jpg"
+    },
+    {
+      "id": "alpha",
+      "name": "Alphamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6300",
+        "hp": "5700",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/alpha.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/alpha.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/alpha.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "dori",
+      "from_name": "Dorimon",
+      "to": "doru",
+      "to_name": "DORUmon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "dori",
+      "from_name": "Dorimon",
+      "to": "agu_b",
+      "to_name": "Agumon (Black)",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "doru",
+      "from_name": "DORUmon",
+      "to": "doruga",
+      "to_name": "DORUgamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "doru",
+      "from_name": "DORUmon",
+      "to": "deathxdoruga",
+      "to_name": "Death-X-Dorugamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "doru",
+      "from_name": "DORUmon",
+      "to": "raptordra",
+      "to_name": "Raptordramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "doruga",
+      "from_name": "DORUgamon",
+      "to": "dorugure",
+      "to_name": "DORUguremon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdoruga",
+      "from_name": "Death-X-Dorugamon",
+      "to": "dorugure",
+      "to_name": "DORUguremon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "raptordra",
+      "from_name": "Raptordramon",
+      "to": "dorugure",
+      "to_name": "DORUguremon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "doruga",
+      "from_name": "DORUgamon",
+      "to": "deathxdorugure",
+      "to_name": "Death-X-Doruguremon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdoruga",
+      "from_name": "Death-X-Dorugamon",
+      "to": "deathxdorugure",
+      "to_name": "Death-X-Doruguremon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "raptordra",
+      "from_name": "Raptordramon",
+      "to": "deathxdorugure",
+      "to_name": "Death-X-Doruguremon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdoruga",
+      "from_name": "Death-X-Dorugamon",
+      "to": "metaltyrano",
+      "to_name": "Metal Tyranomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "from_name": "Dark Tyranomon",
+      "to": "metaltyrano",
+      "to_name": "Metal Tyranomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "airdra",
+      "from_name": "Airdramon",
+      "to": "metaltyrano",
+      "to_name": "Metal Tyranomon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "from_name": "Dark Tyranomon",
+      "to": "megadra",
+      "to_name": "Megadramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "airdra",
+      "from_name": "Airdramon",
+      "to": "megadra",
+      "to_name": "Megadramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "from_name": "Dark Tyranomon",
+      "to": "gigadra",
+      "to_name": "Gigadramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "airdra",
+      "from_name": "Airdramon",
+      "to": "gigadra",
+      "to_name": "Gigadramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "doruga",
+      "from_name": "DORUgamon",
+      "to": "grade",
+      "to_name": "Grademon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "raptordra",
+      "from_name": "Raptordramon",
+      "to": "grade",
+      "to_name": "Grademon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "dorugure",
+      "from_name": "DORUguremon",
+      "to": "dorugora",
+      "to_name": "DORUgoramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "deathxdorugure",
+      "from_name": "Death-X-Doruguremon",
+      "to": "dorugora",
+      "to_name": "DORUgoramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "grade",
+      "from_name": "Grademon",
+      "to": "dorugora",
+      "to_name": "DORUgoramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "dorugure",
+      "from_name": "DORUguremon",
+      "to": "deathxdorugora",
+      "to_name": "Death-X-Dorugoramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdorugure",
+      "from_name": "Death-X-Doruguremon",
+      "to": "deathxdorugora",
+      "to_name": "Death-X-Dorugoramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grade",
+      "from_name": "Grademon",
+      "to": "deathxdorugora",
+      "to_name": "Death-X-Dorugoramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdorugure",
+      "from_name": "Death-X-Doruguremon",
+      "to": "chaosdra",
+      "to_name": "Chaosdramon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "from_name": "Metal Tyranomon",
+      "to": "chaosdra",
+      "to_name": "Chaosdramon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "megadra",
+      "from_name": "Megadramon",
+      "to": "metalseadra",
+      "to_name": "Metal Seadramon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gigadra",
+      "from_name": "Gigadramon",
+      "to": "metalseadra",
+      "to_name": "Metal Seadramon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "from_name": "Metal Tyranomon",
+      "to": "mugendra",
+      "to_name": "Mugendramon",
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "megadra",
+      "from_name": "Megadramon",
+      "to": "mugendra",
+      "to_name": "Mugendramon",
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "from_name": "Metal Tyranomon",
+      "to": "gundra",
+      "to_name": "Gundramon",
+      "requirements": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "gigadra",
+      "from_name": "Gigadramon",
+      "to": "gundra",
+      "to_name": "Gundramon",
+      "requirements": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "dorugure",
+      "from_name": "DORUguremon",
+      "to": "alpha",
+      "to_name": "Alphamon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "grade",
+      "from_name": "Grademon",
+      "to": "alpha",
+      "to_name": "Alphamon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ]
+}

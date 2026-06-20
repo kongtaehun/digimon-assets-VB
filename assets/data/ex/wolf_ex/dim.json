@@ -1,0 +1,485 @@
+{
+  "schema_version": "1.0",
+  "id": "wolf_ex",
+  "name": "Wolfmon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Light)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_wolf_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "name_jp": "Botamon",
+      "name_ko": "깜몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bota/frame1.gif",
+        "frame2": "sprites/bota/frame2.gif"
+      },
+      "artwork": "sprites/bota/artwork.jpg",
+      "lore": {
+        "en": "A Digital Monster that was born just recently. On the surface of its slime-shaped body, it has grown thick, black fuzz. It is unable to battle as it has just been born, but it can produce bubble-like objects from its mouth to intimidate the enemy.Digimon Reference Book⇨ English生まれたばかりのデジタルモンスター。スライム状の体の表面には、黒い産毛がびっしり生えている。生まれたてなので戦うことはできないが、口から泡のようなものを出して敵を威嚇する。デジモン図鑑",
+        "ko": "태어난지 얼마 안 된 디지털 몬스터. 슬라임과 같은 몸 표면에는 새까만 솜털이 빽빽이 자라나 있다. 갓 태어나서 싸울 수는 없지만, 입에서 거품을 내뿜어 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Botamon"
+    },
+    {
+      "id": "wanya",
+      "name": "Wanyamon",
+      "name_jp": "Wanyamon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/wanya/frame1.gif",
+        "frame2": "sprites/wanya/frame2.gif"
+      },
+      "artwork": "sprites/wanya/artwork.jpg",
+      "lore": {
+        "en": "A Digimon fused from the data of small, pet animals like dogs and cats. Because its unexpected movements are also quick, caution is necessary so that it doesn't get away, but it becomes very emotionally attached if shown affection like a pet. Its Special Move is suddenly biting, after appearing amply charming (Smile Fang).Digimon Reference Book⇨ Englishイヌやネコなどのペット系小動物のデータが融合しているデジモン。意外と動きが速いので逃げないように注意が必要であるが、ペットのようにかわいがるととても懐く。必殺技は、愛嬌たっぷりの姿から急に噛み付く『スマイルファング』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wanyamon"
+    },
+    {
+      "id": "strabi",
+      "name": "Strabimon",
+      "name_jp": "Strabimon",
+      "name_ko": "스트라비몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/strabi/frame1.gif",
+        "frame2": "sprites/strabi/frame2.gif"
+      },
+      "artwork": "sprites/strabi/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that was transformed into a half-beast, half-man form whenWolfmon's power was halved. Because it has not lost its \"Combat Instinct\", unlike the similar half-beast, half-manFlamon, it has a ferocious side. For that reason, although it has the appearance of a Child Digimon, it will sometimes rampage enough that even the typical Adult Digimon is unable to control it. As with Flamon, although its power was decreased, it seems that Adult-class Digimon aren't a match for it. Its Special Move is cutting the opponent to pieces with the shining claws on its hands (Licht Nagel).Digimon Reference Book⇨ Englishヴォルフモンのパワーが半減し、半獣半人の姿になってしまったデジモン。同じ半獣半人のフレイモンとは違い“闘争本能”は失われてはいないため、少し凶暴な面がある。そのため見た目は成長期のデジモンだが、成熟期並に手が付けられないほど暴れることもある。フレイモン同様、パワーはダウンしているとはいえ、成熟期クラスのデジモンでは太刀打ちできないだろう。必殺技は光り輝く両手の爪で相手を切り裂く『リヒト・ナーゲル』。デジモン図鑑",
+        "ko": "볼프몬 의 파워가 반감해 반인반수의 모습이 된 디지몬. 같은 반인반수 디지몬인 화염몬 과는 달리 \"투쟁 본능\"이 없어지진 않았기 때문에 조금 흉포한 면이 있다. 그 때문에 외형은 성장기 디지몬이지만, 성숙기 수준으론 손을 댈 수 없을 만큼 날뛰기도 한다. 파워가 낮아졌다곤 해도 성숙기 클래스 디지몬은 스트라비몬과 맞겨룰 수 없을 것이다. 필살기는 빛나는 양손톱으로 상대를 베는 \"리히트 나겔\"."
+      },
+      "wikimon_url": "https://wikimon.net/Strabimon"
+    },
+    {
+      "id": "giza",
+      "name": "Gizamon",
+      "name_jp": "Gizamon",
+      "name_ko": "기자몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/giza/frame1.gif",
+        "frame2": "sprites/giza/frame2.gif"
+      },
+      "artwork": "sprites/giza/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Mammal Digimon with fins on its hands and feet to paddle through water. It is more suited for life in the water than on land, and although it swims about quickly in the water with its fins and sturdy hind legs, on the ground it moves about with weak, frog-like hops. When on land it has a very timid disposition, but when in the water it displays its natural, ferocious personality. Its Special Move is coming at the opponent with its sharp, blade-like dorsal fins (Spiral Edge).Digimon Reference Book⇨ English手足に水を掻くためのヒレがついた水棲哺乳類型デジモン。地上での生活よりも水中での生活に適しており、ヒレと強靭な後ろ足で水中をすばやく泳ぎまわるが、地上での移動は苦手でカエルのように飛び跳ねながら動き回る。地上では非常に臆病な性格だが、水中では本来の獰猛な性格を発揮する。必殺技は鋭利な刃物のような背鰭で相手に襲い掛かる『スパイラルエッジ』デジモン図鑑",
+        "ko": "앞뒷발에 물을 차고 나아가기 위한 지느러미가 있는 수생포유류형 디지몬. 지상생활보다는 수중생활에 더 적합하기에 지느러미와 강인한 뒷다리로 물속을 빠르게 누비지만, 지상에서의 이동은 서툴러 개구리처럼 펄쩍펄쩍 뛰며 움직인다. 지상에서는 굉장히 겁이 많지만 수중에서는 본래의 사나운 성격을 드러낸다. 필살기는 예리한 칼 같은 등지느러미로 상대를 덮치는 『스파이럴 엣지』다."
+      },
+      "wikimon_url": "https://wikimon.net/Gizamon"
+    },
+    {
+      "id": "wolf",
+      "name": "Wolfmon",
+      "name_jp": "Wolfmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/wolf/frame1.gif",
+        "frame2": "sprites/wolf/frame2.gif"
+      },
+      "artwork": "sprites/wolf/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Light which bears the might of one of the legendaryWarrior Ten. The lavender parts all over its body areSaint Amethyst, in which holy light is contained. Due to the holy light, the amethyst retains its extraordinary hardness as long as it keeps its righteous spirit, but the second a negative spirit arises in the possessor, it becomes brittle. It is the possessor of a chivalrous spirit that puts its life on the line for the things it believes in, and hates injustice. Because Wolfmon is taciturn and doesn't really like to concern itself with others, it often has the impression of being cold and unfeeling, but it is actually a kind-hearted warrior. Its Special Moves are splitting the opponent in two with its \"Licht Schwert\" light swords (Licht Sieger), and similarly, connecting its two \"Licht Schwert\" and then cutting the opponent into many pieces (Zwei Sieger).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、光の能力を持つデジモン。身体の各部にある薄紫のパーツは、聖なる光が封じ込められているセントアメジスト（聖紫水晶）。聖なる光によってアメジストの硬度は正しい心の時に非常な硬度を保持するが、持ち主に負の心が生じると途端に脆くなってしまう。自分の信じる物のためには命を賭けられる騎士道精神の持ち主で、非道を嫌う。ヴォルフモン自身は口数少なく他人とはあまり関わりたがらないため、冷たい印象を持たれることが多いが、実際は心優しい戦士。必殺技は光の剣“リヒト・シュベーアト”で相手を真っ二つにする『リヒト・ズィーガー』と、同じく二振りの“リヒト・シュベーアト”をつなげて多勢に斬り込む『ツヴァイ・ズィーガー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wolfmon"
+    },
+    {
+      "id": "dober",
+      "name": "Dobermon",
+      "name_jp": "Dobermon",
+      "name_ko": "도베르몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/dober/frame1.gif",
+        "frame2": "sprites/dober/frame2.gif"
+      },
+      "artwork": "sprites/dober/artwork.jpg",
+      "lore": {
+        "en": "A Hunter Digimon that was originally a Virus Digimon, but was converted to a Vaccine by a mutation. Similarly toSnimon, it is a brutal Digimon that exists solely to hunt Virus Digimon despite being a Vaccine, and it can't be controlled by an ordinary Tamer. Its Special Moves are a howl that seals the opponent's abilities (Grau Lärm), and a black beam that pierces the opponent's body and destroys itsDigicore(Schwarz Strahl).Digimon Reference Book⇨ Englishもともとはウィルス種のデジモンが、突然変異でワクチン化したハンターデジモン。スナイモン同様、ワクチン種といってもウィルス種のデジモンを狩るためだけに存在する凶暴なデジモンであり、並大抵のテイマーでは制御することができない。必殺技は敵の能力を封印する咆哮『グラオ・レルム』と、敵の体を貫いてデジコアを破壊する黒い光線『シュヴァルツ・シュトラール』。デジモン図鑑",
+        "ko": "원래는 바이러스종의 디지몬이, 돌연변이로 백신화한 헌터 디지몬. 스나이몬 처럼, 백신종이라 해도 바이러스종의 디지몬을 사냥하기 위해 존재하는 흉폭한 디지몬이며, 보통의 테이머로서는 제어할 수 없다. 필살기는 적의 능력을 봉인시키는 포효 \"그라오 레룸\"과 적의 몸을 관통시켜 디지코어를 파괴하는 검은 광선 \"슈발츠 슈트라르\"."
+      },
+      "wikimon_url": "https://wikimon.net/Dobermon"
+    },
+    {
+      "id": "rana",
+      "name": "Ranamon",
+      "name_jp": "Ranamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/rana/frame1.gif",
+        "frame2": "sprites/rana/frame2.gif"
+      },
+      "artwork": "sprites/rana/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Water which bears the might of one of the legendaryWarrior Ten. It has a sharp intuition and an unstable mood, possibly because it had been in an area that was mostly active in a section of the ocean within a weather forecasting system. Its emotions are erratic; when it is in good mood, it shows off how graceful andlady-like it is, but when it gets upset, it cries hysterically like a baby. In battle, it rarely attacks directly, and mainly does so indirectly by manipulating rain. However, since its combat abilities are intense when it is emotionally overwrought, its attacks are especially uncontrollable while it is crying. Its Special Moves are concentrating heavy rain over an enemy and crushing them (Rain Stream), and dissolving all enemies withacid rain(Jealousy Rain).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、水の能力を持つデジモン。気象予報システム内の海洋部分を主な活動エリアにしていたためか、勘が鋭く気持ちが変化しやすい。喜怒哀楽が激しく、気分のいい時は品のいいお嬢様的なところを見せたりもするが、気に入らないことがあると赤ん坊のようにヒステリックに泣き喚いたりする。戦闘においては、直接攻撃することは少なく、雨を操っての間接攻撃が主。ただし、感情が高ぶっている時の戦闘能力は強力で、特に泣きながらの攻撃は手に負えない。必殺技は豪雨を敵一体に集中させて押しつぶす『レインストリーム』と、酸性の雨で敵全体を溶かす『ジェラシーレイン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ranamon"
+    },
+    {
+      "id": "ebidra",
+      "name": "Ebidramon",
+      "name_jp": "Ebidramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ebidra/frame1.gif",
+        "frame2": "sprites/ebidra/frame2.gif"
+      },
+      "artwork": "sprites/ebidra/artwork.jpg",
+      "lore": {
+        "en": "A nonconformist of theDramon-typewhich has a tough, shrimp-like shell and gigantic pincers. If one is misled by its outward appearance and makes light of Ebidramon, they will become prey of the offensive ability characteristic of the Dramon-type. Its Special Move is swooping down on them with its two pincers (Twin Neptune).Digimon Reference Book⇨ Englishエビのような硬い殻と巨大なはさみを持ったドラモン系の異端児的存在。見かけにだまされてエビドラモンをあなどると、ドラモン系特有の攻撃力の餌食となる。必殺技は２本のはさみで襲いかかる『ツインネプチューン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ebidramon"
+    },
+    {
+      "id": "beowolf",
+      "name": "Beowolfmon",
+      "name_jp": "Beowolfmon",
+      "name_ko": "멧돼지몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/beowolf/frame1.gif",
+        "frame2": "sprites/beowolf/frame2.gif"
+      },
+      "artwork": "sprites/beowolf/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Light that has transcended legend by inheriting all the might of one of the legendaryWarrior Tenand acquiring unknown abilities. It is a strong-armed warrior that possesses both the wildness of a beast and the intelligence of a human, and can easily swing down its double-bladed greatsword \"Trinität\" with one hand. In battle, it coolly sizes up the situation and fights without getting heated up, but it believes in the way of the warrior, of fighting for its comrades and challenging strong opponents. It has the \"Roland2\"[N 1]missile pod on its left hand for use in long-range combat, and specializes in both long-range and short-range combat. Its Special Moves are a powerful combination of heavy fire that assaults the opponent with several homing missiles fired from theRoland 2, then brings them down with its main armament (Licht Angriff), and swinging the greatswordTrinitätatsubluminalspeed from overhead, instantly cutting the opponent to pieces (Zweihänder).Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた光の能力を持つデジモン。獣の野性と人の知性を併せ持ち、２刃の大型剣“トリニテート”を片手で軽々と振り下ろす豪腕戦士。戦闘においては熱することなく沈着冷静に状況を判断して戦うが、仲間の為に戦い、強大な敵に挑戦する戦士の道を信じている。左手には遠距離戦用のミサイルポッド“ロラント２（ツヴァイ）”を持ち、遠距離戦・近距離戦ともに得意である。必殺技はロラント２より発射される複数の追尾ミサイルが敵を強襲し、主砲で敵を仕留める強力なコンビネーション重火器『リヒトアングリフ』と、大型剣トリニテートを上段より亜光速で振り抜き、敵を一瞬にして寸断する『ツヴァイハンダー』。デジモン図鑑",
+        "ko": "\"용기의 디지멘탈\"의 파워에 의해서 진화한 아머체의 포유류형 디지몬. \"저돌 맹진\"이라는 말을 구현화하기 위해 존재하는 디지몬으로 다리, 꼬리, 갈기등에 타오르는 불길을 몸에 감기고 있다. 아무도 멧돼지몬의 질주를 멈추는 일은 하지 못하고 일설에 의하면 멧돼지몬의 사고를 맡는 프로그램에는 \"방향을 바꾼다\"라고 하는 개념이 존재하지 않는다고 말해지고 있다. 이마에는 크롬디지조이드제의 \"돌격 머리띠\"가 붙어있기 때문에, 전방의 장애물은 모두 분쇄하는 것이 가능하다. 필살기는 대기중의 공기를 대량으로 마시고 코끝에서 단번에 고열의 브레스를 방출하는 \"노즈 블래스터\". [2]"
+      },
+      "wikimon_url": "https://wikimon.net/Beowolfmon"
+    },
+    {
+      "id": "garum",
+      "name": "Garummon",
+      "name_jp": "Garummon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/garum/frame1.gif",
+        "frame2": "sprites/garum/frame2.gif"
+      },
+      "artwork": "sprites/garum/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Light which bears the might of one of the legendaryWarrior Ten. It is capable of moving at extremely high speed, perhaps because it was discovered on an optical communicationNet, so it slips through the bullets to get close to the enemy, and then its sharply-pointed claws and fangs tear through those it considers evil without wasting its breath. As the possessor of a righteous heart becoming of the name ofGarmr, who fights with the war godTýratRagnarökin Norse mythology, its feelings of hatred for evil are stronger than that of others. Although it will never obey those whose hearts are even slightly evil, once it has sworn its allegiance to someone it will never betray them. Its Special Moves are charging at extremely high speed, cutting the opponent to pieces with theWing Bladeson its back (Speed Star), and absorbing light energy through its mouth, then spewing it out right at the critical point (Solar Laser).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、光の能力を持つデジモン。光通信ネットで発見されたためか超高速移動が可能で、銃弾をかいくぐって敵に接近し、切れ味鋭い爪と牙は悪とみなした者を問答無用で引き裂く。北欧神話のラグナロクで軍神ティールと共に闘ったガルムの名に恥じぬ正義の心の持ち主で、悪を憎む気持ちは人一倍強い。少しでも邪心のある者には決して従わないが、一度、忠誠を誓うと決して裏切らない。必殺技は超高速で突進し、背部のウィングブレードで敵を寸断する『スピードスター』と、光のエネルギーを口から吸引し、臨界点と同時に吐き出す『ソーラレーザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Garummon"
+    },
+    {
+      "id": "calamara",
+      "name": "Calamaramon",
+      "name_jp": "Calamaramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/calamara/frame1.gif",
+        "frame2": "sprites/calamara/frame2.gif"
+      },
+      "artwork": "sprites/calamara/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Water which bears the might of one of the legendaryWarrior Ten. It has a half-human, half-beast appearance, and its tentacles are used offensively and defensively to either attack the enemy by rapidly spinning them, or guard its body by gathering them together to form a wall. If it is unable to win while attacking and defending with its tentacles, it will retract its body into itsmantleand perform a powered-up attack in the form of a giant squid. The flexibility of its mantle is superior to that of its tentacles, so external physical attacks are ineffective. Although it is better at operating underwater or in the air, on land, it skillfully manipulates its ten tentacles to move around like a huge hermit crab. Its personality is sly and short-tempered like a witch. Its Special Moves are spewing corrosive ink from its mouth (Nero Corso), and hardening its mantle, spinning like a drill, and then smashing into the enemy (Titanic Charge).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、水の能力を持つデジモン。半人半獣の姿をしており、触手は高速回転して敵を攻撃したり、収束して壁となって本体をガードしたりと攻守に使用される。触手での攻防で勝負がつかないとなると、本体は胴に収納されて巨大イカの姿でパワーアップした攻撃をする。胴部の弾力性は触手に勝り、対外の物理攻撃は無効。水中あるいは空中での行動の方が得意だが、陸上では十本の触手を器用に操り巨大なヤドカリのように動く。性格は魔女のようにずる賢くて短気。必殺技は口から溶解性の墨を吹く『ネーロコルソ』と、胴部を硬化させドリルのように回転させて敵にぶつける『タイタニックチャージ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Calamaramon"
+    },
+    {
+      "id": "siren",
+      "name": "Sirenmon",
+      "name_jp": "Sirenmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/siren/frame1.gif",
+        "frame2": "sprites/siren/frame2.gif"
+      },
+      "artwork": "sprites/siren/artwork.jpg",
+      "lore": {
+        "en": "A God Man Digimon which has an outward appearance like a blending of bird and fish. Its personality is cheerful, and it is always singing pleasant songs throughout the skies and seas. Its voice has a miraculously sweet sound and actually has an eightoctaverange from very high notes to very low notes, and it brings tranquility even to devastated battlefields with its singing voice. It is said that by healing its listeners and performing good deeds, it will continue on to a shining evolution. The notes of itsDai'ikkyoku(Polyphony), sung in a highsoprano, suffuse the listener's heart and numbs their free will, leaving them at Sirenmon's mercy. Its solemnDainikyoku(Aria), sung in a lowbass, becomes a deep bass frequency wave which flattens the enemy through theirsemicircular canals, so that they are unable to even stand.Daisankyoku(Canon), a technique which attacks the enemy using its singing voice as note-shaped shots. The notes it hits are said to have the marvellous trait of ricocheting to always strike their targets, even separate enemies. Each technique also has the characteristic of increasing in power if there are others singing alongside Sirenmon, corresponding to their quantity. Even the weak gain great power by singing in chorus with Sirenmon.Digimon Reference Book⇨ English鳥と魚が融合したような外見を持つ神人型デジモン。性格は陽気で、いつも空や海から楽しげな歌を歌っている。その声は超低音から超高音まで実に８オクターブを歌いこなす奇跡の美声を持ち、荒んだ戦場でもその歌声で安らぎをもたらす。聞く者を癒す善行を積むことで、その先に輝かしい進化があると言われている。高いソプラノで奏でる『第一曲≪ポリフォニー≫』の調べは、耳にする者の心に染み入って自由意思を麻痺させ、セイレーンモンの意のままとされてしまう。低いバスで奏でる荘厳なる『第二曲≪アリア≫』は、重低音の低周波動となって敵の三半規管から押し潰し、立っていることもままならない。歌声を音符弾にして敵を撃つ技『第三曲≪カノン≫』。命中した音符弾は跳弾して必ず別の敵にも命中するという不思議な特徴がある。いずれの技もセイレーンモンと一緒に唄う者がいるとその数だけ威力が高まる特質を持つ。弱き者でもセイレーンモンと合唱することで大きな力となる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sirenmon"
+    },
+    {
+      "id": "splash",
+      "name": "Splashmon",
+      "name_jp": "Splashmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/splash/frame1.gif",
+        "frame2": "sprites/splash/frame2.gif"
+      },
+      "artwork": "sprites/splash/artwork.jpg",
+      "lore": {
+        "en": "The general of the Water-tiger Army of the \"Big Death-Stars\". By changing itself into a liquid and moving from liquid to liquid, it is able to take the shape of a human or Digimon at will. For this reason, spying is its specialty, and it puts all the information it acquired together, then relays it to its Cyborg Digimon to implement its strategies. No matter the tactics, it always puts being beautiful as its top priority, and its personality is such that it will reject tactics that sully its own beauty. Although it leads an army, its faith is only in its own beauty, so it doesn't have even an iota of anything like mutual trust, even for the Digimon in its army. The cute, multi-colored \"Drippin\" water-spirits composed and formed within its body, in contrast to their appearance, each possess an offensive ability of frightening degree, including close-combat, abnormal condition, and detonation abilities, according to their color. It has become a word-of-mouth rumor that among \"Drippin\" there exists one packed with Splashmon's obsession, the \"Miraculous Beauty Fluid\" that turns the skin glossy. The army of Drippin that are fired with its \"Poisonous Force\" paralyze the enemy force's chain of command, causing the battlefield to fall into chaos. Furthermore, with its \"Hydro Pressure\", which shoots water of high pressure and speed from its fingertips, and its \"Bead-drown\", which instantly gathers trace elements and converts them to liquid around the opponent's head, it possesses techniques that can cause abnormal conditions. When Splashmon gets wounded and is driven into a corner, it unzips the zippers all over its body and reveals the true form of Splashmon lying within. Those who saw this form, let alone the one who wounded it, are driven to death with its \"Tiger Typhoon\", which consumes everything. However, because its true form is, against its will, simply hideous, it absolutely hates exposing this form.Digimon Reference Book⇨ English「ビッグデスターズ」水虎軍団将軍。自らを液体に変化し液体から液体への移動から、人やデジモンに自在になることも出来る。このためスパイ活動を得意とし、入手した情報を自らがまとめるサイボーグ型デジモンに伝達し作戦を実行している。どんな作戦であれ常に美しくいることが最優先事項で、自身の美貌が汚れる作戦は拒絶する性格にある。軍団は率いているものの信じる物は己の美貌のみで、軍のデジモンといえど信頼関係など微塵も持っていない。体内で構成し形成された色とりどりで可愛らしい水精霊「ドリッピン」は見た目とは裏腹に色によって格闘・状態異常・大爆発と恐ろしいほどの攻撃能力を保有している。「ドリッピン」の中にはスプラッシュモンこだわりの「奇跡の美容液」が詰まったものも存在し、肌がツヤツヤになると口コミで噂になっている。「ポイゾナスフォース」で放たれたドリッピン軍団は敵軍団の指揮系統を麻痺させ戦場を混乱に陥れる。さらに指先から高圧・高速の水圧を撃つ「ハイドロプレッシャー」や、微量の元素を集め一瞬にして敵の頭部周辺に液体化する「ビードラウン」で状態異常を起こさせる技を持つ。スプラッシュモンが傷つき窮地に追い込まれた時、全身のチャックを解放し中からスプラッシュモンの真の姿が現れる。傷つけた者は勿論この姿を見たものは、全てを消滅させる「タイガータイフーン」で死においやられてしまう。しかし真の姿はとてもとても醜く意に反しているため、この姿を晒すのは極度に嫌っている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Splashmon"
+    },
+    {
+      "id": "magnagaruru",
+      "name": "Magna Garurumon",
+      "name_jp": "Magna Garurumon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/magnagaruru/frame1.gif",
+        "frame2": "sprites/magnagaruru/frame2.gif"
+      },
+      "artwork": "sprites/magnagaruru/artwork.jpg",
+      "lore": {
+        "en": "ATranscendent-speciesDigimon that possesses power over Light which is said to have surpassed even the might of the legendaryTen Warriors. It specializes in moving atlight speed, and when its aviation unit is equipped it is able to fly atsubluminalspeeds. Also, its chest armor, its long-range firing \"Sniper Phantom\" on its right arm, and its mid-range firing \"Strike Phantom\" on its left arm are capable of being detached, although this decreases a portion of its firepower. By spinning at high altitudes, the \"Laser Sights\" on its chest are capable oflockingonto allanti-airandanti-groundtargets, so as soon as it spins at an extremely high altitude and confirms its targets, it commences a full-scale attack. It seems that it's already too late to escape from Magna Garurumon. Its Special Moves are conducting a simultaneous firing of all its guns at all the locked targets, then violently pulverizing the main target at high speed (Machine Gun Destroy), and after detaching its chest armor, accelerating to speeds that exceed the subluminal and reach thesuperluminallevel, then erasing everything that comes in contact with any of the bands of light (Starlight Velocity).Digimon Reference Book⇨ English伝説の十闘士の力をも超えると云われる、光の能力を持つ超越種デジモン。光速移動を得意とし、飛行ユニット装着時は亜光速で飛空することができる。また、胸部アーマーと、右腕の遠距離射撃「スナイパーファントム」、左腕の中距離射撃「ストライクファントム」は分離が可能だが火力の部分が低下してしまう。胸部の「レーザサイト」は上空での旋回によって、対空・対地全てのターゲットにロックオンが可能で、はるか上空を旋回してターゲットを確認次第、総攻撃を仕掛ける。もはやマグナガルルモンから逃げることは不可能であろう。必殺技は、ロックオンした全てのターゲットに全弾一斉攻撃を行い、高速でメインターゲットを強襲破壊する『マシンガンデストロイ』と、胸部アーマーと分離後、亜光速を越える超光速の域にまで達する速度へ加速し、その光の帯に触れたもの全てを消し去る『スターライトベロシティ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Magna_Garurumon"
+    },
+    {
+      "id": "ancientgaruru",
+      "name": "Ancient Garurumon",
+      "name_jp": "Ancient Garurumon",
+      "name_ko": "에이션트가루몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientgaruru/frame1.gif",
+        "frame2": "sprites/ancientgaruru/frame2.gif"
+      },
+      "artwork": "sprites/ancientgaruru/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Light\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is called the \"Supreme Shining Beast\". Ancient Garurumon's abilities were later passed on to the \"Beast Digimon\". It is said that in the previous crusade, it survived to the end alongsideAncient Greymon, and sealed awayLucemon. Its Special Moves are brandishing its two greatswords with a dazzling brilliance and cutting the opponent to pieces (Sharpness Claymore), and completely halting the movement of electrons with super-cold air atabsolute zeroand a super-ray of light (Absolute Zero).Digimon Reference Book⇨ English“光”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体で、「光り輝く至高の獣」と呼ばれていた。エンシェントガルルモンの能力は、その後“獣型デジモン”に引き継がれていった。先の聖戦ではエンシェントグレイモンと共に最後まで生き残り、ルーチェモンを封印したと言われている。必殺技は２本の大剣で眩い輝きと共に一閃し敵を切り裂く『シャープネスクレイモア』と、絶対零度の超凍気と超光で完全に電子の動きを停止させてしまう『アブソリュート・ゼロ』。デジモン図鑑",
+        "ko": "\"빛\" 속성을 지닌 고대 디지털 월드 를 수호한 전설의 10투사 디지몬. 아득한 고대에 존재했던 최초의 궁극체로 \"빛나는 지고의 짐승\"으로 불렸다. 에이션트가루몬의 능력은 그 후 \"짐승형 디지몬\"에게 이어져 내려왔다. 과거의 성전에서는 에이션트그레이몬 과 함께 끝까지 살아남아, 루체몬 을 봉인했다고 전해진다. 필살기는 두 개의 대검으로 섬광과 함께 적을 베어가르는 \"샤프니스 클레이모어\"와, 절대영도 의 냉기와 빛으로 완전히 전자의 운동을 정지시켜버리는 \"앱솔루트 제로\"."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Garurumon"
+    },
+    {
+      "id": "ancientmermai",
+      "name": "Ancient Mermaimon",
+      "name_jp": "Ancient Mermaimon",
+      "name_ko": "에이션트머메이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "15",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientmermai/frame1.gif",
+        "frame2": "sprites/ancientmermai/frame2.gif"
+      },
+      "artwork": "sprites/ancientmermai/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"water\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is a guardian goddess of the birthplace of Digimon, the \"Net Ocean\". It rules the whole of the far-reaching \"Net Ocean\", and is able to handle all water, such as the ocean currents and tidal waves, as if they were its own limbs. It is said that countless continents and islands have been erased when Ancient Mermaimon felt angry. Ancient Mermaimon's abilities were later passed on to the \"Aquatic Digimon\". Its Special Moves are generating a giganticmaelstromwhich swallows everything in the water (Great Maelstrom), and crystallizing water into super-hard substances, then firing them off like a machine gun (Crystal Billow).Digimon Reference Book⇨ English“水”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、デジモン発祥の地“ネットの海”の守護女神でもある。広大に広がる“ネットの海”全てを支配し、海流や津波などあらゆる水を手足のように扱うことが出来る。エンシェントマーメイモンの怒りに触れて消された大陸や島など数知れないと言われている。エンシェントマーメイモンの能力は、その後“水棲型デジモン”等へ引き継がれていった。必殺技は巨大な大渦巻きを発生させ、全てのものを水中に呑み込む『グレイト・メイルストローム』と、水を超硬度に結晶化させマシンガンの様に打ち出す『クリスタルビロー』。デジモン図鑑",
+        "ko": "\"물\" 속성을 지닌 고대 디지털 월드를 수호한 전설의 10투사 디지몬. 아득한 고대에 존재했던 최초의 궁극체 이며 디지몬의 발상지 \"넷의 바다\" 의 수호 여신이기도 하다. 광대하게 퍼져있는 \"넷의 바다\" 전체를 지배하여 해류나 해일 등 모든 물을 자기 수족처럼 다룰 수 있다. '에인션트머메이몬의 노여움을 사 지워진 대륙이나 섬 등은 수없이 많다 ' 고도 전해진다. 에이션트머메이몬의 능력은 그 후 수생형 디지몬 등에게 이어졌다. 필살기는 거대한 소용돌이를 발생시켜 모든 것을 물속으로 삼켜버리는 『그레이트 메일스트롬』과 물을 매우 딱딱하게 결정화해서 기관총처럼 쏘는 『크리스탈 빌로우』다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Mermaimon"
+    }
+  ],
+  "evolutions": []
+}

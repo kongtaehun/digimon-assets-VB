@@ -1,0 +1,74 @@
+{
+  "id": "grade",
+  "name": "Grademon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/grade.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/grade.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/grade.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "doruga",
+        "raptordra"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Grademon",
+    "name_en": "Grademon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6000",
+      "hp": "4700",
+      "ap": "1650"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "doruga",
+        "name": "DORUgamon",
+        "conditions": "Stage 8 cleared, 12+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "raptordra",
+        "name": "Raptordramon",
+        "conditions": "Stage 8 cleared, 12+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "alpha",
+        "name": "Alphamon",
+        "conditions": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "deathxdorugora",
+        "name": "Death-X-Dorugoramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "dorugora",
+        "name": "DORUgoramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Digimon DIM",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "digimon",
+    "evolutions"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "device": {
+      "type": "string",
+      "enum": [
+        "VBDM",
+        "VBBE"
+      ]
+    },
+    "release": {
+      "type": "string"
+    },
+    "emblem_url": {
+      "type": "string"
+    },
+    "digitama": {
+      "type": "string",
+      "description": "relative path to digitama gif"
+    },
+    "stages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "digimon": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "stage"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "name_jp": {
+            "type": "string"
+          },
+          "name_ko": {
+            "type": "string"
+          },
+          "stage": {
+            "type": "string"
+          },
+          "stage_text": {
+            "type": "string"
+          },
+          "attribute": {
+            "type": "string"
+          },
+          "activity": {
+            "type": "string"
+          },
+          "stats": {
+            "type": "object"
+          },
+          "schedule": {
+            "type": "object"
+          },
+          "sprites": {
+            "type": "object",
+            "properties": {
+              "frame1": {
+                "type": "string"
+              },
+              "frame2": {
+                "type": "string"
+              }
+            }
+          },
+          "artwork": {
+            "type": "string"
+          },
+          "lore": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "ko": {
+                "type": "string"
+              }
+            }
+          },
+          "wikimon_url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "evolutions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "from",
+          "to"
+        ],
+        "properties": {
+          "from": {
+            "type": "string"
+          },
+          "to": {
+            "type": "string"
+          },
+          "conditions": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  }
+}

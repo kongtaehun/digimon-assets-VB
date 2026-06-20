@@ -1,0 +1,57 @@
+{
+  "id": "metalete",
+  "name": "Metal Etemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/metalete.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/metalete.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/metalete.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "orochi",
+        "ete"
+      ],
+      "requirements": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Metal Etemon",
+    "name_en": "MetalEtemon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "5100",
+      "hp": "5300",
+      "ap": "1850"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "orochi",
+        "name": "Orochimon",
+        "conditions": "13+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "ete",
+        "name": "Etemon",
+        "conditions": "13+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,1150 @@
+{
+  "schema_version": "1.0",
+  "id": "jelly",
+  "name": "Jellymon",
+  "category": "anime",
+  "device": "VBBE",
+  "release": "JP: Feb 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_jelly.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "puyo",
+      "name": "Puyomon",
+      "name_jp": "Puyomon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/puyo/frame1.gif",
+        "frame2": "sprites/puyo/frame2.gif"
+      },
+      "artwork": "sprites/puyo/artwork.jpg",
+      "lore": {
+        "en": "A soft and sticky Slime Digimon that was discovered in the \"Net Ocean\". Its single, lens-like eye lacks emotional expression, so you can't tell what it's thinking, but it drifts through the sky or the sea, trying to stick to objects and other Digimon with its tentacles. Once it sticks onto something, it will emit tingling static electricity (Pachipachi Gas), but this seems to be a form of communication unique to Puyomon rather than an attack. When multiple Puyomon stick to each other, their \"Pachipachi Gas\" becomes more powerful, making it difficult to approach the surrounding area.Digimon Reference Book⇨ English「ネットの海」で発見された粘着性があり柔らかいスライム型デジモン。レンズのような一つ目は感情表現に乏しく何を考えているかは感じとれないが、空や海の中をふらふらと漂いモノやデジモンに触手でくっつこうとする。くっつくとピリっとした静電気『パチパチガス』を放ってくるが、攻撃しているわけではなく、プヨモンならではのコミュニケーションのようだ。プヨモン同士がくっつくと互いの『パチパチガス』が威力を増し、その周囲には近寄れなくなる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Puyomon"
+    },
+    {
+      "id": "puyoyo",
+      "name": "Puyoyomon",
+      "name_jp": "Puyoyomon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/puyoyo/frame1.gif",
+        "frame2": "sprites/puyoyo/frame2.gif"
+      },
+      "artwork": "sprites/puyoyo/artwork.jpg",
+      "lore": {
+        "en": "Puyomonevolved by taking in jellyfish data. It grew several tentacles by copying the biological features of jellyfish. As you can tell from its round eyes that are brimming with curiosity, it has grown its own preferences, and once it sticks to something that it likes, it will not let go. Conversely, when it is something that it dislikes, it sends out a bursting streak of electricity (Zone Pachipachi), and never lets anything get near it. Even if it likes sticking to something, it will lose interest after a while and detach from it, and has a moody personality where it floats lightly in search of exciting things that suit its taste.Digimon Reference Book⇨ Englishクラゲのデータを取り込んだプヨモンが進化。クラゲの生体的な特徴をコピーして触手が複数生えた。好奇心をたたえたつぶらな瞳からも分かるように、好き嫌いの感情が芽生え 、好むモノにくっつくと離れなくなる。逆に嫌いと感じたモノには弾ける電撃帯『ゾーンパチパチ』を放ち、絶対に近づかせようとしない。好んでくっついていても、しばらくすると飽きて離れ、また好みに合う刺激的なモノを探してふわふわと漂っていく気分屋な性格である。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Puyoyomon"
+    },
+    {
+      "id": "jelly",
+      "name": "Jellymon",
+      "name_jp": "Jellymon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "2950",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/jelly/frame1.gif",
+        "frame2": "sprites/jelly/frame2.gif"
+      },
+      "artwork": "sprites/jelly/artwork.jpg",
+      "lore": {
+        "en": "A Mollusk Digimon with a squishy head like a jellyfish. Its whole body is flexible, which allows it to retract its body into its head, and it usually lives with just its head showing. While it is in this form, it is light enough to fly just by being blown by the wind. It prefers beautiful environments and acts, and once it sees foul behavior, it will free its body in anger and turn into itsBattle Mode.Its Signature Moves are the paralyzing attack \"Bibi Thunder\", in which it discharges static electricity from the tips of its tentacles, \"Volt Knuckle\", a punching technique in which it electrifies its fists, and \"Spiral Kick\", where it kicks the enemy into the air while performing a somersault.Digimon Reference Book⇨ Englishクラゲのようなプニプニとした頭を持つ軟体型デジモン。全身が柔軟で体を頭の中に収納することもでき、通常は頭だけの状態で生活している。頭だけの時は風に吹かれただけでも飛ぶほどの軽さ。キレイな環境や行為を好み、汚れた行いを見ると怒りで体を出して戦闘モードになる。触手の先から静電気を飛ばす麻痺攻撃の『ビビサンダー』、拳に電撃をまとうパンチ技『ボルトナックル』、宙返りしながら敵を蹴り上げる『スパイラルキック』が得意技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Jellymon"
+    },
+    {
+      "id": "kodokugu",
+      "name": "Kodokugumon",
+      "name_jp": "Kodokugumon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4100",
+        "hp": "2800",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/kodokugu/frame1.gif",
+        "frame2": "sprites/kodokugu/frame2.gif"
+      },
+      "artwork": "sprites/kodokugu/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kodokugumon"
+    },
+    {
+      "id": "teslajelly",
+      "name": "Tesla Jellymon",
+      "name_jp": "Tesla Jellymon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "3400",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/teslajelly/frame1.gif",
+        "frame2": "sprites/teslajelly/frame2.gif"
+      },
+      "artwork": "sprites/teslajelly/artwork.jpg",
+      "lore": {
+        "en": "The Adult form ofJellymonthat has grown by absorbing data from combat sports likesteel cage death matcheswhile in search of stimulation and pleasure. Its electric shock techniques have been further enhanced, and there are even more techniques adapted from things such as karate and professional wrestling in the fighting it unleashes. It easily dodges the enemy's attacks by capitalizing on the softness of its body.Its Special Move is sending an electric shock stored in its palms through the enemy's vitals (Physalist). In addition, it has \"Punischöne\", in which it shocks and punishes the enemy in a stimulating manner with the high-voltage belts that extend from its body, and \"Vorsprite\", in which it electrifies its body and rams into them while spinning.Digimon Reference Book⇨ Englishジェリーモンが刺激と快感を求めて、金網デスマッチなどの格闘技のデータを吸収して成長した成熟期の姿。電撃技がさらに強化され、繰り出す格闘には空手やプロレスなどから応用した技がさらに多くなった。体の柔らかさを活かして敵の攻撃も軽々といなす。必殺技は、手のひらに溜めた電撃『フィサリスト』を急所に打ち込む。さらに、身体から伸ばした高電圧の帯で敵をビリビリ刺激的にお仕置きする『パニッシューネ』、電撃を体に纏い回転しながら体当たりする『ボルスプライト』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tesla_Jellymon"
+    },
+    {
+      "id": "ikkaku",
+      "name": "Ikkakumon",
+      "name_jp": "Ikkakumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5500",
+        "hp": "3700",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/ikkaku/frame1.gif",
+        "frame2": "sprites/ikkaku/frame2.gif"
+      },
+      "artwork": "sprites/ikkaku/artwork.jpg",
+      "lore": {
+        "en": "A Marine Beast Digimon that was discovered in the computer of an Arctic exploration base. Its thick fur and stout body are structured so that it can endure even freezing lands. Its sharp horn is made of \"Mithril\", one of the rare metals, and the skin under its fur is just as hard. The portions of its soles where its claws attach are heat tops that are able to give off high temperatures at will. As such, it's able to maintain a tight footing when on ice, but it isn't able to move very nimbly. When in battle, it will intimidate the opponent with an impressive roar similar to a lion's. Its Special Move is shooting its regrowable horn (Harpoon Vulcan).Digimon Reference Book⇨ English北極探査基地のコンピュータで発見された海獣デジモン。分厚い毛皮と頑丈な体は、極寒の地でも耐えられるような構造をしている。鋭い角はレアメタルの一つ「ミスリル」でできており、毛皮の下の体皮も同等の硬度を持っている。足先の爪にあたる部分は、自分の意思で高温を発することのできるヒートトップ。そのため氷上では、ガッチリと足場を確保できるが、あまり素早く動くことはできない。戦闘時はライオンに似た堂々とした吠え声で相手を威嚇する。必殺技は再生可能な角を射出する『ハープーンバルカン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ikkakumon"
+    },
+    {
+      "id": "tobiu",
+      "name": "Tobiumon",
+      "name_jp": "Tobiumon",
+      "name_ko": "플라잉피쉬몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5600",
+        "hp": "3600",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/tobiu/frame1.gif",
+        "frame2": "sprites/tobiu/frame2.gif"
+      },
+      "artwork": "sprites/tobiu/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Digimon that corners its targeted prey at high speed. Its oddly developed fins allow it to fly, and its large arms enable it to move on the ground. It holds the alias of \"Hunter Fish\" from how it brings down its targets regardless of whether they are on land, in the sea, or in the air.After it slows down its prey with its \"SuckerfishDarts\", organic missiles fired from its abdomen, it finishes them off with its \"Flying Finish\", where it unleashes a high-speed slash attack with its sharp fins.Digimon Reference Book⇨ English狙った獲物を高速で追い詰める水棲型のデジモン。異様に発達したヒレは飛行を、大きな腕は地上での移動を可能にした。陸海空問わずに標的を仕留めることから、”ハンターフィッシュ”の異名を持つ。腹部から発射する生態ミサイル「サッカーフィッシュダーツ」で獲物の動きを鈍らせた後、鋭利なヒレで高速の斬撃を繰り出す「フライングフィニッシュ」でとどめを刺す。デジモン図鑑",
+        "ko": "노린 사냥감을 고속으로 몰아넣는 수서형 디지몬. 이상하게도 발달한 지느러미는 비행을, 큰 팔은 지상에서 이동이 가능하게 되었다. 육해공을 불문하고 표적의 숨통을 끊어 버리는 것으로부터 \"헌터 피시\" 라는 이명을 가지고 있다. 복부에서 발사하는 생태 미사일 『사커 피시 다츠』로 먹이 의 움직임을 둔화시킨 후, 예리한 지느러미로 고속 참격을 가하는 『플라잉 피니시』로 끝낸다."
+      },
+      "wikimon_url": "https://wikimon.net/Tobiumon"
+    },
+    {
+      "id": "karatukinume",
+      "name": "Karatsuki Numemon",
+      "name_jp": "Karatsuki Numemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "3000",
+        "ap": "1150"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/karatukinume/frame1.gif",
+        "frame2": "sprites/karatukinume/frame2.gif"
+      },
+      "artwork": "sprites/karatukinume/artwork.jpg",
+      "lore": {
+        "en": "A Crustacean Digimon, it was aNumemonthat made use of its intelligence and found a shell to cover itself in order to protect its body. As a result, while it is slightly more intelligent than Numemon, it in turn grew a cowardly personality, and will retreat into its shell in shock at even the slightest disturbance. Its defense is extremely high while it is holed up in its shell, remaining firm even when it is kicked or stepped on. Its Special Move is hiding its body within its shell and using its shell to do a tackle (Shell's Attack), and throwing the large amounts of poop it has stored within its shell (Jukusei Unchi).Digimon Reference Book⇨ Englishヌメモンが身を守るために知恵を使って探し当て殻をかぶっている甲殻類型デジモン。そのためヌメモンよりも頭が少しだけ賢いが、ちょっとしたことでも驚き殻に閉じこもるほど臆病な性格にもなっている。殻に閉じこもった時の防御力は非常に高く、踏まれても蹴飛ばされても頑丈である。必殺技は、殻の中に体を隠して殻ごとぶつける「シェルズアタック」と、殻の中に溜め込んだウンチをこんもり投げる「熟成ウンチ」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Karatsuki_Numemon"
+    },
+    {
+      "id": "chamble",
+      "name": "Chamblemon",
+      "name_jp": "Chamblemon",
+      "name_ko": "샴블몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5100",
+        "hp": "3600",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/chamble/frame1.gif",
+        "frame2": "sprites/chamble/frame2.gif"
+      },
+      "artwork": "sprites/chamble/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon in the shape of an extremely poisonous mushroom. It is a mystery whether it evolved fromMushmon, or if it is another variant. Although it is often seen as being weak, it is quite the ruffian. If anyone approaches it carelessly, its floating \"Sweepore\" spores will attach to them, and sprout into mushrooms containing their drained vitality. If one picks and eats them, they will be brimming with energy, and it seems that among them, the Data-type mushrooms are especially delicious.Its Special Move is releasing mushroom bombs of various sizes all at once (Champignon Bomb). With the ensuing fumes and spores, it transforms the area into a mushroom bed.Digimon Reference Book⇨ English毒性がとても強いキノコの形をした植物型デジモン。マッシュモンから進化したのか、別の変種なのかは謎めいている。弱そうに見られがちだがかなりの曲者。油断して近づくと漂う胞子『スイーポア』が付着し、吸い取った生気を含むキノコが育つ。もぎって食べれば力が漲り、なかでもデータ種のキノコは特に美味しいようだ。必殺技は、大小様々な大きさのキノコ型爆弾を一斉放出する『シャンピオン・ボム』。爆煙と胞子で一帯を菌床化する。デジモン図鑑",
+        "ko": "독성이 아주 강한 버섯 모양의 식물형 디지몬. 머슈몬 에서 진화했는지 다른 변종인지는 수수께끼다. 약해보이지만 상당한 강자. 방심하고 다가가면 떠다니는 포자 『스위포어』가 부착되어 빨아들인 생기를 포함한 버섯이 자란다. 그 버섯을 뜯어 먹으면 힘이 넘치고 그중에서도 데이터종의 버섯은 특히 맛있다는 듯 하다. 필살기는 크고 작은 크기의 버섯형 폭탄을 일체 방출하는 『샴피온 붐』. 폭연과 포자로 일대를 균상화한다."
+      },
+      "wikimon_url": "https://wikimon.net/Chamblemon"
+    },
+    {
+      "id": "kinkaku",
+      "name": "Kinkakumon",
+      "name_jp": "Kinkakumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "4800",
+        "hp": "3700",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/kinkaku/frame1.gif",
+        "frame2": "sprites/kinkaku/frame2.gif"
+      },
+      "artwork": "sprites/kinkaku/artwork.jpg",
+      "lore": {
+        "en": "Kinkakumon is a rampaging girl that is feared as one of the \"Gold and Silver Oni Brothers\" alongside its little brotherGinkakumon. Since it's the type to rush headlong into a love affair, it's a romantic Digimon that will begin violently attacking if there's a Digimon it's interested in. In addition, because it is a thoughtless person prone to making silly mistakes and jumping to the wrong conclusion, if it falls in love with its opponent then the misunderstanding will cause a ruckus. Because it has a confident personality but is naive in the ways of love, it strikes the opponent and sends them soaring if it's bashful, and strikes them dolefully if it's snubbed, so no matter how many lives the opponent it likes has, they aren't enough. Its Special Move is swinging its \"Shichisei Kanabou\" from overhead and pulverizing the whole ground (Kibakusou). Its \"Dokidokidokyūn\", in which it discharges a high-tension current from its whole body, is an all-purpose technique that excels in offense and defense. Its lightning-speed, surprise kick technique \"Raikou Kishū\" conceals an electric shock in its foot and has a paralyzing effect on the opponent.Digimon Reference Book⇨ Englishキンカクモンは弟のギンカクモンと共に「鬼の金銀ブラザーズ」と恐れられる暴走ムスメ。色恋沙汰に猪突猛進するタイプで、気になるデジモンがいると猛烈アタックを掛ける恋多きデジモンである。加えて早とちりの天然ボケのウッカリ者なので、相手が惚れていると勘違いしては大騒ぎを起こしている。性格は強気だが恋に関してウブなので、テレると舞い上がって相手を殴り、つれなくされると悲しくて殴ってしまうので、気に入られた相手は命がいくつあっても足りない。必殺技は「七星金棒（しちせいかなぼう）」で大上段から殴りかかり地面ごと粉砕する「鬼爆葬（きばくそう）」。全身から高圧電流を放電する「怒気怒鬼怒灸（ドキドキドキューン）」は攻守に優れた万能技である。電光石火の奇襲キック技「雷光鬼蹴（らいこうきしゅう）」は電撃が足に秘められており敵を麻痺させる効果をもつ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kinkakumon"
+    },
+    {
+      "id": "thetis",
+      "name": "Thetismon",
+      "name_jp": "Thetismon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "4200",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/thetis/frame1.gif",
+        "frame2": "sprites/thetis/frame2.gif"
+      },
+      "artwork": "sprites/thetis/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Beast Man Digimon which has the appearance of a woman, records show that it was discovered in the deepest trenches of the \"Net Ocean\", the birthplace of Digimon. It brings peace to its own vast territory, and immediately approaches and brings down the hammer on Digimon that tumultuously disturb it. Although it shows no mercy to those who invade its territory, it is kind to Digimon in need of help, guiding them to safety, and has a spirit that fights for the weak against the strong.It eliminates invaders with its \"Birī Smasher\", in which it sends its fists flying by accumulating electricity in its palms, \"Hammer Thunder\", where it kicks the enemy up and then brings them down with both of its  electrically-charged fists, and \"Adieu World\", in which it teleports by removing the space between it and the opponent.In addition, its \"Dokutease\", in which it produces various medicines and injects them via its tentacles, heals the wounds of its allies and temporarily boosts their power, but as for enemies, it disintegrates them from the inside out with a deadly poison, killing them.Digimon Reference Book⇨ Englishデジモンの発祥の地“ネットの海”の最も深い海溝で発見された記録がある、女性の姿をした水棲獣人型デジモン。とても広大な自身のテリトリーに安寧をもたらし、喧噪で脅かすデジモンには一瞬にして詰め寄り鉄槌を下す。テリトリーを荒らすものに慈悲はないが、救助を求めて入ったデジモンには優しく接し安全な場所まで導く、弱きを助け強きを挫く精神を持つ。掌に電撃を溜めることで拳を飛ばす『ビリースマッシャー』、蹴り上げた敵に組み合わせた電流の両拳を振り下ろす『ハンマーサンダー』や、相手との空間を消失させて瞬間転移する『アドゥワールド』で侵略者を排除する。さらに触手から様々な薬を生成して流し込む『ドクテアーゼ』は、味方には傷の治癒や一時的な力のブースト、敵ならば劇毒で内部から分解し死に至らしめる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Thetismon"
+    },
+    {
+      "id": "zudo",
+      "name": "Zudomon",
+      "name_jp": "Zudomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5300",
+        "hp": "4500",
+        "ap": "1610"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/zudo/frame1.gif",
+        "frame2": "sprites/zudo/frame2.gif"
+      },
+      "artwork": "sprites/zudo/artwork.jpg",
+      "lore": {
+        "en": "Ikkakumonevolved further, and as a power-type Digimon it became able to walk on two legs. It further guards its well-tempered muscles with protectors, which it made from the pelt and shell that it stole from itsopponents. The horn on its head has been replaced with one that became impossible to regrow, so it voluntarily processed it into a saw shape. However, after all is said and done, its strongest weapon, which it dug up from ancient ice, is its \"Thor Hammer\" made ofChrome Digizoid. Its Special Move is striking the opponent with the shock wave and sparks produced when it swings down itsThor Hammer(Hammer Spark).Digimon Reference Book⇨ Englishイッカクモンが更に進化し二足歩行が可能になったパワー型デジモン。徹底的に鍛え上げられた筋肉を、対戦相手から奪った皮や甲羅で自ら作った防具でさらに守っている。頭の角は再生が不可能になった代わりに、これも自ら鋸状に加工した。しかし、なんといっても最強の武器は、太古の氷から掘り起こした、クロンデジゾイド製の「トールハンマー」。必殺技はトールハンマーを振り降ろした時に生じる衝撃波や火花を相手にぶつける『ハンマースパーク』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zudomon"
+    },
+    {
+      "id": "waruseadra",
+      "name": "Waru Seadramon",
+      "name_jp": "Waru Seadramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5300",
+        "hp": "4300",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/waruseadra/frame1.gif",
+        "frame2": "sprites/waruseadra/frame2.gif"
+      },
+      "artwork": "sprites/waruseadra/artwork.jpg",
+      "lore": {
+        "en": "ASeadramon-speciesDigimon that evolved ‌in wickedness. It is able to control the powers of darkness with the blade-like horn on its head. Its personality has become even more sly, and its tenacity in chasing its prey exceeds that ofMega Seadramon. Its Special Move is engulfing the enemy in a whirlpool produced with the powers of darkness (Darkstrom).Digimon Reference Book⇨ English邪悪に進化したシードラモン種のデジモン。頭のブレードようなツノで闇の力をコントロールできる。よりズルがしこい性格になっており、エモノを追いつめるしつこさはメガシードラモン以上だ。必殺技は、闇の力でつくり出したうず巻きで敵をのみこんでしまう『ダークストローム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Waru_Seadramon"
+    },
+    {
+      "id": "marinchimaira",
+      "name": "Marin Chimairamon",
+      "name_jp": "Marin Chimairamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5600",
+        "hp": "4000",
+        "ap": "1610"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/marinchimaira/frame1.gif",
+        "frame2": "sprites/marinchimaira/frame2.gif"
+      },
+      "artwork": "sprites/marinchimaira/artwork.jpg",
+      "lore": {
+        "en": "A Composite Digimon that was created by putting together the parts of various Aquatic Digimon. It is thought to have been produced using the same technology asChimairamon, but other than that, it is a complete mystery. It appears out of nowhere like a gust of wind, bringing devastation to ecosystems with its terrifying destructive impulses, and then disappears somewhere else.Its Special Moves are generating a large whirlpool by rapidly spinning its whole body (Poseidon Vortex), and vaporizing its surroundings with a massive amount of energy released from the tip of its horn (Aqua Viper).Digimon Reference Book⇨ English様々な水棲系のデジモンのパーツを組み合わせ創られた合成型デジモン。キメラモンと同様の技術で生み出されたと思われるが、それ以外のことは全くの謎。神出鬼没で嵐のように現れ、凄まじい破壊衝動で生態系を蹂躙し、何処かへと消えていく。必殺技は全身を高速回転させ大渦を発生させる「ポセイドンボルテックス」と、ツノの先端から放つ大質量のエネルギーで周囲を蒸発させる「アクア・バイパー」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Marin_Chimairamon"
+    },
+    {
+      "id": "anomalocari_x",
+      "name": "Anomalocarimon X",
+      "name_jp": "Anomalocarimon X",
+      "name_ko": "스콜피오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6200",
+        "hp": "4600",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/anomalocari_x/frame1.gif",
+        "frame2": "sprites/anomalocari_x/frame2.gif"
+      },
+      "artwork": "sprites/anomalocari_x/artwork.jpg",
+      "lore": {
+        "en": "Acomputer virusinfected the databanks of a laboratory where the investigations and excavations of ancient life forms is preformed, and took in the data of an ancient life form and evolved. It became like the life form which in ancient times was the apex of the food chain, which had a great appetite and supplied it with an ability capable of allowing it to see food that was of the finest quality. Skillfully using the tentacles that grow from its head, it catches the enemy and kills them with the sharp blade that grows from its tail. When the progression of a fight becomes disadvantageous, it uses its sharp tentacles to hoist up the soil of the seabed to hide its body. The radar eye that projects from its head captures the enemy like a night vision scope, watching for the chance to create a turnabout. Its Special Move is crossing its right and left forelimbs and shooting with \"Stinger Surprise\".The effect onAnomalocarimon'sDigicoredue to theX-AntibodyHaving survived in theintensely competitiveNet Oceansince ancient times, Anomalocarimon took in all the elements within the ocean into its carapace and acquired its camouflage ability \"Ghost Surprise\", which is considered to be a form ofactive camouflage. Despite losing that ability on land, it is difficult to see Anomalocarimon while underwater, leading to it possessing the terrifying ability to attack while also being invisible to other Digimon.Digimon Reference Book⇨ English古代生物の調査や発掘を行っている研究所のデータバンクにコンピュータウィルスが感染し、古代生物のデータを取り込み進化した。古代に食物連鎖の頂点にいた生物同様、旺盛な食欲と、高い補食能力を身につけている。頭部から生えた触手を器用に使って敵を捕まえ、尻尾から生えた鋭いブレードで仕留める。戦況が不利になると、海底の土を、鋭い触手で巻上げて身を隠す。頭部から突き出ているレーダーアイは暗視装置のように敵を捕捉し、逆転の機会を狙う。必殺技は左右の前肢をクロスさせ放つ『スティンガーサプライズ』。■Ｘ抗体によるアノマロカリモンのデジコアへの影響古代より生存競争の高いネットの海を生き抜いてきたアノマロカリモンは、海中のあらゆる成分を甲殻に取り込み、光学迷彩とでも言うべきカモフラージュ能力『ゴーストサプライズ』を身に付けている。陸上ではその能力は失われるが、海中のアノマロカリモンを視認することは容易ではなく、他のデジモンにとっては見えないものに襲われるという恐ろしい能力を持つに至った。デジモン図鑑",
+        "ko": "고대 생물의 조사와 발굴을 하고있는 연구소의 데이터 뱅크에 감염된 컴퓨터 바이러스가 고대 생물의 데이터를 수집해 진화했다. 고대에 먹이사슬의 정점에 있던 생물처럼 왕성한 식욕과 높은 보식 [5] 능력을 가지고 있다. 머리에 난 촉수를 능숙하게 사용하여 적을 잡고, 꼬리에서 난 날카로운 블레이드로 사냥한다. 전황이 불리해지면 날카로운 촉수로 해저의 흙을 말아올려 몸을 숨긴다. 머리에서 튀어나온 레이더아이는 야간투시장치처럼 적을 포착해 역전의 기회를 노린다. 필살기는 좌우 앞다리를 교차시켜 공격하는 스팅거 서프라이즈 [6] . 모티브는 고대생물인 아노말로카리스 . 한국과 북미에서는 주 시청자인 어린이들이 아노말로카리스를 모를 것이라 생각한 탓인지 모습이 비슷한 전갈에서 이름을 따왔다. 덕분에 진짜 \"스콜피오몬\"은 전갈몬 으로 로컬라이징."
+      },
+      "wikimon_url": "https://wikimon.net/Anomalocarimon_X"
+    },
+    {
+      "id": "blackkingnume",
+      "name": "Black King Numemon",
+      "name_jp": "Black King Numemon",
+      "name_ko": "블랙킹워매몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5100",
+        "hp": "3500",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/blackkingnume/frame1.gif",
+        "frame2": "sprites/blackkingnume/frame2.gif"
+      },
+      "artwork": "sprites/blackkingnume/artwork.jpg",
+      "lore": {
+        "en": "A jet-blackNumemonthat has established its position as King of the dark trash data world and became a Perfect. It carries a crown it picked up on its back like a shell, and also grew a mustache. As it is dignified, it tries to refrain from poop attacks which violate its dignity, but uses them on impulse.Its Special Move is firing black beams from its round eyes (Dark Pupil). Also, its \"Poison Mucus\", in which it splashes a liquid that its mouth contains copious amounts of, makes the body smelly and sticky, and poisons it, causing insufferable pain.Digimon Reference Book⇨ English闇のトラッシュデータ界の王様としての地位を築き完全体となった漆黒のヌメモン。拾った王冠を殻のように背負い髭も伸びた。貫録がついたことから気品に反するウンチ攻撃は控えようとするも、衝動にかられると出してしまう。必殺技は、つぶらな瞳から黒い光線を放つ『ダークピューピル』。また口にたっぷり含んだ液をぶっかける『ポイズンミュークス』は、体が臭くベトベトになり毒にも冒され、何重にも苦痛を与える。デジモン図鑑",
+        "ko": "어둠의 쓰레기 데이터계의 왕으로서의 지위를 쌓아 올려 완전체가 된 칠흑의 워매몬. 주운 왕관을 껍질처럼 짊어지고 수염도 길렀다. 관록이 붙어 있어 기품에 반하는 똥 공격은 삼가려다가도 충동을 느끼면 내보내고 만다. 필살기는 동그란 눈동자에서 검은 빛을 내는 \"다크 퓨필\". 또 입에 듬뿍 머금은 액을 뿌리는 \"포이즌 무커스\"는 몸에서 냄새가 나고 끈적끈적해지게 만들며 독을 일으키는 탓에 여러 겹에 걸쳐 고통을 준다."
+      },
+      "wikimon_url": "https://wikimon.net/Black_King_Numemon"
+    },
+    {
+      "id": "majira",
+      "name": "Majiramon",
+      "name_jp": "Majiramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5600",
+        "hp": "4800",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/majira/frame1.gif",
+        "frame2": "sprites/majira/frame2.gif"
+      },
+      "artwork": "sprites/majira/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theDragon. As a follower of theFour Holy BeastsDigimonQinglongmon, it is extremely calculating and hates to even lift a finger if it won't benefit itself. However, if it realizes that something will benefit itself, it will want to poke its head in no matter what the thing is. It has a habit of putting a price on everything, and expressing various matters by their cost in money. During battle, it shoots through the opponent with theBǎo Shǐ, which are the hairs of its tail and whiskers transformed (Incidentally, oneBǎo Shǐis worth¥5,000). Its Special Move is disappearing into the center of a swirl of light summoned in the sky, then firing108shiningBǎo Shǐ, burying a horde of opponents in just an instant (Vedhaka).[1]It possesses ¥540,000 worth of destructive power.Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、竜に似た姿の完全体デジモン。四聖獣デジモンであるチンロンモンの配下で、非常に計算高く自分の得にならないと指一本動かすのもいやがる。ただし、それが自分に有利になると分かれば、何を置いても首を突っ込みたがる。あらゆる物に値段をつける癖があり、様々な事柄を金額で表現する。戦闘時には、尻尾や髭、髪を変化させた宝矢（パオスー）で相手を射抜く（ちなみに一本の宝矢は五千元）。必殺技は天に呼んだ光の渦の中心に消え、１０８本の輝く宝矢を放って大量の敵を一瞬にして葬る「ヴェーダカ」。五十四万元分の破壊力を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Majiramon"
+    },
+    {
+      "id": "toropia",
+      "name": "Toropiamon",
+      "name_jp": "Toropiamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5800",
+        "hp": "4200",
+        "ap": "1610"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/toropia/frame1.gif",
+        "frame2": "sprites/toropia/frame2.gif"
+      },
+      "artwork": "sprites/toropia/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon that inhabits jungles. It is thought to have evolved into this gaudy appearance by taking in the data of various trees and fruits. Its scent, which is like a mixture of all kinds of fruits, is so intense that those who are not used to it will get knocked out cold. The droplets secreted from its leaves, which act as wings, are so toxic that they can even dissolve iron.Its Special Move is dispersing a large amount of explosive pollen from the petals around its neck (Petally Carnage). Also, its \"Tropical Venom\", a gas spewed out of its mouth, is a potent poison that matures within its body, and causes those who inhale it to melt into mush from within.Digimon Reference Book⇨ Englishジャングルに棲息する植物型デジモン。様々な樹木・果実のデータを取り込み、派手な見た目に進化したと思われる。あらゆる果物を混ぜ合わせたような体の匂いも強烈で、慣れない者はそのキツさに気絶してしまうほどだ。羽根の役割を果たす葉から分泌される雫は、鉄をも溶かす程の強い毒性を持っている。必殺技は、首の花びらから爆発する花粉を大量に飛ばす「ペタリーカーネイジ」。また、口から吐き出すガス「トロピカルヴェノム」は、体内で熟成させた強烈な毒で、吸い込んだ者を内側からドロドロに溶かしてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Toropiamon"
+    },
+    {
+      "id": "amphi",
+      "name": "Amphimon",
+      "name_jp": "Amphimon",
+      "name_ko": "안피몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6500",
+        "hp": "5200",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/amphi/frame1.gif",
+        "frame2": "sprites/amphi/frame2.gif"
+      },
+      "artwork": "sprites/amphi/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that wanders about everywhere in the vast \"Net Ocean\", forging connections with various marine Digimon. It is capable of diving into ultra-high pressure zones thanks to theBodysuitthat covers its whole body, and has even intruded the \"Abyss Sanctuary\", which is constructed at the extreme depths of the sea. Like Angel Digimon and God Man Digimon, it is permitted to pass judgment upon those judged to be evil in the Net Ocean. Once a battle begins, its usual merriment undergoes a complete about-face like the raging sea, and it strikes sinners with a blow of judgment.Its Special Moves are shooting cold air from its fist to freeze the opponent (Crystal Freezer), sending off ultra-high pressure water cutters from its horizontally swung hand (AquaZanba), and delivering a kick with its electrified foot (Raiburn Break). Also, it can deploy severalJellyfish Unitsto form its \"Umbre Defender\" electromagnetic shield to protect itself or its companions.Digimon Reference Book⇨ English広大な“ネットの海”のどこでも回遊し、様々な海生デジモンと縁を結ぶサイボーグ型デジモン。全身を覆うボディースーツにより超高圧層への潜水を可能とし、超深海に建つ「アビスサンクチュアリ（深海神殿）」にも入城を果たした。天使型デジモンや神人型デジモンより、ネットの海における悪と判断した者を断罪することを許されている。戦いが始まれば普段の陽気さは荒れ狂う海のように一変し、罪人へ裁きの一撃をお見舞いする。必殺技は、拳から凍気を撃ち出し相手を凍結させる『クリスタルフリーザー』、水平に振るった手から飛び出す超高圧水のカッター『アクアザンバー』、足に電撃を纏わせてキックを叩き込む『ライバーンブレイク』がある。また数体のクラゲユニットを展開して電磁シールド『アンブレディフェンダー』を形成し、自分や仲間を守ることができる。デジモン図鑑",
+        "ko": "광대한 \"넷의 바다\"의 어디서나 회유하며, 다양한 해생 디지몬과 인연을 맺는 사이보그형 디지몬. 전신을 덮는 바디 슈트로 초고압층 잠수를 가능케 하고, 초심해에 세워진 「 어비스 생츄어리(심해 신전) 」에도 입성해냈다. [2] 천사형 디지몬이나 신인형 디지몬처럼, 넷의 바다에서 악이라고 판단한 자를 단죄하는 것이 허용되고 있다. 싸움이 시작되면 평소의 쾌활함은 사나운 바다처럼 일변해, 죄인에게 심판의 일격을 먹여준다. 필살기는, 주먹에서 냉기를 쏘아 상대를 동결시키는 \"크리스탈 프리저\", 수평으로 휘두른 손에서 튀어나오는 초고압수의 커터 \"아쿠아 잔바 [3] \", 발에 전격을 휘감아 킥을 힘껏 때려박는 \"라이번  브레이크\"가 있다. 또 여러 개의 해파리 유닛을 전개해 전자 실드 \"엄브레 디펜더\"를 형성해, 자신과 동료를 보호할 수 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Amphimon"
+    },
+    {
+      "id": "vike",
+      "name": "Vikemon",
+      "name_jp": "Vikemon",
+      "name_ko": "바이킹몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5600",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/vike/frame1.gif",
+        "frame2": "sprites/vike/frame2.gif"
+      },
+      "artwork": "sprites/vike/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man-type Ultimate Digimon who governs the freezing lands of thepermafrost, where nothing ever thaws. Its fur has become like ice crystals, and is said to be as hard asChrome Digizoid. With themorning star\"Mjöllnir\" it carries on its back, it can annihilate a mountain in one swing, distorting space itself. It manages theIkkakumonandZudomoncorps, and though in the midst of battle it appears as a heartless berserker, it shows a face of great compassion for its subordinates. Its Special Move \"Arctic Blizzard\" momentarily brings the surrounding atmosphere toabsolute zero, flash-freezing the opponent, who it then smashes withMjöllnir. That the opponent's smashed body becomes like a blizzard is what gave it the name.Digimon Reference Book⇨ English決して溶けることのない、永久凍土の極寒の地を治める獣人型の究極体デジモン。体毛は氷の結晶の様に変化しており、クロンデジゾイド並みの硬度を持つと言われている。背中に背負っているモーニングスター「ミョルニル」は一振りで山を消滅させることができ、空間そのものを歪めてしまう。イッカクモンやズドモンの軍団を束ね、戦いの際は鬼神のような非情さを見せるが、手下への情は厚く思いやりのある一面も見せる。必殺技の『アークティックブリザード』は周囲の大気を瞬間的に絶対零度にし、敵を急速冷凍させ、「ミョルニル」で打ち砕いてしまう。砕かれた敵の体がまるでブリサードのようになるのがその名の由来である。デジモン図鑑",
+        "ko": "절대 녹지 않는, 영구동토의 극한의 땅을 다스리는 수인형 궁극체 디지몬. 털은 얼음의 결정과 같이 변해서, 크롬디지조이드 수준의 경도를 가진다고 한다. 등에 붙어있는 모닝스타 ' 묠니르 ' [1] 는 한 번 휘두르는 것으로도 산을 소멸시킬 수 있어 공간 그 자체를 비뚤어지게 한다. 원뿔몬 들과 쥬드몬 들의 군단을 묶어 싸울 때는 도깨비와 같은 비정함을 보이지만, 부하에게의 정을 두텁게 하여 배려심을 보이기도 한다. 필살기는 주위의 대기를 순간적으로 절대 영도로 만들어 적을 급속 냉동시킨 후 「묠니르」로 때려 부수는 『아크틱 블리자드 [2] 』다. 부서진 적의 몸이 마치 블리자드처럼 되기에 이러한 이름이 붙었다."
+      },
+      "wikimon_url": "https://wikimon.net/Vikemon"
+    },
+    {
+      "id": "gigaseadra",
+      "name": "Giga Seadramon",
+      "name_jp": "Giga Seadramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "5700",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gigaseadra/frame1.gif",
+        "frame2": "sprites/gigaseadra/frame2.gif"
+      },
+      "artwork": "sprites/gigaseadra/artwork.jpg",
+      "lore": {
+        "en": "As a successful elaboration onMetal Seadramon, it demonstrates the fastest speed of movement and strongest ability for interception under the sea. In order to further expand its sphere of influence, theCrack Teamconstructed this massive Digimon in absolute secrecy and endowed it with the ability to control the sea and possession of a cruising range which covers the vastNet Ocean. Its overall length exceeds even that ofWhamon, and since Digimon belonging to theCrack Team, such asChaosdramon, can be loaded in its interior, it is no longer a lone Digimon, and it seems possible to say that it is anassault landing shipfor which it isn't known when and where it will appear on the Net Ocean, or when it will launch an attack. Its Special Moves are firing an energy torpedo from the cannon in its mouth (Giga Sea Destroyer), and strafing with countlessanti-aircraftenergy shells fired from the launchers on its back (Sky Wave).Digimon Reference Book⇨ Englishメタルシードラモンの開発は成功を収め、水中では最速の移動スピード、最強の迎撃能力を発揮している。クラックチームは更に勢力範囲を拡大する為、広大なネットの海をカバーする航続距離を持ち、制海能力を有する超大型デジモンを極秘裏に建造した。全長はホエーモンをも上回り、カオスドラモンを始めとするクラックチームのデジモンを内部に搭載が可能で、もはや単体のデジモンとしてではなく、いつ何処のネットの海上に現われ、攻撃を始めるか分からない強襲揚陸艦とでも言えるだろう。必殺技は口部の大砲から発射するエネルギー魚雷『ギガシーデストロイヤー』と、背部の発射口から掃射される無数の対空エネルギー弾『スカイウェーブ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Giga_Seadramon"
+    },
+    {
+      "id": "platinumnume",
+      "name": "Platinum Numemon",
+      "name_jp": "Platinum Numemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6300",
+        "hp": "4900",
+        "ap": "1800"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/platinumnume/frame1.gif",
+        "frame2": "sprites/platinumnume/frame2.gif"
+      },
+      "artwork": "sprites/platinumnume/artwork.jpg",
+      "lore": {
+        "en": "An exceedingly rare Numemon that evolved by being among the first in theDigital Worldto discover the \"Platina Mine\", and absorbing the deposits found within. Since then, its personality has undergone a complete change, leading it to gather any and all jewellery it can find and using them to decorate itself, as if it had suddenly struck it rich. It is an extremely \"gorgeous Digimon\", regardless of its appearance. Its defense is fairly high thanks to its golden wings and the jewellery strengthening its body, but its offense is sub-par. Its Special Move is flinging the trash residue (poop) resulting from the \"Platina\" refining process (Excrement), and flinging it continuously (Platinum Excrement). Not only that, it is able let out an extreme stench as it burps (Platinum Burp), making the enemy lose its will to fight.Digimon Reference Book⇨ Englishデジタルワールドで初めて“プラチィーナ鉱山”を発見し、その成分を取り込むことで進化した激レアなヌメモン。それ以来性格は一変し、成金の如くありとあらゆる宝飾品のデータをかき集めては着飾っている。容姿はともかく、とっても“ゴージャスなデジモン”ではある。黄金の翼と宝飾品で身を固めているため、防御力はかなり高いが、攻撃力はいまいち。必殺技は、“プラチィーナ”の精製過程で生み出されるカス（ウンチ）を、単発で投げつける『エクスクレメント』と、連続で投げつける『プラチナエクスクレメント』。また、ゲップと一緒に超悪臭を放つ『プラチナバープ』で敵の戦意を喪失させる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Platinum_Numemon"
+    },
+    {
+      "id": "cthylla",
+      "name": "Cthyllamon",
+      "name_jp": "Cthyllamon",
+      "name_ko": "쿠티라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6500",
+        "hp": "5000",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/cthylla/frame1.gif",
+        "frame2": "sprites/cthylla/frame2.gif"
+      },
+      "artwork": "sprites/cthylla/artwork.jpg",
+      "lore": {
+        "en": "Cthyllamon inhabits the depths of theNet Ocean, and is known by the alias \"Phantomof the Ocean\" due to the fact that only the skull pattern on its chest can be seen floating eerily in the dark sea. It has a crafty and cunning disposition; instead of actively fighting on its own, it employs aquatic Digimon of a lower Level than itself by brainwashing them. It shares many similarities withMarin Angemon, such as its appearance and the fact that it is rarely ever seen, but the relationship between the two remains unknown.Its Special Move \"Ocean Hell\", in which it steals the opponent's fighting spirit with an aura of endless terror akin to the darkness of the ocean depths, sometimes reduces the Digimon that suffer this technique to being Cthyllamon's puppets. Its \"BuccalRush\", in which it opens its mouth wide and attacks with its three long, flexible tongues in a whip-like manner, and its \"Aqua Grinder\", where it generates an intense whirlpool that bores into the opponent's body like a drill, possess destructive power that is unimaginable from its tiny physique.Digimon Reference Book⇨ Englishクティーラモンはネットの海の深部に生息し、暗い海の中で胸のドクロ模様だけが不気味に浮かび上がって見えることから別名「海の死霊」と呼ばれている。自ら戦うことに積極的ではなく、自身より程度の低い水棲デジモンを洗脳して使役する、姑息でずる賢い性質を持つ。その姿形とめったに見られない存在であることから、マリンエンジェモンと類似している点も多いが、関係性は今のところ不明である。深海の暗闇のような底知れぬ恐怖のオーラで戦意を奪う必殺技『オーシャンヘル』は、時にこれを受けたデジモンをクティーラモンの傀儡に成り下がらせる。口を大きく開いて鞭のようにしなる三本の長い舌で攻撃する『バッカルラッシュ』と、激しい渦潮を発生させ、ドリルのように相手の身体を削ぐ『アクアグラインダー』は、その小さな体躯からは想像し得ない破壊力を持つ。デジモン図鑑",
+        "ko": "크틸라몬은 넷의 바다의 심부에 서식하며, 어두운 바다 속에서 가슴의 해골 무늬만 섬뜩하게 떠올라 보인다고 하여 일명 \"바다의 사령\"이라 불리고 있다. 스스로 싸우는 데에 적극적이지 않고, 자신보다 수준이 낮은 수서 디지몬을 세뇌하여 사역하는, 비겁하고 교활한 성질을 지닌다. 그 모습과 좀처럼 보기 힘든 존재라는 점에서, 마린엔젤몬 과 유사한 점도 많지만, 관계성은 현재로서는 불분명하다. 심해의 어둠 같은 끝없는 공포의 아우라로 전의를 빼앗는 필살기 \"오션 헬\"은, 때때로 이것을 받은 디지몬을 크틸라몬의 괴뢰로 전락시킨다. 입을 크게 벌리고 채찍처럼 휘어지는 세 가닥의 긴 혀로 공격하는 \"버칼 러시\"와, 세찬 와조를 발생시켜, 드릴처럼 상대의 몸을 깎는 \"아쿠아 그라인더\"는, 그 작은 체구에서는 상상할 수 없는 파괴력을 갖는다."
+      },
+      "wikimon_url": "https://wikimon.net/Cthyllamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "puyoyo",
+      "to": "jelly",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "puyoyo",
+      "to": "kodokugu",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "teslajelly",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "ikkaku",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "tobiu",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kodokugu",
+      "to": "karatukinume",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kodokugu",
+      "to": "chamble",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 3 Cleared"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "kinkaku",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 5 Cleared"
+      }
+    },
+    {
+      "from": "teslajelly",
+      "to": "thetis",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "ikkaku",
+      "to": "zudo",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "kinkaku",
+      "to": "zudo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "waruseadra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "teslajelly",
+      "to": "waruseadra",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ikkaku",
+      "to": "marinchimaira",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "marinchimaira",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "chamble",
+      "to": "marinchimaira",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "ikkaku",
+      "to": "anomalocari_x",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "anomalocari_x",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "karatukinume",
+      "to": "anomalocari_x",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "teslajelly",
+      "to": "blackkingnume",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "karatukinume",
+      "to": "blackkingnume",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "karatukinume",
+      "to": "majira",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "kinkaku",
+      "to": "majira",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "karatukinume",
+      "to": "toropia",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 10 Cleared"
+      }
+    },
+    {
+      "from": "chamble",
+      "to": "toropia",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 10 Cleared"
+      }
+    },
+    {
+      "from": "zudo",
+      "to": "amphi",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "thetis",
+      "to": "amphi",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "toropia",
+      "to": "amphi",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "zudo",
+      "to": "vike",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "vike",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "majira",
+      "to": "vike",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "toropia",
+      "to": "vike",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "zudo",
+      "to": "gigaseadra",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "gigaseadra",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "blackkingnume",
+      "to": "gigaseadra",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "waruseadra",
+      "to": "gigaseadra",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "platinumnume",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "thetis",
+      "to": "platinumnume",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "waruseadra",
+      "to": "platinumnume",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "blackkingnume",
+      "to": "platinumnume",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "thetis",
+      "to": "cthylla",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "blackkingnume",
+      "to": "cthylla",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "majira",
+      "to": "cthylla",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "puyo",
+      "to": "puyoyo",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "anomalocari_x",
+      "to": "cthylla",
+      "conditions": {
+        "text": "Stage 12 cleared, 30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    },
+    {
+      "from": "anomalocari_x",
+      "to": "gigaseadra",
+      "conditions": {
+        "text": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    }
+  ]
+}

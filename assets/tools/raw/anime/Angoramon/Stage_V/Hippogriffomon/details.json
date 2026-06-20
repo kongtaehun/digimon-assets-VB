@@ -1,0 +1,73 @@
+{
+  "id": "hippogriffo",
+  "name": "Hippogriffomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/hippogriffo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/hippogriffo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/hippogriffo.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "symbareangora",
+        "siesa"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Hippogriffomon",
+    "name_en": "HippoGryphonmon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "4200",
+      "ap": "1500"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "symbareangora",
+        "name": "Symbare Angoramon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "siesa",
+        "name": "Siesamon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "pie",
+        "name": "Piemon",
+        "conditions": "Stage 12 cleared, 30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "mars",
+        "name": "Marsmon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "pluto",
+        "name": "Plutomon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "pata",
+  "name": "Patamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pata.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pata.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pata.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "upa"
+      ],
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Patamon",
+    "name_en": "Patamon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Lazy",
+    "stats": {
+      "bp": "4800",
+      "hp": "3000",
+      "ap": "900"
+    },
+    "schedule": {
+      "activity_type": "Lazy",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "upa",
+        "name": "Upamon",
+        "conditions": "3+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ange",
+        "name": "Angemon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "ankylo",
+        "name": "Ankylomon",
+        "conditions": "12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "pegas",
+        "name": "Pegasmon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    ]
+  }
+}

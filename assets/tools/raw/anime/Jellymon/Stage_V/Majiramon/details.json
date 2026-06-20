@@ -1,0 +1,80 @@
+{
+  "id": "majira",
+  "name": "Majiramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/majira.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/majira.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/majira.jpg",
+  "appearances": [
+    {
+      "dim_id": "jelly",
+      "dim_name": "Jellymon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "karatukinume"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from_digimon": [
+        "kinkaku"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 6 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Majiramon",
+    "name_en": "Majiramon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "bp": "5600",
+      "hp": "4800",
+      "ap": "1500"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "karatukinume",
+        "name": "Karatsuki Numemon",
+        "conditions": "Stage 6 cleared, 12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "kinkaku",
+        "name": "Kinkakumon",
+        "conditions": "Stage 6 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "cthylla",
+        "name": "Cthyllamon",
+        "conditions": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "vike",
+        "name": "Vikemon",
+        "conditions": "30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

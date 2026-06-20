@@ -1,0 +1,88 @@
+{
+  "id": "hexeblau",
+  "name": "Hexeblaumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hexeblau.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hexeblau.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/hexeblau.jpg",
+  "appearances": [
+    {
+      "dim_id": "bfa",
+      "dim_name": "Blizzard Fang",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "cryspaledra",
+        "cresce"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "frozo"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Hexeblaumon",
+    "name_en": "Hexeblaumon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "55 (★8)",
+      "hp": "14",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "cryspaledra",
+        "name": "Crys Paledramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "cresce",
+        "name": "Crescemon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "frozo",
+        "name": "Frozomon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "daipen",
+        "name": "Daipenmon",
+        "conditions": "Jogress with Vaccine or Data Perfect"
+      },
+      {
+        "id": "mam",
+        "name": "Mammon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "panjya",
+        "name": "Panjyamon",
+        "conditions": "Jogress with Data or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

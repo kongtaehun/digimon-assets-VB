@@ -1,0 +1,59 @@
+{
+  "id": "ancientmermai",
+  "name": "Ancient Mermaimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientmermai.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientmermai.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ancientmermai.jpg",
+  "appearances": [
+    {
+      "dim_id": "wolf_ex",
+      "dim_name": "Wolfmon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ancient Mermaimon",
+    "name_en": "AncientMermaimon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "15",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "thetis",
+        "name": "Thetismon",
+        "conditions": "• 15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+      },
+      {
+        "id": "hangyo",
+        "name": "Hangyomon",
+        "conditions": "20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "marindevi",
+        "name": "Marin Devimon",
+        "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

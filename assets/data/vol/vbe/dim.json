@@ -1,0 +1,949 @@
+{
+  "schema_version": "1.0",
+  "id": "vbe",
+  "name": "Volcanic Beat",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Apr 2021 - Retail (Set Vol.01)EN: Jul 2022 - Retail (Set Vol.01)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_vbe.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "moku",
+      "name": "Mokumon",
+      "name_jp": "Mokumon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/moku/frame1.gif",
+        "frame2": "sprites/moku/frame2.gif"
+      },
+      "artwork": "sprites/moku/artwork.jpg",
+      "lore": {
+        "en": "A Digimon Baby which envelops its whole body with a smoke-like vapor. It is a unique Digimon whosecomputer kernel(Digicore), said to be at the center of a Digimon's body, is bare, so it seems it protects its Digicore withSmoke. Because its Digicore is bare, Mokumon is a Digimon of an unusual way of life which covers its body inSmokefrom when it was burned. It scatters theSmokeissuing from its body all around, then seizes the opportunity to flee.Digimon Reference Book⇨ English体中に煙のような気体を取り巻いているデジモンベビー。デジモンの体の中心にあるといわれている電脳核（デジコア）が剥き出し状態の特殊なデジモンで、そのデジコアをスモークで守っているらしい。モクモンはデジコアが剥き出し状態なので、燃焼したときのスモークが体を覆っている変わった生態系のデジモンである。体からでるスモークを辺り一帯に撒き散らし、その隙に逃げてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mokumon"
+    },
+    {
+      "id": "petimera",
+      "name": "Peti Meramon",
+      "name_jp": "Peti Meramon",
+      "name_ko": "푸치메라몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/petimera/frame1.gif",
+        "frame2": "sprites/petimera/frame2.gif"
+      },
+      "artwork": "sprites/petimera/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved fromMokumon, its entire body is ablaze due to how fiercely itsDigicoreburns for a body of its size. It has a wild temperament for its small size, causing its Digicore to burn intensely, but it cannot fight properly despite its aggressive personality as its offensive power is still low. Not only that, it is extremely weak to water and Ice-Snow type Digimon, so it will flee the moment it encounters them. Incidentally, any relation between it andMeramonhas not yet been made clear. It spits \"Chīsana Kaendan\" out from its mouth to attack the opponent, but they aren't very powerful.Digimon Reference Book⇨ Englishモクモンの進化系デジモンで、小さい体ながらデジコアを激しく燃焼させているため、体中が燃えている姿をしている。小型デジモンにしては気性が荒いため、デジコアを激しく燃焼させており、攻撃的な性格ではあるが、まだまだ攻撃力が低いためまともに戦うことはできない。また、水系・氷雪系のデジモンが非常に苦手で、出会うと直ぐに逃げ出してしまう。ちなみにメラモンとの関係は今だ不明。口から小さな火炎弾を吐き出し相手に攻撃するが威力はイマイチ。デジモン図鑑",
+        "ko": "모크몬 의 진화형 디지몬으로, 작은 몸이면서 디지코어 를 격렬하게 연소시키고 있기 때문에, 체내가 불타는 모습을 하고 있다. 소형 디지몬치고는 천성이 난폭하기 때문에, 디지코어를 격렬하게 연소시키고 있어 공격적인 성격이지만, 공격력이 낮기 때문에 온전하게 싸울 수 없다. 또, 수계, 빙설계 디지몬에게 매우 약하고, 만나면 도망쳐버린다. 입으로부터 작은 화염탄을 토해내 상대에게 공격하지만, 위력은 조금 모자라다."
+      },
+      "wikimon_url": "https://wikimon.net/Peti_Meramon"
+    },
+    {
+      "id": "vorvo",
+      "name": "Vorvomon",
+      "name_jp": "Vorvomon",
+      "name_ko": "보보몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/vorvo/frame1.gif",
+        "frame2": "sprites/vorvo/frame2.gif"
+      },
+      "artwork": "sprites/vorvo/artwork.jpg",
+      "lore": {
+        "en": "A Digimon made of a solid, hot ore. It has wings on both of its arms and is able to fly for up to a few seconds, but gets tired easily. It is very passionate, so the more excited it gets, the hotter its horns and claws will become.Its Special Move is spewing out a small but high-temperature flame from its mouth (Petit Flame).Digimon Reference Book⇨ English固く熱い鉱石でできているデジモン。両腕に翼があり数秒ほどなら飛ぶことはできるが、すぐにヘトヘトになってしまう。とても情熱的で興奮すればするほど、角や爪の熱が上がる。必殺技は、口から小さくも高温な火炎を吐く『プチフレイム』。デジモン図鑑",
+        "ko": "단단하고 뜨거운 광석으로 만들어진 디지몬. 양팔에 날개가 있어 몇 초 정도는 날 수 있지만 금방 지친다. 아주 열정적이며 흥분할수록 뿔과 발톱에 열이 오른다. 필살기는 입에서 작지만 뜨거운 불꽃을 내뿜는 『쁘띠 플레임』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Vorvomon"
+    },
+    {
+      "id": "birdra",
+      "name": "Birdramon",
+      "name_jp": "Birdramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/birdra/frame1.gif",
+        "frame2": "sprites/birdra/frame2.gif"
+      },
+      "artwork": "sprites/birdra/artwork.jpg",
+      "lore": {
+        "en": "A Giant Bird Digimon which has an appearance shrouded in blazing flames. Just likeMeramon, it is a Digimon that was generated from theInternet's defensive \"Firewall\". It flaps its gigantic wings, and flies about the sky. Although its personality is in no way combative, it unleashes counterattacks against attacking enemies to a furious degree. Its Special Move is flapping its wings and hurling its feathers like meteors (Meteor Wing).Digimon Reference Book⇨ English燃え盛る炎を纏った姿をした、巨鳥型デジモン。メラモンと同じく、インターネットの防御壁「ファイアーウォール」から発生したデジモンである。その巨大な翼を羽ばたかせ、大空を飛びまわる。決して好戦的な性格ではないが、襲い掛かる敵に対しては狂暴なまでに反撃を繰り出す。必殺技は翼を羽ばたかせ流星のように羽を飛ばす『メテオウィング』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Birdramon"
+    },
+    {
+      "id": "mera",
+      "name": "Meramon",
+      "name_jp": "Meramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/mera/frame1.gif",
+        "frame2": "sprites/mera/frame2.gif"
+      },
+      "artwork": "sprites/mera/artwork.jpg",
+      "lore": {
+        "en": "A Flame Digimon whose entire body is shrouded in crimson flames. As a Digimon generated from the defensive \"Firewall\" which prevents illegal entries from the Internet and the like, it possesses a violent temperament like the flames that envelop its body, and tries to incinerate everything it touches. Its fire power is stronger than those of the same species onFile Island, and because taming this Digimon is extremely difficult, even if it's tamed, there's no telling when it will bare its fangs. Its Special Move is flaring up both of its arms, and knocking away the opponent (Burning Fist).Digimon Reference Book⇨ English全身に紅蓮の炎を纏った火炎型デジモン。インターネットなどで不正な進入を防ぐための防御壁「ファイアーウォール」から発生したデジモンで、その身を包む炎のように激しい気性を持っており、触れるもの全てを焼き尽くそうとする。ファイル島の同種より火力が強く、このデジモンを手なづけることは非常に難しいため、手なづけたとしてもいつ牙を剥くかわからない。必殺技は両腕を燃え上がらせ、相手を殴りぬける『バーニングフィスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Meramon"
+    },
+    {
+      "id": "tyrano",
+      "name": "Tyranomon",
+      "name_jp": "Tyranomon",
+      "name_ko": "티라노몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/tyrano/frame1.gif",
+        "frame2": "sprites/tyrano/frame2.gif"
+      },
+      "artwork": "sprites/tyrano/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that resembles an ancient dinosaur that existed in the prehistoric world. It sweeps everything away with its two well-developed arms and its gigantic tail. It is extremely easy to tame due to its intelligence and docile personality. For that reason, it is highly valued by beginnerTamers, and is often raised with care. You could probably say that it is a representative figure of the most basic Digimon. Its Special Move is spewing out deep crimson flames the same color as its body (Fire Breath).Digimon Reference Book⇨ English有史以前の世界に存在した古代の恐竜のようなデジモン。発達した２本の腕と巨大な尾で全ての物をなぎ倒す。知性もあり、おとなしい性格のため、とても手なづけやすい。そのため、初級テイマーからは重宝がられ、だいじに育てられることが多い。もっとも基本的なデジモンの代表的存在と言えるだろう。必殺技は身体の色と同じ、深紅の炎を吐き出す『ファイアーブレス』。デジモン図鑑",
+        "ko": "역사가 생기기 이전에 존재한 고대의 공룡 과 같은 디지몬. 발달한 2개의 팔과 거대한 꼬리로 모든 물건을 박살낸다. 지성도 높고 성격도 온순해 길들이기 매우 쉬우므로 [4] 초보 테이머에게는 귀중한 보물같은 존재며, 소중하게 키워지는 경우가 많다. 무엇보다 기본적인 디지몬의 대표적 존재 라고 말할 수 있을 것이다. 필살기는 신체의 색과 같은 진홍의 화염을 토해내는 「파이어 브레스」. 파이어 브레스는 '불뿜기', 슬래시 네일은 '긁기'로 로컬라이징되었다. 참으로 직설적인 번역이 아닐 수 없다."
+      },
+      "wikimon_url": "https://wikimon.net/Tyranomon"
+    },
+    {
+      "id": "lavorvo",
+      "name": "Lavorvomon",
+      "name_jp": "Lavorvomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lavorvo/frame1.gif",
+        "frame2": "sprites/lavorvo/frame2.gif"
+      },
+      "artwork": "sprites/lavorvo/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose entire body is made out of lava, and spouts mineral dust as it goes about its activities. It is poor at flying despite having wings, so it mainly moves about by crawling on the ground. Contrary to its sluggish appearance, its crawling speed is extremely fast, and it closes in on the enemy in an instant. Although it has a friendly personality and will let those it trusts near it without any reservations, others tend to stay as far away as they can from it out of fear that the flammable mineral dust it spouts may cause an explosion.Its Special Move is taking a deep breath and spitting out the largest fireball it can make (Great Flame). Not only that, it can also use its forearms to lunge at and slam onto the opponent (Earth-stamp).Digimon Reference Book⇨ English全身が溶岩でできていて、粉塵を噴出しながら活動するデジモン。翼を持つが飛行は苦手で、主に地面を這いずって移動する。その這いずるスピードは鈍重さな見た目とは裏腹にとても速く、一瞬で敵に詰め寄る。信頼した相手には気兼ねなく接する友好的な性格だが、噴出する粉塵には発火性があるため懐かれた相手は爆発を恐れ全力で逃げるという。必殺技は、大きく息を吸って最大限の火の玉を放つ『グレイトフレイム』。さらに勢いよく相手にのしかかって両手をバンバン叩く『アースタンプ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lavorvomon"
+    },
+    {
+      "id": "mastertyrano",
+      "name": "Master Tyranomon",
+      "name_jp": "Master Tyranomon",
+      "name_ko": "마스터티라노몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/mastertyrano/frame1.gif",
+        "frame2": "sprites/mastertyrano/frame2.gif"
+      },
+      "artwork": "sprites/mastertyrano/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon that evolved from aTyranomonthat overcame many fierce battles. The scars covering its body act as proof of the numerous battles it has survived. It takes on a master-like role, coaching its Tyranomon followers and raising them to become full-fledged warriors. Its Special Move is razing the enemy with the high-temperature flames it breathes from its mouth (Master Fire).Digimon Reference Book⇨ Englishティラノモンが激戦を勝ち抜いて進化した恐竜型デジモン。体中のキズは数多くの戦いで勝ち残った証である。子分のティラノモンたちを一人前の戦士に育てるために修行させている、師匠のような存在。必殺技は、口から吐き出す高熱の炎で敵を焼きつくす『マスターファイアー』。デジモン図鑑",
+        "ko": "티라노몬 이 격전을 승리로 이겨낸 끝에 도달한 공룡형 디지몬. 온몸의 상처 [1] 는 수많은 격전에서 이겨왔다는 증거다. 제자인 티라노몬들을 한 명의 어엿한 전사로 키워내기 위해 수행시키고 있는, 스승과 같은 존재다. 필살기는 입에서 토해내는 고열의 불로 적을 태워버리는 「마스터 파이어」."
+      },
+      "wikimon_url": "https://wikimon.net/Master_Tyranomon"
+    },
+    {
+      "id": "flare",
+      "name": "Flaremon",
+      "name_jp": "Flaremon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/flare/frame1.gif",
+        "frame2": "sprites/flare/frame2.gif"
+      },
+      "artwork": "sprites/flare/artwork.jpg",
+      "lore": {
+        "en": "Although its regal mane and imposing manner may be intimidating at first glance, this strong-willed Beast Man Digimon will brave any hardship for the sake of its comrades. Its Special Moves are concentrating flames and the spirit of a lion into its fist, and firing it as an energy wave in the shape of a lion (Gurenjūouha), as well as dishing out a mad flurry of grappling moves using its blazing punches and kicks to strike the enemy repeatedly (Kurenai Shishi no Mai). Not only that, it is able to unleash from its mouth together with a roar a purifying shockwave that burns everything down, disintegrating the enemy's data (Seisei no Houkou).Digimon Reference Book⇨ English威風堂々としたたてがみとその存在感により一見怖そうだが、仲間の為にはどんな困難にも立ち向かう心の強さを持った獣人型デジモン。必殺技は、拳に獅子の闘気と火炎を集中させて、獅子を象ったエネルギー波を放つ『紅蓮獣王波（ぐれんじゅうおうは）』と、炎をまとわせた拳と蹴りを、高速連続で敵に叩き込む格闘乱舞『紅・獅子之舞（くれない・ししのまい）』。また、全てを燃やす火炎によって浄化力を込めた衝撃波を、咆哮と共に口部から放ち、敵をデータ分解させる『清々之咆哮（せいせいのほうこう）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Flaremon"
+    },
+    {
+      "id": "deathmera",
+      "name": "Death Meramon",
+      "name_jp": "Death Meramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/deathmera/frame1.gif",
+        "frame2": "sprites/deathmera/frame2.gif"
+      },
+      "artwork": "sprites/deathmera/artwork.jpg",
+      "lore": {
+        "en": "An evolution ofMeramon, this Digimon's body is cloaked in blue, high-temperature flames. The flames that arise from its body blaze brightly in blue, as these flames burn hotter than Meramon's. Its offensive and defensive abilities have risen considerably, which in conjunction with the strength of its flames, bestow upon this power-type Digimon tremendous destructive power. Although Flame Digimon tend to be weak against Aquatic and Ice-Snow type Digimon, fighting the strength of Death Meramon's flames with them is as futile as pouring water on a hot stone. Its Special Move is melting the heavy metal within its body, and spitting it out at the enemy (Heavy Metal Fire).Digimon Reference Book⇨ English高熱の青い炎に身を包んだメラモンの進化系デジモン。メラモンよりも高熱の炎のため、体から噴き出る炎は青く燃え盛っている。攻撃力・防御力共に数段アップし、炎の威力も加わって超絶な破壊力を持つパワータイプである。火炎型系デジモンは水系や氷雪系に弱いが、デスメラモンの火力の前には、焼け石に水状態である。必殺技は体内で重金属を溶かして、敵に吐きかける『へヴィーメタルファイアー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Death_Meramon"
+    },
+    {
+      "id": "volca",
+      "name": "Volcamon",
+      "name_jp": "Volcamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/volca/frame1.gif",
+        "frame2": "sprites/volca/frame2.gif"
+      },
+      "artwork": "sprites/volca/artwork.jpg",
+      "lore": {
+        "en": "A powerful Cyborg Digimon with a large build. It is named Volcamon after how the volcano on its back will erupt when its anger reaches its peak, or when its excitement surpasses its maximum. Furthermore, it is not only a strong opponent but also a close rival ofEtemon's. Its deafening voice shakes the atmosphere and causes the earth to tremble. Its Special Moves are \"Big Bang Voice\", where it stuns the enemy with a heavy bass mike performance, and \"Big Bang Tackle\", a mighty tackle with the power to destroy even mountains.Digimon Reference Book⇨ English大きなボディーでパワフルな、サイボーグ型デジモン。怒りが頂点に達したり、テンションのボルテージが MAXを超えると、背中の火山が爆発するところからボルケーモンの名がついた。また、エテモンの強敵であり、良きライバルでもある。その大声は大気を震わせ、大地を揺るがす。必殺技は強烈な超重低音のマイクパフォーマンスで敵を放心状態にする『ビックバン・ボイス』と、山をも崩す強烈な一撃『ビックバン・タックル』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Volcamon"
+    },
+    {
+      "id": "lavogarita",
+      "name": "Lavogaritamon",
+      "name_jp": "Lavogaritamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lavogarita/frame1.gif",
+        "frame2": "sprites/lavogarita/frame2.gif"
+      },
+      "artwork": "sprites/lavogarita/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Digimon with large wings that lift even its heavy body effortlessly into the air, and well-trained leg strength that allows it to stand imposingly. It dwells in the magma beds of active volcanoes around theDigital World, and it is theorized that it may live nearbyVolcdramon. Its fighting style involves scattering mineral dust, covering the enemy with it, and causing it to explode by freely manipulating itsignition point. If the enemy moves, it will result in ignition, so once they are covered in mineral dust, they will drown in terror as soon as the dust explodes.Its Special Moves are firing a laser-shaped heat ray from its mouth (Merudainā), and scattering mineral dust by flapping its wings and causing an explosion (Wild Blast).Digimon Reference Book⇨ English重たい身体も軽々と飛ばせる大きな翼に、鍛えられた脚力で仁王立ちもできる竜型デジモン。デジタルワールド内にある活火山のマグマ層に潜んでいるとされ、一説ではヴォルクドラモンの近くに生息しているのではとされる。戦闘スタイルは粉塵を散らして敵を覆い、発火ポイントを自在に操って爆破する。敵も動けば発火に繋がるため粉塵に覆われたら最後、敵はいつ粉塵が爆破するかの恐怖に陥る。必殺技は、口からレーザー状の熱線を放つ『メルダイナー』と、粉塵を羽ばたかせ拡散して大爆発させる『ワイルドブラスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lavogaritamon"
+    },
+    {
+      "id": "groundra",
+      "name": "Groundramon",
+      "name_jp": "Groundramon",
+      "name_ko": "그라운드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/groundra/frame1.gif",
+        "frame2": "sprites/groundra/frame2.gif"
+      },
+      "artwork": "sprites/groundra/artwork.jpg",
+      "lore": {
+        "en": "An Earth Dragon Digimon with giant arms on its back. The arms on its back are said to be wings that mutated, allowing it to more efficiently dig through the ground. It usually lurks within the tunnels it carved deep underground, and seldom comes to the surface. Also, as Groundramon tends to prefer to inhabit veins of the rareHuanglong Ore, it has been discovered that it is very likely to find the elements of Huanglong Ore comprising the scales covering its body. Its personality is extremely ferocious, and as most people lose their life when they encounter one, it is one Digimon for which the details of its ecology are not well understood. Its Special Moves are holding the opponent between the arms on its back and crushing them (Scrapless Claw) and knocking them out with the iron sphere on its tail (Megaton Hammer Crush). When it reaches the surface it uses \"Giga Crack\", which drops the opponent into fissures it generates by striking its whole body against the ground.Digimon Reference Book⇨ English背中に大きな腕を持つ地竜型デジモン。背中の腕は翼が変化したものといわれており、効率よく地面を掘ることが可能である。普段は地中深くに彫ったトンネルに潜んでおり、滅多なことでは地表に出てくることはない。また、グランドラモンは希少なファンロン鉱の鉱脈に好んで生息する傾向があり、体を覆う鱗にファンロン鉱の成分を含んでいる可能性が高いことが分かってきている。性格は非常に凶暴であり、遭遇したもののほとんどが命を落としているため、詳細な生態が分からないデジモンの1体である。必殺技は背中の腕で相手を挟んでつぶす『スクラップレスクロー』と尻尾の鉄球で殴り倒す『メガトンハマークラッシュ』。地表に出てきた際には全身を地面に打ちつけて発生させた地割れに相手を落とす『ギガクラック』を発動させることもある。デジモン図鑑",
+        "ko": "등 뒤에 거대한 팔을 가진 지룡형 디지몬. 등 뒤의 팔은 날개가 변화한 것이라고 하며, 효율 좋게 지면을 파낼 수 있다. 보통은 땅 속 깊이 만든 터널에 살고 있으며, 지상에는 잘 올라오지 않는다. 또, 그라운드라몬은 희소한 황룡광 의 광맥을 좋아해 거기서 살려는 경향이 있으며, 몸을 감싸는 비늘에 황룡광의 성분을 포함하고 있을 가능성이 높다고 알려져 있다. 성격은 매우 흉폭하며, 조우한 이들 대부분이 목숨을 잃은 관계로, 상세한 생태가 알려지지 않은 디지몬의 하나이기도 하다. 필살기는 등 뒤의 팔로 상대를 찌부러뜨리는 \"스크래프레스 클로\"와 꼬리의 철구로 후려치는 \"메가톤 해머 크래쉬\". 지표에 나올 시엔 전신을 지면에 부딪혀 발생한 균열에 상대를 떨어뜨리는 \"기가 크랙\"을 발동할 수도 있다. 진화체 중 하나가 드라몬계열의 상위 중 하나인 브레이크드라몬 이다."
+      },
+      "wikimon_url": "https://wikimon.net/Groundramon"
+    },
+    {
+      "id": "mars",
+      "name": "Marsmon",
+      "name_jp": "Marsmon",
+      "name_ko": "마르스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/mars/frame1.gif",
+        "frame2": "sprites/mars/frame2.gif"
+      },
+      "artwork": "sprites/mars/artwork.jpg",
+      "lore": {
+        "en": "A member of the enigmatic \"Olympos XII\", it is a Digimon \"God of War\" with the appearance of apanther-man. The Olympos XII lie in the shadows and possess ability rivaling that of the guardian deities of theNet, the \"Royal Knights\", and each protects its own domain while maintaining a position of neutrality regarding the incidents which arise in theDigital World. Marsmon is well-versed in all sorts of combat techniques known throughout the world, including underhanded techniques, and has absolute confidence in battles against others in the same weight class. While Marsmon typically uses wrestling techniques, it is so fixated on victory and glory that when push comes to shove, it will not hesitate to use concealed weapons such as its \"Tria Knuckle\" or \"Metal Cothurnus\". However, its true power is exhibited when it uses its bare hands and feet. Its Special Move is a magnificent aerial assault performed while clad in flames (Corona Sanctions).Digimon Reference Book⇨ English謎の集団“オリンポス十二神族”の一人で、豹人の姿をした軍神デジモン。オリンポス十二神族達はネットの守護神“ロイヤルナイツ”に匹敵する能力を持ち、互いの領域を守りつつデジタルワールドで起きた事変には中立の立場を守ってきた影の存在であった。マルスモンは世界中の反則技を含む全ての格闘技に通じ、同体重同士の一対一での戦闘には絶対の自信を持っている。基本的にはレスリング系の技を用いるが、勝利と栄光に強くこだわるマルスモンは、いざともなればためらうことなくトリアナックルやメタルコルトノスの隠し武器も使う。しかし、真のパワーが発揮されるのは素手・素足になってから。必殺技は炎をまとった華麗な空中殺法『コロナサンクションズ』。デジモン図鑑",
+        "ko": "수수께끼의 집단 \" 올림푸스 12신 족\"의 일원으로 표범인간의 모습을 한 군신 디지몬. 올림푸스 12신족들은 네트워크의 수호신 \" 로얄 나이츠 \"에 필적하는 힘을 지녔으며, 그들과 같은 영역을 수호하나 디지털 월드 에 사건이 발생하면 중립을 지키려 하는 음지의 존재들이다. 마르스몬은 반칙기술을 포함해 세계에 존재하는 모든 격투기에 통달했으며, 같은 체급의 1대1 결투에 대단한 자신감을 지니고 있다. 기본적으론 레슬링 계열의 기술을 사용하나, 승리의 영광에 집착하는 마르스몬은 종종 궁지에 몰리면 숨겨진 무장을 사용하는 것도 주저치 않는다. 하지만, 진정한 파워를 발휘할 수 있는 분야는 맨손맨발을 사용할 때이다. 필살기는 불꽃에 휘감긴 채 사용하는 화려한 공중살법 \"코로나 생션즈\". [1]"
+      },
+      "wikimon_url": "https://wikimon.net/Marsmon"
+    },
+    {
+      "id": "cannondra",
+      "name": "Cannondramon",
+      "name_jp": "Cannondramon",
+      "name_ko": "캐논드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/cannondra/frame1.gif",
+        "frame2": "sprites/cannondra/frame2.gif"
+      },
+      "artwork": "sprites/cannondra/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg type Digimon equipped with long-distance cannons. Covered in tough armor, it greets approaching enemies with a swing of its tail. Its Signature Move is random-firing grenades from the gun on its front (Grenade Storm). Its Special Move is firing its cannons while stationed at an area where enemy attacks cannot reach (Dyna Cannon).Digimon Reference Book⇨ English長距離用キャノン砲を装備したサイボーグ型デジモン。堅い装甲を持ち、近づく敵にはシッポの一撃をお見舞いする。得意技は、前方の射出口からグレネードを乱射する「グレネードストーム」。必殺技は、敵の攻撃が届かない場所から、キャノン砲を撃ち込む「ダイナ・キャノン」デジモン図鑑",
+        "ko": "장거리 캐논포를 장비한 사이보그형 디지몬. 단단한 장갑을 지녔으며 다가오는 적들은 꼬리를 휘둘러 일격에 날려버린다. 장기는 전방의 사출구에서 그레네이드를 발사하는 \"그레네이드 스톰\". 필살기는 적의 공격이 닿지않는 곳에서 캐논포를 발사하는 \"다이나 캐논\"."
+      },
+      "wikimon_url": "https://wikimon.net/Cannondramon"
+    },
+    {
+      "id": "volcanicdra",
+      "name": "Volcanicdramon",
+      "name_jp": "Volcanicdramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/volcanicdra/frame1.gif",
+        "frame2": "sprites/volcanicdra/frame2.gif"
+      },
+      "artwork": "sprites/volcanicdra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon said to be a dragon that swims in magma, it is thought to live in a place so deep underground that not even Digimon that move about there can reach it. According to someresearchers, there are few who argue that it might have been Volcanicdramon that supported the world from deep beneath the ground ever since theDigital Worldwas created. Should Volcanicdramon ever rise to the surface, it may be that some kind of crisis is occurring in the Digital World.Its Special Move is spewing scorching-hot flames from its mouth (Volcanic Flare). The land incinerated by Volcanicdramon is never restored, forever turning it into an uninhabitable wasteland. In addition, it has \"Glide Blaze\", in which it rams the enemy while sending out scorching flames hotter than even magma from its whole body.Digimon Reference Book⇨ Englishマグマの中を泳ぐ竜といわれるデジモンで、地中を移動するデジモンも辿り着けないほどの地下深き場所にいるとされる。一部の研究者によれば、デジタルワールドが誕生したときから地下深くより世界を支えてきたのはヴォルケニックドラモンではないかと説く者もいる。ヴォルケニックモンが地上に上がってきたとなれば、それはデジタルワールドに何らかの危機が起きているのかもしれない。必殺技は、口から灼熱の炎を吐く『ヴォルケニック・フレア』。ヴォルケニックドラモンに焼かれた土地は決してよみがえらず、永遠に生物の住むことのできない不毛の地となる。さらに全身からマグマも超える灼熱の炎を吹き出しながら敵に体当たりする『グライドブレイズ』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Volcanicdramon"
+    },
+    {
+      "id": "ancientvolca",
+      "name": "Ancient Volcamon",
+      "name_jp": "Ancient Volcamon",
+      "name_ko": "에이션트볼케몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★10)",
+        "hp": "18",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientvolca/frame1.gif",
+        "frame2": "sprites/ancientvolca/frame2.gif"
+      },
+      "artwork": "sprites/ancientvolca/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Earth\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it has the most power among the Ancient Digimon. There is always high temperature magma welling up inside its body, which becomes the source of its mighty power. Ancient Volcamon's abilities were later passed on to the \"Ore\" and \"Mineral\" types of Rock-species Digimon. Its Special Moves are detonating the volcano on its back, and performing a super-stronglariatwith this propulsion (Atomic Bomber), and generatingantimatterwithin its body, carrying out a super-detonation comparable to a tinyBig Bang(Supernova).Digimon Reference Book⇨ English“土”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、エンシェントデジモンの中でも最高のパワーを持つ。体内では常に高温のマグマが湧きあがり、強力なパワーの源になっている。エンシェントボルケーモンの能力は、その後“鉱石型”や“鉱物型”等の岩石系デジモンに引き継がれていった。必殺技は背中の火山を大爆発させ、その推進力で超強烈なラリアットを繰り出す『アトミックボンバー』と、体内で反物質を生成し、小型のビックバンに匹敵する超爆発を起こす『スーパーノヴァ』デジモン図鑑",
+        "ko": "\"흙\" 속성을 지닌 고대 디지털 월드를 수호한 전설의 10투사 디지몬. 아득한 고대에 존재했던 최초의 궁극체이며 에이션트 디지몬 중에서도 최고의 파워를 자랑한다. 체내에서는 항상 고온의 마그마 가 솟아나, 강력한 파워의 근원이 되고 있다. 에인션트 볼케몬의 능력은 그 후 \"광석형\"이나 \"광물형\"등의 암석계 디지몬 등에게 이어졌다. 필살기는 등의 화산을 대폭발시켜서 그 추진력으로 아주 강력한 래리어트 를 가하는 \"아토믹 봄버\"와 체내에서 반물질 을 생성해 소형의 빅뱅 에 필적하는 초폭발을 일으키는 \" 슈퍼 노바 \"."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Volcamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "vorvo",
+      "to": "birdra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vorvo",
+      "to": "mera",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vorvo",
+      "to": "tyrano",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "vorvo",
+      "to": "lavorvo",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "birdra",
+      "to": "mastertyrano",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "mastertyrano",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mera",
+      "to": "flare",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "to": "flare",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mera",
+      "to": "deathmera",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "deathmera",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "birdra",
+      "to": "volca",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "to": "volca",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "birdra",
+      "to": "lavogarita",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "to": "lavogarita",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mera",
+      "to": "groundra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "groundra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "mars",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "deathmera",
+      "to": "mars",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "to": "mars",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "to": "cannondra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lavogarita",
+      "to": "cannondra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "to": "cannondra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "to": "volcanicdra",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "volca",
+      "to": "volcanicdra",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lavogarita",
+      "to": "volcanicdra",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "ancientvolca",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "deathmera",
+      "to": "ancientvolca",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "volca",
+      "to": "ancientvolca",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "moku",
+      "to": "petimera",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "petimera",
+      "to": "vorvo",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "birdra",
+      "to": "flare",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "birdra",
+      "to": "groundra",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "mera",
+      "to": "lavogarita",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "mera",
+      "to": "mastertyrano",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "lavogarita",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "volca",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "to": "deathmera",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "lavorvo",
+      "to": "mastertyrano",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "to": "ancientvolca",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "to": "mars",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "cannondra",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "volcanicdra",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "deathmera",
+      "to": "cannondra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "deathmera",
+      "to": "volcanicdra",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "volca",
+      "to": "cannondra",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "volca",
+      "to": "mars",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "lavogarita",
+      "to": "ancientvolca",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "lavogarita",
+      "to": "mars",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "groundra",
+      "to": "ancientvolca",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "groundra",
+      "to": "volcanicdra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    }
+  ]
+}

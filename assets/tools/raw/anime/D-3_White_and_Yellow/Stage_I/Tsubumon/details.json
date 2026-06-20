@@ -1,0 +1,39 @@
+{
+  "id": "tsubu",
+  "name": "Tsubumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/tsubu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/tsubu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/tsubu.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Tsubumon",
+    "name_en": "Tsubumon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "upa",
+        "name": "Upamon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

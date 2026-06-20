@@ -1,0 +1,282 @@
+{
+  "id": "louwe_ex",
+  "name": "Louwemon EX",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Light)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_louwe_ex.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_louwe.gif",
+  "digimon": [
+    {
+      "id": "popo",
+      "name": "Popomon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/popo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/popo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/popo.jpg"
+    },
+    {
+      "id": "fri",
+      "name": "Frimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/fri.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/fri.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fri.jpg"
+    },
+    {
+      "id": "lioll",
+      "name": "Liollmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lioll.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lioll.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lioll.jpg"
+    },
+    {
+      "id": "gazi",
+      "name": "Gazimon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gazi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gazi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gazi.jpg"
+    },
+    {
+      "id": "louwe",
+      "name": "Louwemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/louwe.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/louwe.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/louwe.jpg"
+    },
+    {
+      "id": "lia",
+      "name": "Liamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lia.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lia.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lia.jpg"
+    },
+    {
+      "id": "dusk",
+      "name": "Duskmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dusk.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dusk.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dusk.jpg"
+    },
+    {
+      "id": "madleo",
+      "name": "Mad Leomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/madleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/madleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/madleo.jpg"
+    },
+    {
+      "id": "raihi",
+      "name": "Raihimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/raihi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/raihi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/raihi.jpg"
+    },
+    {
+      "id": "kaiserleo",
+      "name": "Kaiser Leomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kaiserleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kaiserleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kaiserleo.jpg"
+    },
+    {
+      "id": "loaderlio",
+      "name": "Loader Leomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/loaderlio.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/loaderlio.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/loaderlio.jpg"
+    },
+    {
+      "id": "velgr",
+      "name": "Velgrmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/velgr.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/velgr.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/velgr.jpg"
+    },
+    {
+      "id": "skullsata",
+      "name": "Skull Satamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/skullsata.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/skullsata.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/skullsata.jpg"
+    },
+    {
+      "id": "luce_f",
+      "name": "Lucemon: Falldown Mode",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "70 (★)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/luce_f.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/luce_f.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/luce_f.jpg"
+    },
+    {
+      "id": "death",
+      "name": "Deathmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/death.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/death.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/death.jpg"
+    },
+    {
+      "id": "dinotiger",
+      "name": "Dinotigermon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "45 (★)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dinotiger.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dinotiger.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dinotiger.jpg"
+    },
+    {
+      "id": "ancientsphinx",
+      "name": "Ancient Sphinxmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientsphinx.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientsphinx.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ancientsphinx.jpg"
+    }
+  ],
+  "evolution_edges": []
+}

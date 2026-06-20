@@ -1,0 +1,75 @@
+{
+  "id": "coela",
+  "name": "Coelamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/coela.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/coela.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/coela.jpg",
+  "appearances": [
+    {
+      "dim_id": "agu_ex",
+      "dim_name": "Agumon EX",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Coelamon",
+    "name_en": "Coelamon",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "agu",
+        "name": "Agumon",
+        "conditions": "• 0-2 Trophies• 0-499 Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "andro",
+        "name": "Andromon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "anomalocari",
+        "name": "Anomalocarimon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "neodevi",
+        "name": "Neo Devimon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "metalgrey_va",
+        "name": "Metal Greymon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      },
+      {
+        "id": "metaltyrano",
+        "name": "Metal Tyranomon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ]
+  }
+}

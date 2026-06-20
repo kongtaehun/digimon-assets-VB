@@ -1,0 +1,73 @@
+{
+  "id": "nume",
+  "name": "Numemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/nume.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/nume.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/nume.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "ryuda",
+        "commandra"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Numemon",
+    "name_en": "Numemon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Lazy",
+    "stats": {
+      "bp": "4600",
+      "hp": "3500",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Lazy",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "ryuda",
+        "name": "Ryudamon",
+        "conditions": "Choose one:"
+      },
+      {
+        "id": "commandra",
+        "name": "Commandramon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "monzae",
+        "name": "Monzaemon",
+        "conditions": "10+ PP, 1,500+ Vital Values, 8+ Battles, 30%+ Win Ratio"
+      },
+      {
+        "id": "ete",
+        "name": "Etemon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      }
+    ]
+  }
+}

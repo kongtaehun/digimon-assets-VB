@@ -1,0 +1,73 @@
+{
+  "id": "ultimatebrachi",
+  "name": "Ultimate Brachiomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ultimatebrachi.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ultimatebrachi.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ultimatebrachi.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "canoweiss",
+        "brachio"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "chimaira"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ultimate Brachiomon",
+    "name_en": "UltimateBrachiomon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "12",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "canoweiss",
+        "name": "Canoweissmon",
+        "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Free Perfect"
+      },
+      {
+        "id": "brachio",
+        "name": "Brachiomon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "chimaira",
+        "name": "Chimairamon",
+        "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

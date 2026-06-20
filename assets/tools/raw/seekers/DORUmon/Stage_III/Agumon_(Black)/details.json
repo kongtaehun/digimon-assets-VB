@@ -1,0 +1,67 @@
+{
+  "id": "agu_b",
+  "name": "Agumon (Black)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/agu_b.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/agu_b.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/agu_b.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dori"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Agumon (Black)",
+    "name_en": "Agumon (Black)",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "4500",
+      "hp": "2700",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "dori",
+        "name": "Dorimon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "deathxdoruga",
+        "name": "Death-X-Dorugamon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "darktyrano",
+        "name": "Dark Tyranomon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "airdra",
+        "name": "Airdramon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

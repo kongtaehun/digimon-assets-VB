@@ -1,0 +1,77 @@
+{
+  "id": "grankuwaga",
+  "name": "Gran Kuwagamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grankuwaga.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grankuwaga.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/grankuwaga.jpg",
+  "appearances": [
+    {
+      "dim_id": "pwa",
+      "dim_name": "Primeval Warriors",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "jewelbee",
+        "kongou"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Gran Kuwagamon",
+    "name_en": "GranKuwagamon",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★8)",
+      "hp": "16",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "jewelbee",
+        "name": "Jewelbeemon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "kongou",
+        "name": "Kongoumon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "pucchie_g",
+        "name": "Pucchiemon (Green)",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "Jogress with Data Perfect"
+      },
+      {
+        "id": "pucchie",
+        "name": "Pucchiemon",
+        "conditions": "Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

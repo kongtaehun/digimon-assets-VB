@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "id": "bro",
+  "name": "Black Roar",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Mar 2021 - Promo (Included with initial Vital Bracelet Digital Monster release)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_bro.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "name_jp": "Botamon",
+      "name_ko": "깜몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bota/frame1.gif",
+        "frame2": "sprites/bota/frame2.gif"
+      },
+      "artwork": "sprites/bota/artwork.jpg",
+      "lore": {
+        "en": "A Digital Monster that was born just recently. On the surface of its slime-shaped body, it has grown thick, black fuzz. It is unable to battle as it has just been born, but it can produce bubble-like objects from its mouth to intimidate the enemy.Digimon Reference Book⇨ English生まれたばかりのデジタルモンスター。スライム状の体の表面には、黒い産毛がびっしり生えている。生まれたてなので戦うことはできないが、口から泡のようなものを出して敵を威嚇する。デジモン図鑑",
+        "ko": "태어난지 얼마 안 된 디지털 몬스터. 슬라임과 같은 몸 표면에는 새까만 솜털이 빽빽이 자라나 있다. 갓 태어나서 싸울 수는 없지만, 입에서 거품을 내뿜어 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Botamon"
+    },
+    {
+      "id": "koro",
+      "name": "Koromon",
+      "name_jp": "Koromon",
+      "name_ko": "코로몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/koro/frame1.gif",
+        "frame2": "sprites/koro/frame2.gif"
+      },
+      "artwork": "sprites/koro/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon that shed the fuzz covering its surface, and whose body grew even bigger. Although it has become able to move around more actively, it is still unable to battle. It can produce bubbles from its mouth to intimidate opponents.Digimon Reference Book⇨ English表面を覆っていた産毛が抜け、体も一回り大きくなった小型デジモン。活発に動き回れるようになったが、まだ戦うことはできない。口から泡を出して敵を威嚇する。デジモン図鑑",
+        "ko": "표면을 덮고 있던 솜털이 빠지고 몸도 한층 더 커진 소형 디지몬 . 활발하게 돌아다닐 수 있게 됐지만 아직 싸우기엔 무리다. 입에서 거품을 뿜어내 적을 위협한다. 디지몬 대백과 깜몬 의 몸을 지키던 검은 솜털이 빠지고, 몸도 한 층 더 커진 소형 디지몬. 활기차고 활발하게 움직이지만, 배틀은 아직 이르다. 하지만, 자라서 싸울 수 있게 되는 것은 시간 문제다. 깜몬과 마찬가지로, 입에서 산성 거품을 뿜어내 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Koromon"
+    },
+    {
+      "id": "agu_b",
+      "name": "Agumon (Black)",
+      "name_jp": "Agumon (Black)",
+      "name_ko": "아구몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/agu_b/frame1.gif",
+        "frame2": "sprites/agu_b/frame2.gif"
+      },
+      "artwork": "sprites/agu_b/artwork.jpg",
+      "lore": {
+        "en": "An Agumon that, by evolving into a Virus-type, has awoken to its feral instincts. It has gone past being fearless and now has a brutal personality; it is no less sharp than a Vaccine-typeAgumonwhen it comes to hunting prey. Its Special Move is spitting flaming breath from its mouth to attack the enemy (Baby Flame).Digimon Reference Book⇨ Englishウィルス種に進化したことで、野生の本能に目覚めてしまったアグモン。怖いもの知らずどころか凶暴な性格の持ち主になっており、獲物を狙うときの鋭さはワクチン種のアグモンにも劣らない。必殺技は口から火炎の息を吐き敵を攻撃する『ベビーフレイム』。デジモン図鑑",
+        "ko": "성장해 이족보행을 할 수 있게 된 공룡과 비슷한 모습을 한 파충류형 디지몬 . 비록 아직 성장 도중이라 힘은 약하지만 성격은 꽤 사납고 두려움을 모른다. 양손과 발에 단단하고 날카로운 손톱이 나있어 전투에서도 위력을 발휘한다. 강하고 위대한 디지몬 으로의 진화가 예측되는 존재이기도 하다. 필살기는 입에서 화염의 숨결을 내뱉어 적을 공격하는 \"베이비 플레임 [11] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Agumon_(Black)"
+    },
+    {
+      "id": "grey_b",
+      "name": "Greymon (Blue)",
+      "name_jp": "Greymon (Blue)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grey_b/frame1.gif",
+        "frame2": "sprites/grey_b/frame2.gif"
+      },
+      "artwork": "sprites/grey_b/artwork.jpg",
+      "lore": {
+        "en": "A Virus attributeGreymonwith a bluish-black body. While it has been called a 'feral Greymon', befitting its more violent disposition, it is in no way a lone wolf and possesses enough intelligence to work together with its allies as a team. Its Special Move is a blast of high-temperature flames spewed from its mouth (Mega Flame).Digimon Reference Book⇨ English青黒い体色を持つウィルス種のグレイモン。凶暴性が増し、まさに野生のグレイモンと呼べるが、けっして一匹オオカミではなく、仲間とチームプレイできるほど賢い。必殺技は、口からはき出す超高熱火炎「メガフレイム」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Greymon_(Blue)"
+    },
+    {
+      "id": "metalgrey_vi",
+      "name": "Metal Greymon (Virus)",
+      "name_jp": "Metal Greymon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgrey_vi/frame1.gif",
+        "frame2": "sprites/metalgrey_vi/frame2.gif"
+      },
+      "artwork": "sprites/metalgrey_vi/artwork.jpg",
+      "lore": {
+        "en": "The strongest Cyborg Digimon, which has mechanized more than half of its body. Going through numerous battles, it was able to survive by mechanizing its body. In order to evolve to Metal Greymon, it must fight its way through and defeat the formidable opponents who come against it. Also, Metal Greymon's offensive power is said to equal that of a single nuclear warhead. It fires missiles from the hatch on part of its chest.Digimon Reference Book⇨ English体の半分以上が機械化されてしまったサイボーグ型の最強デジモン。数々の戦いをくぐり抜け、その体を機械化することによって生き長らえている。メタルグレイモンに進化するためには、襲い来る強敵を倒し勝ち抜かなければならない。また、メタルグレイモンの攻撃力は核弾頭１発分に匹敵するといわれている。胸の部分にあるハッチからミサイルを発射する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Greymon_(Virus)"
+    },
+    {
+      "id": "blackwargrey",
+      "name": "Black War Greymon",
+      "name_jp": "Black War Greymon",
+      "name_ko": "블랙워그레이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/blackwargrey/frame1.gif",
+        "frame2": "sprites/blackwargrey/frame2.gif"
+      },
+      "artwork": "sprites/blackwargrey/artwork.jpg",
+      "lore": {
+        "en": "A Virus-speciesWar Greymonfeared as the \"Jet-black Dragon Warrior\". Although its creed and principles are the polar opposite of those of theVirus BustersWar Greymon, it exists for the sake of its own peculiar \"Justice\". It detests cowardice and foul play, and doesn't consider itself a fellow of vulgar Digimon even if they are of the same Virus-species. How exactly it converted into a Virus is a mystery, and the \"Brave Shield\" equipped to its back is not engraved with theCrest of Courage. Its Special Move is similar to War Greymon's \"Gaia Force\", except that it takes all of the \"negative emotions\" within this world and concentrates them into one spot, and then fires it (Ankoku no Gaia Force).Digimon Reference Book⇨ English“漆黒の竜戦士”として恐れられる、ウィルス種のウォーグレイモン。ウィルスバスターズのウォーグレイモンとは信条も主義も全て正反対であるが、彼なりの “正義”のために存在している。卑怯や卑劣なことを嫌い、同じウィルス種でも低俗なデジモンは仲間だとは思っていない。どういった経緯でウィルス化してしまったのかは謎で、背中に装備している“ブレイブシールド”には勇気の紋章が刻まれていない。必殺技はウォーグレイモンと同じ『ガイアフォース』だが、この世に存在する“負の念”を一点に集中させて放つ『暗黒のガイアフォース』である。デジモン図鑑",
+        "ko": "\"칠흑의 용 전사\"라고 불리는 두려운 존재인 바이러스종 워그레이몬 . 바이러스 버스터즈인 워그레이몬과는 신조도, 주의도 모두 정반대이지만, 블랙워그레이몬 나름대로 \"정의\"를 위해 존재한다. 비겁, 비열한 것을 싫어하기에 같은 바이러스종이라도 저속한 디지몬은 동료라고 생각하지 않는다. [4] 어떠한 경위로 바이러스가 되어 버렸는지는 밝혀지지 않았으며, 등에 장착된 \"브레이브 쉴드\"에는 용기의 문장이 새겨져 있지 않다. [5] 필살기는 워그레이몬과 같은 『가이아 포스』지만, 이 세상에 존재하는 \"부패한 마음\"을 한 곳에 집중해서 쏘는 『다크 가이아 포스 [6] [7] 』다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Black_War_Greymon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bota",
+      "to": "koro",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "koro",
+      "to": "agu_b",
+      "conditions": {
+        "text": "• No requirements (BRo/MBR)• 0-1,199 Vital Values (DRo)"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "grey_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 900+ Vital Values, 5+ Battles (MBR)• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (BRo)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (DRo)"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "metalgrey_vi",
+      "conditions": {
+        "text": "• 10+ Trophies, 2500+ Vital Values, 10+ Battles, 50%+ Win Ratio (MBR)• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio (BRo/DRo)"
+      }
+    },
+    {
+      "from": "metalgrey_vi",
+      "to": "blackwargrey",
+      "conditions": {
+        "text": "• 15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio (MBR/DRo)• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (BRo)"
+      }
+    }
+  ]
+}

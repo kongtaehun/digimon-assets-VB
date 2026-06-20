@@ -1,0 +1,39 @@
+{
+  "id": "jyari",
+  "name": "Jyarimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jyari.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jyari.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/jyari.jpg",
+  "appearances": [
+    {
+      "dim_id": "guil_ex",
+      "dim_name": "Guilmon EX",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Jyarimon",
+    "name_en": "Jyarimon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn NA"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "gigi",
+        "name": "Gigimon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

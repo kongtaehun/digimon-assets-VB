@@ -1,0 +1,842 @@
+{
+  "id": "gamma",
+  "name": "Gammamon",
+  "release": "JP: Nov 2022 - Retail (Also included with Digivice -VV-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_gamma.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_gamma.gif",
+  "digimon": [
+    {
+      "id": "curi",
+      "name": "Curimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/curi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/curi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/curi.jpg"
+    },
+    {
+      "id": "guri",
+      "name": "Gurimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/guri.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/guri.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/guri.jpg"
+    },
+    {
+      "id": "gamma",
+      "name": "Gammamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4600",
+        "hp": "2970",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gamma.jpg"
+    },
+    {
+      "id": "boko",
+      "name": "Bokomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "4100",
+        "hp": "2800",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/boko.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/boko.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/boko.jpg"
+    },
+    {
+      "id": "koe",
+      "name": "Koemon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "4500",
+        "hp": "3000",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/koe.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/koe.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/koe.jpg"
+    },
+    {
+      "id": "betelgamma",
+      "name": "Betel Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5200",
+        "hp": "3600",
+        "ap": "1200"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/betelgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/betelgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/betelgamma.jpg"
+    },
+    {
+      "id": "kausgamma",
+      "name": "Kaus Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5100",
+        "hp": "3400",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/kausgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/kausgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kausgamma.jpg"
+    },
+    {
+      "id": "wezengamma",
+      "name": "Wezen Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "3500",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/wezengamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/wezengamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wezengamma.jpg"
+    },
+    {
+      "id": "gulusgamma",
+      "name": "Gulus Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5300",
+        "hp": "3700",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gulusgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gulusgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gulusgamma.jpg"
+    },
+    {
+      "id": "sealsdra",
+      "name": "Sealsdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "3500",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/sealsdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/sealsdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sealsdra.jpg"
+    },
+    {
+      "id": "canoweiss",
+      "name": "Canoweissmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5600",
+        "hp": "4500",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/canoweiss.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/canoweiss.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/canoweiss.jpg"
+    },
+    {
+      "id": "fuma",
+      "name": "Fumamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "4500",
+        "ap": "1450"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fuma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fuma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fuma.jpg"
+    },
+    {
+      "id": "ghilliedhu",
+      "name": "Ghilliedhumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "3500",
+        "ap": "1610"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/ghilliedhu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/ghilliedhu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ghilliedhu.jpg"
+    },
+    {
+      "id": "bomber",
+      "name": "Bombermon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5100",
+        "hp": "4500",
+        "ap": "1600"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bomber.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bomber.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bomber.jpg"
+    },
+    {
+      "id": "zanmetsu",
+      "name": "Zanmetsumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5800",
+        "hp": "4300",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/zanmetsu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/zanmetsu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zanmetsu.jpg"
+    },
+    {
+      "id": "regulus",
+      "name": "Regulusmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "4000",
+        "ap": "1610"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/regulus.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/regulus.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/regulus.jpg"
+    },
+    {
+      "id": "vamde",
+      "name": "Vamdemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5900",
+        "hp": "4800",
+        "ap": "1450"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/vamde.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/vamde.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vamde.jpg"
+    },
+    {
+      "id": "sirius",
+      "name": "Siriusmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6200",
+        "hp": "5300",
+        "ap": "1900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/sirius.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/sirius.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sirius.jpg"
+    },
+    {
+      "id": "cannondra",
+      "name": "Cannondramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6500",
+        "hp": "5700",
+        "ap": "1800"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/cannondra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/cannondra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cannondra.jpg"
+    },
+    {
+      "id": "spino",
+      "name": "Spinomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6450",
+        "hp": "4900",
+        "ap": "1850"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/spino.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/spino.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/spino.jpg"
+    },
+    {
+      "id": "kuzuha",
+      "name": "Kuzuhamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6300",
+        "hp": "5300",
+        "ap": "1900"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/kuzuha.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/kuzuha.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kuzuha.jpg"
+    },
+    {
+      "id": "arcturus",
+      "name": "Arcturusmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "5200",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/arcturus.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/arcturus.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/arcturus.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "guri",
+      "from_name": "Gurimon",
+      "to": "gamma",
+      "to_name": "Gammamon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "guri",
+      "from_name": "Gurimon",
+      "to": "boko",
+      "to_name": "Bokomon",
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    },
+    {
+      "from": "guri",
+      "from_name": "Gurimon",
+      "to": "koe",
+      "to_name": "Koemon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 3 Cleared"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "betelgamma",
+      "to_name": "Betel Gammamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "boko",
+      "from_name": "Bokomon",
+      "to": "betelgamma",
+      "to_name": "Betel Gammamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "kausgamma",
+      "to_name": "Kaus Gammamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "koe",
+      "from_name": "Koemon",
+      "to": "kausgamma",
+      "to_name": "Kaus Gammamon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "wezengamma",
+      "to_name": "Wezen Gammamon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "koe",
+      "from_name": "Koemon",
+      "to": "wezengamma",
+      "to_name": "Wezen Gammamon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "gulusgamma",
+      "to_name": "Gulus Gammamon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "sealsdra",
+      "to_name": "Sealsdramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "boko",
+      "from_name": "Bokomon",
+      "to": "sealsdra",
+      "to_name": "Sealsdramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "from_name": "Betel Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "from_name": "Kaus Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "from_name": "Wezen Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "from_name": "Betel Gammamon",
+      "to": "fuma",
+      "to_name": "Fumamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sealsdra",
+      "from_name": "Sealsdramon",
+      "to": "fuma",
+      "to_name": "Fumamon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "from_name": "Wezen Gammamon",
+      "to": "ghilliedhu",
+      "to_name": "Ghilliedhumon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "from_name": "Kaus Gammamon",
+      "to": "bomber",
+      "to_name": "Bombermon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "from_name": "Wezen Gammamon",
+      "to": "bomber",
+      "to_name": "Bombermon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "from_name": "Betel Gammamon",
+      "to": "zanmetsu",
+      "to_name": "Zanmetsumon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "from_name": "Kaus Gammamon",
+      "to": "zanmetsu",
+      "to_name": "Zanmetsumon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "gulusgamma",
+      "from_name": "Gulus Gammamon",
+      "to": "regulus",
+      "to_name": "Regulusmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "gulusgamma",
+      "from_name": "Gulus Gammamon",
+      "to": "vamde",
+      "to_name": "Vamdemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "sealsdra",
+      "from_name": "Sealsdramon",
+      "to": "vamde",
+      "to_name": "Vamdemon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "40%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "from_name": "Canoweissmon",
+      "to": "sirius",
+      "to_name": "Siriusmon",
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "fuma",
+      "from_name": "Fumamon",
+      "to": "sirius",
+      "to_name": "Siriusmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "zanmetsu",
+      "from_name": "Zanmetsumon",
+      "to": "sirius",
+      "to_name": "Siriusmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "from_name": "Canoweissmon",
+      "to": "cannondra",
+      "to_name": "Cannondramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ghilliedhu",
+      "from_name": "Ghilliedhumon",
+      "to": "cannondra",
+      "to_name": "Cannondramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fuma",
+      "from_name": "Fumamon",
+      "to": "cannondra",
+      "to_name": "Cannondramon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "from_name": "Canoweissmon",
+      "to": "spino",
+      "to_name": "Spinomon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "ghilliedhu",
+      "from_name": "Ghilliedhumon",
+      "to": "spino",
+      "to_name": "Spinomon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "bomber",
+      "from_name": "Bombermon",
+      "to": "spino",
+      "to_name": "Spinomon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "bomber",
+      "from_name": "Bombermon",
+      "to": "kuzuha",
+      "to_name": "Kuzuhamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "zanmetsu",
+      "from_name": "Zanmetsumon",
+      "to": "kuzuha",
+      "to_name": "Kuzuhamon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "vamde",
+      "from_name": "Vamdemon",
+      "to": "kuzuha",
+      "to_name": "Kuzuhamon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "regulus",
+      "from_name": "Regulusmon",
+      "to": "arcturus",
+      "to_name": "Arcturusmon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "vamde",
+      "from_name": "Vamdemon",
+      "to": "arcturus",
+      "to_name": "Arcturusmon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ]
+}

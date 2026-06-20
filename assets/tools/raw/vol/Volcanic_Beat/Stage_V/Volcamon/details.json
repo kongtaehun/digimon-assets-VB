@@ -1,0 +1,83 @@
+{
+  "id": "volca",
+  "name": "Volcamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/volca.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/volca.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/volca.jpg",
+  "appearances": [
+    {
+      "dim_id": "vbe",
+      "dim_name": "Volcanic Beat",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "birdra",
+        "lavorvo"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Volcamon",
+    "name_en": "Volcamon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "dp": "30 (★6)",
+      "hp": "9",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "birdra",
+        "name": "Birdramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "lavorvo",
+        "name": "Lavorvomon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "tyrano",
+        "name": "Tyranomon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ancientvolca",
+        "name": "Ancient Volcamon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "volcanicdra",
+        "name": "Volcanicdramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "cannondra",
+        "name": "Cannondramon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "mars",
+        "name": "Marsmon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      }
+    ]
+  }
+}

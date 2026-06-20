@@ -1,0 +1,39 @@
+{
+  "id": "pururu",
+  "name": "Pururumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pururu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pururu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pururu.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Pururumon",
+    "name_en": "Pururumon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "poro",
+        "name": "Poromon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

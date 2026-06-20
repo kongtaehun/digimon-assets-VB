@@ -1,0 +1,67 @@
+{
+  "id": "gao",
+  "name": "Gaomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gao.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gao.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/gao.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "wanya"
+      ],
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Gaomon",
+    "name_en": "Gaomon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "5200",
+      "hp": "2850",
+      "ap": "1000"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "wanya",
+        "name": "Wanyamon",
+        "conditions": "3+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "fira",
+        "name": "Firamon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "gaoga",
+        "name": "Gaogamon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "lekis",
+        "name": "Lekismon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      }
+    ]
+  }
+}

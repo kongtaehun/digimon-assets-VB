@@ -1,0 +1,491 @@
+{
+  "id": "who",
+  "name": "Wolf Howl",
+  "release": "EN: July 2022 - Retail (Included with Vital Hero Digimon Blue)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_who.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_puni.gif",
+  "digimon": [
+    {
+      "id": "puni",
+      "name": "Punimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puni.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puni.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/puni.jpg"
+    },
+    {
+      "id": "tuno",
+      "name": "Tsunomon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tuno.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tuno.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tuno.jpg"
+    },
+    {
+      "id": "gabu",
+      "name": "Gabumon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gabu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gabu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gabu.jpg"
+    },
+    {
+      "id": "gabu_b",
+      "name": "Gabumon (Black)",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gabu_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gabu_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gabu_b.jpg"
+    },
+    {
+      "id": "garuru",
+      "name": "Garurumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/garuru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/garuru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/garuru.jpg"
+    },
+    {
+      "id": "drimoge",
+      "name": "Drimogemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/drimoge.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/drimoge.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/drimoge.jpg"
+    },
+    {
+      "id": "dorulu",
+      "name": "Dorulumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dorulu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dorulu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dorulu.jpg"
+    },
+    {
+      "id": "garuru_b",
+      "name": "Garurumon (Black)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/garuru_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/garuru_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/garuru_b.jpg"
+    },
+    {
+      "id": "weregaruru",
+      "name": "Were Garurumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/weregaruru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/weregaruru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/weregaruru.jpg"
+    },
+    {
+      "id": "panda",
+      "name": "Pandamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "12",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/panda.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/panda.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/panda.jpg"
+    },
+    {
+      "id": "jaegerdorulu",
+      "name": "Jaeger Dorulumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★7)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jaegerdorulu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jaegerdorulu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/jaegerdorulu.jpg"
+    },
+    {
+      "id": "weregaruru_b",
+      "name": "Were Garurumon (Black)",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/weregaruru_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/weregaruru_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/weregaruru_b.jpg"
+    },
+    {
+      "id": "metalgaruru",
+      "name": "Metal Garurumon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalgaruru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalgaruru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalgaruru.jpg"
+    },
+    {
+      "id": "zdgaruru",
+      "name": "Z'd Garurumon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zdgaruru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zdgaruru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zdgaruru.jpg"
+    },
+    {
+      "id": "metalgaruru_b",
+      "name": "Metal Garurumon (Black)",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalgaruru_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalgaruru_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalgaruru_b.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "tuno",
+      "from_name": "Tsunomon",
+      "to": "gabu",
+      "to_name": "Gabumon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tuno",
+      "from_name": "Tsunomon",
+      "to": "gabu_b",
+      "to_name": "Gabumon (Black)",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gabu",
+      "from_name": "Gabumon",
+      "to": "garuru",
+      "to_name": "Garurumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gabu",
+      "from_name": "Gabumon",
+      "to": "drimoge",
+      "to_name": "Drimogemon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gabu",
+      "from_name": "Gabumon",
+      "to": "dorulu",
+      "to_name": "Dorulumon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "garuru",
+      "from_name": "Garurumon",
+      "to": "weregaruru",
+      "to_name": "Were Garurumon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dorulu",
+      "from_name": "Dorulumon",
+      "to": "weregaruru",
+      "to_name": "Were Garurumon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "from_name": "Garurumon",
+      "to": "panda",
+      "to_name": "Pandamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "drimoge",
+      "from_name": "Drimogemon",
+      "to": "panda",
+      "to_name": "Pandamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dorulu",
+      "from_name": "Dorulumon",
+      "to": "panda",
+      "to_name": "Pandamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "from_name": "Garurumon",
+      "to": "jaegerdorulu",
+      "to_name": "Jaeger Dorulumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "drimoge",
+      "from_name": "Drimogemon",
+      "to": "jaegerdorulu",
+      "to_name": "Jaeger Dorulumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dorulu",
+      "from_name": "Dorulumon",
+      "to": "jaegerdorulu",
+      "to_name": "Jaeger Dorulumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "drimoge",
+      "from_name": "Drimogemon",
+      "to": "weregaruru_b",
+      "to_name": "Were Garurumon (Black)",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "weregaruru",
+      "from_name": "Were Garurumon",
+      "to": "metalgaruru",
+      "to_name": "Metal Garurumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "panda",
+      "from_name": "Pandamon",
+      "to": "metalgaruru",
+      "to_name": "Metal Garurumon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "weregaruru",
+      "from_name": "Were Garurumon",
+      "to": "zdgaruru",
+      "to_name": "Z'd Garurumon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "panda",
+      "from_name": "Pandamon",
+      "to": "zdgaruru",
+      "to_name": "Z'd Garurumon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jaegerdorulu",
+      "from_name": "Jaeger Dorulumon",
+      "to": "zdgaruru",
+      "to_name": "Z'd Garurumon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jaegerdorulu",
+      "from_name": "Jaeger Dorulumon",
+      "to": "metalgaruru_b",
+      "to_name": "Metal Garurumon (Black)",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "schema_version": "1.0",
+  "id": "dev",
+  "name": "Dynasty of the Evil",
+  "category": "bundled",
+  "device": "VBDM",
+  "release": "JP: Sep 2021 - Retail (DiM Card Holster)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_dev.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "zuru",
+      "name": "Zurumon",
+      "name_jp": "Zurumon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/zuru/frame1.gif",
+        "frame2": "sprites/zuru/frame2.gif"
+      },
+      "artwork": "sprites/zuru/artwork.jpg",
+      "lore": {
+        "en": "As a Digimon that was born from fusing a malevolentcomputer virusand the negativity of humans who abuse computers, it is a special Slime Digimon which differs from other Digimon in its root cause. It nimbly maneuvers its pliable body, and moves as if crawling across the ground. Because the substance composing its body is a potent toxin, and it spews intensely venomous bubbles from its mouth, even large Digimon will not approach it.Digimon Reference Book⇨ English超悪質のコンピュータウィルスとコンピュータを悪用する人間の負の念が融合して生まれたデジモンで、他のデジモンとは発生原因が異なる特殊なスライム型デジモン。軟体の体を器用に動かし、地を這うように移動する。体を構成する物質は毒性が強く、口からは強烈な毒を帯びた泡を吐き出すため、大型のデジモンでも近寄らない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zurumon"
+    },
+    {
+      "id": "pagu",
+      "name": "Pagumon",
+      "name_jp": "Pagumon",
+      "name_ko": "퍼그몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/pagu/frame1.gif",
+        "frame2": "sprites/pagu/frame2.gif"
+      },
+      "artwork": "sprites/pagu/artwork.jpg",
+      "lore": {
+        "en": "A small-sized Digimon capable of flying at low altitudes using the ear-like parts growing from its head. It is able to move those ears skillfully and use them like hands, performing gestures such as pulling its eyelid and sticking its tongue out, or slapping its rear to mock the opponent. It has a prank-loving personality. It will bully Digimon such asKoromonorTunomonby chasing them around. Sometimes, it also bullies others by spitting out \"Doku no Awa\" from its mouth.Digimon Reference Book⇨ English頭部から生えた耳のようなもので低空を飛ぶことができる小型デジモン。この耳を器用に動かし手のように扱うことができ、「あっかんベー」や「おしりペンペン」などの相手を小バカにするような態度をとる。性格は結構イジワル。コロモンやツノモンなどを追い掛け回してはイジメている。口から『毒の泡』を吐いてイジワルをすることもある。デジモン図鑑",
+        "ko": "머리 부분에 난 귀 비슷한 것으로 저공을 날 수 있는 소형 디지몬. 이 귀는 손과 같이 다룰 수 있어 나쁜 짓이나 궁디팡팡 등의 상대를 깔보는 태도를 취할 때 재주좋게 쓰이기도 한다. 성격은 상당히 심술궂어 코로몬 이나 뿔몬 등을 쫓아가 괴롭히는 일도 심심찮게 일어난다. 괴롭힐 땐 입에서 독성 거품을 뿜기도 하므로 주의."
+      },
+      "wikimon_url": "https://wikimon.net/Pagumon"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghostmon",
+      "name_jp": "Ghostmon",
+      "name_ko": "아이고스몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ghost/frame1.gif",
+        "frame2": "sprites/ghost/frame2.gif"
+      },
+      "artwork": "sprites/ghost/artwork.jpg",
+      "lore": {
+        "en": "A Ghost Digimon that is often witnessed flying over graveyards. Although it doesn't like to show its face due to its timidness and shyness, it is a kind-hearted Digimon that helps those in need, while turning invisible so as not to be noticed by them.When it is forced into battle, it moves about cunningly using its \"Little Plasma\", in which it fires weak energy shots from its palms, and \"JackRaid\", where it turns invisible moments before charging and crashing into the enemy, then striking them from behind while they are still in a state of confusion.Digimon Reference Book⇨ English墓場で遊ぶ姿がよく目撃されるゴースト型デジモン。気弱で恥ずかしがり屋のため、姿を見せることを好まないが、透明になって困っている誰かを人知れず手助けしたりする心優しいデジモンだ。やむを得ず戦闘になったときは、手のひらから微弱なエネルギー弾を放つ「リトルプラズマ」と、敵に突進して衝突の直前に透明化し、混乱したところを背後から叩く「ジャックレイド」でトリッキーに立ち回る。デジモン図鑑",
+        "ko": "무덤에서 노는 모습이 자주 목격되는 고스트형 디지몬. 심약하고 부끄러움이 많아 모습을 드러내는 것을 좋아하지 않지만 투명화하여 어려운 누군가를 남몰래 도와주는 마음씨 좋은 디지몬이다. 어쩔 수 없이 전투가 벌어졌을 때는 손바닥에서 미약한 에너지탄을 쏘는 「리틀 플라즈마」와 적에게 돌진해 충돌 직전 투명화하여 적이 혼란스러워 하는 틈을 타서 등 뒤에서 공격하는 「잭 레이드」로 트리키한 싸움방식으로 맞선다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Ghostmon"
+    },
+    {
+      "id": "saberdra",
+      "name": "Saberdramon",
+      "name_jp": "Saberdramon",
+      "name_ko": "블랙버드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/saberdra/frame1.gif",
+        "frame2": "sprites/saberdra/frame2.gif"
+      },
+      "artwork": "sprites/saberdra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon shrouded in black flames. Due to the roughness of its temperament, for which it continues counterattacks against enemies to a ferocious degree, it's difficult to even approach it. Its Special Move is striking from the air with the talons on its feet (Black Saber).Digimon Reference Book⇨ English闇色の炎を纏ったデジモン。敵に対しては凶暴なまでに反撃をくり返す気性の荒さで、近寄ることすら難しい。必殺技は、足のツメで空中から襲う「ブラックセーバー」。デジモン図鑑",
+        "ko": "어두운 색의 불꽃을 감싼 디지몬. 적에 대해서는 흉포할 정도로 반격을 거듭하는 성미라 가까이 접근하기도 어렵다. 필살기는 발톱으로 공중에서 습격하는 ‘블랙 세이버’. 디지털 월드 연구백서 디지몬 대도감 어두운 색의 불꽃을 날개에 두른 거조형 디지몬. 버드라몬 과 닮았지만, 적에 대해서는 흉포하게 반격을 가하는 거친 성격 탓에 접근하기조차 어렵다. 날카로운 칼날같은 공격을 하기 때문에 세이버라는 이름이 붙었다고도 한다. 필살기는, 다리의 발톱으로 공중에서 습격하는 '블랙 세이버'."
+      },
+      "wikimon_url": "https://wikimon.net/Saberdramon"
+    },
+    {
+      "id": "wizar",
+      "name": "Wizarmon",
+      "name_jp": "Wizarmon",
+      "name_ko": "위자몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/wizar/frame1.gif",
+        "frame2": "sprites/wizar/frame2.gif"
+      },
+      "artwork": "sprites/wizar/artwork.jpg",
+      "lore": {
+        "en": "An advanced Demon Man Digimon that came from theDigital Worldof another dimension. In its native Digital World (Witchelny) it mastered the sorcery (high-level programming language) of fire and earth, and although it aimed to become a great wizard, it appeared in the Digimon World in order to train. Although it has a personality that likes playing a few practical jokes, because it has another, shyer side, it tries to never show its uncovered face. Its Special Move is summoning a thunder cloud, which unleashes an intense lightning strike (Thunder Cloud).Digimon Reference Book⇨ English別次元のデジタルワールドからやってきた上級の魔人型デジモン。故郷のデジタルワールド（ウィッチェルニー）で炎と大地の魔術（高級プログラム言語）をマスターし、大魔道士になることを目指していたが、修行のためデジモンワールドに現れた。少々いたずら好きな性格だが、恥ずかしがりやの一面も持つため、決して素顔を見せようとしない。必殺技は雷雲を呼び出し、強烈な雷撃を繰り出す『サンダークラウド』。デジモン図鑑",
+        "ko": "다른 차원의 디지털 월드에서 온 상급의 마인형 디지몬. 고향의 디지털 월드( 윗체르니 )에서 불과 대지의 마법(고급프로그램언어)을 마스터해 대마도사가 되는 것을 목표로 하고 있었으나, 수행을 위해 디지털 월드에 나타났다. 조금 장난을 좋아하는 성격이지만, 낯을 가리는 일면도 지니고 있기 때문에 결코 맨얼굴을 보이려 하지 않는다. [2] 필살기는 뇌우를 불러내 강렬한 전격을 뿌리는 『썬더 클라우드』"
+      },
+      "wikimon_url": "https://wikimon.net/Wizarmon"
+    },
+    {
+      "id": "devi",
+      "name": "Devimon",
+      "name_jp": "Devimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/devi/frame1.gif",
+        "frame2": "sprites/devi/frame2.gif"
+      },
+      "artwork": "sprites/devi/artwork.jpg",
+      "lore": {
+        "en": "A Fallen Angel Digimon whose body is clad in jet-black cloth. Although it was originally a shiningAngemon-speciesDigimon, by falling to theDark Area, which exists in a spatial distortion of theDigital World, it became a fallen angel. As proof of that, theMark of Evilsurfaced dramatically on its chest. It has a cunning and fiendish personality, but it also possesses an outstanding intellect. It is said that those who have stared into its two eyes, which shine a deep crimson, are mind-controlled and completely dominated by Devimon. Its Special Move \"Death Claw\" is extending both of its extensible arms, and enforcing its will on the opponent's body.Digimon Reference Book⇨ English漆黒の衣に身を包んだ堕天使型デジモン。元々は光り輝くエンジェモン系デジモンだったが、デジタルワールドの空間の歪に存在するダークエリアに堕ちたことにより堕天使となった。その証である悪のマークが胸に大きく浮かんでいる。狡猾で凶悪な性格だが、非常に優れた知性の持ち主でもある。深紅に輝く両眼に見つめられたものはマインドコントロールされ、デビモンに支配されてしまうと言われている。必殺技の『デスクロウ』は伸縮自在の両腕を伸ばし、相手の体を貫き通す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Devimon"
+    },
+    {
+      "id": "bake",
+      "name": "Bakemon",
+      "name_jp": "Bakemon",
+      "name_ko": "고스몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★4)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/bake/frame1.gif",
+        "frame2": "sprites/bake/frame2.gif"
+      },
+      "artwork": "sprites/bake/artwork.jpg",
+      "lore": {
+        "en": "A ghost Digimon completely covered by a cloth over its head. As it is a wicked being born from darkness, it is said that computers possessed by Bakemon instantly have their systems destroyed. Everything within the cloth is wrapped in mystery, and it is rumored that a portion of the shadow of its true form has become ablack hole. It dislikes direct attacks because its fighting strength isn't great. Its Special Move \"Hell's Hand\" pulls the captured enemy all the way to hell. Also, its \"Death Charm\", which casts a powerful spell, seems to bring annihilation in a matter of seconds unless they are the possessor of a tenacious spirit.Digimon Reference Book⇨ English頭からすっぽりと布を被っている幽霊デジモン。闇より生まれた邪悪な存在で、バケモンにとり憑かれたコンピュータは一瞬にしてシステムを破壊されるという。布の中身は一切謎に包まれており、本体の下にある影の部分はブラックホールになっているという説もある。戦闘力は高くないので直接攻撃は好まない。必殺技の『ヘルズハンド』は掴んだ敵を地獄に引きずり込んでしまう。また強力な呪いをかける『デスチャーム』は強靭な精神の持ち主で無いかぎり数秒で絶命するだろう。デジモン図鑑",
+        "ko": "몸을 가릴 정도로 큰 천을 푹 뒤집어쓴 유령 디지몬. 어둠에서 태어난 사악한 존재로, 고스몬이 붙은 컴퓨터는 순식간에 시스템이 파괴된다고 한다. 천 속은 전부 수수께끼에 싸여 있으며 아래에 있는 그림자 부분은 블랙홀로 되어 있다는 설도 있다. 전투력은 높지 않기에 직접 공격은 선호하지 않는다. 필살기인 『헬즈 핸드』는 붙잡은 적을 지옥으로 끌어들인다. [3] 또한 강력한 저주를 거는 『데스 참』은 강한 정신력을 지니지 않은 자를 몇 초 만에 죽음에 이르게 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Bakemon"
+    },
+    {
+      "id": "baal",
+      "name": "Baalmon",
+      "name_jp": "Baalmon",
+      "name_ko": "바알몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/baal/frame1.gif",
+        "frame2": "sprites/baal/frame2.gif"
+      },
+      "artwork": "sprites/baal/artwork.jpg",
+      "lore": {
+        "en": "As an enlightened Digimon that excels in all knowledge, it is called the \"Sublime Lord\". According to one theory, it is surely another form of acertain Demon Lord Digimon. It is said that in exchange for the reader's soul, it will grant one page of information from the \"Red Book of Appin\", which records all of its knowledge. Although Baalmon will answer any kind of question, it always inflicts an ordeal for the answer. If that ordeal is not surmounted, then it will not give the requested answer, and will snatch away your soul. Its mantle is covered in amulets from all times and places, and it is said that on those amulets are written solutions for every problem, so that with that wealth of information it is able to completely defend against any attack. It Special Moves are transforming its amulets into various things and attacking (Guiltish), and releasing a mighty, lightning-fast smite from theDǎshénbiānit holds in its hand (Kamiuchi).Kamiuchiinflicts especially large damage on Holy-species Digimon.Digimon Reference Book⇨ Englishあらゆる知識に抜きん出た博識のデジモンで『気高き王』とも呼ばれている。一説には、ある魔王型デジモンのもう一つの姿とも噂されている。その知識のすべてを書き記した「アッピンの紅い本」は閲覧者の魂と引き換えに１ページ分の知識を与えてくれるという。バアルモンはどんな謎にも答えてくれるが、必ず答えと一緒に試練を与える。その試練を乗り越えられなければ求める答えは与えられず魂を奪われる。マントは古今東西の護符を積層しており、その護符にはあらゆる対処法が記されているといわれ、その豊富な知識であらゆる攻撃をすべて防ぐことができる。必殺技は護符を様々なものに変化させて攻撃する「ギルティッシュ」と、手にした打神鞭で強烈な雷撃を放つ「カミウチ」。カミウチは特にホーリー系のデジモンには大ダメージを与える。デジモン図鑑",
+        "ko": "여러 가지 지식에 통달한 박식한 디지몬으로 「고고한 왕」이라고도 불리고 있다. 일설에는, 어떤 마왕형 디지몬 의 또 다른 모습이라는 이야기가 있다. [1] 그 지식의 모든 것을 적은 「압핀의 붉은 책」은 열람자의 영혼과 교환하여 1 페이지 분의 지식을 준다고 한다. 바알몬은 그 어떤 수수께끼에도 대답해 주지만, 반드시 대답과 함께 시련을 주는데 그 시련을 극복하지 못하면 원하는 대답은 듣지도 못하고 영혼을 빼앗긴다. 망토는 동서 고금의 부적을 겹겹히 모은 것으로, 그 부적에는 여러 가지 대처법이 기록되어 있다고 하며 그 풍부한 지식으로 각종 공격들을 모두 막을 수 있다. 필살기는 부적을 여러 가지 모습으로 변화시켜 공격하는 「길티쉬」, 손에 쥔 타신편으로 강렬한 뇌격을 발사하는 「카미우치」. 카미우치는 특히 신성계의 디지몬에게 큰 대미지를 준다."
+      },
+      "wikimon_url": "https://wikimon.net/Baalmon"
+    },
+    {
+      "id": "cyberdra_2010",
+      "name": "Cyberdramon (2010)",
+      "name_jp": "Cyberdramon (2010)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/cyberdra_2010/frame1.gif",
+        "frame2": "sprites/cyberdra_2010/frame2.gif"
+      },
+      "artwork": "sprites/cyberdra_2010/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "pump",
+      "name": "Pumpmon",
+      "name_jp": "Pumpmon",
+      "name_ko": "펌프몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/pump/frame1.gif",
+        "frame2": "sprites/pump/frame2.gif"
+      },
+      "artwork": "sprites/pump/artwork.jpg",
+      "lore": {
+        "en": "A plush toy Digimon with a pumpkin head. There's an urban legend that says Pumpmon came to be when mutations developed in acomputer viruscreated during the season of the Western holiday of \"Halloween\". However, though it doesn't inflict any harm at all because it was not a malignant virus, its external appearance belies its possession of powerful offensive ability. As you can tell even from looking at its blank face, a rare expression of emotions is characteristic of Puppet Digimon. Its Special Move is manifesting a gigantic pumpkin in the air, and thensquashingthe opponent with it (Trick or Treat).Digimon Reference Book⇨ Englishカボチャの頭をもつヌイグルミのデジモン。欧米のお祭りである「ハロウィン」の時期になると発生していたコンピュータウィルスが突然変異を起こしてパンプモンになったという都市伝説がある。しかし、悪質なウィルスではなかったので危害を加えることは一切ないが、見た目の姿とは裏腹に強力な攻撃力の持ち主でもある。とぼけた顔を見ても分かる通り、喜怒哀楽の表現にとぼしい所がパペット系デジモンの特徴である。必殺技は巨大なカボチャを空中に出現させて、敵を押しつぶす『トリックオアトリート』。デジモン図鑑",
+        "ko": "호박 머리를 지닌 인형 디지몬. 서양의 축제인 「핼러윈」 시기가 되면 발생하던 컴퓨터 바이러스가 돌연변이를 일으켜 펌프몬이 되었다는 괴담이 있다. 하지만 악질적인 바이러스는 아니었기에 위해를 가하는 일은 전혀 없지만, 겉모습과 달리 강력한 공격력의 소유자이기도 하다. 얼빠진 얼굴을 봐도 알 수 있듯이 희로애락의 표현에 서툰 부분이 퍼펫 계열 디지몬의 특징이다. 필살기는 거대한 호박을 공중에 출현시켜 적을 눌러서 찌부러뜨리는 『트릭 오어 트리트 [3] 』이다. 작은 몸집과 깜찍한 생김새를 보면 연상이 잘 안 되지만 저래보여도 완전체 디지몬이다! 도감 설정으로도 외형과는 달리 강력한 공격력을 가지고 있다고 서술될 정도. 하지만 애니메이션에서 받는 취급은 성장기, 잘쳐줘야 성숙기 정도(...) 아무래도 완전체라는 것에 중점을 두기보단 귀여움에 중점을 두다보니 그럴 수밖에. 그래서인지 작중에선 영 완전체 값을 못하는 디지몬으로 묘사된다. [4]"
+      },
+      "wikimon_url": "https://wikimon.net/Pumpmon"
+    },
+    {
+      "id": "vamde",
+      "name": "Vamdemon",
+      "name_jp": "Vamdemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/vamde/frame1.gif",
+        "frame2": "sprites/vamde/frame2.gif"
+      },
+      "artwork": "sprites/vamde/artwork.jpg",
+      "lore": {
+        "en": "Resurrected through the dark arts, it is the king of Undead Digimon which has obtained mighty powers. Originally a fiendish computer virus which destroyed the computer data it absorbed, it possessed the ability to revive the destroyed data as malignantcomputer viruses. As it possesses an extremely cruel and cunning personality, it is exceedingly difficult to destroy this Digimon. However, it cannot demonstrate its powers outside of the night, and its power is cut in half during the daytime. Its Special Move is manipulating a countless swarm of bats, and beginning a surprise attack (Night Raid).Digimon Reference Book⇨ English闇の術法により蘇り、強大なパワーを手に入れたアンデッドデジモンの王。もともとコンピュータのデータを吸収しては破壊する凶悪なコンピュータウィルスで、破壊したデータを悪質なコンピュータウィルスとして復活させる能力を持っていた。非常に残忍かつ狡猾な性格の持ち主で、このデジモンを駆逐するのは非常に難しい。しかし、そのパワーも夜間でないと発揮できず、昼間はパワーが半減してしまうといわれている。必殺技は無数の蝙蝠を操り、奇襲をかける『ナイトレイド』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Vamdemon"
+    },
+    {
+      "id": "joker",
+      "name": "Jokermon",
+      "name_jp": "Jokermon",
+      "name_ko": "조커몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/joker/frame1.gif",
+        "frame2": "sprites/joker/frame2.gif"
+      },
+      "artwork": "sprites/joker/artwork.jpg",
+      "lore": {
+        "en": "A mysterious and elusive Demon Man Digimon. It appears on the battlefield without warning, bringing down Digimon that are key to deciding the tide of battle with a blow from their blind spot, and thus deciding the outcome of the battle. It is said that if Jokermon allies with you, then victory draws near, and it is called the \"Passing Trump\". Although it is a Digimon shrouded in mystery, investigations have given rise to the suspicion that it is of the same type asPiemon. Its Special Moves are hunting the enemy with its sickle, which collects the hope whirling around the battlefield (Lunatic Slash), and invoking amagic circledirectly beneath the enemy to fire a beam upwards, erasing them without a trace (Gaia Magicar).A winning entry in theDigimon Xros Wars Original Digimon Contest.Digimon Reference Book⇨ English謎の多い神出鬼没な魔人型デジモン。戦場に突如現れては、戦局のキーマンとなるデジモンを死角からの一撃で仕留め、戦局を決定づける。ジョーカーモンが味方すれば勝利が近づくと言われ、「通りすがりの切り札」と称されている。謎に包まれたデジモンではあるが、調査ではピエモンの同属ではという疑いがある。 必殺技は、戦場に渦巻く希望を集めた鎌で敵を狩る『ルナティックスラッシュ』と、敵の真下に魔法陣を発動させビームを撃ち上げる『ガイアマジッカー』で跡形も無く消し去る。※デジモンクロスウォーズ　オリジナルデジモンコンテスト受賞作品。デジモン図鑑",
+        "ko": "수수께끼 뿐인 신출귀몰한 마인형 디지몬. 전장에 돌연히 나타나 전국의 중심이 되는 디지몬을 사각으로부터의 일격으로 해치워, 시국을 결정짓는다. 조커몬이 아군이 되면 승리가 가까워진다고 알려져, 『지나가던 비장의 패』라 칭해진다. 수수께끼로 둘러싸인 디지몬이지만, 조사에 의하면 피에몬 의 동족이 아닌가 하는 의심이 있다. 필살기는 전장에 소용돌이치는 희망을 모은 낫으로 적을 사냥하는 『루나틱 슬래시』와 적의 바로 밑에 마법진을 발동시켜 빔을 쏘아올리는 『가이아 매지커』로 흔적도 없이 사라진다."
+      },
+      "wikimon_url": "https://wikimon.net/Jokermon"
+    },
+    {
+      "id": "fanto",
+      "name": "Fantomon",
+      "name_jp": "Fantomon",
+      "name_ko": "팬텀몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/fanto/frame1.gif",
+        "frame2": "sprites/fanto/frame2.gif"
+      },
+      "artwork": "sprites/fanto/artwork.jpg",
+      "lore": {
+        "en": "AReaper-like Digimon holding a giganticsickle and chain. It is a higher class of Ghost Digimon compared toBakemon, so when a person is possessed by Fantomon they are in their last moments, and it comes upon them when they die completely. There is a crystal shaped like an eyeball hanging from its neck, and similar toMammon's crest, it is able to foresee everything with its power of clairvoyance, in order to perceive those that are close to death. It is said that the interior of the cloth which conceals its body leads to a separate dimension from the Digital World, and its Special Move is cutting even the opponent's soul to pieces with its gigantic sickle and chain (Soul Chopper). Those who suffer this technique have their souls completely annihilated.Digimon Reference Book⇨ English巨大な鎖鎌を持った死神のようなデジモン。バケモンとは違い上級のゴーストデジモンで、ファントモンにとり憑かれたが最期、完全に死が訪れるだろう。首からぶら下げている眼球の形をした水晶は、マンモンの紋章と同じく千里眼の力で全てを見通すことができるため、死期の近い者を見抜いてしまう。体を覆う布の中身は別次元のデジタルワールドに通じていると言われ、必殺技は巨大な鎖鎌で敵の魂をも切り裂く『ソウルチョッパー』。この技を受けたものは魂ごと消滅してしまう。デジモン図鑑",
+        "ko": "거대한 사슬낫 을 지닌 사신 처럼 생긴 디지몬. 고스몬과는 달리 상급 고스트 디지몬으로, 팬텀몬에 씌면 결국 완전히 죽는다. 목에 매단 눈 알 모양의 수정 은 맘몬 의 문장과 마찬가지로 천리안 의 힘이 있어 모든 것을 꿰뚫어 볼 수 있기에, 죽을 날이 얼마 남지 않은 자를 간파해버린다. 몸을 덮는 천 안쪽은 다른 차원의 디지털 월드로 이어진다고 알려져 있다. 필살기 는 거대한 사슬낫으로 적의 영혼 까지 갈기갈기 찢는 『영혼가르기 [2] 』다. 이 기술을 맞은 자는 영혼과 함께 소멸한다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Fantomon"
+    },
+    {
+      "id": "noblepump",
+      "name": "Noble Pumpmon",
+      "name_jp": "Noble Pumpmon",
+      "name_ko": "노블펌프몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/noblepump/frame1.gif",
+        "frame2": "sprites/noblepump/frame2.gif"
+      },
+      "artwork": "sprites/noblepump/artwork.jpg",
+      "lore": {
+        "en": "The Ultimate ofPumpmonthat took on a gentlemanly attire. Neither good nor evil, it maintains a neutral stance, and aims to bring smiles to all Digimon. With its cheerful personality and mischievous behavior, which it shows from time to time, it can easily get along with any Digimon, so there are no Digimon that treat Noble Pumpmon unkindly. It makes pumpkin dishes that everyone craves over using the \"WassamuRingJack\"[N 1]staff it holds in its hand, and serves them to the Digimon it has befriended.Its Special Moves are manifesting giant pumpkin-shaped bombs in the air and blowing up everything around it (Trick or TreatWallace), and pouring a huge amount of pumpkin soup into the enemy's body and causing them to explode (AtlanticDam).Digimon Reference Book⇨ English紳士な装いとなったパンプモンの究極体。正義にも悪にも寄らず中立を貫き、全てのデジモンを笑顔にすることを志としている。明朗な性格と時々見せるおちゃめな振る舞いでどんなデジモンともすぐ打ち解けることができ、ノーブルパンプモンを邪険に扱うデジモンはいない。手に持つ杖『ワッサムリングジャック』で誰もがうなるカボチャ料理を生み出し、親しくなったデジモンにもてなす。必殺技は巨大なカボチャ型爆弾を空中に出現させて、辺り一面を吹き飛ばす『トリックオアトリート・ウォレス』と、大量のカボチャスープを敵の体内に流し込み破裂させる『アトランティックダム』。デジモン図鑑",
+        "ko": "신사처럼 단장한 펌프몬 궁극체. 정의와 악 어느 쪽에도 속하지 않고 중립을 두며 모든 디지몬을 미소짓게 하는 것에 의의를 둔다. 명랑한 성격과 가끔 보이는 장난스러운 행동은 어떤 디지몬도 마음을 풀어지게 하며 노블펌프몬을 거칠게 대하는 디지몬은 없다. 손에 쥔 지팡이 '어썸 링 잭'으로는 누구나 감탄하는 호박 요리를 만들어 친해진 디지몬에게 대접한다. 필살기는 거대한 호박 모양의 폭탄을 공중에 출현시켜 공중에 날려버리는 '트릭 오어 트리트 윌리스 [1] '와 대량의 호박 수프를 적 체내에 흘려보내 파열시키는 '애틀랜틱 댐'이다."
+      },
+      "wikimon_url": "https://wikimon.net/Noble_Pumpmon"
+    },
+    {
+      "id": "pie",
+      "name": "Piemon",
+      "name_jp": "Piemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/pie/frame1.gif",
+        "frame2": "sprites/pie/frame2.gif"
+      },
+      "artwork": "sprites/pie/artwork.jpg",
+      "lore": {
+        "en": "A strange-looking and elusive Demon Man Digimon that is completely shrouded in mystery. Demon Man Digimon have many mysterious qualities, and since Demon- and Undead-species are basically beings from another dimension, their true forms are not totally understood. Why it appeared, and the purpose of its existence are also unclear; there are currently no means of clarifying those questions. However, its strength is without equal, and if you happen to stumble across Piemon, you probably won't be able to do anything but curse your fate. Its Special Move is an inescapable technique in which it teleports the four swords that pierce the \"Magic Box\" on its back, causing them to skewer the opponent in the following instant (Trump Sword).Digimon Reference Book⇨ English奇抜な姿と神出鬼没な、全てが謎に包まれている魔人型デジモン。魔人型のデジモンは謎の部分が多く、悪魔系や、アンデット系とはまったく別次元的な存在で、正体はまったくの不明である。何の為に出現したのか、その存在目的も不明であり、それを解明する手段も現時点では無い。しかし、その力は強力無比であり、ピエモンと出会ってしまった場合は、己の運命を呪うしかないだろう。必殺技は背中の「マジックボックス」に突き立てた４本の剣をテレポートさせ、次の瞬間には敵を串刺しする脱出不可能な技『トランプ・ソード』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Piemon"
+    },
+    {
+      "id": "beelzebu_2010",
+      "name": "Beelzebumon (2010)",
+      "name_jp": "Beelzebumon (2010)",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/beelzebu_2010/frame1.gif",
+        "frame2": "sprites/beelzebu_2010/frame2.gif"
+      },
+      "artwork": "sprites/beelzebu_2010/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "neovamde",
+      "name": "Neo Vamdemon",
+      "name_jp": "Neo Vamdemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/neovamde/frame1.gif",
+        "frame2": "sprites/neovamde/frame2.gif"
+      },
+      "artwork": "sprites/neovamde/artwork.jpg",
+      "lore": {
+        "en": "The general of the Moon-light Army of the \"Big Death-Stars\". Its goal is to erase hostile forces without leaving a trace, so it has its army of Undead Digimon lurk everywhere and erase the Digimon that move against it, one by one.It forgot its emotions as a consequence of always lurking in the dark, and even slaughter is becoming a part of its life that it neither likes nor dislikes. However, it feels fulfilled only when it watches the termination of a dying Digimon under the moon.Neo Vamdemon can summon its familiar spirits, \"Evilvil\", which are brought forth in an inexhaustible supply, and naturally prefer the life energy of Digimon. The Digimon that experience its \"Nightmare Raid\", which fires theEvilvilat multiple enemies, become a terrible sight to behold. Its \"Bloody Stream Grade\", which freely extends both of its arms, is a technique that reliably captures its opponent, and wrenches them apart after forcing the captured opponent to divulge all their information. And then it collects dark energy, and when the moon on its chest is full, it fires off its certain-kill \"Gardiac Raid\". Although the opponent sees the flash of a beam of light from ahead of everything in its surroundings being changed to darkness, that light is not hope but the light of demise.Digimon Reference Book⇨ English「ビッグデスターズ」月光軍団将軍。敵対する勢力を痕跡残さず抹殺することを目的としており、アンデッド型デジモンの軍を各地に潜ませ不穏な動きをしたデジモンを次々と抹殺している。常に暗闇に潜み生きたことから感情を忘れ、殺戮すら好きも嫌いもない生活の一部となっている。ただ月の下で死にゆくデジモンの消滅を見ることは唯一の充実と感じている。ネオヴァンデモンは無尽蔵に生み出す使い魔「イビルビル」を召喚でき、デジモンの精気を好む性質を持っている。イビルビルを多く敵に向け放つ「ナイトメアレイド」にあったデジモンは見るも無残な姿となってしまう。両腕を自在に伸縮させる「ブラッディストリームグレイド」は敵を確実に捕縛し、捕縛した敵に情報を全て吐かせた後その爪で引き千切る技である。そして闇のエネルギーを集約し胸の月が満ちたとき必殺の「ギャディアックレイド」を撃つ。敵は周りを全て闇に変えられその先から一筋の閃光を見るが、その光は希望ではなく終焉の光である。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Neo_Vamdemon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "ghost",
+      "to": "saberdra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ghost",
+      "to": "wizar",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ghost",
+      "to": "devi",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ghost",
+      "to": "bake",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "baal",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "devi",
+      "to": "baal",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "saberdra",
+      "to": "cyberdra_2010",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "bake",
+      "to": "cyberdra_2010",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "pump",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bake",
+      "to": "pump",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "saberdra",
+      "to": "vamde",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "devi",
+      "to": "vamde",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "joker",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "devi",
+      "to": "joker",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "saberdra",
+      "to": "fanto",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bake",
+      "to": "fanto",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "noblepump",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pump",
+      "to": "noblepump",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fanto",
+      "to": "noblepump",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pump",
+      "to": "pie",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vamde",
+      "to": "pie",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "joker",
+      "to": "pie",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "joker",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vamde",
+      "to": "neovamde",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "fanto",
+      "to": "neovamde",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "zuru",
+      "to": "pagu",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "pagu",
+      "to": "ghost",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "saberdra",
+      "to": "baal",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "saberdra",
+      "to": "joker",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "saberdra",
+      "to": "pump",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "cyberdra_2010",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "vamde",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "wizar",
+      "to": "fanto",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "devi",
+      "to": "cyberdra_2010",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "devi",
+      "to": "pump",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "devi",
+      "to": "fanto",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "bake",
+      "to": "baal",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "bake",
+      "to": "vamde",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "bake",
+      "to": "joker",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "pie",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Perfect"
+      }
+    },
+    {
+      "from": "baal",
+      "to": "neovamde",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "cyberdra_2010",
+      "to": "neovamde",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "cyberdra_2010",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "text": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "cyberdra_2010",
+      "to": "noblepump",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "cyberdra_2010",
+      "to": "pie",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "pump",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "pump",
+      "to": "neovamde",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "vamde",
+      "to": "noblepump",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "vamde",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "joker",
+      "to": "neovamde",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "joker",
+      "to": "noblepump",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "fanto",
+      "to": "pie",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "fanto",
+      "to": "beelzebu_2010",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    }
+  ]
+}

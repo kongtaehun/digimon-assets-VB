@@ -1,0 +1,85 @@
+{
+  "id": "catura",
+  "name": "Caturamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/catura.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/catura.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/catura.jpg",
+  "appearances": [
+    {
+      "dim_id": "rena_ex",
+      "dim_name": "Renamon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Caturamon",
+    "name_en": "Caturamon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "10",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "kyubi",
+        "name": "Kyubimon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "lynx",
+        "name": "Lynxmon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "youko",
+        "name": "Youkomon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "icedevi",
+        "name": "Ice Devimon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "sakuya_x",
+        "name": "Sakuyamon X",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "parasi",
+        "name": "Parasimon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "sakuya",
+        "name": "Sakuyamon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "kuzuha_m",
+        "name": "Kuzuhamon: Miko Mode",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

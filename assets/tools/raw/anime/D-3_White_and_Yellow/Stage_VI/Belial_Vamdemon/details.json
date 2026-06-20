@@ -1,0 +1,58 @@
+{
+  "id": "belialvamde",
+  "name": "Belial Vamdemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/belialvamde.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/belialvamde.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/belialvamde.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "shakkou",
+        "archne"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "4,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Belial Vamdemon",
+    "name_en": "MaloMyotismon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6700",
+      "hp": "5400",
+      "ap": "2100"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "shakkou",
+        "name": "Shakkoumon",
+        "conditions": "Stage 12 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "archne",
+        "name": "Arachnemon",
+        "conditions": "Stage 12 cleared, 20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "guri",
+  "name": "Gurimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/guri.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/guri.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/guri.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Gurimon",
+    "name_en": "Gurimon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "",
+    "stats": {
+      "bp": "0",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "activity_type": "",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [
+      {
+        "id": "curi",
+        "name": "Curimon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "gamma",
+        "name": "Gammamon",
+        "conditions": "Choose one:"
+      },
+      {
+        "id": "boko",
+        "name": "Bokomon",
+        "conditions": "Stage 2 cleared, 3+ PP, 500+ Vital Values"
+      },
+      {
+        "id": "koe",
+        "name": "Koemon",
+        "conditions": "Stage 3 cleared, 5+ PP, 500+ Vital Values"
+      }
+    ]
+  }
+}

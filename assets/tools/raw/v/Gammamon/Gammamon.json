@@ -1,0 +1,499 @@
+{
+  "id": "gamma",
+  "name": "Gammamon",
+  "release": "JP: Oct 2021 - Retail (Set -V1-, also included with Digivice -V-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_gamma.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_curi.gif",
+  "digimon": [
+    {
+      "id": "curi",
+      "name": "Curimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/curi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/curi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/curi.jpg"
+    },
+    {
+      "id": "guri",
+      "name": "Gurimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/guri.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/guri.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/guri.jpg"
+    },
+    {
+      "id": "gamma",
+      "name": "Gammamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gamma.jpg"
+    },
+    {
+      "id": "betelgamma",
+      "name": "Betel Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/betelgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/betelgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/betelgamma.jpg"
+    },
+    {
+      "id": "kausgamma",
+      "name": "Kaus Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kausgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kausgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kausgamma.jpg"
+    },
+    {
+      "id": "wezengamma",
+      "name": "Wezen Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wezengamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wezengamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wezengamma.jpg"
+    },
+    {
+      "id": "gulusgamma",
+      "name": "Gulus Gammamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gulusgamma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gulusgamma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gulusgamma.jpg"
+    },
+    {
+      "id": "canoweiss",
+      "name": "Canoweissmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/canoweiss.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/canoweiss.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/canoweiss.jpg"
+    },
+    {
+      "id": "brachio",
+      "name": "Brachiomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/brachio.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/brachio.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/brachio.jpg"
+    },
+    {
+      "id": "chimaira",
+      "name": "Chimairamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chimaira.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chimaira.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chimaira.jpg"
+    },
+    {
+      "id": "tankdra",
+      "name": "Tankdramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tankdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tankdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tankdra.jpg"
+    },
+    {
+      "id": "aegisdra",
+      "name": "Aegisdramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/aegisdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/aegisdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/aegisdra.jpg"
+    },
+    {
+      "id": "ultimatebrachi",
+      "name": "Ultimate Brachiomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ultimatebrachi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ultimatebrachi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ultimatebrachi.jpg"
+    },
+    {
+      "id": "chaosdra",
+      "name": "Chaosdramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chaosdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chaosdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/chaosdra.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "betelgamma",
+      "to_name": "Betel Gammamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,100+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "kausgamma",
+      "to_name": "Kaus Gammamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "wezengamma",
+      "to_name": "Wezen Gammamon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "from_name": "Gammamon",
+      "to": "gulusgamma",
+      "to_name": "Gulus Gammamon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "from_name": "Betel Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "from_name": "Kaus Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "from_name": "Wezen Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gulusgamma",
+      "from_name": "Gulus Gammamon",
+      "to": "canoweiss",
+      "to_name": "Canoweissmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "from_name": "Betel Gammamon",
+      "to": "brachio",
+      "to_name": "Brachiomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "from_name": "Kaus Gammamon",
+      "to": "brachio",
+      "to_name": "Brachiomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "from_name": "Betel Gammamon",
+      "to": "chimaira",
+      "to_name": "Chimairamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gulusgamma",
+      "from_name": "Gulus Gammamon",
+      "to": "chimaira",
+      "to_name": "Chimairamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "from_name": "Wezen Gammamon",
+      "to": "tankdra",
+      "to_name": "Tankdramon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "from_name": "Canoweissmon",
+      "to": "aegisdra",
+      "to_name": "Aegisdramon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tankdra",
+      "from_name": "Tankdramon",
+      "to": "aegisdra",
+      "to_name": "Aegisdramon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "from_name": "Canoweissmon",
+      "to": "ultimatebrachi",
+      "to_name": "Ultimate Brachiomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "brachio",
+      "from_name": "Brachiomon",
+      "to": "ultimatebrachi",
+      "to_name": "Ultimate Brachiomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "chimaira",
+      "from_name": "Chimairamon",
+      "to": "ultimatebrachi",
+      "to_name": "Ultimate Brachiomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "from_name": "Canoweissmon",
+      "to": "chaosdra",
+      "to_name": "Chaosdramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "brachio",
+      "from_name": "Brachiomon",
+      "to": "chaosdra",
+      "to_name": "Chaosdramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "chimaira",
+      "from_name": "Chimairamon",
+      "to": "chaosdra",
+      "to_name": "Chaosdramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tankdra",
+      "from_name": "Tankdramon",
+      "to": "chaosdra",
+      "to_name": "Chaosdramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

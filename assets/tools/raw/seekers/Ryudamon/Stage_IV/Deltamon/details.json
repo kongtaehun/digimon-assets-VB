@@ -1,0 +1,67 @@
+{
+  "id": "delta",
+  "name": "Deltamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/delta.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/delta.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/delta.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "ryuda"
+      ],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Deltamon",
+    "name_en": "Deltamon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "bp": "4800",
+      "hp": "3600",
+      "ap": "1300"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "ryuda",
+        "name": "Ryudamon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "orochi",
+        "name": "Orochimon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "monzae",
+        "name": "Monzaemon",
+        "conditions": "10+ PP, 1,500+ Vital Values, 8+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "ete",
+        "name": "Etemon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 4+ Battles, 30%+ Win Ratio"
+      }
+    ]
+  }
+}

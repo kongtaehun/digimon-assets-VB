@@ -1,0 +1,85 @@
+{
+  "id": "grey_b",
+  "name": "Greymon (Blue)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grey_b.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grey_b.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/grey_b.jpg",
+  "appearances": [
+    {
+      "dim_id": "mbr",
+      "dim_name": "Mad Black Roar",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Greymon (Blue)",
+    "name_en": "Greymon (Blue)",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "5",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "agu_b",
+        "name": "Agumon (Black)",
+        "conditions": "• 8+ Trophies, 900+ Vital Values, 5+ Battles (MBR)• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (BRo)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (DRo)"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "metalgrey_vi",
+        "name": "Metalgreymon (Virus)",
+        "conditions": "• 10+ Trophies, 2500+ Vital Values, 10+ Battles, 50%+ Win Ratio (MBR)• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio (BRo/DRo)"
+      },
+      {
+        "id": "metalgrey_am",
+        "name": "Metal Greymon (Alterous Mode)",
+        "conditions": "12+ Trophies, 3000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "skullgrey",
+        "name": "Skull Greymon",
+        "conditions": "8+ Trophies, 2000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "extyrano",
+        "name": "Ex-Tyranomon",
+        "conditions": "Jogress with Vaccine Adult (MBR)"
+      },
+      {
+        "id": "vermilli",
+        "name": "Vermillimon",
+        "conditions": "• Jogress with Data Adult (MBR)• 10+ Trophies, 2500+ Vital Values, 10+ Battles, 50%+ Win Ratio (DRo)"
+      },
+      {
+        "id": "mametyra",
+        "name": "Mametyramon",
+        "conditions": "Jogress with Free Adult (MBR)"
+      },
+      {
+        "id": "metalgrey_va",
+        "name": "Metal Greymon",
+        "conditions": "Jogress with Vaccine, Data or Free Adult"
+      }
+    ]
+  }
+}

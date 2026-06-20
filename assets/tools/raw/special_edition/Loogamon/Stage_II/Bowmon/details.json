@@ -1,0 +1,55 @@
+{
+  "id": "bow",
+  "name": "Bowmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bow.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bow.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bow.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Bowmon",
+    "name_en": "Bowmon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "Active",
+    "stats": {
+      "bp": "0",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [
+      {
+        "id": "fusa",
+        "name": "Fusamon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "bem",
+        "name": "Bemmon",
+        "conditions": "Stage 1 cleared, 5+ PP, 1,000+ Vital Values"
+      },
+      {
+        "id": "looga",
+        "name": "Loogamon",
+        "conditions": "5+ PP, 500+ Vital Values"
+      },
+      {
+        "id": "heriss",
+        "name": "Herissmon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

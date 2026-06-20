@@ -1,0 +1,60 @@
+{
+  "id": "guil",
+  "name": "Guilmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/guil.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/guil.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/guil.jpg",
+  "appearances": [
+    {
+      "dim_id": "guil_gp",
+      "dim_name": "Guilmon GP",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Guilmon",
+    "name_en": "Guilmon",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "gigi",
+        "name": "Gigimon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "grow",
+        "name": "Growmon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "grow_o",
+        "name": "Growmon (Orange)",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "siesa",
+        "name": "Siesamon",
+        "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "devidra",
+        "name": "Devidramon",
+        "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mera",
+  "name": "Meramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mera.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mera.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mera.jpg",
+  "appearances": [
+    {
+      "dim_id": "agni_ex",
+      "dim_name": "Agnimon EX",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Meramon",
+    "name_en": "Meramon",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "15 (★3)",
+      "hp": "4",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "vorvo",
+        "name": "Vorvomon",
+        "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "deathmera",
+        "name": "Death Meramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "groundra",
+        "name": "Groundramon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "lavogarita",
+        "name": "Lavogaritamon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "mastertyrano",
+        "name": "Master Tyranomon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      }
+    ]
+  }
+}

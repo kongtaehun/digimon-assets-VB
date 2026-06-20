@@ -1,0 +1,74 @@
+{
+  "id": "saintgalgo",
+  "name": "Saint Galgomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/saintgalgo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/saintgalgo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/saintgalgo.jpg",
+  "appearances": [
+    {
+      "dim_id": "terrier_ex",
+      "dim_name": "Terriermon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Saint Galgomon",
+    "name_en": "MegaGargomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "50 (★8)",
+      "hp": "18",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "rapid",
+        "name": "Rapidmon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "makura",
+        "name": "Makuramon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "pajira",
+        "name": "Pajiramon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "sindura",
+        "name": "Sinduramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "andira_d",
+        "name": "Andiramon (Deva)",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "andira",
+        "name": "Andiramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

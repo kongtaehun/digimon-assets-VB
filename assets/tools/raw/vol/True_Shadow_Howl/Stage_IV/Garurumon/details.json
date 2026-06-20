@@ -1,0 +1,130 @@
+{
+  "id": "garuru",
+  "name": "Garurumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/garuru.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/garuru.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/garuru.jpg",
+  "appearances": [
+    {
+      "dim_id": "tsh",
+      "dim_name": "True Shadow Howl",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Garurumon",
+    "name_en": "Garurumon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "5",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "gabu",
+        "name": "Gabumon",
+        "conditions": "• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (Gabu EX)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (WHo)"
+      },
+      {
+        "id": "gabu_b",
+        "name": "Gabumon (Black) (TSH)",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "tinpet",
+        "name": "Tinpet",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "weregaruru",
+        "name": "Were Garurumon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "valve",
+        "name": "Valvemon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "waruseadra",
+        "name": "Waru Seadramon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "parrot",
+        "name": "Parrotmon",
+        "conditions": "Jogress with Data or Free Adult"
+      },
+      {
+        "id": "orochi",
+        "name": "Orochimon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "weregaruru_s",
+        "name": "Were Garurumon (Saggitarius Mode)",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "weregaruru_b",
+        "name": "Were Garurumon (Black)",
+        "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• Jogress with Data, Virus or Free Adult (WHo)"
+      },
+      {
+        "id": "panda",
+        "name": "Pandamon",
+        "conditions": "• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "cerberu",
+        "name": "Cerberumon",
+        "conditions": "Jogress with Data Adult (TSH)"
+      },
+      {
+        "id": "jaegerdorulu",
+        "name": "Jaeger Dorulumon",
+        "conditions": "• Jogress with Virus Adult (TSH)• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhinomon",
+        "conditions": "Jogress with Free Adult (TSH)"
+      },
+      {
+        "id": "garurumetal",
+        "name": "Garuru Metal",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "metabee",
+        "name": "Metabee",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "rokusho",
+        "name": "Rokusho",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

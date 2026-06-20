@@ -1,0 +1,88 @@
+{
+  "id": "loco",
+  "name": "Locomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/loco.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/loco.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/loco.jpg",
+  "appearances": [
+    {
+      "dim_id": "nme",
+      "dim_name": "Nu Metal Empire",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "ballista",
+        "mailbirdra"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Locomon",
+    "name_en": "Locomon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "30 (★6)",
+      "hp": "14",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "ballista",
+        "name": "Ballistamon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mailbirdra",
+        "name": "Mailbirdramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mach",
+        "name": "Machmon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "rare",
+        "name": "Raremon",
+        "conditions": "Jogress with Free Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "zekegrey",
+        "name": "Zeke Greymon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "grandloco",
+        "name": "Grand Locomon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "heavyleo",
+        "name": "Heavy Leomon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "mugendra",
+        "name": "Mugendramon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

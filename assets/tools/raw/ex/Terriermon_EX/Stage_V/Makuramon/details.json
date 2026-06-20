@@ -1,0 +1,85 @@
+{
+  "id": "makura",
+  "name": "Makuramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/makura.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/makura.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/makura.jpg",
+  "appearances": [
+    {
+      "dim_id": "terrier_ex",
+      "dim_name": "Terriermon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Makuramon",
+    "name_en": "Makuramon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "8",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "turuie",
+        "name": "Turuiemon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "harpy",
+        "name": "Harpymon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "galgo",
+        "name": "Galgomon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "wendi",
+        "name": "Wendimon",
+        "conditions": "Jogress with Free Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "rapid_a",
+        "name": "Rapidmon (Armor)",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "saintgalgo",
+        "name": "Saint Galgomon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "cherubi",
+        "name": "Cherubimon (Virtue)",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "cherubi_vice",
+        "name": "Cherubimon (Vice)",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

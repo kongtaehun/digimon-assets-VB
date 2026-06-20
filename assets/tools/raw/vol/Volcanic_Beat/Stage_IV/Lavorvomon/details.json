@@ -1,0 +1,77 @@
+{
+  "id": "lavorvo",
+  "name": "Lavorvomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lavorvo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lavorvo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/lavorvo.jpg",
+  "appearances": [
+    {
+      "dim_id": "vbe",
+      "dim_name": "Volcanic Beat",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "vorvo"
+      ],
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Lavorvomon",
+    "name_en": "Lavorvomon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "vorvo",
+        "name": "Vorvomon",
+        "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "volca",
+        "name": "Volcamon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "lavogarita",
+        "name": "Lavogaritamon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "deathmera",
+        "name": "Death Meramon",
+        "conditions": "Jogress with Data Adult"
+      },
+      {
+        "id": "mastertyrano",
+        "name": "Master Tyranomon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      }
+    ]
+  }
+}

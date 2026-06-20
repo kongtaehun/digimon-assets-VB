@@ -1,0 +1,941 @@
+{
+  "schema_version": "1.0",
+  "id": "mbr",
+  "name": "Mad Black Roar",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Sep 2021 - Premium Bandai (Set Vol.0.5)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_mbr.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "name_jp": "Botamon",
+      "name_ko": "깜몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bota/frame1.gif",
+        "frame2": "sprites/bota/frame2.gif"
+      },
+      "artwork": "sprites/bota/artwork.jpg",
+      "lore": {
+        "en": "A Digital Monster that was born just recently. On the surface of its slime-shaped body, it has grown thick, black fuzz. It is unable to battle as it has just been born, but it can produce bubble-like objects from its mouth to intimidate the enemy.Digimon Reference Book⇨ English生まれたばかりのデジタルモンスター。スライム状の体の表面には、黒い産毛がびっしり生えている。生まれたてなので戦うことはできないが、口から泡のようなものを出して敵を威嚇する。デジモン図鑑",
+        "ko": "태어난지 얼마 안 된 디지털 몬스터. 슬라임과 같은 몸 표면에는 새까만 솜털이 빽빽이 자라나 있다. 갓 태어나서 싸울 수는 없지만, 입에서 거품을 내뿜어 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Botamon"
+    },
+    {
+      "id": "koro",
+      "name": "Koromon",
+      "name_jp": "Koromon",
+      "name_ko": "코로몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/koro/frame1.gif",
+        "frame2": "sprites/koro/frame2.gif"
+      },
+      "artwork": "sprites/koro/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon that shed the fuzz covering its surface, and whose body grew even bigger. Although it has become able to move around more actively, it is still unable to battle. It can produce bubbles from its mouth to intimidate opponents.Digimon Reference Book⇨ English表面を覆っていた産毛が抜け、体も一回り大きくなった小型デジモン。活発に動き回れるようになったが、まだ戦うことはできない。口から泡を出して敵を威嚇する。デジモン図鑑",
+        "ko": "표면을 덮고 있던 솜털이 빠지고 몸도 한층 더 커진 소형 디지몬 . 활발하게 돌아다닐 수 있게 됐지만 아직 싸우기엔 무리다. 입에서 거품을 뿜어내 적을 위협한다. 디지몬 대백과 깜몬 의 몸을 지키던 검은 솜털이 빠지고, 몸도 한 층 더 커진 소형 디지몬. 활기차고 활발하게 움직이지만, 배틀은 아직 이르다. 하지만, 자라서 싸울 수 있게 되는 것은 시간 문제다. 깜몬과 마찬가지로, 입에서 산성 거품을 뿜어내 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Koromon"
+    },
+    {
+      "id": "agu_b",
+      "name": "Agumon (Black)",
+      "name_jp": "Agumon (Black)",
+      "name_ko": "아구몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/agu_b/frame1.gif",
+        "frame2": "sprites/agu_b/frame2.gif"
+      },
+      "artwork": "sprites/agu_b/artwork.jpg",
+      "lore": {
+        "en": "An Agumon that, by evolving into a Virus-type, has awoken to its feral instincts. It has gone past being fearless and now has a brutal personality; it is no less sharp than a Vaccine-typeAgumonwhen it comes to hunting prey. Its Special Move is spitting flaming breath from its mouth to attack the enemy (Baby Flame).Digimon Reference Book⇨ Englishウィルス種に進化したことで、野生の本能に目覚めてしまったアグモン。怖いもの知らずどころか凶暴な性格の持ち主になっており、獲物を狙うときの鋭さはワクチン種のアグモンにも劣らない。必殺技は口から火炎の息を吐き敵を攻撃する『ベビーフレイム』。デジモン図鑑",
+        "ko": "성장해 이족보행을 할 수 있게 된 공룡과 비슷한 모습을 한 파충류형 디지몬 . 비록 아직 성장 도중이라 힘은 약하지만 성격은 꽤 사납고 두려움을 모른다. 양손과 발에 단단하고 날카로운 손톱이 나있어 전투에서도 위력을 발휘한다. 강하고 위대한 디지몬 으로의 진화가 예측되는 존재이기도 하다. 필살기는 입에서 화염의 숨결을 내뱉어 적을 공격하는 \"베이비 플레임 [11] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Agumon_(Black)"
+    },
+    {
+      "id": "grey",
+      "name": "Greymon",
+      "name_jp": "Greymon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grey/frame1.gif",
+        "frame2": "sprites/grey/frame2.gif"
+      },
+      "artwork": "sprites/grey/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon whose cranial skin has hardened so that it is covered in arhinoceros beetle-like shell. It is an extremely aggressive Digimon, with a body like a lethal weapon covered in sharp claws and gigantic horns. However, it is highly intelligent, and if you're able to tame it then there probably isn't any monster as strong. Its Special Move \"Mega Flame\" is spewing extremely high-temperature flames from its mouth and reducing everything to ashes.Digimon Reference Book⇨ English頭部の皮膚が硬化して甲虫のような殻に覆われた恐竜型デジモン。鋭い爪、巨大な角を持った全身凶器のような体で、非常に攻撃的なデジモンである。しかし、知性が高く手なづけることが出来れば恐らくこれほど強いモンスターはいない。必殺技の『メガフレイム』は口から超高熱火炎を吐き出し全てを焼き払う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Greymon"
+    },
+    {
+      "id": "monochro",
+      "name": "Monochromon",
+      "name_jp": "Monochromon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/monochro/frame1.gif",
+        "frame2": "sprites/monochro/frame2.gif"
+      },
+      "artwork": "sprites/monochro/artwork.jpg",
+      "lore": {
+        "en": "An Ankylosaur Digimon with a rhinoceros-like horn growing on its snout. When its huge horn grows, it reaches a size that makes up half of its body length. The hard substance covering a portion of its horn and half its body is as hard as diamond, and it is said that there is nothing it cannot penetrate with its horn. Monochromon can be said to be a Digimon that excels in both offense and defense. It is herbivorous and has a relatively docile personality, but once it is angered, it will unleash terrifying counterattacks with its heavy tank-like body. Its Special Move is a powerful flame shot (Volcano Strike).Digimon Reference Book⇨ English鼻先にサイの様なツノを生やした鎧竜型デジモン。その巨大なツノは成長すると体長の半分をしめるほどの大きさになる。ツノの部分と体の半分を覆う硬質な物質はダイアモンドと同質の硬度を持ち、このツノを持ってして貫けない物は無いと言われている。モノクロモンは攻守共に優れているデジモンといえる。草食性で性格は比較的おとなしいが、ひとたび怒らせるとその重戦車の様な体から恐ろしい反撃を繰り出してくる。必殺技は強力な火炎弾『ヴォルケーノストライク』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Monochromon"
+    },
+    {
+      "id": "grey_b",
+      "name": "Greymon (Blue)",
+      "name_jp": "Greymon (Blue)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grey_b/frame1.gif",
+        "frame2": "sprites/grey_b/frame2.gif"
+      },
+      "artwork": "sprites/grey_b/artwork.jpg",
+      "lore": {
+        "en": "A Virus attributeGreymonwith a bluish-black body. While it has been called a 'feral Greymon', befitting its more violent disposition, it is in no way a lone wolf and possesses enough intelligence to work together with its allies as a team. Its Special Move is a blast of high-temperature flames spewed from its mouth (Mega Flame).Digimon Reference Book⇨ English青黒い体色を持つウィルス種のグレイモン。凶暴性が増し、まさに野生のグレイモンと呼べるが、けっして一匹オオカミではなく、仲間とチームプレイできるほど賢い。必殺技は、口からはき出す超高熱火炎「メガフレイム」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Greymon_(Blue)"
+    },
+    {
+      "id": "darktyrano",
+      "name": "Dark Tyranomon",
+      "name_jp": "Dark Tyranomon",
+      "name_ko": "다크티라노몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/darktyrano/frame1.gif",
+        "frame2": "sprites/darktyrano/frame2.gif"
+      },
+      "artwork": "sprites/darktyrano/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon whose body was corroded by a viciouscomputer virus. Although it was originally aTyranomon-speciesDigimon, it was infected by a vicious computer virus, causing a bug in its flesh's configuration data and transforming it into a frenzied Digimon. Its body turned black, its arms grew sturdier thanTyranomon's, and its offensive power grew. It identifies anything reflected in its eyes as an enemy and starts attacking, becoming completely frenzied. With its Special Move \"Fire Blast\", a super-powerful jet of flames, it transforms all of its surroundings into a sea of flames.Digimon Reference Book⇨ English悪質なコンピュータウィルスに体を侵食された恐竜型デジモン。もともとはティラノモン種のデジモンだったが、悪質のコンピュータウィルスに感染し、肉体を構成するデータがバグをおこし狂暴なデジモンへと変貌してしまった。体は黒く変色し、腕もティラノモンよりも強靭に発達し攻撃力も増している。目に映るものは全て敵とみなし攻撃を仕掛け、完全に狂暴化してしまった。必殺技の『ファイアーブラスト』は超強力な火炎放射で、辺り一面を炎の海に変えてしまう。デジモン図鑑",
+        "ko": "악질적인 컴퓨터 바이러스 에 몸을 빼앗겨버린 공룡형 디지몬. 원래는 티라노몬 종류의 디지몬이었지만 육체를 구성하는 데이터가 버그를 일으켜 광폭한 디지몬으로 변했다. 몸은 검게 변색하고 팔도 티라노몬보다 강인하게 발달해 공격력이 증가하고 있다. 눈에 비치는 것을 전부 적으로 간주해 공격하는 등 완전히 광폭화했다. 필살기 '파이어 블래스트'는 초강력한 화염방사로 주위 일대를 불바다로 만들어 버린다. 도감 설정부터 노골적으로 고지라 시리즈 의 고지라 를 연상시키고 버전 5 데뷔 당시 스프라이트도 고지라를 빼다박았다. 자세한 내용은 디지몽 문서의 버전 5 부분을 참고하십시오. 모티브가 된 티라노사우루스처럼 애니메이션에 등장할 때나 위의 일러스트에는 앞발가락이 두개 달려있으나 TCG 일러스트 등 다른 매체에선 티라노몬처럼 세개로 그려지기도 한다. 원종인 티라노몬과 다크티라노몬X, 진화체 취급인 메탈티라노몬 등이 전부 앞발톱이 3개인걸 보면 발가락 1개가 구도 문제로 보이지 않을 뿐 3개가 맞는 모양. 특이하게도 항상 복부가 동글동글하고 부드럽게 묘사되는 티라노몬과 달리 다크티라노몬의 복부는 근육질이다 ."
+      },
+      "wikimon_url": "https://wikimon.net/Dark_Tyranomon"
+    },
+    {
+      "id": "metalgrey_am",
+      "name": "Metal Greymon: Alterous Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "5"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "Metal Greymon, who acquired immense power by mechanizing its upper body, has been updated with further mechanization to its right arm. With the accumulation of fierce battles that it has lived through, it transformed its right arm into a huge energy cannon called \"Alterous\" so that it can fight against tough enemies that draw near. Its Special Moves are concentrating energy into the \"Alterous\" and firingsubluminalbombardments (Positron Blaster), and apositronsword in which it converts the energy it has accumulated into a blade (Alter Blade). It exhibits its full combat ability at both close and long range, and has been remodeled to defeat any tough enemy it encounters.Digimon Reference Book⇨ English上半身の機械化で強力なパワーを手に入れたメタルグレイモンが、右腕にさらなる機械化を施してアップデート。潜り抜けた激戦の蓄積と、迫り来る強敵に対抗するため右腕を「アルタラウス」という長大なエネルギー砲へと換装した。必殺技は、「アルタラウス」にエネルギーを集中して亜光速の砲撃を放つ『ポジトロンブラスター』と、蓄積したエネルギーを刃とした陽電子剣『アルタブレード』。近接・遠距離双方で完全な戦闘能力を発揮し、どんな強敵と遭遇したとしても打ち破る改装を成した。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Greymon:_Alterous_Mode"
+    },
+    {
+      "id": "extyrano",
+      "name": "Ex-Tyranomon",
+      "name_jp": "Ex-Tyranomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/extyrano/frame1.gif",
+        "frame2": "sprites/extyrano/frame2.gif"
+      },
+      "artwork": "sprites/extyrano/artwork.jpg",
+      "lore": {
+        "en": "A Puppet Digimon that sneaks around within aTyranomon-shaped plush toy. The reason why it is a Tyranomon plush toy is unclear, but it is likely that the mysterious Digimon that is stealing away inside just broke into the plush toy that was closest. However, this plush toy possesses power rivaling that ofMonzaemonat its limits and the defensive power of an impregnable fortress, so ordinary Digimon and the like are completely unable to oppose it. However, like Monzaemon, if nothing is pulling its strings, then it is nothing but an ornament. Its Special Moves are \"Pretty Attack\", which emanates from its adorable body, and an evil orb unleashed by the Digimon hiding within it (Black Matter).Digimon Reference Book⇨ Englishティラノモンの形をしたぬいぐるみに忍び込んでいるパペットデジモン。何故ティラノモンのぬいぐるみなのかは不明だが、恐らく中に忍び込んでいる謎のデジモンが、近くにあったぬいぐるみの中に入ったのだろう。しかし、このぬいぐるみは、あの「もんざえモン」に匹敵するほどのパワーと鉄壁の防御力をもっており、普通のデジモンなどとても太刀打ちできない。ただし、もんざえモン同様あやつるモノがいなければただの置物でしかない。必殺技は可愛らしい体から発せられる『プリティーアタック』と、中に忍び込んでいるデジモンが繰り出す邪悪な球体『ブラックマター』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ex-Tyranomon"
+    },
+    {
+      "id": "vermilli",
+      "name": "Vermillimon",
+      "name_jp": "Vermillimon",
+      "name_ko": "버밀리몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/vermilli/frame1.gif",
+        "frame2": "sprites/vermilli/frame2.gif"
+      },
+      "artwork": "sprites/vermilli/artwork.jpg",
+      "lore": {
+        "en": "An Ankylosaur Digimon with a huge horn. It is thought to be the evolved form ofMonochromonthat live near volcanoes, and its armor-like skin, which is as hard as a diamond, has also grown resistant to heat from volcanoes. Its Special Moves are shooting a fireball more powerful than Monochromon's at the enemy (Volcano Strike S), and charging fiercely and then violently ramming them with its horn (Hard Tackle).Digimon Reference Book⇨ English巨大な角を生やした鎧竜型デジモン。火山の近くに生息するモノクロモンが進化した姿だと考えられており、ダイアモンド並みに硬い鎧のような皮膚は、火山の熱さにも強くなっている。必殺技は、モノクロモンよりも強力な火の玉を敵に撃ち出す『ヴォルケーノストライクS』と、猛突進して角から激しく体当たりする『ハードタックル』。デジモン図鑑",
+        "ko": "코끝에 낫과 같은 뿔을 가진 갑룡형 [3] 디지몬. 코끝의 코뿔소 를 닮은 거대한 뿔은 성장하면 몸의 절반을 차지할 정도의 크기가 된다. [4] 뿔과 몸의 절반을 가린 갑옷은 다이아몬드 와 동등한 경도를 가졌기 때문에 그 뿔로 꿰뚫지 못하는 게 없다고 한다. 이렇듯 공수를 겸비한 우수한 디지몬이나 성격은 초식동물처럼 얌전하다고 한다. 그러나 한번 화나게 만들면 그 중전차와 같은 몸으로부터 무서운 반격을 계속 내보내 온다. 필살기는 강력한 화염탄인 볼케이노 스트라이크. 진화체로는 아래에 있는 버밀리몬이나 트리케라몬 이 있다. [5] 성장기는 주로 울퉁몬 이 차지하는 추세지만 디지몽 시절의 모노크로몬은 피요몬 에서 진화했다."
+      },
+      "wikimon_url": "https://wikimon.net/Vermillimon"
+    },
+    {
+      "id": "mametyra",
+      "name": "Mametyramon",
+      "name_jp": "Mametyramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mametyra/frame1.gif",
+        "frame2": "sprites/mametyra/frame2.gif"
+      },
+      "artwork": "sprites/mametyra/artwork.jpg",
+      "lore": {
+        "en": "A tiny Mutation Digimon feared as the \"Tiny Tyrant\". It condensedTyranomon's data into its tiny body, pushing its ferocious nature and combat instinct to the surface, where they have strikingly manifested in its behavior. While its body may be tiny, rather than assaulting opponents en masse, it always acts by itself, swooping down on Digimon roaming its own territory without wasting its breath, and always making a show of being the strongest in its domain. However, because its body is tiny, its territory is not very wide. With its physical strength condensed several hundred-fold into its tiny body, and its tenacious jaw that can crunch even super-hard armor, it possesses fighting strength that surpasses even that of gigantic Dinosaur Digimon. Its Special Moves are snapping at them many times over at super-speed (Mame Bite 1000), and if it seems like it's losing, removing theHelmeton its head and striking at them in an attempt to reverse its fortunes ('met Lariat).Digimon Reference Book⇨ English“小さな暴君”と恐れられる小型の突然変異型デジモン。ティラノモンのデータが小さな体に凝縮され、その獰猛性と闘争本能が突出し、行動に顕著に表れている。体が小さいからといって集団で敵を襲うどころか、常に単独で行動し、自分の縄張りを徘徊するデジモンには問答無用で襲い掛かり、常に自分の縄張りで最強を誇示している。但し、体が小さいため縄張りはあまり広くない。小さな体へ数百倍に凝縮された筋力と、超硬度の装甲をも噛み砕く強靭なアゴで、巨大な恐竜型デジモンをも凌ぐ戦闘力を持つ。必殺技は超速で何度も噛み付く『マメバイト１０００』と、負けそうになると頭部のヘルメットを脱いで一発逆転を狙って殴りかかる『メットラリアット』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mametyramon"
+    },
+    {
+      "id": "metalgrey_vi",
+      "name": "Metal Greymon (Virus)",
+      "name_jp": "Metal Greymon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgrey_vi/frame1.gif",
+        "frame2": "sprites/metalgrey_vi/frame2.gif"
+      },
+      "artwork": "sprites/metalgrey_vi/artwork.jpg",
+      "lore": {
+        "en": "The strongest Cyborg Digimon, which has mechanized more than half of its body. Going through numerous battles, it was able to survive by mechanizing its body. In order to evolve to Metal Greymon, it must fight its way through and defeat the formidable opponents who come against it. Also, Metal Greymon's offensive power is said to equal that of a single nuclear warhead. It fires missiles from the hatch on part of its chest.Digimon Reference Book⇨ English体の半分以上が機械化されてしまったサイボーグ型の最強デジモン。数々の戦いをくぐり抜け、その体を機械化することによって生き長らえている。メタルグレイモンに進化するためには、襲い来る強敵を倒し勝ち抜かなければならない。また、メタルグレイモンの攻撃力は核弾頭１発分に匹敵するといわれている。胸の部分にあるハッチからミサイルを発射する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Greymon_(Virus)"
+    },
+    {
+      "id": "skullgrey",
+      "name": "Skull Greymon",
+      "name_jp": "Skull Greymon",
+      "name_ko": "스컬그레이몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "16",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/skullgrey/frame1.gif",
+        "frame2": "sprites/skullgrey/frame2.gif"
+      },
+      "artwork": "sprites/skullgrey/artwork.jpg",
+      "lore": {
+        "en": "A Skeleton Digimon whose whole body has become nothing but bones. It was a Digimon that was so obsessed with fighting, it managed to cling to life through combat instinct alone even as its body rotted away, becoming Skull Greymon. As Skull Greymon doesn't have even a scrap of intelligence to balance its combat instinct, its existence is a threat to other Digimon. Its Special Move is an organic missile launched from itsspinal cord(Oblivion Bird).",
+        "ko": "전신이 뼈만 남은 스켈레톤 디지몬. 싸우는 일만을 집착해 온 디지몬이, 육체가 쇠락했음에도 상관하지 않고 투쟁 본능만으로 살아나간 결과, 스컬그레이몬이 되어버렸다. 투쟁 본능 밖에 가지지 않는 스컬그레이몬은 지성의 파편조차 없으며 다른 디지몬에게 있어서 그 존재는 위협이 되고 있다. 필살기는 골수에서 발사되는 유기체 미사일 그라운드 제로 [3] . 최근의 연구에 따르면 새롭게 추적기능을 추가하고 위력, 범위도 훨씬 업그레이드된 '오블리비언 버드'로 진화했다고 한다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Skull_Greymon"
+    },
+    {
+      "id": "victorygrey",
+      "name": "Victory Greymon",
+      "name_jp": "Victory Greymon",
+      "name_ko": "빅토리그레이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/victorygrey/frame1.gif",
+        "frame2": "sprites/victorygrey/frame2.gif"
+      },
+      "artwork": "sprites/victorygrey/artwork.jpg",
+      "lore": {
+        "en": "A subspecies ofWar Greymon, whose body is clad in armor of the super-metal \"Chrome Digizoid\", it easily wields its gigantic sword, and is the \"Dragon Warrior of Heroes\" that fights against its opponents with unique sword techniques. Its Special Moves are wielding its gigantic crushing sword \"Dramon Breaker\" to perform a heroic sword technique that's closer to striking than to slashing, pulverizing the opponent (Dramon Breaker), and splitting theDramon Breakerand equipping the pieces to its arms, then concentrating all of the energy in the atmosphere into the tips of its sword and firing it (Trident Gaia). Also, it has a unique sword technique named \"Victory Charge\" which allows it to reflect an opponent's attack with its gigantic sword. In addition, Victory Greymon possesses an evolutionary code that differs from Digimon that were naturally born in the Digital World, and it is thought to be a Digimon that evolved from aDigitamaproduced by artificial data intervention.Digimon Reference Book⇨ English超金属「クロンデジゾイド」の鎧を身にまとうウォーグレイモンの亜種であり、巨大な剣を軽々と振り回し、独特の剣技で敵に立ち向かう“豪傑の竜戦士”である。必殺技は、巨大な破砕剣『ドラモンブレイカー』を振り回し、斬るといよりもむしろ叩きつけて敵を砕き粉砕する豪快な剣技と、『ドラモンブレイカー』を分離させて両腕に装着し、大気中に存在する全てのエネルギーを剣の先端に集中させて放つ『トライデントガイア』。また、敵の攻撃をもその巨大な剣で跳ね返す『ビクトリーチャージ』という独特の剣技をもつ。なお、ビクトリーグレイモンはデジタルワールド上で自然発生したデジモンとは異なる進化コードを持っており、人為的なデータ介入によって生まれたデジタマから進化したデジモンであると見られている。デジモン図鑑",
+        "ko": "초금속 「 크롬 디지조이드 」의 갑옷을 입은 워그레이몬 의 아종이며 거대한 검을 손쉽게 휘두르고 독특한 검술로 적에게 맞서는 \"호걸 용 전사\"다. 필살기는 거대한 파쇄검 『드라몬 브레이커』를 휘둘러 벤다기보다 오히려 내려쳐서 적을 부수고 난도질하는 호쾌한 검술과 『드라몬 브레이커』를 분리해 양팔에 장착하고 대기 중에 존재하는 모든 에너지를 검의 끝에 집중시켜 쏘는 『트라이던트 가이아』다. 적의 공격을 이 거대한 검으로 튕겨내는 『빅토리 차지』라는 독특한 검술도 있다. 또한, 빅토리그레이몬은 디지털 월드 에서 자연적으로 발생한 디지몬과는 다른 진화 코드를 지니고 있으므로, 인위적인 데이터가 개입되어 탄생한 디지몬알 에서 진화한 디지몬으로 여겨진다."
+      },
+      "wikimon_url": "https://wikimon.net/Victory_Greymon"
+    },
+    {
+      "id": "blackwargrey",
+      "name": "Black War Greymon",
+      "name_jp": "Black War Greymon",
+      "name_ko": "블랙워그레이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/blackwargrey/frame1.gif",
+        "frame2": "sprites/blackwargrey/frame2.gif"
+      },
+      "artwork": "sprites/blackwargrey/artwork.jpg",
+      "lore": {
+        "en": "A Virus-speciesWar Greymonfeared as the \"Jet-black Dragon Warrior\". Although its creed and principles are the polar opposite of those of theVirus BustersWar Greymon, it exists for the sake of its own peculiar \"Justice\". It detests cowardice and foul play, and doesn't consider itself a fellow of vulgar Digimon even if they are of the same Virus-species. How exactly it converted into a Virus is a mystery, and the \"Brave Shield\" equipped to its back is not engraved with theCrest of Courage. Its Special Move is similar to War Greymon's \"Gaia Force\", except that it takes all of the \"negative emotions\" within this world and concentrates them into one spot, and then fires it (Ankoku no Gaia Force).Digimon Reference Book⇨ English“漆黒の竜戦士”として恐れられる、ウィルス種のウォーグレイモン。ウィルスバスターズのウォーグレイモンとは信条も主義も全て正反対であるが、彼なりの “正義”のために存在している。卑怯や卑劣なことを嫌い、同じウィルス種でも低俗なデジモンは仲間だとは思っていない。どういった経緯でウィルス化してしまったのかは謎で、背中に装備している“ブレイブシールド”には勇気の紋章が刻まれていない。必殺技はウォーグレイモンと同じ『ガイアフォース』だが、この世に存在する“負の念”を一点に集中させて放つ『暗黒のガイアフォース』である。デジモン図鑑",
+        "ko": "\"칠흑의 용 전사\"라고 불리는 두려운 존재인 바이러스종 워그레이몬 . 바이러스 버스터즈인 워그레이몬과는 신조도, 주의도 모두 정반대이지만, 블랙워그레이몬 나름대로 \"정의\"를 위해 존재한다. 비겁, 비열한 것을 싫어하기에 같은 바이러스종이라도 저속한 디지몬은 동료라고 생각하지 않는다. [4] 어떠한 경위로 바이러스가 되어 버렸는지는 밝혀지지 않았으며, 등에 장착된 \"브레이브 쉴드\"에는 용기의 문장이 새겨져 있지 않다. [5] 필살기는 워그레이몬과 같은 『가이아 포스』지만, 이 세상에 존재하는 \"부패한 마음\"을 한 곳에 집중해서 쏘는 『다크 가이아 포스 [6] [7] 』다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Black_War_Greymon"
+    },
+    {
+      "id": "gaiou",
+      "name": "Gaioumon",
+      "name_jp": "Gaioumon",
+      "name_ko": "가이오몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "10",
+        "ap": "9"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/gaiou/frame1.gif",
+        "frame2": "sprites/gaiou/frame2.gif"
+      },
+      "artwork": "sprites/gaiou/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man Digimon that increases its own strength as it wins battles, and is a subspecies of theGreymon-species, which are highly capable asCombat SpeciesDigimon. Discovered within a neglected Oriental computer, there are many parts of its strength which are unmeasured, but it has been confirmed that it possesses an unbelievable combat record from its countless battles. Its uniquely shaped \"Kikurin\" swords, which it acquired due to its combat experience, leave behind eerie tracks of light, and it is said that anything that comes in contact with those tracks will be cut to pieces. Its Special Moves are the tracks of theKikurinswords (Rinkazan), and concentrating all the energy within the atmosphere and then detonating it (Gaia Reactor). Also, it has acquired \"Rinkageki\", where it causes those eerie lights to converge all into one point, and using the twoKikurinswords fused together, shoots it at a distant enemy.Digimon Reference Book⇨ English戦いに勝利し自ら強さを増していく、戦闘種族デジモンとして非常に優秀なグレイモン系の亜種である竜人型デジモン。東洋のとある放置されたコンピュータの中で発見され、その強さは未知数な部分も多いが、信じ難い戦闘回数と戦績を持つことが判明している。実戦経験により得た独特の形状をした剣「菊燐（きくりん）」は怪しい光の軌跡を残し、その軌跡に触れたもの全てを切り裂くという。必殺技は「菊燐」の剣の軌跡『燐火斬（りんかざん）』と、大気中に存在する全てのエネルギーを集中させて爆発を起こす『ガイアリアクター』。また、２本の剣「菊燐」を合体させ、その怪しい光を一気に集中させて遠方の敵を討つ『燐火撃（りんかげき）』も修得している。デジモン図鑑",
+        "ko": "싸움에서 승리해 자신의 힘을 늘려가는 전투 종족 디지몬으로서 굉장히 우수한 그레이몬 계열의 아종인 용인형 디지몬. 동양의 어떤 방치된 컴퓨터에서 발견되었으며 그 힘은 미지수인 부분도 많지만, 믿기 어려울 정도로 많은 전투 횟수와 실적을 지닌 것으로 밝혀졌다. 실전 경험을 통해 얻은 독특한 모양의 검 「菊燐」(국린)은 불가사의한 빛의 궤적을 남기며, 그 궤적에 닿은 모든 것을 찢어 버린다고 한다. 필살기는 「菊燐」 검의 궤적 『燐火斬』(인화참)과 대기 중에 존재하는 모든 에너지를 집중시켜 폭발을 일으키는 『가이아 리액터』다. [1] 또한, 두 자루의 검 「菊燐」을 합체시켜 불가사의한 빛을 순식간에 집중시킨 후 먼 곳에 있는 적을 베는 『燐炎撃』(인화격)도 습득했다. [2]"
+      },
+      "wikimon_url": "https://wikimon.net/Gaioumon"
+    },
+    {
+      "id": "omega_z",
+      "name": "Omegamon Zwart",
+      "name_jp": "Omegamon Zwart",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/omega_z/frame1.gif",
+        "frame2": "sprites/omega_z/frame2.gif"
+      },
+      "artwork": "sprites/omega_z/artwork.jpg",
+      "lore": {
+        "en": "A Holy Knight Digimon born from the fusion of theVirus BustersWar GreymonandMetal Garurumondue to the powerful wills of everyone who wished for good, and who is one of the \"Royal Knights\". As a Digimon that combines the special qualities of the two, it is a multitype warrior capable of fully demonstrating those abilities in any given situation. In recent years, it has been confirmed that if the secretion \"Black Digitron\", which completely blackens one's figure, is mixed in with someone in some form or other, they will temporarily take on a black appearance, and during that time, their power will increase. It is equipped with a sword and shield on its War Greymon-shaped left arm, and a cannon and missiles on its Metal Garurumon-shaped right arm. The cape on its back is automatically deployed when dodging an opponent's attack, or when it is flying. Its Special Move is freezing the opponent with frigid,absolute zeroshots which it fires from the Metal Garurumon-shaped cannon (Garuru Cannon). Also, its left arm is equipped with the invincible blade, \"Grey Sword\".Digimon Reference Book⇨ Englishウイルスバスターであるウォーグレイモン・メタルガルルモンが、善を望む人々の強い意志によって融合し誕生した“ロイヤルナイツ”の一員である聖騎士型デジモン。２体の特性を併せもつデジモンで、どんな状況下でも、その能力をいかんなく発揮することのできるマルチタイプの戦士である。近年判明されてきた、姿を黒く変えてしまう分泌物“ブラックデジトロン”が、何らかの形で混入し一時的に黒い姿となったとされ、その間はパワーが増加されている。ウォーグレイモンの形をした左腕には盾と剣が、そしてメタルガルルモンの形をした右腕には大砲やミサイルが装備されている。背中のマントは、敵の攻撃を避ける時や、飛行するときに背中から自動的に装着される。必殺技は、メタルガルルモンの形をした大砲から打ち出される絶対零度の冷気弾で敵を凍結させる『ガルルキャノン』。また、左腕には無敵の剣『グレイソード』が装備されている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Omegamon_Zwart"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "grey",
+      "to": "metalgrey_am",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "monochro",
+      "to": "extyrano",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "extyrano",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "monochro",
+      "to": "vermilli",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "vermilli",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "monochro",
+      "to": "mametyra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "mametyra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "metalgrey_vi",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "skullgrey",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "extyrano",
+      "to": "victorygrey",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "vermilli",
+      "to": "victorygrey",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "extyrano",
+      "to": "blackwargrey",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "skullgrey",
+      "to": "blackwargrey",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vermilli",
+      "to": "gaiou",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mametyra",
+      "to": "gaiou",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "skullgrey",
+      "to": "gaiou",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mametyra",
+      "to": "omega_z",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "bota",
+      "to": "koro",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "koro",
+      "to": "agu_b",
+      "conditions": {
+        "text": "• No requirements (BRo/MBR)• 0-1,199 Vital Values (DRo)"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "grey_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 900+ Vital Values, 5+ Battles (MBR)• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (BRo)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (DRo)"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "grey",
+      "conditions": {
+        "text": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "darktyrano",
+      "conditions": {
+        "text": "• 5+ Trophies, 600+ Vital Values, 3+ Battles (MBR)• 8+ Trophies, 900+ Vital Values, 5+ Battles (DRo)"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "monochro",
+      "conditions": {
+        "text": "• 0-4 Trophies (MBR)• 0-599 Vital Values (MBR)• 0-2 Battles (MBR)• 0-7 Trophies (DRo)• 0-899 Vital Values (DRo)• 0-4 Battles (DRo)"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "extyrano",
+      "conditions": {
+        "text": "Jogress with Data Adult (MBR)"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "vermilli",
+      "conditions": {
+        "text": "• Jogress with Virus Adult (MBR)• 10+ Trophies, 2500+ Vital Values, 10+ Battles, 50%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "mametyra",
+      "conditions": {
+        "text": "Jogress with Free Adult (MBR)"
+      }
+    },
+    {
+      "from": "monochro",
+      "to": "metalgrey_am",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult (MBR)"
+      }
+    },
+    {
+      "from": "monochro",
+      "to": "metalgrey_vi",
+      "conditions": {
+        "text": "• Jogress with Virus Adult (MBR)• 12+ Trophies, 3000+ Vital Values, 15+ Battles, 70%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "monochro",
+      "to": "skullgrey",
+      "conditions": {
+        "text": "• Jogress with Free Adult (MBR)• 8+ Trophies, 2000+ Vital Values, 10+ Battles, 50%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "metalgrey_vi",
+      "conditions": {
+        "text": "• 10+ Trophies, 2500+ Vital Values, 10+ Battles, 50%+ Win Ratio (MBR)• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio (BRo/DRo)"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "metalgrey_am",
+      "conditions": {
+        "text": "12+ Trophies, 3000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "skullgrey",
+      "conditions": {
+        "text": "8+ Trophies, 2000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "extyrano",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult (MBR)"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "vermilli",
+      "conditions": {
+        "text": "• Jogress with Data Adult (MBR)• 10+ Trophies, 2500+ Vital Values, 10+ Battles, 50%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "grey_b",
+      "to": "mametyra",
+      "conditions": {
+        "text": "Jogress with Free Adult (MBR)"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "metalgrey_am",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult (MBR)"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "metalgrey_vi",
+      "conditions": {
+        "text": "• Jogress with Data Adult (MBR)• Jogress with Vaccine, Data or Free Adult (DRo)"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "skullgrey",
+      "conditions": {
+        "text": "• Jogress with Free Adult (MBr)• 8+ Trophies, 2000+ Vital Values, 10+ Battles, 50%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "extyrano",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect (MBR)"
+      }
+    },
+    {
+      "from": "vermilli",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "vermilli",
+      "to": "blackwargrey",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "mametyra",
+      "to": "blackwargrey",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect (MBR)"
+      }
+    },
+    {
+      "from": "mametyra",
+      "to": "victorygrey",
+      "conditions": {
+        "text": "Jogress with Virus Perfect (MBR)"
+      }
+    },
+    {
+      "from": "metalgrey_vi",
+      "to": "blackwargrey",
+      "conditions": {
+        "text": "• 15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio (MBR/DRo)• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (BRo)"
+      }
+    },
+    {
+      "from": "metalgrey_vi",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_vi",
+      "to": "gaiou",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect (MBR)"
+      }
+    },
+    {
+      "from": "metalgrey_vi",
+      "to": "victorygrey",
+      "conditions": {
+        "text": "• Jogress with Data Perfect (MBR)• Jogress with Vaccine, Data or Free Perfect (DRo)"
+      }
+    },
+    {
+      "from": "skullgrey",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "skullgrey",
+      "to": "victorygrey",
+      "conditions": {
+        "text": "• Jogress with Data Perfect (MBR)• 20+ Trophies, 5000+ Vital Values, 20+ Battles, 70%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "victorygrey",
+      "conditions": {
+        "text": "10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "blackwargrey",
+      "to": "omega_z",
+      "conditions": {
+        "text": "• Jogress with Metal Garurumon (Black) (MBR/Bro)• Stage 15 cleared, 30+ Trophies, 8,500+ Vital Values, 30+ Battles, 70%+ Win Ratio (DRo)"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "blackwargrey",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect (MBR)"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "gaiou",
+      "conditions": {
+        "text": "Jogress with Virus Perfect (MBR)"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    }
+  ]
+}

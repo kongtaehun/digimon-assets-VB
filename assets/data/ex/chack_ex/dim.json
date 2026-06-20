@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0",
+  "id": "chack_ex",
+  "name": "Chackmon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Flame)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_chack_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "yukimibota",
+      "name": "Yukimibotamon",
+      "name_jp": "Yukimibotamon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/yukimibota/frame1.gif",
+        "frame2": "sprites/yukimibota/frame2.gif"
+      },
+      "artwork": "sprites/yukimibota/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon whose whole body is covered in fluffy, white hair. It is considered a species ofBotamon, and was named \"Yukimi Botamon\" after its white body, but the details are not clearly known. It is weak to heat, and tends to prefer cold places, so its body feels cold to the touch. Its attack technique is breathing out freezing cold air (Diamond Dust). When Yukimi Botamon exhales, the moisture in the air freezes, and falls while brilliantly glittering.Digimon Reference Book⇨ English全身を白くてフワフワしている繊毛に覆われているベビーデジモン。ボタモンの一種と考えられており、白い体からユキミボタモンと名付けられているが、その詳細は不明である。熱さに弱く、寒い場所を好む習性があり、体を触るとヒンヤリしている。攻撃技は、冷たい冷気の息を吐き出す「ダイアモンドダスト」。ユキミボタモンが息を吐き出すと、空気中の水分が凍りついて、きらきら光りながら落ちていく。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Yukimibotamon"
+    },
+    {
+      "id": "hiyari",
+      "name": "Hiyarimon",
+      "name_jp": "Hiyarimon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/hiyari/frame1.gif",
+        "frame2": "sprites/hiyari/frame2.gif"
+      },
+      "artwork": "sprites/hiyari/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromYukimi Botamon. The fluffyciliait once had are now gone, and instead the surface of its body is always covered with snow. It lives mostly in snowy mountains, and its body melts when exposed to sunlight, so it is active after sunset. It seems that the bigger the icicle is that hangs from the tip of its beak, the more energized it is.Its Signature Move is spewing cold breath (Diamond Dust).Digimon Reference Book⇨ Englishユキミボタモンから進化したレッサー型デジモン。かつてのフワフワとした繊毛はなくなったが、代わりに体表面が常に雪で覆われている。雪山に多く棲息しており、太陽光にあたると身体が溶けてしまうため陽が沈んでから行動する。クチバシの先から垂れるツララが大きくなるほど元気が出るらしい。得意技は、冷たい息を吐き出す『ダイアモンドダスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Hiyarimon"
+    },
+    {
+      "id": "bear",
+      "name": "Bearmon",
+      "name_jp": "Bearmon",
+      "name_ko": "베어몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/bear/frame1.gif",
+        "frame2": "sprites/bear/frame2.gif"
+      },
+      "artwork": "sprites/bear/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon with the appearance of a bear-cub, whose trademark is its baseball cap which is worn backwards. Although it is a little timid at first, it immediately becomes bosom buddies with other Digimon. However, once it begins to battle, with the uncommon physical strength and will-power it possesses—to continue battling no matter what kind of attack it suffers—it becomes a very reliable being. The ability for close combat hidden within its body is very strong, to the point that it bound its fists in leather belts so that its special punches wouldn't hurt itself. Its Special Move is driving apunchinto the opponent's chest with all its strength (Koguma Seikendzuki).Digimon Reference Book⇨ English後ろ向きに被った帽子がトレードマークの小熊の姿をした獣型デジモン。ちょっと臆病なところがあるが他のデジモンとすぐに仲良しになる。しかし、一旦戦いが始まると、どんな攻撃を受けても戦い続ける並外れた体力と根性を持っており、とても頼りになる存在。その体に秘めた格闘能力はとても強く、特にパンチの破壊力で自分のコブシを痛めないように革のベルトを巻いているほどである。必殺技は相手の懐に飛び込み正拳突きを思いっ切り打ち込む『小熊正拳突き』。デジモン図鑑",
+        "ko": "뒤로 향하게 쓴 모자가 트레이드마크 인 아기곰의 모습을 한 짐승형 디지몬. 좀 겁이 많은 면이 있지만 다른 디지몬과 곧잘 친해지곤 한다. 하지만, 일단 싸우기 시작하면 어떤 공격을 받아도 싸움을 계속하는 끝없는 체력과 근성을 지닌, 매우 의지되는 존재. 그 몸에 숨겨진 격투능력은 매우 강하며, 특히 펀치의 파괴력으로 자신의 주먹을 아프지 않게 하기 위해 가죽 벨트를 감고 있을 정도다. 필살기는 상대의 허점으로 날아들어 정권을 마음껏 내지르는 \"아기곰 정권 지르기\"."
+      },
+      "wikimon_url": "https://wikimon.net/Bearmon"
+    },
+    {
+      "id": "snowgobli",
+      "name": "Snow Goblimon",
+      "name_jp": "Snow Goblimon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/snowgobli/frame1.gif",
+        "frame2": "sprites/snowgobli/frame2.gif"
+      },
+      "artwork": "sprites/snowgobli/artwork.jpg",
+      "lore": {
+        "en": "AGoburimonthat was brought up in a cold country of snow. Since it wears a warm hat and vest, the cold doesn't bother it in the slightest. The skin on the soles of its feet has thickened enough for it to walk barefooted on snow. Its Special Move is hitting snowballs embedded with stones at the enemy with a thousand oniknocks[N 1](Snow Gob Bolt).Digimon Reference Book⇨ English寒い雪国で育ったゴブリモン。暖かい帽子とベストを着ているので、寒いところでもヘッチャラだ。足のウラは雪の上でも平気で歩けるほど皮が厚くなっている。必殺技は、石入りの雪玉を鬼の千本ノックで敵に叩きこむ『スノーゴブボルト』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Snow_Goblimon"
+    },
+    {
+      "id": "chack",
+      "name": "Chackmon",
+      "name_jp": "Chackmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/chack/frame1.gif",
+        "frame2": "sprites/chack/frame2.gif"
+      },
+      "artwork": "sprites/chack/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Ice which bears the might of one of the legendaryWarrior Ten. It styles itself as holding rank as a member of a polar army's polar region defense force. Since it replies that the matter's top secret if you ask anything about it, the truth is unknown. It's thought to be largely something it dreamed up. However, its operation of theLauncherit carries (nicknamedRomeo) and its precision conduct in battle are genuine, and its survivalist knowledge also has a strong, truly reliable existence. Since it rarely acts of its own volition, it primarily operates in response to someone's requests or orders. It will have nothing to do if nobody is relying on it, and is likely to worry about its purpose in life and get completely depressed. The shots fired from itsLauncherare special snowballs, so there are several varieties according to purpose. Its Special Moves are taking the shape of an icicle and pouncing at the opponent (Tsurararara~), and blindly firingsupercooledsnowballs from theLauncher(Snow Bomber).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、氷の能力を持つデジモン。自称、ポーラー軍の極地区防衛部隊所属で階級は軍曹。その件について問うと全て機密事項と答えるため真相は不明。多分に本人の空想によるものと思われる。しかし、持っているランチャー（通称ロメオ）の操作や戦闘時の的確な行動は本物で、サバイバル的な知識にも強く実に頼りになる存在。自分から行動することは稀で、主として誰かの頼みや命令に応えて動く。誰にも頼られないと何もすることが無くなり、自分の存在意義に悩んで落ち込んでしまうこともある。ランチャーから撃ち出されるのは特殊な雪玉で、用途によって幾つか種類がある。必殺技は体をツララ状にして敵に飛び掛る『ツララララ～』と、ランチャーから超氷結の雪玉を乱射する『スノーボンバー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Chackmon"
+    },
+    {
+      "id": "gryz",
+      "name": "Gryzmon",
+      "name_jp": "Gryzmon",
+      "name_ko": "그리즈몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/gryz/frame1.gif",
+        "frame2": "sprites/gryz/frame2.gif"
+      },
+      "artwork": "sprites/gryz/artwork.jpg",
+      "lore": {
+        "en": "Contrary to its ferocious appearance, which its prominently massive body and potentially lethal fangs and claws contribute to, this Beast Digimon has the spirit of an honorable martial artist. In spite of its large body, it nimbly dodges the opponent's attacks or turns them aside, not needing to rely on its own attacks due to the exceptional grappling sense it possesses. Though Gryzmon never starts fights, the moment someone angers it, it will stand on its hind legs and knock them down with its heavyweight forelegs, \"Kuma Tsume\". Its power is such that it is able to inflict a mortal wound on most Digimon with just this single blow. These \"Kuma Tsume\" appear to have been imitated inWaru Monzaemon's \"Bear Claw\" equipment. Its Special Move is a bold move in which it utilizes the power from the enemy's attack to do a reversal, striking them in their vitals and knocking them out in one hit (Atemigaeshi).Digimon Reference Book⇨ English明らかに大きな体、殺傷能力を秘めた牙と爪、見た目は凶暴だが正々堂々とした武闘家の精神を持った獣型デジモン。体の割に素早く敵の攻撃を避けたり、受け流すなど、攻撃に頼らない抜群の格闘センスを持っている。決してグリズモンから争いを起こすことは無いが、ひとたび怒らせると二足で立ち上がり重量級の前足「熊爪」を殴り落す。この一撃だけで殆どのデジモンが致命傷を負うほどのパワーの持ち主でもある。この「熊爪」を真似てワルもんざえもんが「ベアクロー」装備しているらしい。必殺技は敵の攻撃の力を利用して、逆に急所をついて一撃で倒す大技『当身返し』。デジモン図鑑",
+        "ko": "명백히 커다란 덩치와 살상능력을 숨긴 송곳니와 손톱, 외형은 흉포하지만 정정당당한 무투가 정신을 가진 짐승형 디지몬. 겉보기와 다르게 재빨리 적의 공격을 피하거나 흘리는 등, 공격일변도가 아닌 수준급의 격투 센스를 발휘한다. 결코 그리즈몬 자신이 분쟁을 일으키는 일은 없지만, 일단 화가 나면 뒷발로 일어서서 중량급의 앞발 「웅조」를 때려 박아 쓰러뜨린다. 이 일격만으로도 대부분의 디지몬은 치명상을 면하지 못할 정도의 파워를 지니고 있기도 하다. 이 「웅조」를 흉내내 배드퍼펫몬 이 「베어 클로」를 착용하고 있다고 한다. 필살기는 적의 공격력을 이용해 반대로 급소를 찔러 한 방에 쓰러뜨리는 큰 기술 『급소 반격』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Gryzmon"
+    },
+    {
+      "id": "ice",
+      "name": "Icemon",
+      "name_jp": "Icemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ice/frame1.gif",
+        "frame2": "sprites/ice/frame2.gif"
+      },
+      "artwork": "sprites/ice/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose body is made of ice. Whether it is an evolution or a mutation ofGottsumonis still a mystery, and research continues to be done on that matter. Its Special Move is throwing a solid frozen bomb of ice (Iceball Bomb).Digimon Reference Book⇨ English体が氷でできているデジモン。ゴツモンから進化したのか、あるいは変種なのかナゾのままで、研究が進められている。必殺技は、カチンコチンにこおった氷の爆弾を投げつける「アイスボールボム」デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Icemon"
+    },
+    {
+      "id": "mojya",
+      "name": "Mojyamon",
+      "name_jp": "Mojyamon",
+      "name_ko": "모털몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/mojya/frame1.gif",
+        "frame2": "sprites/mojya/frame2.gif"
+      },
+      "artwork": "sprites/mojya/artwork.jpg",
+      "lore": {
+        "en": "A hairy Rare Beast Digimon completely covered in white fur. It lives in the hinterland of snowy mountains, and coming across one is a very unlikely occurrence. Though there are many reported sightings of Mojyamon, because there was no evidence to prove its existence, it was considered to be a made-up Digimon for a long period of time. It has a carefree personality and is never belligerent. However, it considers its den and territory to be sacred ground, and it will never permit this sacred ground to be invaded. Its Special Moves are instantly freezing the moisture in the atmosphere to form a giant icicle (Icicle Rod), and throwing the bone of an Ancient Digimon which had become enclosed in ice (Hone Hone Boomerang).Digimon Reference Book⇨ English全身を白い体毛に覆われた毛むくじゃらの珍獣型デジモン。雪山の奥地に生息しており、なかなか出会うことができない。モジャモンの発見例は数多く報告されていたが、その存在を決定付ける証拠が無く、長いあいだ空想上のデジモンとされていた。のんびりやの性格で決して好戦的では無い。しかし、自分の住処や縄張りは聖地と考えており、この聖地を荒らすものは決して許さない。必殺技は大気中の水分を瞬時に凍らせて造る巨大な氷柱『アイスクルロッド』と氷づけになっていた古代デジモンの骨を投げつける『骨骨ブーメラン』。デジモン図鑑",
+        "ko": "온몸이 하얀 체모로 뒤덮인 털북숭이 희귀짐승형 디지몬. 설산 오지에 서식하고 있어 쉽게 만날 수 없다. 모털몬의 발견 사례는 많이 보고되고 있었지만, 그 존재를 확신할 증거가 없어, 오랫동안 상상의 디지몬으로 여겨지고 있었다. 느긋한 성격으로 결코 호전적이지 않다. 그러나, 자신의 굴이나 세력권을 성지라고 생각하고 있어 이 성지를 파괴하는 것은 결코 용서하지 않는다. 필살기는 대기 중의 수분을 순식간에 얼려 만드는 거대한 고드름 \"아이시클 로드\"와 얼어붙어 있던 고대 디지몬의 뼈를 내던지는 \"뼈뼈(骨骨) 부메랑\"."
+      },
+      "wikimon_url": "https://wikimon.net/Mojyamon"
+    },
+    {
+      "id": "daipen",
+      "name": "Daipenmon",
+      "name_jp": "Daipenmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/daipen/frame1.gif",
+        "frame2": "sprites/daipen/frame2.gif"
+      },
+      "artwork": "sprites/daipen/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Ice that has transcended legend by inheriting all the might of one of the legendaryTen Warriorsand acquiring unknown abilities. Although its wings have degenerated, by flapping the gigantic \"Kakikaki-kun\" hunk of ice held in its right hand and the \"Kochikochi-kun\" held in its left, it seems it can momentarily fly in the air. It's free from care because it is able to manufacture theKakikaki-kunand theKochikochi-kunon its own even if they melt away. Its Special Moves are dipping theKakikaki-kunfrom its right hand in blue syrup, then striking the opponent (Blue HawaiiDeath), and dipping theKochikochi-kunfrom its left hand in red syrup, then striking the opponent (Ichigo Death). Furthermore, there seems to be no difference in the offensive abilities of the dipped syrup colors.Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた氷の能力を持つデジモン。羽は退化しているものの、右手に持った巨大な氷の固まり「カキカキクン」と左手に持った「コチコチクン」を羽ばたかせ、一瞬空を飛べるらしい。カキカキクンとコチコチクンは解けてしまっても自ら製造することが出来るので安心である。必殺技は、右手のカキカキクンに青色シロップをつけて敵を殴る『ブルーハワイデス』と、左手のコチコチクンに赤色シロップをつけて敵を殴る『イチゴデス』。尚、つけたシロップの色に攻撃力の差はないらしい。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Daipenmon"
+    },
+    {
+      "id": "blizzar",
+      "name": "Blizzarmon",
+      "name_jp": "Blizzarmon",
+      "name_ko": "블리자몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/blizzar/frame1.gif",
+        "frame2": "sprites/blizzar/frame2.gif"
+      },
+      "artwork": "sprites/blizzar/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Ice, and bears the might of one of the legendaryWarrior Ten. Although its behaviour is better described as recklessness rather than dauntless courage, it is in any case a ruffian overflowing with enthusiasm and ambition. It is extremely curious, loves being in the limelight, and tends to get carried away. Even during battle, it gets up to humorous antics such as striking a pose while offering a prayer unto the god of ice and snow it follows, or calling out the names of its Special Moves. In actuality, however, it is also closely observing the opponent and terrain, with its astuteness letting it gain the upper hand in battle. Its Special Moves are wielding its two tomahawks, \"Éji\" and \"Ōji\", to chop up the opponent with dance-like motions (Avalanche Step), and restricting the opponent's movement with the extensible hair on its head, then finishing them off with the blades on the hair tips (Gletscher Torpedo).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、氷の能力を持つデジモン。勇猛果敢というより猪突猛進に近いが、とにかく意欲と功名心に溢れていて野性的。好奇心が強く、目立ちたがりで、けっこうお調子者。戦闘の際も信奉する氷雪の神に祈りを捧げるポーズを決めたり、必殺技の名前を叫んだりと何かとユーモラス。しかし、実際には、しっかり敵や地形を観察し、戦闘を有利に進めている抜け目の無さもある。必殺技は二本のトマホーク、“エジ”と“オジ”を使って舞うようにして敵を切り刻む『アヴァランチステップ』と、伸縮自在の髪の毛で相手の動きを封じ、先端の刃で止めを刺す『グレッチャートルペイド（氷河魚雷）』。デジモン図鑑",
+        "ko": "전설의 10투사 의 힘을 내포한, 얼음의 능력을 가진 디지몬. 용맹과감이라는 말보다는 저돌맹진에 가깝지만, 어쨌든 의욕과 공명심이 흘러넘치고 야성적이다. 호기심이 강하고, 눈에 잘띄고, 꽤나 경박한 성격. 전투시에도 신봉하는 빙설의 신에게 기원을 바치는 장소를 결정하거나, 필살기의 이름을 외치거나 하는 등 무엇인가 유머러스하다. 그러나 실제로는 확실히 적이나 지형을 관찰해, 전투를 유리하게 진행하고 있어 빈틈이 없다. 필살기는 2개의 토마호크인 \"에지\"와 \"오지\"를 사용해 춤추듯이 적을 베는 아발란치 스텝 과, 신축성이 뛰어난 머리카락으로 상대의 움직임을 봉해, 끝의 칼날로 급소를 찌르는 그렛챠 토르페이도. [2]"
+      },
+      "wikimon_url": "https://wikimon.net/Blizzarmon"
+    },
+    {
+      "id": "panjya_x",
+      "name": "Panjyamon X",
+      "name_jp": "Panjyamon X",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/panjya_x/frame1.gif",
+        "frame2": "sprites/panjya_x/frame2.gif"
+      },
+      "artwork": "sprites/panjya_x/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon of proud justice. For someLeomon, who go through repeated training day after day in order to defend justice, it is a form that acquired power over the cold in the freezing lands of theDigital World'sIce-Snow Area, and evolved. By being in the cold, it tempered its mighty will and body, and they cannot be broken by any attack. Its Special Move is firing a fist packed with cold air (Hyoujūken).The effect onPanjyamon'sDigicoredue to theX-AntibodyCalled the \"Cool-headed White Lion\", it exterminates those devoted to evil for the sake of justice, and it's starting to be said that those battles are unparalleled in their ruthlessness. Its \"Yuki Hanabi\", an axe said to be cut from ore of the legendary rare metal, \"Mithril\", holds the power to easily pulverize the permanently frozen icebergs which hinder its path like a series of skyscrapers.Digimon Reference Book⇨ English誇り高き正義の獣人型デジモン。正義を守るために日々トレーニングを重ねる一部のレオモンが、デジタルワールドの氷雪エリアの極寒の地において、冷気の力を身に付けて進化した姿である。寒さの中で鍛えられた強い意志と体は、どんな攻撃にも挫けることはない。必殺技は冷気を込めた拳で放つ『氷獣拳』。■Ｘ抗体によるパンジャモンのデジコアへの影響“冷徹なる白獅子”と呼ばれ、正義の為に悪を徹して退治し、その戦い様は冷酷無比とまで言われるようになっている。伝説のレアメタル“ミスリル”の原石から削り出されたという斧『雪花火（ゆきはなび）』は、高層ビルのように連なり行く手を阻む永久凍土の氷山を軽く粉砕する威力を持っている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Panjyamon_X"
+    },
+    {
+      "id": "nano",
+      "name": "Nanomon",
+      "name_jp": "Nanomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/nano/frame1.gif",
+        "frame2": "sprites/nano/frame2.gif"
+      },
+      "artwork": "sprites/nano/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon used for nanomedicine. It was originally a Vaccine-type Digimon whose purpose was to restore computers that have crashed, but its neural pathways were destroyed in an attack by a powerful Virus Digimon, causing it to go berserk. It will reconfigure the data in even computers that are in normal working condition to its liking (of course, making a mess out of it), causing them to malfunction. Its specialty is destroying all sorts of data, and as such no matter how formidable a Digimon, the data forming their body can be destroyed by Nanomon with ease. Its Special Move is firing \"Plug Bomb\" from its fingertips.Digimon Reference Book⇨ English超小型の治療用マシーンデジモン。もともとはクラッシュしたコンピュータを修復するためのワクチン的なデジモンだったが、強力なウィルス型デジモンに攻撃を受けたときに思考回路が破壊され暴走してしまった。正常に作動しているコンピュータでも勝手にデータを再構築し（もちろんメチャメチャに）、狂わしてしまう。あらゆるデータの破壊を得意とし、どんなに強いデジモンでもナノモンの前では体を構成するデータをいとも簡単に破壊されてしまうだろう。必殺技は指先から発射される『プラグボム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Nanomon"
+    },
+    {
+      "id": "asta",
+      "name": "Astamon",
+      "name_jp": "Astamon",
+      "name_ko": "알라우몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/asta/frame1.gif",
+        "frame2": "sprites/asta/frame2.gif"
+      },
+      "artwork": "sprites/asta/artwork.jpg",
+      "lore": {
+        "en": "Though it is a Perfect, it possesses power surpassing that of an Ultimate, and is a Prince of theDark Areawhich governs a legion of Demon Digimon. It shows cruelty to its enemies and kindness to its friends, and because of that charisma it is expected to gain a considerable number of followers among Demon Digimon. The bullets fired from its prided machine gun, \"Oro Salmón\", possess their own will, and will definitely chase the opponent to the \"end of hell\". Its Special Moves are firing every single one ofOro Salmón's bullets (Hellfire), and a kick which unleashes all of its own pent-up darkQi(Maverick).Digimon Reference Book⇨ English完全体でありながら、究極体を凌駕する力を持ち、悪魔デジモンの軍団を束ねるダークエリアの貴公子である。敵に対する残虐性と味方に対する慈愛を持ち合わせており、そのカリスマ性から従う悪魔デジモンはかなりの数に登ると見られる。自慢のマシンガン「オーロサルモン」から放たれる弾丸は意思をもっており、まさに「地獄の果て」まで敵を追尾する。必殺技は、「オーロサルモン」の弾丸を全て撃ち尽くす『ヘルファイア』と、自身の暗黒の気を貯めて放つキック『マーヴェリック』。デジモン図鑑",
+        "ko": "팔몬 과 같은 진화를 이룬 식물형 디지몬. 점심에는 머리와 팔의 꽃을 피워 광합성을 하는 듯 하다. 머리의 꽃에서 나는 냄새는 바로 팔몬에게 받은 것으로, 여전히 강렬하고 지독하다. 필살기는 손에서 뻗은 손톱으로 적을 휘감아 혼란스럽게 하는 『네메시스 아이비』."
+      },
+      "wikimon_url": "https://wikimon.net/Astamon"
+    },
+    {
+      "id": "oleg",
+      "name": "Olegmon",
+      "name_jp": "Olegmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "45 (★)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/oleg/frame1.gif",
+        "frame2": "sprites/oleg/frame2.gif"
+      },
+      "artwork": "sprites/oleg/artwork.jpg",
+      "lore": {
+        "en": "As the general of the Gold-thief Army of the \"Big Death-Stars\", it is a super-heavyweight Digimon whose whole body is clad in steel armor. With its army, which runs the whole gamut of atrocities and looting with Aquatic and Marine Beast Digimon, it plunders treasure wherever it travels across the ocean. It has a weakness for gold and silver treasures, so its collected treasures become Olegmon's entire diet, and it increases the strength of Olegmon's armor if it eats enough. Olegmon boasts the most superhuman strength among the other generals, easily wielding its super-heavyweight \"Dual Tomahawk\" pair of axes, and effortlessly hurling them with its \"Dual Tomahawk Boomerang\". If an opponent suffers its \"Viking Vuffet\", in which it swings the axes down vertically over and over, they'll be chopped to bits in the blink of an eye. Also, Olegmon keeps the gigantic shadow called \"Jörmungandr\" in the chest on its right shoulder, and the one called \"Surtr\" in the chest on its left shoulder. Both become fiendish shadows if an opponent is recognized, and \"Jörmungandr\" on its right shoulder takes them away to \"Jötunheimr\", which is said to be the end of the world, with \"Age of Discovery\".Surtron its left shoulder asks for the opponent's wishes and pretends to grant them with \"Dream Comes True\", but avoids granting the wish using a convenient interpretation from Olegmon, and if on the other hand the opponent stubbornly refuses the wish, it keeps on doling out attacks.Digimon Reference Book⇨ English「ビッグデスターズ」金賊軍団将軍で全身を鋼鉄の鎧で覆われた超重量級デジモン。水棲型や海獣型のデジモンらとともに暴虐・略奪の限りを尽くす軍団で、海を渡り行く先々で金目の物を強奪している。金銀財宝に目が無く集めた財宝はすべてオレーグモンの食料となり、食べるほどにオレーグモンの鎧は強固さを増してゆく。　オレーグモンは他将軍の中で一番の怪力を誇り、超重量双斧“デュアルトマホーク”を軽々と振り回し、「デュアルトマホークブーメラン」で簡単に投げ飛ばす。垂直に何度も振り下ろす「バイキングヴュッフェ」を受ければ敵はあっという間に微塵切りとなってしまう。またオレーグモンは右肩の箱に“ヨルムンガンド”を、左肩の箱に“スルト”と呼ばれる巨大な影を飼っている。どちらも敵と認識されると凶悪な影となり、右肩の“ヨルムンガンド”は「エイジオブディスカバリー」で世界の果てと言われる“ヨトウンヘイム”に連れ去ってしまう。左肩のスルトは「ドリームカムズトゥルー」で敵の願いを聞いては叶えるふりをしてオレーグモンにとって都合のいい解釈で願いを叶えず、逆に願いを拒むと執拗なまでに攻撃を与え続けてくる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Olegmon"
+    },
+    {
+      "id": "frosvelgr",
+      "name": "Fros Velgrmon",
+      "name_jp": "Fros Velgrmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "16",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/frosvelgr/frame1.gif",
+        "frame2": "sprites/frosvelgr/frame2.gif"
+      },
+      "artwork": "sprites/frosvelgr/artwork.jpg",
+      "lore": {
+        "en": "A Giant Bird Digimon that rarely appears before others. It is considered to be a symbol of awe in certain regions, and according to legend, it appears before those who are stranded on snowy mountains and assesses their lives. It is said that those who are deemed worthy of saving descend the mountain on Fros Velgrmon, but those who are deemed unworthy are given a peaceful death with its freezing breath.Its Special Moves are a ranged attack in which it generates a blizzard with its tail and wings (Innocence Blizzard), and instantly turning the enemy intodry icewith a cold beam fired from its mouth (Freezing Ray). Although its \"RuinReverb\", in which it sings with a beautiful cry, charms the listener, it is a song of destruction that causes those who finish listening to it to completely shatter internally.Digimon Reference Book⇨ English滅多に他者の前に姿を現さない巨鳥型デジモン。ある地域では畏怖の象徴とされ、伝承では雪山で遭難した者の前に現れ命の価値を見定めるという。助ける価値があると判断された者はフロスベルグモンに運ばれ下山するが、その価値がないと判断された者には凍てつく吐息で静かな死を与えると言われている。必殺技は尻尾と翼から吹雪を発生させる範囲攻撃『イノセンスブリザード』と、口から放つ冷気のビームで敵を一瞬にしてドライアイスに変えてしまう『フリージングレイ』。美しい鳴き声で歌う『ルインリバーヴ』は聴く者を魅了するが、最後まで歌を聴いた者を身体の内側から粉々に砕いてしまう滅びの歌だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Fros_Velgrmon"
+    },
+    {
+      "id": "ancientmegatheriu",
+      "name": "Ancient Megatheriumon",
+      "name_jp": "Ancient Megatheriumon",
+      "name_ko": "에이션트메가테리우몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientmegatheriu/frame1.gif",
+        "frame2": "sprites/ancientmegatheriu/frame2.gif"
+      },
+      "artwork": "sprites/ancientmegatheriu/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Ice\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is said that the power and bravery it possesses can adapt even to the intense cold of the freezing tundra. With an attack ofabsolute zeroit suspends the atomic movement of every object, and it easily destroys even the eternally frozen gigantic icebergs. Ancient Megatheriumon's abilities were later passed on to the \"Mammal\" and \"Ice-Snow Digimon\". Its Special Moves are a super-blizzard at absolute zero (Freezing Blizzard), and a super-charge which can even destroy a gigantic iceberg (Great Snowplow).Digimon Reference Book⇨ English“氷”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、超低温の極寒凍土でも適応できる力強さと勇敢さを持っていたと言われている。絶対零度の攻撃であらゆる物の原子活動を停止させ、永久氷結した巨大氷山をも軽々と破壊する。エンシェントメガテリウモンの能力は、その後“哺乳類型デジモン”や“氷雪型デジモン”等に引き継がれていった。必殺技は絶対零度の超吹雪『フリージングブリザード』と、巨大氷山をも破壊する超突進『グレートスノープロー』。デジモン図鑑",
+        "ko": "\"얼음\"의 속성을 지닌 고대 디지털 월드를 구한 전설의 10투사 디지몬. 아득히 고대에 존재한 최초의 궁극체이며, 초저온의 극한동토에서도 적응할 수 있는 강력함과 용감함을 가지고 있었다고 전해진다. 절대영도 의 공격으로 모든 물체의 원자 활동을 정지시켜, 영구빙결한 거대빙산조차 가볍게 파괴한다. 에이션트메가테리우몬의 능력은, 그 후 “포유류형 디지몬”이나 “빙설형 디지몬” 등에 계승되어 갔다. 필살기는 절대영도 의 엄청난 눈보라 를 만드는 『프리징 블리자드』와 거대한 빙산을 파괴하는 아주 빠른 돌진 기술 『그레이트 스노플로』다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Megatheriumon"
+    },
+    {
+      "id": "dynas",
+      "name": "Dynasmon",
+      "name_jp": "Dynasmon",
+      "name_ko": "듀나스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/dynas/frame1.gif",
+        "frame2": "sprites/dynas/frame2.gif"
+      },
+      "artwork": "sprites/dynas/artwork.jpg",
+      "lore": {
+        "en": "One of the holy \"Royal Knights\", it possesses the powers of thewyvern. It is a unique being among the Royal Knights, in that it serves the lord who embodied its own sense of justice with deep, unquestioning loyalty. For example, for the sake of its own justice, it won't hate its lord even if they are called \"Evil\". For that reason, it has a strong spirit ofchivalryandbushido, with a character that honors devotion, fidelity, and courtesy. With its tenacious, dragon-like power, and dragon armor made from high-purityChrome Digizoid, it boasts unparalleled strength. Its Special Moves are firing energy shots from the palms of its hands, with all the attributes of theTen Warriors(Dragon's Roar), and transforming its body's energy into an aura of a gigantic wyvern (Breath of Wyvern).Digimon Reference Book⇨ English聖騎士“ロイヤルナイツ”の一員で、飛竜の能力を持つ。ロイヤルナイツの中でも特異の存在で、忠誠心が強く、自らの考える正義に見合った主君に絶対的に仕える。例えそれが「悪」と呼ばれる存在でも自らが考える正義の為に命をもいとわない。そのため騎士道・武士道精神が強く、忠義や信義、礼儀を重んじる性格である。竜の様な強靭なパワーと、高純度のクロンデジゾイド製の竜鎧で無双の強さを誇る。必殺技は両手の平から十闘士と同じ属性のエネルギー弾を発射する『ドラゴンズロア』と、全身のエネルギーを巨大な飛竜のオーラに変える『ブレス・オブ・ワイバーン』。デジモン図鑑",
+        "ko": "성기사 로얄 나이츠 의 일원으로, 비룡의 힘을 지니고 있다. 로얄 나이츠 중에서도 특이한 존재로, 충성심이 강하며 스스로가 생각하는 정의에 알맞은 주군을 절대적으로 섬긴다. 설사 그것이 '악'이라 불리는 존재라 해도, 스스로의 정의를 위해서라면 생명조차 버릴 수 있다. 그 때문에 기사도, 무사도 정신이 강하며 충의와 신의, 예의를 중시하는 성격이다. 용과 같이 강인한 파워와 고순도 크롬디지조이드 제 용갑주로부터 무쌍의 힘을 자랑한다. 필살기는 양 손바닥에서 10투사와 같은 속성 [3] 의 에너지탄을 발사하는 『드래곤즈 로어』와 전신의 에너지를 거대한 비룡의 오라로 바꾸는 『브레스 ･ 오브 ･ 와이번』이다. 디지털 몬스터 카드 게임 St-841: 초강철의 용갑옷을 입은 성기사단 의 비룡 기사! Re-118: 믿는 정의에 모든 것을 받드는 충렬의 성기사!"
+      },
+      "wikimon_url": "https://wikimon.net/Dynasmon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "yukimibota",
+      "to": "hiyari",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "daipen",
+      "to": "frosvelgr",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "daipen",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    }
+  ]
+}

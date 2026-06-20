@@ -1,0 +1,45 @@
+{
+  "id": "tane",
+  "name": "Tanemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tane.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tane.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/tane.jpg",
+  "appearances": [
+    {
+      "dim_id": "fairi_ex",
+      "dim_name": "Fairimon EX",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Tanemon",
+    "name_en": "Tanemon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn NA"
+    },
+    "evolves_from": [
+      {
+        "id": "yura",
+        "name": "Yuramon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "pal",
+        "name": "Palmon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

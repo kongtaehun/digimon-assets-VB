@@ -1,0 +1,97 @@
+{
+  "id": "wargrey",
+  "name": "War Greymon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wargrey.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wargrey.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/wargrey.jpg",
+  "appearances": [
+    {
+      "dim_id": "dro",
+      "dim_name": "Dinosaur Roar",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "vermilli"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "War Greymon",
+    "name_en": "WarGreymon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "45 (★8)",
+      "hp": "14",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "metalgrey_va",
+        "name": "Metal Greymon",
+        "conditions": "• 10+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (Agu EX)• 10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio (DRo)"
+      },
+      {
+        "id": "andro",
+        "name": "Andromon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "anomalocari",
+        "name": "Anomalocarimon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "metaltyrano",
+        "name": "Metal Tyranomon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "mame",
+        "name": "Mamemon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "neodevi",
+        "name": "Neo Devimon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "vermilli",
+        "name": "Vermillimon",
+        "conditions": "10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "metalgrey_vi",
+        "name": "Metal Greymon (Virus)",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "skullgrey",
+        "name": "Skull Greymon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "omega",
+        "name": "Omegamon",
+        "conditions": "• Jogress with Metal Garurumon (Agu EX)• 30+ Trophies, 8,500+ Vital Values, 30+ Battles, 70%+ Win Ratio (DRo)"
+      }
+    ]
+  }
+}

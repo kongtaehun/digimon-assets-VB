@@ -1,0 +1,884 @@
+{
+  "schema_version": "1.0",
+  "id": "ryuda",
+  "name": "Ryudamon",
+  "category": "v",
+  "device": "VBDM",
+  "release": "JP: Aug 2022 - Retail (Set -V3-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_ryuda.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "saku",
+      "name": "Sakumon",
+      "name_jp": "Sakumon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/saku/frame1.gif",
+        "frame2": "sprites/saku/frame2.gif"
+      },
+      "artwork": "sprites/saku/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon with a single blade protruding from its head. Its whole body is golden, and the blade on its head shines very brightly. Its personality is mischievous and it is constantly moving as long as it is awake, but it is bad at balancing due to the weight of its head, so surrounding Digimon can occasionally be seen running around trying to escape because of it swinging its blade as it rolls around.Digimon Reference Book⇨ English頭部に1本の刃がでている小型デジモン。全身が金色で頭部の刃がとても光輝いている。性格はやんちゃで起きている間はずっと動き回るが、頭部の重さでバランスが悪く、刃を振り回しながら転がるので周囲のデジモンが逃げ惑う光景を見かけることがある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sakumon"
+    },
+    {
+      "id": "sakutto",
+      "name": "Sakuttomon",
+      "name_jp": "Sakuttomon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/sakutto/frame1.gif",
+        "frame2": "sprites/sakutto/frame2.gif"
+      },
+      "artwork": "sprites/sakutto/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon that evolved fromSakumon, and that now has two blades. Its balance has been stabilized by the blades now positioned on its left and right side, as well as with the addition of its small feet. While it has stopped rolling around and become more active, getting stuck in a ceiling or wall will cause it to be unable to move.Digimon Reference Book⇨ Englishサクモンが進化し刃が２本になった幼年期デジモン。刃が左右になり小さな足もついたことでバランスが安定するようになった。転がることは無くなり動きは活発になったが、天井や壁に刺さると身動きが取れなくなる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sakuttomon"
+    },
+    {
+      "id": "zuba",
+      "name": "Zubamon",
+      "name_jp": "Zubamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/zuba/frame1.gif",
+        "frame2": "sprites/zuba/frame2.gif"
+      },
+      "artwork": "sprites/zuba/artwork.jpg",
+      "lore": {
+        "en": "One of the \"Legend-Arms\", who are capable of transforming themselves into weapons. A legend about the Legend-Arms goes, “if held by an angel it will save the world, and if held by a demon it will destroy the world.” Zubamon carries the ”Twentiest” data, and often shouts out “I am the Twentiest!” despite not understanding what it means. It despises crookedness, and is constantly seeking sharpness. A day where its battles, jokes, and sharpness turn out well will leave it in high spirits. Although it has a technique, \"Twenty Dive\", in which it charges head-first, Zubamon's true power is exhibited while it is in its weapon form.Digimon Reference Book⇨ English自身を武器に変えることができる「Legend-Arms」の１体。Legend-Armsには「天使が持てば世界を救い、悪魔が持てば世界を滅ぼす」との言い伝えがあるという。ズバモンは“トゥエニスト”のデータを持ち、「俺がトゥエニストだ！」とよく言っているが意味は分かっていない。性格は曲がったことを嫌い常にキレを追求する。戦いもギャグもキレの良い日はご機嫌だ。頭から突進する技『トゥエンティダイブ』を持つがズバモンの力は武器の姿になった時に発揮される。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zubamon"
+    },
+    {
+      "id": "ryuda",
+      "name": "Ryudamon",
+      "name_jp": "Ryudamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ryuda/frame1.gif",
+        "frame2": "sprites/ryuda/frame2.gif"
+      },
+      "artwork": "sprites/ryuda/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon that, because it has an old-styleInterfaceon its brow, is presumed to be an experimental \"Prototype Digimon\" from before Digimon were discovered. Although its body is clad in Japanese-style armor high in defensive ability, its movements are nimble, so it fights by resolutely leaping into the opponent's chest. It studies the business of combat as it fights, and possessesBushikatagi, with bravery and a soul that doesn't fear more powerful Digimon. The data that is said to have been hidden within the deepest parts of itsDigicore, during an experiment, is the ferocious combat data of the \"Dragons\" and \"Generals\" of Japanese mythology, and it is said it has the potential to grow into a mighty Digimon. Signature Move: Withstands the opponent's attacks with its armor and helmet, then counterattacks (Kabutogaeshi). Its Special Move is leaping into the opponent's chest and firing a blade of iron from its mouth (Iaijin).Digimon Reference Book⇨ English額に旧式なインターフェースをもつ為、デジモンが発見される以前の実験用の“プロトタイプデジモン”ではないかと推測されている獣型デジモン。防御力の高い和風の鎧を身にまとっているが、動きは軽快で、敵の懐に果敢に飛び込んで戦う。戦うほどに戦いの業を修め、強大な敵デジモンをも恐れない魂と潔さ、武士気質（ぶしかたぎ）を持っている。実験の時、デジコア（電脳核）の最も深い部分に隠されたと言われるデータは、日本の神話における“竜”や“武将”などの猛々しい戦闘データであり、強大なデジモンに成長する可能性をもつと言われている。得意技：敵の攻撃を鎧兜で受けて反撃する『兜返し』。必殺技は敵の懐に飛び込み鉄の刃を口から放つ『居合刃（いあいじん）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ryudamon"
+    },
+    {
+      "id": "zubaeager",
+      "name": "Zubaeagermon",
+      "name_jp": "Zubaeagermon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/zubaeager/frame1.gif",
+        "frame2": "sprites/zubaeager/frame2.gif"
+      },
+      "artwork": "sprites/zubaeager/artwork.jpg",
+      "lore": {
+        "en": "\"I, who am the Twentiest, will never halt! I'm going to keep on running forth!\" With those words carved intoZubamon's heart, it evolved into a form that embodies that forward-charging style. Zubaeagermon's policy is simply to continue charging forth without pause, no matter if smooth or rough terrain awaits it, or even if it has to crawl and struggle to continue forward.Its Special Moves are thrusting straight into the enemy's chest while shouting \"Twentiestttt!!\" (Road T(w)o Decade), and curling its body into a ball and spinning towards the enemy, slicing them with its tail blade (Vingtième). Not only that, by transforming itself into its prided sword form, it is able to slice through any enemy using 100% of its strength.Digimon Reference Book⇨ English「トゥエニストの俺は立ち止まらない！どんどん走り続けるぜ！」と心に刻んだズバモンが、駆け抜けるスタイルに進化した姿。平地も悪路も前へ、這ってでも前へ、立ち止まらずに突き進むことがズバイガーモンのポリシーだ。必殺技は、「トゥエニストォォォ!!」と叫びながら懐に突っこむ『Road T(w)o Decade』、体全体をくるっと回して尻尾の刃で敵を斬る『ヴァンシオン』を持つ。さらに自慢の剣に姿を変えれば、100%の力でどんな敵でも叩き斬る。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zubaeagermon"
+    },
+    {
+      "id": "ginryu",
+      "name": "Ginryumon",
+      "name_jp": "Ginryumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ginryu/frame1.gif",
+        "frame2": "sprites/ginryu/frame2.gif"
+      },
+      "artwork": "sprites/ginryu/artwork.jpg",
+      "lore": {
+        "en": "A Beast Dragon Digimon whose entire body is clad in sturdy, Japanese-styled armor. Despite what its appearance may suggest, it has a light body that allows it to glide gracefully in mid-air, and it fights while parrying enemy attacks with its tough yet smooth armor. It does not cower before any enemy Digimon and excels at attacking with exceptional breakthrough ability, using its courage at parrying enemy attacks using its own body, and eyesight that allows it to detect enemy attacks right before they hit. It is hypothesized to be a \"Prototype Digimon\" due to the outdatedInterfaceon its forehead. Its Special Move is impaling the enemy with an iron spear fired from its mouth (Tekkoujin). Its Signature Move is parrying enemy attacks with its armor and charging at the enemy (Boujinha).Digimon Reference Book⇨ English全身に堅固な和風の鎧をまとう獣竜型デジモン。見た目と異なり体は軽く、空中を優雅に漂い、非常に堅く滑らかなその鎧で敵の攻撃を受け流しながら戦う。自らの体で敵の攻撃を受け流す度胸と、敵の攻撃を寸前で見切る眼力を持って、どんな敵デジモンにも怯まない突破力抜群の攻撃を得意とする。額に旧式なインターフェースをもつ為 “プロトタイプデジモン”の進化系ではないかと推測されている。必殺技は鉄の槍を口から放ち敵を射抜く『徹甲刃（てっこうじん）』。 得意技は敵の攻撃を鎧で受け流して突撃する「棒陣破（ぼうじんは）」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ginryumon"
+    },
+    {
+      "id": "musya",
+      "name": "Musyamon",
+      "name_jp": "Musyamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/musya/frame1.gif",
+        "frame2": "sprites/musya/frame2.gif"
+      },
+      "artwork": "sprites/musya/artwork.jpg",
+      "lore": {
+        "en": "Originally, it was the data of a samurai master from an overseas video game, but it was infected by acomputer virus, and evolved to become this armored warrior Digimon. Its countless battles with Digimon have reduced it to its current appearance of a ruthlessochimusha, but this can also be said to be proof of this Digimon's terrifying combat ability and vitality. Musyamon is the very image of a savage warrior who continues to live through its endless battles. The demon sword it wields in its right hand, \"Shiratori-maru\", is engraved with a forbidden curse that causes it to steal the lifeforce of any opponent it cuts, and is said to grow sharper for every thousand Digimon it slays. The Special Move it performs using itsShiratori-maruis \"Kirisute Gomen\". It is considering one day issuing a challenge toLeomon, to have a decisive battle with it and its cherished sword,Shishiou-maru.Digimon Reference Book⇨ Englishもともとは海外のゲームソフトに登場するサムライマスターのデータだったが、コンピュータウィルスに感染し進化した鎧武者のデジモン。幾多のデジモンとの戦いで、その姿は今は見るも無残な落武者のような風貌と化しているが、それこそがこのデジモンが恐るべき戦闘力、生命力を持つ証と言えよう。果てしない戦いの中で常に生き延びつづけた荒ぶる武者、それがムシャモンである。右手に持つ妖刀「白鳥丸」には、斬った相手の生命力を奪う禁断の呪文が掘り込まれており、この剣は千人のデジモンを倒すたびに切れ味が増すと言われている。そしてこの白鳥丸から繰り出される必殺技が『切り捨て御免』である。いつの日かレオモンと、その愛刀「獅子王丸」に決闘を申し込もうと考えている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Musyamon"
+    },
+    {
+      "id": "dokugu",
+      "name": "Dokugumon",
+      "name_jp": "Dokugumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/dokugu/frame1.gif",
+        "frame2": "sprites/dokugu/frame2.gif"
+      },
+      "artwork": "sprites/dokugu/artwork.jpg",
+      "lore": {
+        "en": "A cursed Digimon in the shape of a spider, whose entire body has been parasitised by acomputer virus. While it was originally a spider-type, it had a docile personality typical of insect-type Digimon; however, at some point, it was drawn into a powerful electromagnetic storm and infected by a computer virus that had been circulating around theNetwork. Since then, it has become but a lump of poison, or in other words a computer virus, that corrodes anything it touches. Not only that, special mention has to be given to its great movement speed, made possible thanks to its eight legs. No matter how desperately one tries to get away, Dokugumon will never be far behind, and it will not stop its chase until the opponent ceases to continue running out of exhaustion. As the opponent stops to take a breather, it brings its opponent down with a fearsome, poisonous attack launched from its vile fangs (Stinger Poration).Digimon Reference Book⇨ English全身にコンピュータウィルスを寄生された、蜘蛛の姿をした呪われしデジモン。もともとは蜘蛛型とは言え、昆虫系の普通で大人しいデジモンにすぎなかったが、ある時、強力な電磁波の嵐に巻き込まれ、ネットワークを飛び交っていたコンピュータウィルスに感染してしまった。それ以来、触れるだけで全てを腐食させる、コンピュータウィルスと言う毒の塊となってしまった。また、八本の足を使ったその移動力は特筆すべきものがある。誰がどんなに全力で逃げようとしても、ドクグモンは必ず背後にへばりつき、相手が疲れ果て足を止めるまで追跡を止めることは無い。そして相手が安らかな寝息を立てる時、凶悪な牙から発せられる恐るべき毒の攻撃『スティンガー・ポレーション』で敵をしとめる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Dokugumon"
+    },
+    {
+      "id": "dura",
+      "name": "Duramon",
+      "name_jp": "Duramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/dura/frame1.gif",
+        "frame2": "sprites/dura/frame2.gif"
+      },
+      "artwork": "sprites/dura/artwork.jpg",
+      "lore": {
+        "en": "As it continues to sprint forward, this Perfect level Digimon is a step closer to crossing into the world on the other side. Although it knows not what future awaits it, it continues training and tempering its swords to cut through any obstacles that stand in its way. When it transforms itself into a weapon, it uses the characteristic greatsword on its back to unleash countless varieties of attacks. Its Special Moves are slicing the enemy with the blades on both arms (Grasslash), and firing a beam attack from its chest, which deals massive damage and carves a '20' mark into the enemy if it lands a direct hit (Blindead).Digimon Reference Book⇨ English走り続けた先に見えた、向こう側の世界へ一歩ずつ歩み始めた完全体デジモン。どんな未来が待ち構えているかは分からないが、如何なる困難が立ちはだかっても、鍛錬を重ねて強さを増した自らの剣で切り開いていく。特徴的な背中の大剣は自身を武器に変えた時、無類の攻撃力を披露する。必殺技は、両手の剣で敵を斬る『グラスラッシュ』と、胸から放つビーム攻撃『ブリンデッド』は敵に直撃すれば大ダメージを与えるとともに20のマークを刻みつける。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Duramon"
+    },
+    {
+      "id": "hisyaryu",
+      "name": "Hisyaryumon",
+      "name_jp": "Hisyaryumon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/hisyaryu/frame1.gif",
+        "frame2": "sprites/hisyaryu/frame2.gif"
+      },
+      "artwork": "sprites/hisyaryu/artwork.jpg",
+      "lore": {
+        "en": "A Beast Dragon Digimon clad in thick, shining scalemail and who soars the skies unbounded, taking this form when the fierce combat data of the \"dragon\" and \"general\" that lay slumbering in the depths of itsDigicorewas released by theInterfaceon its forehead. It has great mobility, allowing it control over nearly the entirety of the vast Net airspace. Its demeanor is usually sagacious and calm, akin to a god; however, the moment the crystal-like orbs it holds in both hands are scratched, its wrath will be incurred, turning it into a god of anger that will attack with all its might. Not only that, it is said that the orbs in its two hands are in actuality the souls of its fallen comrades; the orb in its right hand is the soul of \"Kinryū\", while the orb in its left hand is the soul of \"Kakuryū\", and Digicore information lies hidden within each of them. Its Special Moves are transforming itself into gigantickatanamade of steel and bisecting the enemy in a single stroke (Seiryūjin), as well as surrounding the enemy from all directions and attacking (Jūouguruma).Digimon Reference Book⇨ Englishデジコア（電脳核）の最深部に眠っていた日本の神話における“竜”や“武将”の猛々しい戦闘データが、額のインターフェースによって解き放たれた姿であり、重厚に輝く鱗の鎧をまとい大空を縦横無尽に駆け巡る獣竜型デジモン。その移動力は長大で、広大なネット空域のほとんどを制することができる。普段は神の如く聡明で大人しいが、両手に持つ水晶のような球体を傷つけられると、逆鱗に触れるが如く正に荒ぶる神となって全身全霊を込めて襲い掛かる。尚、両手に持つ球体は、今は存在しない同朋の魂であり、右手の球体は“金竜（きんりゅう）”の魂、左手の球体は“角竜（かくりゅう）”の魂であり、それぞれにデジコア（電脳核）の情報が秘められているという。必殺技は自ら巨大な鋼鉄の刀と化し、敵を一刀両断する『成龍刃（せいりゅうじん）』と、敵の上下左右全てを包囲し攻撃を放つ『縦横車（じゅうおうぐるま）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Hisyaryumon"
+    },
+    {
+      "id": "asura",
+      "name": "Asuramon",
+      "name_jp": "Asuramon",
+      "name_ko": "아수라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "7",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/asura/frame1.gif",
+        "frame2": "sprites/asura/frame2.gif"
+      },
+      "artwork": "sprites/asura/artwork.jpg",
+      "lore": {
+        "en": "A legendary Digimon which possesses four arms and three faces, it suddenly appeared within a computer as it was analyzing ancientHinducultural documents. Of Asuramon's three faces, one is a face of wrath, one is a face of mercy, and the last is a face of blessings. Contrary to its outer appearance, it honors justice, so it is said that if it sees injustice it will thoroughly attack it without yielding, and it can certainly be said that its personality is like an avatar of a god of light. Its Special Move \"Asura Shinken\" is a Punch Rush unleashed from its four arms, which possesses the offensive power to completely annihilate the opponent itself. Naturally, when that is used while Asuramon has its face of wrath, it is its last and strongest technique.Digimon Reference Book⇨ English４本の腕と３つの顔を持つ伝説のデジモンで、古代インド文明の文献を解析している最中に、突如コンピュータ内に降臨した。アシュラモンには３つの顔があり、１つは怒りの顔、１つは慈悲の顔、そして最後の１つは祝福の顔となっている。見た目の姿とは裏腹に正義を重んじ、不正を見ると徹底的にそれを攻撃して許さないという、まさに光明神の化身と言えるような性格である。必殺技『阿修羅神拳（あしゅらしんけん）』は４本の腕から繰り出されるパンチラッシュで、敵そのものを消滅させてしまうほどの攻撃力を持っている。もちろんそれはアシュラモン怒りの顔の時に使われる、最後のそして最強の技である。デジモン図鑑",
+        "ko": "4개의 팔과 3개의 얼굴을 가진 전설의 디지몬으로, 고대 인도 문명의 문헌을 해석하던 중 갑자기 컴퓨터 내에 강림했다. 아수라몬에게는 세 개의 얼굴이 있는데, 하나는 분노의 얼굴, 하나는 자비의 얼굴, 그리고 마지막 하나는 축복의 얼굴로 되어 있다. 겉모습과는 달리 정의를 중시하고, 부정을 보면 철저하게 그것을 공격하고 용서하지 않는, 그야말로 광명신의 화신이라고 할 수 있는 성격이다. 필살기 “아수라신권”은 4개의 팔에서 나오는 펀치 러시로 적 자체를 소멸시킬 정도의 공격력을 갖고 있다. 물론 그것은 아수라몬이 분노의 얼굴일 때 사용되는 최후의 그리고 최강의 기술이다."
+      },
+      "wikimon_url": "https://wikimon.net/Asuramon"
+    },
+    {
+      "id": "gyuki",
+      "name": "Gyukimon",
+      "name_jp": "Gyukimon",
+      "name_ko": "규우키몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/gyuki/frame1.gif",
+        "frame2": "sprites/gyuki/frame2.gif"
+      },
+      "artwork": "sprites/gyuki/artwork.jpg",
+      "lore": {
+        "en": "A Demon Beast Digimon with an ox-like upper body and a spider lower body. With a brutal and insidious personality, it is a monster that chases after those who see it for days, and launches surprise attacks from behind every night. Despite its large build, it skillfully uses its spider legs to move quietly without making a sound. The bells hanging from the tips of its horns emit a sound only when it attacks, so those who have seen Gyukimon will constantly be frightened by the sound of the bells. Thedissonanceproduced by the bells disrupts the opponent's senses, allowing Gyukimon to attack one-sidedly without interruption.Its Special Moves are restraining the enemy with spider thread that it spits out from the mouth of its lower body and then spewing a highly toxic liquid (Yatsuka Senbaku), and throwing the cylinders equipped to its abdomen to spread a poisonous gas (Majin Byōtan). Digimon that sense the approach of Gyukimon and run far away are reliably brought down with its \"Senhō Tsuchigumo\", the weapon on its left arm.Digimon Reference Book⇨ English丑のような上半身と蜘蛛の下半身を持つ魔獣型デジモン。残忍かつ陰湿な性格で、自分の姿を見た者を何日もかけて追い回し、夜になるたび背後から奇襲を仕掛ける怪異である。巨体に似合わず、蜘蛛の足を器用に使い音も無く静かに移動する。攻撃するときのみ、ツノの先にぶら下げた鈴が音を発するため、ギュウキモンを見た者は常に鈴の音に怯えて過ごすことになる。鈴が放つ不協和音は相手の感覚を狂わせ、ギュウキモンの攻撃を一方的なものにする。必殺技は下半身の口部から吐き出す蜘蛛の糸で敵を拘束し、猛毒液を吐きかける『八束染縛（やつかせんばく）』、腹部に備わったシリンダーを投擲し毒ガスを振りまく『魔塵瓢箪（まじんびょうたん）』。ギュウキモンの接近を察知し遠くに逃げたデジモンは左腕の武器『千砲土蜘蛛（せんほうつちぐも）』で確実に仕留める。デジモン図鑑",
+        "ko": "소 같은 상반신과 거미 의 하반신을 가진 마수형 디지몬. 잔인하고 음습한 성격으로, 자신의 모습을 본 자를 며칠씩 쫓아다니며, 밤마다 배후에서 기습을 하는 괴이함이 있다. 거구에 어울리지 않게, 거미의 발을 능숙하게 써서 소리 없이 조용히 이동한다. 공격할 때만, 뿔 끝에 매달은 방울이 소리를 내기 때문에, 규키몬을 본 자는 항상 방울 소리에 겁을 먹고 지내게 된다. 방울이 내뿜는 불협화음은 상대의 감각을 흐트러뜨리고, 규키몬의 공격을 일방적인 것으로 만든다. 필살기는 하반신 입 부분에서 뿜어내는 거미줄로 적을 구속하고, 맹독액을 내뿜는 “팔속염박(야츠카 센바쿠)”, 복부에 비치된 실린더를 투척하고 독가스를 뿌리는 “마진표단(마진 뵤탄)”. 규키몬의 접근을 감지하고 멀리 달아난 디지몬은 왼팔의 무기 \"천포토지주(센호 츠치구모)\"로 확실하게 숨통을 끊어놓는다."
+      },
+      "wikimon_url": "https://wikimon.net/Gyukimon"
+    },
+    {
+      "id": "oboro",
+      "name": "Oboromon",
+      "name_jp": "Oboromon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "6",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/oboro/frame1.gif",
+        "frame2": "sprites/oboro/frame2.gif"
+      },
+      "artwork": "sprites/oboro/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon that lives in graveyards like a ghost, it is a berserker that fights by any means necessary without ever backing down against superior opponents. It is thought that the reason it has an unusually intense obsession with victory is because it has taken in a large amount of hatred data from the Digimon it has defeated. On the other hand, it has virtually no sense of self, and when it isn't fighting, it wanders around graveyards sluggishly, and has occasionally been seen conversing suspiciously with the beast skull fused to its left arm. Although the blade protruding from the skull is brittle and breaks easily, it has the characteristic of regenerating over and over again each time it breaks.Its Special Moves are a slash attack from its blade (Chiyorozu-no-tachi), and detaching itsonibilower body to burn a vast area with flames (Rashōmon). Also, in addition to changing shape freely, the \"Yūgen\" scarf around its neck is capable of operating independently. It has versatile functions such as wrapping around and capturing the enemy, or striking them hard with the whole of the cloth.Digimon Reference Book⇨ English幽霊のごとく墓場に棲まうアンデッド型デジモンで、格上相手にも決して退かずに手段を選ばず戦う狂戦士。勝利への執着が異様に強いのは、敗北したデジモン達の怨念のデータを大量に取り込んだためだと考えられている。一方で自我はほとんどなく、戦っていない時は呆けたように墓地を徘徊しており、ときどき左腕に融合した獣の頭蓋骨と怪しげに会話する所が目撃されている。頭蓋骨から生えている刀は脆く折れやすいが、折れるたびに何度でも新たに生えてくる特性を持っている。必殺技は刀からの斬撃『千万ノ太刀（ちよろずのたち）』、下半身の鬼火を分離させて広範囲を炎で灼く『羅焼門（らしょうもん）』。また、首に巻いたスカーフ『幽玄（ゆうげん）』は変幻自在に形を変えるほか、自立して動くことが可能だ。敵に巻き付き捕縛したり、布全体で敵を強く打ち付けるなど万能の役目を果たす。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Oboromon"
+    },
+    {
+      "id": "duranda",
+      "name": "Durandamon",
+      "name_jp": "Durandamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/duranda/frame1.gif",
+        "frame2": "sprites/duranda/frame2.gif"
+      },
+      "artwork": "sprites/duranda/artwork.jpg",
+      "lore": {
+        "en": "A Digimon possessing the ultimate holy blade, it evolved by honing its sword to its best ability and attaining data on 'legendary swords' found in mythology and video games. Boasting strength that puts it among the strongestLegend-Armscapable of transforming into swords, it is said that wielding Durandamon in sword form will surely bring about victory. Its slashing attacks are fierce enough to cut through any sort of defense, although there have been records that onlythe strongest of the Legend-Arms Digimon capable of transforming into shieldsare able to withstand Durandamon's attacks.Its Special Moves are focusing its fighting spirit into the blades on both arms and slicing the enemy with them (Zwanglänze), and spinning its body to slice multiple enemies in one fell swoop (Thron Messer). While both attacks are powerful enough to take enemies down in one hit, Durandamon's greatest appeal is still its ability to transform into a weapon and unleash slashing attacks.Digimon Reference Book⇨ English自身の剣を極限まで磨き上げ、さらに神話やゲームからなる『伝説の剣』のデータを得て進化した究極の聖剣を持つデジモン。デュランダモンの剣を手にすれば勝利をもたらすと言われ、剣に変わる「Legend-Arms」の中では最強クラスの強さを誇る。その斬撃の凄まじさはどのような防壁も真っ二つにするが、盾に変わる「Legend-Arms」の頂に立つデジモンのみが耐えられたという記録が残されている。必殺技は、闘気を込めて両手の剣で敵を斬る『ツヴァイグレンツェ』と、複数の敵をまとめて一掃する回転斬り『トロンメッサー』がある。どちらも敵を一撃で仕留めるだけの威力を持つが、やはり武器となって放つ斬撃がデュランダモン最大の魅力だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Durandamon"
+    },
+    {
+      "id": "ouryu",
+      "name": "Ouryumon",
+      "name_jp": "Ouryumon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/ouryu/frame1.gif",
+        "frame2": "sprites/ouryu/frame2.gif"
+      },
+      "artwork": "sprites/ouryu/artwork.jpg",
+      "lore": {
+        "en": "Ouryumon is an imaginary Digimon born from the \"Daydream of aDigicore\". It is a form that had even the Digicore's own creativity miraculously released through theInterfaceon its brow, and evolved. Possibly because it naturally possessed the ferocious combat data of the \"Dragons\" and \"Generals\" of Japanese myth within its Digicore, the form created by its Digicore is a \"Warrior Dragon\", clad in frightening, majestic Japanese armor and holding swords in both of its hands. The left-hand sword is the \"Gairyū Sadaijin\", and the right-hand sword is the \"Gairyū Udaijin\". The blades of the wings on its back are called the \"Gaiba Daimeijin\". Its Special Moves are firing from the swords in both hands (Eiseiryūoujin), and rampaging like theearthflowof a mighty river, cutting everything apart while charging (Ougai). There is a theory that this technique has its roots inHuanglongmon's Special Move, \"Oukai\", although it isn't confirmed.Digimon Reference Book⇨ Englishオウリュウモンとは、“デジコア（電脳核）の空想”が生み出した架空のデジモンである。額のインターフェースによってデジコア自身の創造力までもが奇跡的に解き放たれて進化した姿である。元々デジコア内に日本の神話における“竜”や“武将” などの猛々しい戦闘データを持っていたためか、デジコアの創造した姿は、畏怖堂々とした和風の鎧を身にまとい、両腕に刀を持つ“武者竜”であった。左手の刀は「鎧龍左大刃（がいりゅうさだいじん）」、右手の刀は「鎧龍右大刃（がいりゅううだいじん）」である。背部の翼の刃は「鎧馬大名刃（がいばだいめいじん）」と呼ばれる。必殺技は両腕の刀より放つ『永世竜王刃（えいせいりゅうおうじん）』と、大河の土砂流のごとく荒れ狂い、全てを切り裂きながら突進する『黄鎧（おうがい）』。これはファンロンモンの必殺技『黄廻（おうかい）』にルーツがあるとの説もあるが定かではない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ouryumon"
+    },
+    {
+      "id": "zanba",
+      "name": "Zanbamon",
+      "name_jp": "Zanbamon",
+      "name_ko": "황금무사몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/zanba/frame1.gif",
+        "frame2": "sprites/zanba/frame2.gif"
+      },
+      "artwork": "sprites/zanba/artwork.jpg",
+      "lore": {
+        "en": "A Demon Man Digimon which has the appearance of a horse-riding warrior. It is a courageous warrior who reigns as the general of theMusyamoncorps. Although it is a general, it voluntarily stands at the head of its own army, and prefers fighting styles which cut into the enemy. Its lower half is fused with its horse in order to move more easily about the battlefield, so that even during a pitched battle it is able to swing its sword without losing its balance. Its Special Move is using the giganticzanbato\"Ryūzan-maru\" it holds in its right hand to unleash its \"Uchikubi Gokumon\", which has the power to cut through the opponent's armor with its gigantic blade, regardless of whether they are defending themselves. Its \"Jūmonji-giri\" is an attack it unleashes using theyoutouit holds in its left hand, which releases a shock wave, generated by the nimble swings of its slender blade, that can cut the opponent apart crosswise.Zanbamon was adopted from a winning Digimon entry in the \"Bandai-Town FAX Service Digimon Illustration Contest\" which belonged to Mr. Arata Hirayama fromChiba prefecture.Digimon Reference Book⇨ English騎馬武者姿の魔人型デジモン。ムシャモン軍団の将軍として君臨している猛将である。将軍でありながら自ら軍団の先頭に立ち、敵に切り込んでいく戦い方を好む。下半身は戦場で動きやすいように馬と一体化しており、激しい戦闘でもバランスを崩すことなく刀を振るうことができる。必殺技は右手に持つ巨大な斬馬刀「龍斬丸」を使って繰り出す『打首獄門』で、たとえ相手が防御していようとも巨大な刀身で鎧ごと切り落とす威力を持っている。『十文字斬り』は左手に持つ妖刀を使って繰り出す技で、細身の刀身を素早く振りぬくことで発生する衝撃波を放ち、相手を十字に切り裂くことができる。※ザンバモンは「バンダイタウンFAXサービスデジモンイラストコンテスト」で千葉県「平山新」さんのデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": "기마무사 모습의 마인형 디지몬. 무사몬 군단의 장군으로서 군림하고 있는 맹장이다. 장군이면서 스스로 군단의 선두에 서서 적에게 돌진해가며 싸우는 방법을 좋아한다. 하반신은 전장에서 움직이기 쉽게 말과 일체화하고 있어 격렬한 전투에서도 밸런스를 무너뜨리는 일이 없이 칼을 휘두를수 있다. 필살기는 오른손에 있는 참마도인 용참환을 사용해 계속 내보내는 타수옥문(블럭베기)으로 비록 상대가 방어하고 있다해도 거대한 칼의 몸체로 방어마저 잘라 떨어뜨리는 위력을 가지고 있다. 또다른 필살기인 십문자베기(혈십자베기)는 왼손에 있는 요도를 사용해 계속 내보내는 기술로 가는 형태인 칼의 몸페를 재빠르게 휘두를 때 발생하는 충격파를 발산해 상대를 십자로 갈라버릴수 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Zanbamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "sakutto",
+      "to": "zuba",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sakutto",
+      "to": "ryuda",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "zuba",
+      "to": "zubaeager",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ryuda",
+      "to": "ginryu",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "zuba",
+      "to": "musya",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ryuda",
+      "to": "musya",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "zuba",
+      "to": "dokugu",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ryuda",
+      "to": "dokugu",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "zubaeager",
+      "to": "dura",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "musya",
+      "to": "dura",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "hisyaryu",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dokugu",
+      "to": "hisyaryu",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "zubaeager",
+      "to": "asura",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "musya",
+      "to": "asura",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "gyuki",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dokugu",
+      "to": "gyuki",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "zubaeager",
+      "to": "oboro",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "oboro",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "musya",
+      "to": "oboro",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dokugu",
+      "to": "oboro",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dura",
+      "to": "duranda",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "asura",
+      "to": "duranda",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "hisyaryu",
+      "to": "ouryu",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gyuki",
+      "to": "ouryu",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "oboro",
+      "to": "ouryu",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dura",
+      "to": "zanba",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hisyaryu",
+      "to": "zanba",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "asura",
+      "to": "zanba",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gyuki",
+      "to": "zanba",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "oboro",
+      "to": "zanba",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "saku",
+      "to": "sakutto",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "zubaeager",
+      "to": "hisyaryu",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "zubaeager",
+      "to": "gyuki",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "dura",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "asura",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "musya",
+      "to": "gyuki",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "musya",
+      "to": "hisyaryu",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "dokugu",
+      "to": "asura",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "dokugu",
+      "to": "dura",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "dura",
+      "to": "ouryu",
+      "conditions": {
+        "text": "Jogress with Data, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "hisyaryu",
+      "to": "duranda",
+      "conditions": {
+        "text": "Jogress with Data, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "asura",
+      "to": "ouryu",
+      "conditions": {
+        "text": "Jogress with Data, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "gyuki",
+      "to": "duranda",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    },
+    {
+      "from": "oboro",
+      "to": "duranda",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    }
+  ]
+}

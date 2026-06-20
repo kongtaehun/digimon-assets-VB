@@ -1,0 +1,1053 @@
+{
+  "schema_version": "1.0",
+  "id": "doru",
+  "name": "DORUmon",
+  "category": "seekers",
+  "device": "VBBE",
+  "release": "JP: Oct 2023 - Premium Bandai",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_doru.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "dodo",
+      "name": "Dodomon",
+      "name_jp": "Dodomon",
+      "name_ko": "도도몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/dodo/frame1.gif",
+        "frame2": "sprites/dodo/frame2.gif"
+      },
+      "artwork": "sprites/dodo/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon whose whole body is covered in the tough fur \"Mithril Hair\". It exhibits an aggressive personality immediately after being born, and despite its fangs not yet being grown, it threatens enemies by opening its mouth wide and doing a biting motion. Because of this behaviour, it often gets defeated by other Digimon, which explains why this Digimon is so rare. If an opponent approaches, it attacks by spitting \"Chīsana Tetsuryū\" from its mouth.Digimon Reference Book⇨ English全身硬い毛「ミスリルヘアー」に包まれたスライム型デジモン。生まれてすぐに攻撃的な性格が現われ、まだキバが生えていないのに大きく口を開けて噛み付く素振りで敵を威嚇してしまう。この為、他のデジモンにやられてしまうことが多く存在が希少なデジモンである。敵が近づくと『小さな鉄粒』を口から吐いて攻撃する。デジモン図鑑",
+        "ko": "전신이 딱딱한 털 \"미스릴 헤어\"에 싸인 슬라임형 디지몬. 태어나자마자 공격적인 성격이 나타나 아직 어금니가 나지 않았는데 크게 입을 열어 씹어 먹는 표정으로 적을 위협해 버린다. 이 때문에, 다른 디지몬에게 당해 버리는 것이 많아 존재가 희소인 디지몬이다. 적이 가까워지면 \"작은 철립\"을 입으로부터 토해 공격한다."
+      },
+      "wikimon_url": "https://wikimon.net/Dodomon"
+    },
+    {
+      "id": "dori",
+      "name": "Dorimon",
+      "name_jp": "Dorimon",
+      "name_ko": "도리몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/dori/frame1.gif",
+        "frame2": "sprites/dori/frame2.gif"
+      },
+      "artwork": "sprites/dori/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that can run very quickly, as long as it is going straight. Dorimon often remain wild as they hate to be domesticated, and approaching one is risky as it will recklessly charge and perform a ramming attack. Its ears have grown sharp and hard, doubling as horns and inflicting a little damage on whatever it rams into, though it can't turn when going at speed. Its Special Move is spewing an iron bead out of its mouth while charging at the opponent (Metal Drop).Digimon Reference Book⇨ English真っ直ぐであればとても速く走れるレッサー型デジモン。飼い慣らされることを嫌がるので野生のままのことが多く、近づくと無鉄砲に突進して体当たりしてくるので危険である。鋭く生えた耳は硬く、ツノの役割もしているので体当たりのダメージは多少あるが、スピードが出ると曲がれない。必殺技は敵に突進しながら口から鉄粒を吐き出す『メタルドロップ』。デジモン図鑑",
+        "ko": "아주 곧게 매우 빠르게 달릴 수 있는 렛서형 디지몬. 길들여지는 것을 싫어하므로 야생인 채의 일이 많아, 가까워지면 분별없게 돌진해 전력투구 해서 오므로 위험하다. 날카롭게 난 귀는 딱딱하고, 뿔의 역할도 하고 있으므로 전력투구의 데미지는 다소 있지만, 스피드가 나오면 꺽을 수 없다. 필살기는 적에게 돌진하면서 입에서 철 구슬을 내뱉는\"메탈 드롭\"."
+      },
+      "wikimon_url": "https://wikimon.net/Dorimon"
+    },
+    {
+      "id": "doru",
+      "name": "DORUmon",
+      "name_jp": "DORUmon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5100",
+        "hp": "3000",
+        "ap": "1050"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/doru/frame1.gif",
+        "frame2": "sprites/doru/frame2.gif"
+      },
+      "artwork": "sprites/doru/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon that is, because of the outdatedInterfaceon its brow, presumed to be an experimental \"Prototype Digimon\" from before Digimon were discovered. The personality of naturalCombat SpeciesDigimon manifests particularly strongly within it, so its combat instinct is high; it often barks and bites at everything as a result, though it apparently feels a sense of attachment to something after biting it. The data that is said to have been hidden within the deepest parts of itsDigicoreduring an experiment is the potent life-force data of the legendary beast, the \"Dragon\", and it is said to have the potential to grow into a mighty Digimon. Its Special Move is firing an iron sphere from its mouth (Metal Cannon). Signature Move: It is able to fire an iron sphere even while charging, although it's more powerful if it fires after standing still and accumulating power (Dash Metal).Digimon Reference Book⇨ English額に旧式なインターフェースをもつ為、デジモンが発見される以前の実験用の“プロトタイプデジモン”ではないかと推測されている獣型デジモン。元々が戦闘種族であるデジモンの性格が特に強く表れており、闘争本能が高く、何にでもよく噛み付きよく吼えるが、一度噛み付いたものには馴れるらしい。実験の時、デジコア（電脳核）の最も深い部分に隠されたと言われるデータは、伝説の生き物“ドラゴン”の強い生命力のデータであり、強大なデジモンに成長する可能性をもつと言われている。必殺技は鉄球を口から放つ『メタルキャノン』。得意技：立ち止まって力を溜めてから放つ方が威力はあるが、突進しながらも鉄球を放つことが出来る「ダッシュメタル」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/DORUmon"
+    },
+    {
+      "id": "agu_b",
+      "name": "Agumon (Black)",
+      "name_jp": "Agumon (Black)",
+      "name_ko": "아구몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4500",
+        "hp": "2700",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/agu_b/frame1.gif",
+        "frame2": "sprites/agu_b/frame2.gif"
+      },
+      "artwork": "sprites/agu_b/artwork.jpg",
+      "lore": {
+        "en": "An Agumon that, by evolving into a Virus-type, has awoken to its feral instincts. It has gone past being fearless and now has a brutal personality; it is no less sharp than a Vaccine-typeAgumonwhen it comes to hunting prey. Its Special Move is spitting flaming breath from its mouth to attack the enemy (Baby Flame).Digimon Reference Book⇨ Englishウィルス種に進化したことで、野生の本能に目覚めてしまったアグモン。怖いもの知らずどころか凶暴な性格の持ち主になっており、獲物を狙うときの鋭さはワクチン種のアグモンにも劣らない。必殺技は口から火炎の息を吐き敵を攻撃する『ベビーフレイム』。デジモン図鑑",
+        "ko": "성장해 이족보행을 할 수 있게 된 공룡과 비슷한 모습을 한 파충류형 디지몬 . 비록 아직 성장 도중이라 힘은 약하지만 성격은 꽤 사납고 두려움을 모른다. 양손과 발에 단단하고 날카로운 손톱이 나있어 전투에서도 위력을 발휘한다. 강하고 위대한 디지몬 으로의 진화가 예측되는 존재이기도 하다. 필살기는 입에서 화염의 숨결을 내뱉어 적을 공격하는 \"베이비 플레임 [11] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Agumon_(Black)"
+    },
+    {
+      "id": "doruga",
+      "name": "DORUgamon",
+      "name_jp": "DORUgamon",
+      "name_ko": "도루가몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "3500",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/doruga/frame1.gif",
+        "frame2": "sprites/doruga/frame2.gif"
+      },
+      "artwork": "sprites/doruga/artwork.jpg",
+      "lore": {
+        "en": "A ferocious Beast Dragon Digimon that possesses the disposition of a beast and a dragon, it is such a heavyweight that most Digimon run away just at the sight of its shadow. Although it exhibits the ferocity of a wild beast in battle, it also has the intelligence of a dragon, and is usually very docile. Because it has an old-styleInterfaceon its brow, it is presumed to be an evolution of a \"Prototype Digimon\". Its Special Move is firing a large iron sphere from its mouth, smashing the opponent (Power Metal). With its Signature Move, \"Cannonball\", it is able to fire an iron sphere even while charging forth, although it's more powerful if it remains still and accumulates power before firing.Digimon Reference Book⇨ English獣と竜“ドラゴン”の資質を持ち、多くのデジモンがその影を見ただけで逃げ出すほどの重量級にして獰猛な獣竜型デジモン。戦いとなると野性の獣の如くその獰猛性を発揮するが、竜の知性を併せ持ち、普段は非常におとなしい。額に旧式なインターフェースをもつ為“プロトタイプデジモン”の進化系ではないかと推測されている。必殺技は大型の鉄球を口から放ち、敵を打ち砕く『パワーメタル』。得意技は立ち止まって力を溜めてから放つ方が威力はあるが、突進しながらも鉄球を放つことが出来る『キャノンボール』。デジモン図鑑",
+        "ko": "짐승과 용 \"드래곤\"의 자질을 가지고 있으며, 수많은 디지몬이 그 그림자를 보기만 해도 도망칠 정도의 중량급으로 사나운 수룡형 디지몬. 싸움이 시작되면 야생의 짐승처럼 그 사나움을 발휘하지만 용의 지성을 겸비해 평소에는 매우 얌전하다. 이마에 구식 인터페이스를 갖고 있기 때문에 \" 프로토타입 디지몬 \"의 진화계가 아닐까 추측되고 있다. 필살기는 대형 철구를 입으로 쏘아 적을 쳐부수는 『파워 메탈』. 특기는 멈춰 서서 힘을 모은 뒤 쏘는 것이 더 위력 있지만 돌진하면서도 철구를 쏠 수 있는 『캐논볼』."
+      },
+      "wikimon_url": "https://wikimon.net/DORUgamon"
+    },
+    {
+      "id": "deathxdoruga",
+      "name": "Death-X-Dorugamon",
+      "name_jp": "Death-X-Dorugamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4900",
+        "hp": "3200",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/deathxdoruga/frame1.gif",
+        "frame2": "sprites/deathxdoruga/frame2.gif"
+      },
+      "artwork": "sprites/deathxdoruga/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon of thePrototype Digimon\"DORU Series\" that was experimented on in search of further evolutions, and was said to, at the time of the experiment, resemble itsAdult form. By continuously preying on theDigicoresof other Digimon, it is active despite its deceased condition, and is attempting to evolve. Its Signature Move is \"Cannonball\". Its Special Move is impaling the opponent with its steel arms and ripping out their Digicore (Metal Cast).Digimon Reference Book⇨ Englishさらなる進化を求めて実験されたデジモンの原型『プロトタイプデジモン』“ドルシリーズ” の、実験当時の成熟期の姿に酷似しているというアンデッド型デジモン。他のデジモンのデジコア（電脳核）を捕食し続けることで、死んだ状態でありながら活動し、進化しようとしている。得意技は『キャノンボール』。必殺技は鋼鉄の腕で敵を貫きデジコアをむしり取る『メタルキャスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Death-X-Dorugamon"
+    },
+    {
+      "id": "darktyrano",
+      "name": "Dark Tyranomon",
+      "name_jp": "Dark Tyranomon",
+      "name_ko": "다크티라노몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4700",
+        "hp": "3300",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/darktyrano/frame1.gif",
+        "frame2": "sprites/darktyrano/frame2.gif"
+      },
+      "artwork": "sprites/darktyrano/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon whose body was corroded by a viciouscomputer virus. Although it was originally aTyranomon-speciesDigimon, it was infected by a vicious computer virus, causing a bug in its flesh's configuration data and transforming it into a frenzied Digimon. Its body turned black, its arms grew sturdier thanTyranomon's, and its offensive power grew. It identifies anything reflected in its eyes as an enemy and starts attacking, becoming completely frenzied. With its Special Move \"Fire Blast\", a super-powerful jet of flames, it transforms all of its surroundings into a sea of flames.Digimon Reference Book⇨ English悪質なコンピュータウィルスに体を侵食された恐竜型デジモン。もともとはティラノモン種のデジモンだったが、悪質のコンピュータウィルスに感染し、肉体を構成するデータがバグをおこし狂暴なデジモンへと変貌してしまった。体は黒く変色し、腕もティラノモンよりも強靭に発達し攻撃力も増している。目に映るものは全て敵とみなし攻撃を仕掛け、完全に狂暴化してしまった。必殺技の『ファイアーブラスト』は超強力な火炎放射で、辺り一面を炎の海に変えてしまう。デジモン図鑑",
+        "ko": "악질적인 컴퓨터 바이러스 에 몸을 빼앗겨버린 공룡형 디지몬. 원래는 티라노몬 종류의 디지몬이었지만 육체를 구성하는 데이터가 버그를 일으켜 광폭한 디지몬으로 변했다. 몸은 검게 변색하고 팔도 티라노몬보다 강인하게 발달해 공격력이 증가하고 있다. 눈에 비치는 것을 전부 적으로 간주해 공격하는 등 완전히 광폭화했다. 필살기 '파이어 블래스트'는 초강력한 화염방사로 주위 일대를 불바다로 만들어 버린다. 도감 설정부터 노골적으로 고지라 시리즈 의 고지라 를 연상시키고 버전 5 데뷔 당시 스프라이트도 고지라를 빼다박았다. 자세한 내용은 디지몽 문서의 버전 5 부분을 참고하십시오. 모티브가 된 티라노사우루스처럼 애니메이션에 등장할 때나 위의 일러스트에는 앞발가락이 두개 달려있으나 TCG 일러스트 등 다른 매체에선 티라노몬처럼 세개로 그려지기도 한다. 원종인 티라노몬과 다크티라노몬X, 진화체 취급인 메탈티라노몬 등이 전부 앞발톱이 3개인걸 보면 발가락 1개가 구도 문제로 보이지 않을 뿐 3개가 맞는 모양. 특이하게도 항상 복부가 동글동글하고 부드럽게 묘사되는 티라노몬과 달리 다크티라노몬의 복부는 근육질이다 ."
+      },
+      "wikimon_url": "https://wikimon.net/Dark_Tyranomon"
+    },
+    {
+      "id": "airdra",
+      "name": "Airdramon",
+      "name_jp": "Airdramon",
+      "name_ko": "에어드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "4900",
+        "hp": "3200",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/airdra/frame1.gif",
+        "frame2": "sprites/airdra/frame2.gif"
+      },
+      "artwork": "sprites/airdra/artwork.jpg",
+      "lore": {
+        "en": "A Mythical Beast Digimon that grew gigantic wings. It's a highly valued monster due to it being said to have an existence close to that of a god. It specializes in mid-air attacks, its roar calls forth storms, and it causes giant tornadoes by flapping its wings. Its personality is considerably brutal, but it has great intelligence. However, being employed by an ordinary Tamer doesn't seem possible. Its Special Move is flapping its enormous wings to send out a sharp vacuum blade, (Spinning Needle).Digimon Reference Book⇨ English巨大な翼を生やした幻獣型デジモン。非常に貴重なモンスターで神に近い存在といわれている。空中からの攻撃を得意とし、その咆哮は嵐を呼び、翼を羽ばたかせることで巨大な竜巻を起こす。性格はかなり凶暴だが、高い知性を持っている。しかし、並みのテイマーでは使役することは、まず不可能であろう。必殺技は巨大な翼を羽ばたかせ、鋭利な真空刃を発生させる『スピニングニードル』。デジモン図鑑",
+        "ko": "거대한 날개를 가진 환수형 디지몬. 매우 귀중한 몬스터로 신에 가까운 존재라고 한다. 공중에서의 공격에 능숙하며 그 포효는 폭풍우 를 부르고, 날개를 홰치는 걸로 거대한 회오리를 일으킨다. 성격은 제법 흉포하지만 높은 지성을 가지고 있다. 허나, 보통의 테이머로선 사역하는 게 불가능하다. [3] 필살기는 거대한 날개를 퍼덕여 날카로운 진공 칼날을 발생시키는 『스피닝 니들』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Airdramon"
+    },
+    {
+      "id": "raptordra",
+      "name": "Raptordramon",
+      "name_jp": "Raptordramon",
+      "name_ko": "라프타드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5700",
+        "hp": "3400",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/raptordra/frame1.gif",
+        "frame2": "sprites/raptordra/frame2.gif"
+      },
+      "artwork": "sprites/raptordra/artwork.jpg",
+      "lore": {
+        "en": "Using a feral Digimon with predatory instincts as a base, modifications were made to allow it to reliably bring down its prey (targets), resulting in this Cyborg Digimon. Because it possesses too powerful an organic body and an uncontrollable ferocity, it was modified withChrome Digizoidof considerable weight in order to restrain its mobility. However, its spontaneity and flight capabilities are still extraordinarily high, largely due to the organic body the feral Digimon possessed even before modification. Despite its small size, if it gradually releases those abilities, it has the capability to easily bring down even a massive Digimon in a single blow. Its Signature Move is a charging attack that capitalizes on the sharpness of its Chrome Digizoid armor (Crash Charge). Its Special Move is leaping at the opponent and instantly biting and rending their vitals with its sharp teeth (Ambush Crunch).Digimon Reference Book⇨ English獲物（ターゲット）を確実に仕留めるために、捕食本能を持つ野生のデジモンをベースに改造されたサイボーグ型デジモン。あまりにも強靭な生体と手におえない獰猛性を持つ為、相当の重量があるクロンデジゾイドで改造し、運動能力を抑制している。しかし、瞬発力も飛翔能力も桁外れに高いのは、改造される前の、野生のデジモンの生体によるところが大きい。小型ながら徐々にその能力を開放すれば超大型デジモンでさえ優に一撃で仕留める能力を持つ。得意技はその鋭利なクロンデジゾイドの装甲を生かした突撃『クラッシュチャージ』。必殺技は敵に飛び掛り鋭い歯で一瞬にして急所を噛み千切る『アンブッシュクランチ』。デジモン図鑑",
+        "ko": "먹잇감(타깃)을 확실하게 제거하기 위해 포식 본능을 지닌 야생의 디지몬을 베이스로 개조된 사이보그형 디지몬. 너무나 강한 생체와 감당할 수 없는 난폭성을 지녔기에, 상당한 중량의 크롬 디지조이드 로 개조해 운동 능력을 제어하고 있다. 그럼에도 순발력, 비상 능력 모두 월등한 건 개조되기 전 야생 디지몬의 생체에 의한 것이 크다. 소형이면서 서서히 그 능력을 개방하면 초대형 디지몬조차 한 방으로 충분히 제거할 수 있는 능력을 지니게 된다. 필살기는 날카로운 크롬 디지조이드 갑옷을 활용한 돌격 『크래시 차지』와 적에게 덤벼들어 날카로운 이빨로 순식간에 급소를 물어뜯는 『앰부시 크런치』다."
+      },
+      "wikimon_url": "https://wikimon.net/Raptordramon"
+    },
+    {
+      "id": "dorugure",
+      "name": "DORUguremon",
+      "name_jp": "DORUguremon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6400",
+        "hp": "5000",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/dorugure/frame1.gif",
+        "frame2": "sprites/dorugure/frame2.gif"
+      },
+      "artwork": "sprites/dorugure/artwork.jpg",
+      "lore": {
+        "en": "A colossal Beast Dragon Digimon whose form was released through theInterfaceon its brow by the potent life-force data of the legendary beast, the \"Dragon\", which slept within the deepest parts of itsDigicore, and that holds the alias of \"Final Enemy\". With its overwhelming stature it can demolish any dauntlessly courageous Digimon, and even the attacks of the \"Nightmare Soldiers\" are deflected with one sweep of its wing. It is highly intelligent, and won't reveal its existence carelessly, so it is difficult to even detect it. Its Special Moves are firing a supermassive iron sphere more than ten times its own size, crushing the opponent in one hit (Metal Meteor), and skewering the opponent before flinging them up into the sky (Bloody Tower).Digimon Reference Book⇨ Englishデジコア（電脳核）の最深部に眠っていた伝説の生き物“ドラゴン”の強い生命力のデータが、額のインターフェースによって解き放たれた姿であり、“最後の敵”の異名をもつ超大型獣竜型デジモン。その圧倒的な巨体をもって勇猛果敢なデジモンをことごとく粉砕し、「ナイトメアソルジャー」系の攻撃すら翼の一振りで跳ね返す。知性が高く、滅多にその存在を現すことはなく、発見することすら困難である。必殺技はその巨体の１０倍以上の大型にして超高質量の鉄球を放ち、敵を一網打尽にする「メタルメテオ」と、敵を串刺しにし上空へ捨て去る「ブラッディータワー」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/DORUguremon"
+    },
+    {
+      "id": "deathxdorugure",
+      "name": "Death-X-Doruguremon",
+      "name_jp": "Death-X-Doruguremon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5400",
+        "hp": "4400",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/deathxdorugure/frame1.gif",
+        "frame2": "sprites/deathxdorugure/frame2.gif"
+      },
+      "artwork": "sprites/deathxdorugure/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon of thePrototype Digimon\"DORU Series\" that was experimented on in search of further evolutions, and was said to, at the time of the experiment, resemble itsfinal form. By continuously preying on theDigicoresof other Digimon, it is active despite its deceased condition, and hungers for a vast amount of Digicores in order to evolve. Since it instinctively sniffs out Digicores, the eye and snout portions of its head are covered in armor, and the sharp tips of the blades on its tail and wings are used to skewer many Digimon, allowing it to prey on their Digicores afterwards. Its Special Moves are breaking open the enemy's armor with the horn on its head and engulfing their Digicore (Bloody Cave), and \"Metal Meteor\".Digimon Reference Book⇨ Englishさらなる進化を求めて実験されたデジモンの原型『プロトタイプデジモン』“ドルシリーズ” の、実験当時の最終形態に酷似しているというアンデッド型デジモン。他のデジモンのデジコア（電脳核）を捕食し続けることで、死んだ状態でありながら活動し、進化するために膨大なデジコアを欲している。本能的にデジコアを嗅ぎ付けるため、頭部の目や鼻は装甲で覆われ、尾や翼にある鋭い剣先は、多くのデジモンを串刺しにして置き、後からデジコアを捕食するために使う。必殺技は頭部の角で敵の装甲を抉じ開けデジコアを喰らう『ブラッディーケイブ（洞窟の意）』と『メタルメテオ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Death-X-Doruguremon"
+    },
+    {
+      "id": "metaltyrano",
+      "name": "Metal Tyranomon",
+      "name_jp": "Metal Tyranomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4900",
+        "hp": "4500",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/metaltyrano/frame1.gif",
+        "frame2": "sprites/metaltyrano/frame2.gif"
+      },
+      "artwork": "sprites/metaltyrano/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that remodeled its body in order to acquire mightier powers. AfterMegadramonwas remodeled foranti-airuse, Metal Tyranomon was remodeled as ananti-groundinterceptor Digimon. Its reinforced body deflects all attacks, and it possesses the terrifying offensive power to smash through armor with its sturdy chin, no matter how hard it may be. Its Special Moves are a missile fired from its right arm (Giga Destroyer II), and an energy shell fired from its left arm (Nuclear Laser).Digimon Reference Book⇨ English強力なパワーを身につけるため体を改造したサイボーグデジモン。対空用に改造された「メガドラモン」につづきメタルティラノモンは対地用迎撃デジモンとして改造された。強化されたボディーはあらゆる攻撃を跳ね返し、強靭な顎でどんなに硬い装甲でも砕いてしまう凄まじい攻撃力をもつ。必殺技は右腕から発射されるミサイル『ギガデストロイヤーⅡ』と左腕から発射されるエネルギー弾『ヌークリアレーザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Tyranomon"
+    },
+    {
+      "id": "megadra",
+      "name": "Megadramon",
+      "name_jp": "Megadramon",
+      "name_ko": "메가드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4900",
+        "hp": "4300",
+        "ap": "1350"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/megadra/frame1.gif",
+        "frame2": "sprites/megadra/frame2.gif"
+      },
+      "artwork": "sprites/megadra/artwork.jpg",
+      "lore": {
+        "en": "A dark dragon Digimon that is said to boast the strongest, wickedest power among Dragon-type Cyborg Digimon of the Perfect level.As a Digimon that was artificially remodeled by someone, it was programmed to destroy everything. It can definitely be said that its existence is the epitome of acomputer virus. It can easily penetrate Computer Networks protected by strong security, and can very easily destroy and then completely reformat the host computer.Its Special Moves are firing countless organic missiles from both of its arms (Genocide Attack), and an attack that is able to cut any material to pieces (Ultimate Slicer).Digimon Reference Book⇨ English完全体の中の竜型サイボーグデジモンの中で最強最悪のパワーを誇るといわれている暗黒竜デジモン。何者かによって人為的に改造されたデジモンで、全てを破壊するためのプログラムが施されている。まさにその存在はコンピュータウィルスそのものであるといえる。強力なセキュリティーで守られているコンピュータネットワークへ簡単に侵入でき、ホストコンピュータの破壊、改造をいとも簡単に行ってしまう。必殺技は両腕から有機体系ミサイルを無数に発射する『ジェノサイドアタック』』と、あらゆる物質を切り裂く事ができる『アルティメットスライサー』。デジモン図鑑",
+        "ko": "완전체 용형 사이보그 디지몬 중에서는 최강최악의 파워를 자랑한다고 알려진 암흑룡 디지몬. 누군가 에 의해 인위적으로 개조된 디지몬으로, 모든 것을 파괴하기 위한 프로그램이 입력되어있다. 그야말로 그 존재는 컴퓨터 바이러스 그 자체라고 할 수 있다. 강력한 세큐리티로 보호받고 있는 컴퓨터 네트워크라 할지라도 간단하게 침입하여 호스트 컴퓨터의 파괴, 개조를 너무도 쉽게 해치워 버린다. 필살기는 양 팔에서 유기체계 미사일을 무수히 발사하는 제노사이드 어택 [2] 과 모든 물질을 베어버릴 수 있는 얼티메이트 슬라이서. 궁극체인 메 기 드라몬 하곤 헷갈리지 말자. 단 아래에 언급하듯이 그 메기드라몬으로 진화하는 것도 가능하다. 생김새도 근육질의 팔 달린 상반신에 다리가 없는 하반신 등, 둘이 실루엣도 상당히 닮아서 의외로 싱크로가 맞는다."
+      },
+      "wikimon_url": "https://wikimon.net/Megadramon"
+    },
+    {
+      "id": "gigadra",
+      "name": "Gigadramon",
+      "name_jp": "Gigadramon",
+      "name_ko": "기가드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "4800",
+        "hp": "4250",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/gigadra/frame1.gif",
+        "frame2": "sprites/gigadra/frame2.gif"
+      },
+      "artwork": "sprites/gigadra/artwork.jpg",
+      "lore": {
+        "en": "A dark dragon Digimon developed at the same time asMegadramon. As a combat dragon that was armed to the teeth by further remodeling, its existence is the epitome of a fiendishcomputer virus. Its Signature Move is waging attacks with theGiga Handson both of its arms (Guilty Claw). Its Special Move is firing countless organic missiles (Genocide Gear).Digimon Reference Book⇨ Englishメガドラモンと同時期に開発された暗黒竜デジモン。更なる改造で完全武装した戦闘竜で、その存在は凶悪なコンピュータウィルスそのものである。得意技は、両腕のギガハンドで攻撃をしかける『ギルティクロー』。必殺技は、有機体系ミサイルを無限に放つ『ジェノサイドギア』。デジモン図鑑",
+        "ko": "메가드라몬 과 같은 시기에 개발된 암흑룡 디지몬. 한층 더 개조하는 것으로 완전무장한 전투룡으로 그 존재는 흉악한 컴퓨터 바이러스 그 자체이다. 장기는 양팔의 기가 핸드로 공격하는 길티 크로 . 필살기는 유기체계 미사일을 무한히 날리는 제노사이드 기어 [1] ."
+      },
+      "wikimon_url": "https://wikimon.net/Gigadramon"
+    },
+    {
+      "id": "grade",
+      "name": "Grademon",
+      "name_jp": "Grademon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "4700",
+        "ap": "1650"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grade/frame1.gif",
+        "frame2": "sprites/grade/frame2.gif"
+      },
+      "artwork": "sprites/grade/artwork.jpg",
+      "lore": {
+        "en": "A Warrior Digimon with a pair of swords that is called the \"Golden Meteor\" due to the way it cuts into the vanguard with dauntless courage. When it uses its \"Souken Gradalpha\" with its twin-sword style, a godly speed is brought to those sword techniques, but due to the cursed swords it becomes impossible for it to control itself, and it can't fight and still retain its sanity. Although its overall power is, after all, inferior, its sword techniques surpass even the Holy KnightLord Knightmon, of the \"Royal Knights\", and it is said that itsroyal bluemantle is proof of the honor that was bestowed for its achievements over many battles. Its Special Moves are its swift deadly sword, which cuts the opponent apart crosswise (Cross Blade), and its heroic swords, which uses its twin blades from higher ground to smite the opponent over the head (Grade Slash).Digimon Reference Book⇨ Englishその勇猛果敢に先陣を斬る様から“金色の流星”と呼ばれる双剣の戦士型デジモン。「双剣グレイダルファー」を二刀流で使用する時、その剣技に神速がもたらされるが、自らは制御不能となる呪いの剣で、理性を保ったまま戦うことはできない。総合力ではさすがに劣るものの、剣技は聖騎士“ロイヤルナイツ”のロードナイトモンをも凌ぐとされ、ロイヤルブルーのマントは数々の戦いの功績に与えられた名誉の証であると言われている。必殺技は敵を十字に切り裂く神速の必殺剣『クロスブレード』と、上段より二刀を敵の頭上に叩き落す豪快な剣『グレイドスラッシュ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Grademon"
+    },
+    {
+      "id": "dorugora",
+      "name": "DORUgoramon",
+      "name_jp": "DORUgoramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6100",
+        "hp": "5900",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/dorugora/frame1.gif",
+        "frame2": "sprites/dorugora/frame2.gif"
+      },
+      "artwork": "sprites/dorugora/artwork.jpg",
+      "lore": {
+        "en": "DORUgoramon is an imaginary Digimon born from the \"Daydream of aDigicore\". It is a form that had even the Digicore's own creativity miraculously released through theInterfaceon its brow, and evolved. Possibly because it naturally possessed the potent life-force data of the legendary beast, the \"Dragon\", within its Digicore, the form created by its Digicore is a mighty avatar of \"Destruction\", and is an incarnation of the \"Ultimate Enemy\". Its Special Moves are putting its body and soul into a terrifying assault (Brave Metal), and releasing a destructive shock wave (DORU Din).Digimon Reference Book⇨ Englishドルゴラモンとは、“デジコア（電脳核）の空想”が生み出した架空のデジモンである。額のインターフェースによってデジコア自身の創造力までもが奇跡的に解き放たれて進化した姿である。元々デジコア内に伝説の生き物“ドラゴン”の強い生命力のデータを持っていた為か、デジコアの創造した姿は、強大な“破壊”の権化であり、“究極の敵”の化身であった。必殺技は全身全霊を込めた凄まじい突撃『ブレイブメタル』と、破壊の衝撃波を放つ『ドルディーン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/DORUgoramon"
+    },
+    {
+      "id": "deathxdorugora",
+      "name": "Death-X-Dorugoramon",
+      "name_jp": "Death-X-Dorugoramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5900",
+        "hp": "5500",
+        "ap": "2050"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/deathxdorugora/frame1.gif",
+        "frame2": "sprites/deathxdorugora/frame2.gif"
+      },
+      "artwork": "sprites/deathxdorugora/artwork.jpg",
+      "lore": {
+        "en": "A figure of thePrototype Digimon\"DORU Series\", experimented on in search of further evolutions, that achieved its ultimate form through \"Death-X-Evolution\". It is called the \"Digicore Predator\" because its own activity is dependent on theDigicoresof other Digimon, and is nothing but a threat to them. By continuously preying on the Digicores of other Digimon, it is active despite its deceased condition, and since it stores vast amounts of Digicore information within its body, its entire body is covered in restraints, and so it is barely able to function as a single Digimon. Its Special Moves are blasting everything away except the enemy's Digicore (Metal Impulse) and \"DORU Din\".Digimon Reference Book⇨ Englishさらなる進化を求めて実験されたデジモンの原型『プロトタイプデジモン』“ドルシリーズ” の、究極の形態が“デクスリューション”によって実現した姿。その活動自体が他のデジモンのデジコア（電脳核）に依存しているため“デジコアプレデター（電脳核捕食者）”とも呼ばれ、他のデジモンにとって脅威以外の何者でもない存在である。他のデジモンのデジコアを捕食し続けることで、死んだ状態でありながら活動し、膨大なデジコアの情報を体内に蓄積しているため、全身は拘束具で覆われ、かろうじて単体のデジモンとして活動することができている。必殺技は敵のデジコア以外全てを消し飛ばす『メタルインパルス（衝動の意）』と『ドルディーン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Death-X-Dorugoramon"
+    },
+    {
+      "id": "chaosdra",
+      "name": "Chaosdramon",
+      "name_jp": "Chaosdramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4900",
+        "hp": "6100",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/chaosdra/frame1.gif",
+        "frame2": "sprites/chaosdra/frame2.gif"
+      },
+      "artwork": "sprites/chaosdra/artwork.jpg",
+      "lore": {
+        "en": "It is said thatMugendramon, who was built by combining the parts of many Cyborg-species Digimon, demonstrated abilities beyond imagination, and that the experiment succeeded. Adding enhancements to further improve that Mugendramon resulted in Chaosdramon, who possesses a deep crimsonMetal Body. Its body is made of \"Red Digizoid\", which was repurified from the super-metalChrondigizoitto only improve its hardness, thus it is able to deflect any attack and destroy anything. Also, the version of the program that was set in itsDigicoreautomatically performs improvements to make it even more destructive. Chaosdramon is also the Digimon that the leader of theCrack Teamprimarily employs as its agent. Its Special Move is a superdreadnought-class energy wave fired from its two artillery cannons (Hyper Mugen Cannon).Digimon Reference Book⇨ English数々のサイボーグ系デジモンのパーツを組み合わせて造られたムゲンドラモンは想像以上の能力を発揮し、その実験は成功したと言われている。そのムゲンドラモンを更に改良強化したのが深紅のメタルボディを持つカオスドラモンである。超金属であるクロンデジゾイトを、再精製し硬度のみを上げた“レッドデジゾイド”を使ったボディは、あらゆる攻撃を跳ね返し、あらゆる物を破壊する。また、デジコアにセットされたプログラムのバージョンも、より破壊的に自律的に改良を施されている。カオスドラモンは主に、クラックチームのリーダーがエージェントとして使用するデジモンでもある。必殺技は２砲のキャノンから発射される超弩級のエネルギー波『ハイパームゲンキャノン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Chaosdramon"
+    },
+    {
+      "id": "metalseadra",
+      "name": "Metal Seadramon",
+      "name_jp": "Metal Seadramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5000",
+        "hp": "5400",
+        "ap": "1800"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalseadra/frame1.gif",
+        "frame2": "sprites/metalseadra/frame2.gif"
+      },
+      "artwork": "sprites/metalseadra/artwork.jpg",
+      "lore": {
+        "en": "The final form of theSeadramon-specieswhose whole body is covered in the super-metal,Chrome Digizoid. ItsMetal Bodyreflects every attack. Furthermore, it has the fastest speed of movement among aquatic Digimon. Metal Seadramon was remodeled as a Digimon for use in interception under the sea. With this, all Digimon for use in land, sea, and sky interception have been completed. Its Special Move is an energy cannon that is fired off from its snout (Ultimate Stream).The formal name of \"Chrome Digizoid\", the metal used by Metal-species Digimon, is called \"Chrondigizoit Hybrid Organism alloy\" and is abbreviated as \"CHO-alloy\". Chrome Digizoid is an intermediate material betweenChrondigizoitand living tissue, so it is able to integrate with living tissue, and it possesses both the super-hard firmness of Chrondigizoit, as well as the smoothness of living tissue.Digimon Reference Book⇨ English全身を超金属のクロンデジゾイドで覆われたシードラモン種の最終形態。このメタルボディーは、あらゆる攻撃を跳ね返す。更に水棲デジモンの中では最速の移動スピードを持っている。メタルシードラモンは水中迎撃用デジモンとして改造された。これにより陸海空全ての迎撃用デジモンが完成した。必殺技は鼻先の砲身から打ち出されるエネルギー砲『アルティメットストリーム』。※メタル系デジモンに使用される金属「クロンデジゾイド」の正式名称は「Chrondigizoit Hybrid Organism合金」略して「CHO－合金」と呼ばれている。クロンデジゾイドはクロンデジゾイトと生物の中間的存在で、生物と一体化することができ、かつクロンデジゾイトの持つ超硬度の硬さと、生物の持つ滑らかさを併せ持っている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Seadramon"
+    },
+    {
+      "id": "mugendra",
+      "name": "Mugendramon",
+      "name_jp": "Mugendramon",
+      "name_ko": "파워드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4800",
+        "hp": "5450",
+        "ap": "1850"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mugendra/frame1.gif",
+        "frame2": "sprites/mugendra/frame2.gif"
+      },
+      "artwork": "sprites/mugendra/artwork.jpg",
+      "lore": {
+        "en": "The Digital World's strongest Digimon, whose body is 100%full metal. It was built by synthesizing the parts of many Cyborg Digimon, and it is thought that all of the Cyborg Digimon produced so far were merelyprototypesfor the completion of Mugendramon. Its power is at a level that would overwhelm other Digimon, and it possesses an intellect which boasts incomparablethroughput, but it is a purely mechanical Digimon that does not possess its own will. Instead, someone planted a program containing evil intentions within theDigicoreat the center of its body, and Mugendramon is supplied with infinite power from that malice-filled Digicore. Its Special Move is superdreadnought-class energy waves fired from its two cannons (∞ Cannon).Digimon Reference Book⇨ English全身が１００％フルメタルのデジタルワールド最強のデジモン。数々のサイボーグ系デジモンのパーツを組み合わせて造られており、今まで製造されてきたサイボーグ系デジモンはムゲンドラモンを完成させるための試作型だったと思われる。他のデジモンを圧倒するほどのパワーと、桁違いの処理能力を誇る頭脳を持つが、自らの意思は持ち合わせていない純粋な機械デジモンである。そのかわり本体中枢にある電脳核（デジコア）に、何者かによって悪の意思が宿ったプログラムを植えつけられており、悪意に満ちた電脳核からは無限のパワーが供給されている。必殺技は２砲のキャノンから発射される超弩級のエネルギー波『∞（ムゲン）キャノン』。デジモン図鑑",
+        "ko": "전신이 100% 풀 메탈인 디지털 월드 최강의 디지몬. [4] [5] 수많은 사이보그계 디지몬들의 파츠를 조합해 만들어졌으며, 지금까지 제조되어 온 사이보그계 디지몬들은 파워드라몬을 완성시키기 위한 시작형이었다고 여겨진다. 다른 디지몬을 압도하는 파워와, 월등한 처리 능력을 자랑하는 두뇌를 지녔으나, 스스로의 의사는 가지지 못한 순수한 기계 디지몬이다. 대신 본체 중추에 있는 전뇌핵( 디지코어 )에, 누군가 에 의해 악한 의사가 깃든 프로그램이 심어져 있으며, 악의로 가득 찬 디지코어에선 무한한 파워가 공급되고 있다. 필살기는 2포의 캐논에서 발사되는 초대형 에너지파 ∞(무겐) 캐논."
+      },
+      "wikimon_url": "https://wikimon.net/Mugendramon"
+    },
+    {
+      "id": "gundra",
+      "name": "Gundramon",
+      "name_jp": "Gundramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5200",
+        "hp": "5000",
+        "ap": "1800"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/gundra/frame1.gif",
+        "frame2": "sprites/gundra/frame2.gif"
+      },
+      "artwork": "sprites/gundra/artwork.jpg",
+      "lore": {
+        "en": "A large Digimon with a massive quantity of firearms. Possessing outstanding firepower, Gundramon,Magna KidmonandBeel Starmonare collectively known as the \"Three Musketeers\" by many Digimon. Furthermore, Gundramon is part of theCrack Team, and is positioned for use in combat just likeMugendramon. It is faster than Mugendramon, and has high maneuverability such that it instantly moves within firing range. The burning smell of cartridges permeates through the 100%full metalcomprising its body, so it is a bitter, hard-boiled Digimon.Its Special Moves are picking off the enemy's vitals with the six-chambered revolvers on both of its hands (Der Blitz), pinning the enemy to the ground with its feet and shooting them atpoint-blank range(Platzenkreuz), in addition, it has \"Gewaltschwärmer\", a volley fired in all directions.Digimon Reference Book⇨ English大量の銃火器を持つ大型なデジモン。突出した射撃能力を持ち、多くのデジモンからはガンドラモン・マグナキッドモン・ベルスターモンを総じて『三銃士』と称されている。さらにガンドラモンはクラックチームに所属しており、ムゲンドラモンと同じく戦闘用に位置されている。ムゲンドラモンに比べスピードが速く、射程内へ一気に詰める高い機動性を持つ。全身を構成する100%フルメタルには薬莢の焦げた臭いが染みついた、渋くハードボイルドなデジモンである。必殺技は両手の６連装リボルバーで敵の急所を狙い撃つ『デルブリッツ』、足で敵を地面にねじ伏せ至近距離から撃ちつける『プラッツェンクロイツ』、さらに全方位一斉射撃の『ゲヴァルトシュべルマー』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gundramon"
+    },
+    {
+      "id": "alpha",
+      "name": "Alphamon",
+      "name_jp": "Alphamon",
+      "name_ko": "알파몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6300",
+        "hp": "5700",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/alpha/frame1.gif",
+        "frame2": "sprites/alpha/frame2.gif"
+      },
+      "artwork": "sprites/alpha/artwork.jpg",
+      "lore": {
+        "en": "One of the Holy Knight-type \"Royal Knights\", the highest rank ofNetwork Securitywhich is said to have thirteen members. While it is a Holy Knight, it is said that to the Holy Knights it is a being similar to adeterrent force, and as it doesn't appear in normal times, it is also called the \"Aloof Hermit\" who flutters a blue mantle, and is the \"Royal Knight\" assigned to the place called the \"Empty Seat\". Because it possesses the \"Alpha inForce\" ability, an ultimate force which, in battle, instantaneously replays the elapsed battle, although Alphamon's attacks are over in just an instant, you can't grasp how many attacks it actually unleashed, and in theory, you can only see the final blow that brought down its opponent. It can deploy amagic circleofDigimojifrom its hands, which attacks and defends. Its Special Moves are drawing out a convergence of light that was pierced into the center of a magic array and stabbing it through the opponent (Seiken Gradalpha), and spreading the wings on its back and flying up high, then deploying a magic circle even larger than the sky, with which it summons a legendary monster from another dimension (Digitalize of Soul).Digimon Reference Book⇨ English１３体存在すると言われるネットワークセキュリティの最高位、聖騎士“ロイヤルナイツ”の1体である。聖騎士でありながら、聖騎士への抑止力的な存在だと言われており、通常時は姿を現すことはなく、蒼いマントを翻す“孤高の隠士”とも呼ばれ、“空白の席”と呼ばれる所に位置する“ロイヤルナイツ”である。戦いにおいては過ぎ去った戦いを瞬間的に取り戻す究極の力「アルファインフォース」の能力を持つため、アルファモンの攻撃は一瞬にして終わるが、実際には何回の攻撃を繰り出したかは分からず、理論上、敵が倒れる最後の一撃だけを見ることになる。両手からデジ文字の魔方陣を展開して攻撃と防御を行う。必殺技は魔法陣の中心に突き刺さった光の収束を抜き、敵を貫く『聖剣グレイダルファー』と、背中の翼を広げて飛翔し、上空より巨大な魔方陣を展開して、異次元より伝説上のモンスターを召喚する『デジタライズ・オブ・ソウル』。デジモン図鑑",
+        "ko": "13체 존재한다 전해지는 네트워크 시큐리티의 최고위, 성기사 “로얄 나이츠”의 1체이다. 성기사면서도, 성기사에 대한 억제력적인 존재라 불려, 통상시는 모습을 드러내는 일 없이, 푸른 망토를 걸친 “고고의 은자”라고도 불리며 “공백의 자리”로 불리는 장소에 위치하는 “로얄 나이츠”이다. 전투에 있어서는, 지나간 싸움을 순간적으로 회수하는 궁극의 힘 \"알파 인포스\"의 능력을 가졌기에, 알파몬의 공격은 순식간에 끝나지만 실제로는 몇 번이나 공격을 연속해 내질렀는지는 알 수 없고, 이론상, 적이 쓰러지는 마지막 일격만을 보게 된다. 양손으로부터 디지 문자의 매직 스퀘어를 전개해 공격과 방어를 실시한다. 필살기는 마법진의 중심에 꽂힌 빛의 검을 뽑아, 적을 꿰뚫는 \"성검 그레이달파\" [2] 와 등의 날개를 펼쳐 날아올라, 상공에서 거대한 매직 스퀘어를 전개하여, 이차원에서 전설상의 몬스터를 소환하는 \"디지털라이즈 오브 소울\". [3] [4] 디지털 몬스터 카드 게임 Sx-100 : 지나간 시간을 순간적으로 되돌리는 궁극의 힘 ! Bx-66 : 궁극의 힘 「알파 인포스」 작렬! Bx-109 : 해방된 궁극의 힘! 광망의 성검 ! Bx-144 : 시공을 넘어 세계를 구하는 환상의 성기사! Bx-149 : 신화의 세계에서 현현한, 칠흑의 궁극기사 ! Re-39t : 다른 성기사를 베는 「고고한 은자」 Re-101: 시간의 흐름을 벗어나 펼치는 순간적인 공격의 교차! Re-102: 성기사를 억누르는 은자가 쏘는 강렬한 녹색 빛! Re-103: \"초연한 은둔자\"라고 불리는 기사! Re-116: 디지 문자가 내는 공방 혼연의 마법진! Re-135 : 찰나의 습격으로 마무리 짓는 전시의 초월자! 디지털 몬스터 25주년 기념전 ~디지몬 뮤지엄~ 디지털 월드를 관리하기 위해 세운, 성기사 디지몬들로 이루어진 조직 \"로얄 나이츠\"의 일원으로, 그 중에서도 억지력이 되는 존재로서 공백의 자리인 13번째 자리에 해당하는 환상의 디지몬입니다. 강대한 힘을 가진 로얄 나이츠 일동의 행동을 감시하고, 도를 넘는 행위를 막고자 활약하는 모습으로, 애니메이션이나 게임 등, 많은 작품에서 그 활약상이 곧잘 묘사됐습니다. 전투에 들어서면 자신의 시간만을 되감아, 무수한 공격을 동시에 퍼붓는 궁극의 힘 알파 인포스를 보유하고 있으며, 최강의 디지몬 중 하나이기도 합니다. 알파몬의 외견은 오메가몬과 대비되는 느낌으로 디자인 되었으며, 온몸이 검고 건장한 손발, 그리고 격투전 위주의 마법사를 이미지로 한 디자인으로 완성되었습니다. 링크 2."
+      },
+      "wikimon_url": "https://wikimon.net/Alphamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "dori",
+      "to": "doru",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "dori",
+      "to": "agu_b",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "doru",
+      "to": "doruga",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "doru",
+      "to": "deathxdoruga",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "doru",
+      "to": "raptordra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "doruga",
+      "to": "dorugure",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdoruga",
+      "to": "dorugure",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "raptordra",
+      "to": "dorugure",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "doruga",
+      "to": "deathxdorugure",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdoruga",
+      "to": "deathxdorugure",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "raptordra",
+      "to": "deathxdorugure",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdoruga",
+      "to": "metaltyrano",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "metaltyrano",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "airdra",
+      "to": "metaltyrano",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "megadra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "airdra",
+      "to": "megadra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "to": "gigadra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "airdra",
+      "to": "gigadra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "doruga",
+      "to": "grade",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "raptordra",
+      "to": "grade",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "dorugure",
+      "to": "dorugora",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "deathxdorugure",
+      "to": "dorugora",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "grade",
+      "to": "dorugora",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "dorugure",
+      "to": "deathxdorugora",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdorugure",
+      "to": "deathxdorugora",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grade",
+      "to": "deathxdorugora",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "deathxdorugure",
+      "to": "chaosdra",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "to": "chaosdra",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "megadra",
+      "to": "metalseadra",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gigadra",
+      "to": "metalseadra",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "to": "mugendra",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "megadra",
+      "to": "mugendra",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "metaltyrano",
+      "to": "gundra",
+      "conditions": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "gigadra",
+      "to": "gundra",
+      "conditions": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "dorugure",
+      "to": "alpha",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "grade",
+      "to": "alpha",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "dodo",
+      "to": "dori",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "deathxdoruga",
+      "conditions": {
+        "text": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "darktyrano",
+      "conditions": {
+        "text": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "agu_b",
+      "to": "airdra",
+      "conditions": {
+        "text": "Choose one:"
+      }
+    }
+  ]
+}

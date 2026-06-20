@@ -1,0 +1,467 @@
+{
+  "id": "dro",
+  "name": "Dinosaur Roar",
+  "release": "EN: July 2022 - Retail (Included with Vital Hero Digimon Red)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_dro.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_bota.gif",
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bota.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bota.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bota.jpg"
+    },
+    {
+      "id": "koro",
+      "name": "Koromon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/koro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/koro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/koro.jpg"
+    },
+    {
+      "id": "agu",
+      "name": "Agumon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/agu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/agu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/agu.jpg"
+    },
+    {
+      "id": "agu_b",
+      "name": "Agumon (Black)",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/agu_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/agu_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/agu_b.jpg"
+    },
+    {
+      "id": "grey",
+      "name": "Greymon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grey.jpg"
+    },
+    {
+      "id": "monochro",
+      "name": "Monochromon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/monochro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/monochro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/monochro.jpg"
+    },
+    {
+      "id": "grey_b",
+      "name": "Greymon (Blue)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grey_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grey_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grey_b.jpg"
+    },
+    {
+      "id": "darktyrano",
+      "name": "Dark Tyranomon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/darktyrano.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/darktyrano.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/darktyrano.jpg"
+    },
+    {
+      "id": "metalgrey_va",
+      "name": "Metal Greymon (Vaccine)",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalgrey_va.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalgrey_va.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalgrey_va.jpg"
+    },
+    {
+      "id": "vermilli",
+      "name": "Vermillimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/vermilli.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/vermilli.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vermilli.jpg"
+    },
+    {
+      "id": "skullgrey",
+      "name": "Skull Greymon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "16",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/skullgrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/skullgrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/skullgrey.jpg"
+    },
+    {
+      "id": "metalgrey_vi",
+      "name": "Metal Greymon (Virus)",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalgrey_vi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalgrey_vi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalgrey_vi.jpg"
+    },
+    {
+      "id": "wargrey",
+      "name": "War Greymon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wargrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wargrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wargrey.jpg"
+    },
+    {
+      "id": "victorygrey",
+      "name": "Victory Greymon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/victorygrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/victorygrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/victorygrey.jpg"
+    },
+    {
+      "id": "blackwargrey",
+      "name": "Black War Greymon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/blackwargrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/blackwargrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/blackwargrey.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "koro",
+      "from_name": "Koromon",
+      "to": "agu",
+      "to_name": "Agumon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "koro",
+      "from_name": "Koromon",
+      "to": "agu_b",
+      "to_name": "Agumon (Black)",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "agu",
+      "from_name": "Agumon",
+      "to": "grey",
+      "to_name": "Greymon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "agu",
+      "from_name": "Agumon",
+      "to": "monochro",
+      "to_name": "Monochromon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "agu",
+      "from_name": "Agumon",
+      "to": "darktyrano",
+      "to_name": "Dark Tyranomon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "grey",
+      "from_name": "Greymon",
+      "to": "metalgrey_va",
+      "to_name": "Metal Greymon (Vaccine)",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "from_name": "Dark Tyranomon",
+      "to": "metalgrey_va",
+      "to_name": "Metal Greymon (Vaccine)",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "grey",
+      "from_name": "Greymon",
+      "to": "vermilli",
+      "to_name": "Vermillimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "monochro",
+      "from_name": "Monochromon",
+      "to": "vermilli",
+      "to_name": "Vermillimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "from_name": "Dark Tyranomon",
+      "to": "vermilli",
+      "to_name": "Vermillimon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grey",
+      "from_name": "Greymon",
+      "to": "skullgrey",
+      "to_name": "Skull Greymon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "monochro",
+      "from_name": "Monochromon",
+      "to": "skullgrey",
+      "to_name": "Skull Greymon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "darktyrano",
+      "from_name": "Dark Tyranomon",
+      "to": "skullgrey",
+      "to_name": "Skull Greymon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "monochro",
+      "from_name": "Monochromon",
+      "to": "metalgrey_vi",
+      "to_name": "Metal Greymon (Virus)",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vermilli",
+      "from_name": "Vermillimon",
+      "to": "wargrey",
+      "to_name": "War Greymon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "vermilli",
+      "from_name": "Vermillimon",
+      "to": "victorygrey",
+      "to_name": "Victory Greymon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "skullgrey",
+      "from_name": "Skull Greymon",
+      "to": "victorygrey",
+      "to_name": "Victory Greymon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "skullgrey",
+      "from_name": "Skull Greymon",
+      "to": "blackwargrey",
+      "to_name": "Black War Greymon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

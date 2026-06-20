@@ -1,0 +1,669 @@
+{
+  "schema_version": "1.0",
+  "id": "gamma",
+  "name": "Gammamon",
+  "category": "v",
+  "device": "VBDM",
+  "release": "JP: Oct 2021 - Retail (Set -V1-, also included with Digivice -V-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_gamma.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "curi",
+      "name": "Curimon",
+      "name_jp": "Curimon",
+      "name_ko": "쿠리몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/curi/frame1.gif",
+        "frame2": "sprites/curi/frame2.gif"
+      },
+      "artwork": "sprites/curi/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon characterized by the single horn on its brow and its frill. It is so active that before it is even born itsDigitamabounces, and after hatching it moves around vigorously. The horn on its brow and the frill on its head are still immature and soft, and although they cannot be used in battle yet, they help it to keep its balance while moving around and protects its body when it bumps into things. It heroically threatens approaching enemies by producing bubbles.Digimon Reference Book⇨ English額の1本角と襟飾りが特徴的な幼年期デジモン。生まれる前のデジタマが跳ねるほどに活発的で、孵化すれば元気いっぱいに動き回る。額の角や頭の襟飾りは未成熟で柔らかく、まだ戦いに使うことはできないが、動き回る時にバランスを取ったりぶつかっても身を守る役に立っている。近づいてくる敵には泡を出して雄々しく威嚇する。デジモン図鑑",
+        "ko": "이마의 1개의 뿔과 넥타이같은 장식이 특징인 유년기 디지몬. 태어나기 전 디지타마에서부터 뛰어다닐 정도로 활발하고 부화하면 활기가 넘친다. 이마의 뿔과 머리의 장식은 미성숙하고 부드러워 아직 싸움에 사용할 수 없지만, 움직일 때 균형을 잡거나 부딪쳤을 때 몸을 보호할 수 있다. 다가오는 적에게는 거품을 뿜어 씩씩하게 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Curimon"
+    },
+    {
+      "id": "guri",
+      "name": "Gurimon",
+      "name_jp": "Gurimon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/guri/frame1.gif",
+        "frame2": "sprites/guri/frame2.gif"
+      },
+      "artwork": "sprites/guri/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon that grew up fromCurimonand now has two horns on its brow. It bounces around energetically, and when it finds large, hard rocks, it strikes them with its horn-charging Signature Move \"Chikuchiku Attack\". It enjoys coming across whole rocks, and runs around bursting with energy to become even stronger. Its frill has grown harder as well, and it seems that in addition to protecting its soft body, it also has the effect of making it look bigger.Digimon Reference Book⇨ Englishクリモンが成長し額の角が2本になった幼年期デジモン。元気に跳ねまわり、硬そうな大きな岩を見つけると、得意技の角で突く『チクチクアタック』でぶつかっていく。壊れなかった岩に出会えると喜び、さらに強くなろうと元気を爆発させて駆け回る。襟飾りも硬く発達し、柔らかな体を守るほか、自分を大きく見せる効果もあるようだ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gurimon"
+    },
+    {
+      "id": "gamma",
+      "name": "Gammamon",
+      "name_jp": "Gammamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/gamma/frame1.gif",
+        "frame2": "sprites/gamma/frame2.gif"
+      },
+      "artwork": "sprites/gamma/artwork.jpg",
+      "lore": {
+        "en": "A very rare, young, white Ceratopsian Digimon that was recently discovered. Gammamon's evolution is said to be linked to a \"digital signal that came from extragalactic space\". The two hard horns that grow from its brow are weapons that are useful for offense and defense. It is also capable of levitating, and flying for a short period with the tiny wings on its back. It rarely shows its emotions, but it seems that once you reach out to it, it will gradually grow attached to you.Its Special Move is charging with its two horns (Horn Attack). In addition, its \"Breaclaw\", which it unleashes with the claws on its left hand that has accumulated energy, is also a powerful attack technique.Digimon Reference Book⇨ English新たに発見された非常に珍しい白く幼い角竜型デジモン。ガンマモンへの進化は“銀河系外の宇宙から飛んできたデジタル信号”と関係があると言われている。額から生えた硬質の二本ツノは攻防に役立つ武器だ。背中の小さな羽で体を浮かせ、少しだけ飛ぶこともできる。感情を出すことは少ないが、心を通わせると少しずつ懐いてくれるようだ。必殺技は、二本ツノで突進する『ホーンアタック』。さらに力を溜めた左手のツメで放つ『ブレイクロー』も強力な攻撃技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gammamon"
+    },
+    {
+      "id": "betelgamma",
+      "name": "Betel Gammamon",
+      "name_jp": "Betel Gammamon",
+      "name_ko": "베텔감마몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/betelgamma/frame1.gif",
+        "frame2": "sprites/betelgamma/frame2.gif"
+      },
+      "artwork": "sprites/betelgamma/artwork.jpg",
+      "lore": {
+        "en": "A form in whichGammamongrew up, and its body turned red due to the flames of its blazing heart. Its agility has increased, and its power and speed in close combat have risen even more. The power of its attacks doubles as the excitement of its emotions swells.Its Special Moves are \"Sorblow\", in which it punches the enemy with the flames it amasses in its hands, and \"Sorshot\", in which it hurls the flames in its hands, albeit less powerful.Digimon Reference Book⇨ Englishガンマモンが成長し、燃え滾る心の炎によって体が赤くなった姿。俊敏さが増し、格闘戦におけるパワーとスピードがさらにアップした。感情のボルテージの高まりに応じて、攻撃の威力も倍増する。必殺技は、手に溜めた炎で敵を殴る『ソルブロー』、威力は劣るが手の炎を投げる『ソルショット』を持つ。デジモン図鑑",
+        "ko": "감마몬 이 성장하면서 타오르는 마음의 불꽃으로 몸이 붉어진 모습. 민첩성이 증가하면서, 격투전에서 파워와 스피드가 눈에 띄게 향상됐다. 감정의 열기의 고조에 따라 공격의 위력도 배가 된다. 필살기는 손에 모인 불꽃으로 적을 때리는 \"솔블로\", 위력은 떨어지지만 손의 불꽃을 던지는 \"솔샷 [1] \"을 갖는다."
+      },
+      "wikimon_url": "https://wikimon.net/Betel_Gammamon"
+    },
+    {
+      "id": "kausgamma",
+      "name": "Kaus Gammamon",
+      "name_jp": "Kaus Gammamon",
+      "name_ko": "카우스감마몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/kausgamma/frame1.gif",
+        "frame2": "sprites/kausgamma/frame2.gif"
+      },
+      "artwork": "sprites/kausgamma/artwork.jpg",
+      "lore": {
+        "en": "A form in whichGammamongrew up, and its body turned blue due to its calm and clear mind. It soars like a glider by spreading the membranes under both of its arms, allowing it to fly far from high places, or rise just briefly while gliding using the jet ports on its knees. It is always calm, cool, and collected, and fights by seeing through the opponent's movements.Its Special Moves are performing a ramming attack while gliding (UrdaImpulse), and a somersault kick that utilizes the jets from its knees (LambertaKick).Digimon Reference Book⇨ Englishガンマモンが成長し、澄み渡る穏やかな心で青い体となった姿。両脇の膜を広げてグライダーのように滑空し、高い場所から遠くへ飛んだり、膝の噴射口で滑空時に一度だけ浮上することもできる。どんなときも冷静沈着で、相手の動きを見切って戦う。必殺技は、滑空しながら体当たりする『ウルダインパルス』、膝からの噴射を応用した宙返り蹴り『ランベルタキック』を持つ。デジモン図鑑",
+        "ko": "감마몬 이 성장하여, 맑고 온화한 마음으로 푸른 몸이 된 모습. 양쪽 겨드랑이 막을 펼쳐 글라이더 처럼 활공해, 높은 곳에서 멀리 날거나, 무릎 분사구로 활공 시 한 번만 떠오를 수도 있다. 어떤 때라도 냉정, 침착하게 상대의 움직임을 간파하고 싸운다. 필살기는 활공하면서 몸을 부딪치는 \"우르다 임펄스 [3] \", 무릎에서의 분사를 응용한 공중제비 발차기 \"람베르타 킥 [4] \"을 갖는다."
+      },
+      "wikimon_url": "https://wikimon.net/Kaus_Gammamon"
+    },
+    {
+      "id": "wezengamma",
+      "name": "Wezen Gammamon",
+      "name_jp": "Wezen Gammamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/wezengamma/frame1.gif",
+        "frame2": "sprites/wezengamma/frame2.gif"
+      },
+      "artwork": "sprites/wezengamma/artwork.jpg",
+      "lore": {
+        "en": "The Adult ofGammamonthat has taken on a quadrupedal appearance, it now has an imposing attitude and a generous heart. It is equipped with firearms on various parts of its body; the two horns on itscalvariahave turned into long-range cannons, the horn on its snout has turned into aanti-aircraftgun, and the tips of its four feet have turned into smallautocannons, and it is capable of firing them. The normal pace of its actions is sluggish.Its Special Move is shooting high-powered shells from its two cannons (Sedna). In addition, itspositroncannon \"Albion\", which is shot from its long gun barrel while it pierces its tail into the ground to supply it with energy, boasts the greatest offensive power of Wezen Gammamon. However, each time it shoots, the exhaust ports open to radiate heat, so it is incapable of rapid-firing.Digimon Reference Book⇨ Englishどっしりとした心構えでおおらかな心になり、４つ足の姿となったガンマモンの成熟期。体の各部に火器を搭載し、頭頂部の2本の角は長射程の大砲に、鼻の角は高射砲に、４つの足先は小型の機関砲になって射撃することができる。普段の行動速度は遅い。必殺技は、２つの大砲から高威力の砲弾を撃つ『セドナ』。そして尻尾を地面に刺しエネルギーを補給し長砲身から撃つ陽電子砲『アルビオン』は、ウェズンガンマモン最大の攻撃力を誇る。しかし撃つたびに排気口が開き放熱するため連射はできない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wezen_Gammamon"
+    },
+    {
+      "id": "gulusgamma",
+      "name": "Gulus Gammamon",
+      "name_jp": "Gulus Gammamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/gulusgamma/frame1.gif",
+        "frame2": "sprites/gulusgamma/frame2.gif"
+      },
+      "artwork": "sprites/gulusgamma/artwork.jpg",
+      "lore": {
+        "en": "A ferocious Digimon that evolved when the evil heart hidden withinGammamonwas unleashed. It rejects interference from those around it and is only interested in fighting, and once it catches an opponent that comes into sight, it will not stop attacking them until they breathe their last breath. It puts up ferocious battles where it attacks regardless of whether its limbs get broken.Its Special Moves are crushing the enemy with the flames of darkness it amasses in its hands (DarkPales), and hurling those flames of darkness while maintaining their power (Desdemona). In addition, it kills the enemy with its \"Dead-end Skewer\", in which it pierces their vitals with the tip of its tail with pinpoint accuracy.Digimon Reference Book⇨ Englishガンマモンの内部に秘められていた悪なる心が解放されて進化した凶暴なデジモン。周りからの干渉を拒み戦いにしか興味が無く、目に見える相手に掴みかかれば息の根が止まるまで攻撃は終わらない。自らの手足が潰れてもお構い無しに攻撃する凶暴性を持った戦いを見せる。必殺技は手に溜めた闇の炎で敵を握り潰す『ダークパレス』と、その闇の炎の威力を維持させたまま投げる『デスデモーナ』。さらに尻尾の先でピンポイントに急所を突く『デッドエンドスキュアー』で敵を絶命させる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gulus_Gammamon"
+    },
+    {
+      "id": "canoweiss",
+      "name": "Canoweissmon",
+      "name_jp": "Canoweissmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/canoweiss/frame1.gif",
+        "frame2": "sprites/canoweiss/frame2.gif"
+      },
+      "artwork": "sprites/canoweiss/artwork.jpg",
+      "lore": {
+        "en": "A Sky Dragon Digimon with large wings, its body surface has turned a high-purity white as a result of the flames of its blazing heart further intensifying. It prefers fair matches in terms of power and speed, and shows a joyful expression as the battle heats up. However, it will not permit injustice or unjust actions, and takes them on in a righteous manner to overcome them. It is said that when it draws out power that transcends its limits during battle, its whole body will glitter with white light, and become so bright that it can even be detected from theDigital Worldsof other dimensions.It has a variety of combat techniques, and its \"GalliaFissure\", in which it tears the enemy to pieces with its tough claws, boasts the power to easily cut throughChrome Digizoid, if it has a low purity. In addition, they can also be used at long range, such as its \"Dragonia\", in which it closes its wings and charges like a bullet of light, and \"MeteorLux\", in which the light from its spread wings rains down as a meteor shower. For its greatest Special Move \"GranNova\", it gathers all the energy in its body and fires the brightest fireball from its mouth, enveloping the enemy in a scorching-hot star, even if they are an Ultimate.Digimon Reference Book⇨ English燃え滾る心の炎がさらに激しさを増したことで高純度の白い体表となった、大翼を持つ天竜型デジモン。パワーでもスピードでも正々堂々の勝負を好み、戦いが白熱するほどに歓喜の表情を見せる。しかし不正や非道な行いは許さず、それを踏み越える正道で相対する。戦いの中で限界を超越する力を引き出すと全身が白光に煌めき、別次元のデジタルワールドからも感知できるほどの光度になるという。多彩な戦技を身につけており、強靭な爪が敵を切り裂く『ガリアフィッシャー』は低純度のクロンデジゾイドならば簡単に断ち割る威力を誇る。さらに羽を閉じて光弾のように突撃する『ドラゴニア』、広げた羽から輝きが流星群となって降り注ぐ『メテオルクス』など遠距離でも対応可能。最大の必殺技『グランノヴァ』は全身の力を集め口から最光度の火球を放ち、究極体であろうとも焦熱の星で包み込むデジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Canoweissmon"
+    },
+    {
+      "id": "brachio",
+      "name": "Brachiomon",
+      "name_jp": "Brachiomon",
+      "name_ko": "브라키몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/brachio/frame1.gif",
+        "frame2": "sprites/brachio/frame2.gif"
+      },
+      "artwork": "sprites/brachio/artwork.jpg",
+      "lore": {
+        "en": "A Plesiosaur Digimon resembling theBrachiosaurusthat existed long ago. It is quite the heavyweight among dinosaur Digimon, so you'll be in for a world of hurt if you get trampled by its large body. However, because it is herbivorous and docile, it never attacks without reason. Its Special Move is spitting out countless bubbles to attack the enemy (Brachio Bubble).Digimon Reference Book⇨ English大昔に存在していたブラキオサウルスのような首長竜型デジモン。恐竜デジモンの中ではかなりの重量級で、その巨体にふまれたらタダではすまない。しかし、草食性でおとなしいため、むやみに攻撃してくることはない。必殺技は無数のアワを吐き出して敵を攻撃する『ブラキオバブル』。デジモン図鑑",
+        "ko": "아주 옛날에 존재했던 브라키오사우루스 처럼 생긴 수장룡형 디지몬. 공룡 디지몬 중에서는 상당한 중량급이라서 그 거구에 밟히면 그냥 넘어가지 못할 것이다. 그러나 초식성이라서 온순하며 함부로 남을 공격해오지는 않는다. 필살기는 무수히 많은 거품을 뱉어 적을 공격하는 \"브라키오 버블\"."
+      },
+      "wikimon_url": "https://wikimon.net/Brachiomon"
+    },
+    {
+      "id": "chimaira",
+      "name": "Chimairamon",
+      "name_jp": "Chimairamon",
+      "name_ko": "키메라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/chimaira/frame1.gif",
+        "frame2": "sprites/chimaira/frame2.gif"
+      },
+      "artwork": "sprites/chimaira/artwork.jpg",
+      "lore": {
+        "en": "A Composite Digimon for which each part that composes its whole, such as its arms, legs, body, and tail, was put together by synthesizing various Digimon. How this kind of synthesis was performed is shrouded in mystery. In contrast toMugendramon, who was synthesized from the metal parts of several varieties of Digimon, it was combined from organic parts, and whether it is Mugendramon'sprototype, or it was built to use against Mugendramon, is still uncertain. However, the one thing that is known is that, because of Chimairamon's terrifying combat instinct, it is nothing but a powerful force for destruction. The deadly heat ray it emanates from its four arms is \"Heat Viper\". Getting hit by this heat ray is like Chimairamon's curse, a terrifying technique which is cruelly dispersed in every direction.Digimon Reference Book⇨ English手、足、体、尾など全体を構成する各パーツが、様々なデジモンの合成で組み合わされ創られている合成型デジモン。何故このような合成が行われたのか、それは謎に包まれている。数種のデジモンのメタルパーツを合成したムゲンドラモンに対し、生身のパーツで組み合わされており、ムゲンドラモンの試作型なのか、対ムゲンドラモン用に造られたデジモンなのか、その真相は未だ解明されていない。ただ一つだけ分かっていることは、キメラモンの恐るべき闘争本能、そして強大な破壊力だけである。四本の腕から放出される、死の熱線『ヒート・バイパー』。この熱線を受けたものはキメラモンの呪いのごとく、見るも無残にバラバラに四散してしまう恐ろしい技であるデジモン図鑑",
+        "ko": "팔, 다리, 몸, 꼬리 등 전신을 구성하는 각 부위가 여러 가지 디지몬을 조합해 만들어진 합성형 디지몬. 왜 합성을 했는지 그것은 수수께끼에 싸여 있다. 여러 디지몬의 금속 파트를 합성한 파워드라몬 과는 달리 생체 파트로 짜맞춰져 파워드라몬의 시작형인가, 대파워드라몬용으로 만들어진 디지몬인가, 그 진상은 아직도 해명되지 않았다. 단 한 가지 알 수 있는 것은 키메라몬의 무서운 투쟁 본능, 그리고 강대한 파괴력 뿐이다. 필살기는 4개의 팔에서 방출되는 죽음의 열선, \"히트 바이퍼\" [3] . 이 열선을 받은 것은 키메라몬의 저주에 걸린 것처럼, 보는 것도 끔찍하게 뿔뿔이 흩어져 산산조각나는 무서운 기술이다. 키메라몬의 존재는 인간이 디지털 월드에 저지른 죄악 중에서도 금기의 영역을 어긴 것으로, 각 부위는 원본을 능가해, 결과적으로 그 전투력은 파일섬에서도 최강자였던 디지타몬 에 필적한다고 한다. [4] 파워 디지몬에서 드러난 부위들은 그레이몬 의 몸 & 턱, 캅테리몬 의 투구 & 이빨, 가루몬 의 뒷다리, 모노크로몬 의 꼬리, 엔젤몬 & 에어드라몬 의 날개, 스컬그레이몬 의 오른팔, 쿠가몬 의 왼팔, 그리고 데블몬 의 양팔, 메탈그레이몬 [5] [6] 의 갈기 & 눈 [7] 으로 이루어져 있다. 이 디지몬들은 카이저가 대면하기도 했으며 초기 디지털 몬스터에 수록된 디지몬들이다. 카이저를 배신하고 위협하며 매그너몬과 결투를 벌일 때 합체한 10마리 디지몬들의 목소리가 섞여서 나온다."
+      },
+      "wikimon_url": "https://wikimon.net/Chimairamon"
+    },
+    {
+      "id": "tankdra",
+      "name": "Tankdramon",
+      "name_jp": "Tankdramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/tankdra/frame1.gif",
+        "frame2": "sprites/tankdra/frame2.gif"
+      },
+      "artwork": "sprites/tankdra/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon which functions as the riot-suppression and assault-extermination for the mechanized \"D-Brigade\". It specializes in the extermination of hordes of \"Targets\", and it boasts overwhelming firepower. It is equipped with radar which is able tolockonto thirty \"Targets\" simultaneously, and if one Tankdramon supplements its \"Targets\" by data-linking to other Tankdramon, it is said to be impossible to escape. Also, its mission survival rate is very high, and it is said that so far onlyonehas ever been shot down during a sortie. Its Special Move is its \"Striver Cannon\" firing a shell loaded with amini-nuke, reducing everything within a 30 km radius to scorched earth. Also, in close-combat it uses the \"Blast Gatling\" beside its cannon, which can fire all 3600 bullets in one second.Digimon Reference Book⇨ English機械化旅団「D－ブリガード」の暴徒鎮圧・強襲駆逐を任務とするマシーン型デジモン。多数の「目標」を駆逐することに特化しており、圧倒的な火力を誇る。同時に３０体の「目標」をロックオンすることの出来るレーダーを装備しており、１体のタンクドラモンが補足した「目標」は他のタンクドラモンにもデータリンクされ、逃げ切ることは不可能といわれている。また、任務の生存率も非常に高く、今までの出撃で撃墜されたのは１体しかいないと言われている。必殺技『ストライバ－キャノン』は小型核弾頭搭載の砲弾を放ち、半径３０ｋｍ内の全てを焦土と化す。また、キャノンの横にある『ブラストガトリング』は接近戦用に使われ、１秒間に３６００発の弾を撃ち尽くすことができる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tankdramon"
+    },
+    {
+      "id": "aegisdra",
+      "name": "Aegisdramon",
+      "name_jp": "Aegisdramon",
+      "name_ko": "이지스드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/aegisdra/frame1.gif",
+        "frame2": "sprites/aegisdra/frame2.gif"
+      },
+      "artwork": "sprites/aegisdra/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon born from the fusion of aPlesiomonwithSeadramon-speciesdata. It is said that its shining armor, made ofGold Digizoid, will purify all evil. It is a member of theCrack Team, and is mainly in charge of analyzing information on the enemy and reconnaissance. It is also known as the brains of the Crack Team due to the fact that the analyzed information is quickly sent to the Crack Team deployed to its surroundings, allowing them to keep the upper hand in combat situations. In addition, it has enough firepower to wipe out a whole battalion, even when acting alone. Its Special Moves are firing gigantic shots of water from both its arms (Power Water), shooting down an enemy it haslockedonto with missiles launched from its deck (Blaze Power), and crushing the opponent with a water current spewed out from its mouth (Tera Hydro Breath). Also, it has \"Shine Breaker\", wherein it simultaneously fires a large quantity of missiles enough to cover the sky, and charges upon the enemy at its maximum output.Digimon Reference Book⇨ Englishプレシオモンにシードラモン系のデータが融合して生まれたサイボーグ型デジモン。ゴールドデジゾイドでできた光り輝く装甲は、あらゆる邪悪を祓うといわれている。クラックチームに所属し、主に敵の情報分析や索敵を担当する。分析した情報は周囲に展開するクラックチームへと素早く送られ、戦況を優位に進めることから、クラックチームの頭脳とも呼ばれている。また単独行動でも一個大隊級の殲滅戦を可能とするほどの火力を秘めている。必殺技は両腕から巨大な水弾を撃ち出す「パワーウォーター」、ロックオンした敵を甲板から発射されるミサイルで撃ち落とす「ブレイズパワー」、口から吐き出す水流で相手を圧し潰す「テラハイドロブレス」。また、天を覆う程の大量のミサイルを一斉射撃し、最大出力で敵に突貫する「シャインブレイカー」がある。デジモン図鑑",
+        "ko": "플레시오몬 에게 시드라몬 계의 데이터가 융합되어 태어난 사이보그형 디지몬. 골드디지조이드로 만들어진 이 눈부시게 빛나는 장갑은, 모든 악을 박멸한다고 전해지고 있다. 크랙 팀에 소속되어, 주로 적의 정보를 분석하거나 적을 탐색하는 일을 맡는다. 분석된 정보는 주변에 퍼져 있는 크랙 팀에게도 신속하게 전송해, 전황의 우위를 잡는 점 덕에 크랙 팀 의 두뇌라고도 불린다. 또한, 단독 행동에 있어서도 일개 대대를 상대로 섬멸전을 펼치는 게 가능할 정도의 화력을 지니고 있다. 필살기는 양팔에서 거대한 수탄을 발하는 「파워 워터」와 지정한 적을 갑판에서 발사되는 미사일로 격추시키는 「블레이즈 파워」, 입에서 토해내는 물줄기로 상대를 으깨버리는 「테라 하이드로 브레스」가 있다. 또한, 하늘을 뒤덮을 정도의 대량의 미사일을 일제사격해, 최대출력으로 적을 돌파하는 「샤인 브레이커」가 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Aegisdramon"
+    },
+    {
+      "id": "ultimatebrachi",
+      "name": "Ultimate Brachiomon",
+      "name_jp": "Ultimate Brachiomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/ultimatebrachi/frame1.gif",
+        "frame2": "sprites/ultimatebrachi/frame2.gif"
+      },
+      "artwork": "sprites/ultimatebrachi/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon who boasts of being the largest on land, and the heaviest. The boosters equipped to its back thrust downwards, supporting the weight of its colossal body, and are used when moving. It has undergone very heavy-duty remodeling, and while its moving speed is by no means fast, its bulky armor makes it unnecessary for it to evade the enemy's attacks, and it is impossible to withstand the recoil of its superweapon, which is fired from the huge gunport on its chest, without being Ultimate Brachimon's weight. Its Special Moves are detonating the energy within its body, and sending out a blast from the huge gunport on its chest (Ultimate Blast), and striking with its gigantic tail, shaking even the earth (Ultimate Quake).Digimon Reference Book⇨ English陸上最大、最高重量を誇るサイボーグ型デジモン。背部に装備されたブースターは下方に噴射され、その超巨大な体躯の重量を支え、移動する際に使用する。非常に高重量の改造が施されており、移動速度は決して速くは無いが、厚い装甲は敵の攻撃を避ける必要も無く、胸部の巨大な砲門より放つ超兵器の反動を抑えるにはアルティメットブラキモン級の重量が無ければ不可能である。必殺技は体内でエネルギーを爆発させ、胸部の巨大な砲門から爆風を噴射する『アルティメットブラスト』と、大地をも揺るがす巨大な尾を叩き付ける『アルティメットクエイク』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ultimate_Brachiomon"
+    },
+    {
+      "id": "chaosdra",
+      "name": "Chaosdramon",
+      "name_jp": "Chaosdramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/chaosdra/frame1.gif",
+        "frame2": "sprites/chaosdra/frame2.gif"
+      },
+      "artwork": "sprites/chaosdra/artwork.jpg",
+      "lore": {
+        "en": "It is said thatMugendramon, who was built by combining the parts of many Cyborg-species Digimon, demonstrated abilities beyond imagination, and that the experiment succeeded. Adding enhancements to further improve that Mugendramon resulted in Chaosdramon, who possesses a deep crimsonMetal Body. Its body is made of \"Red Digizoid\", which was repurified from the super-metalChrondigizoitto only improve its hardness, thus it is able to deflect any attack and destroy anything. Also, the version of the program that was set in itsDigicoreautomatically performs improvements to make it even more destructive. Chaosdramon is also the Digimon that the leader of theCrack Teamprimarily employs as its agent. Its Special Move is a superdreadnought-class energy wave fired from its two artillery cannons (Hyper Mugen Cannon).Digimon Reference Book⇨ English数々のサイボーグ系デジモンのパーツを組み合わせて造られたムゲンドラモンは想像以上の能力を発揮し、その実験は成功したと言われている。そのムゲンドラモンを更に改良強化したのが深紅のメタルボディを持つカオスドラモンである。超金属であるクロンデジゾイトを、再精製し硬度のみを上げた“レッドデジゾイド”を使ったボディは、あらゆる攻撃を跳ね返し、あらゆる物を破壊する。また、デジコアにセットされたプログラムのバージョンも、より破壊的に自律的に改良を施されている。カオスドラモンは主に、クラックチームのリーダーがエージェントとして使用するデジモンでもある。必殺技は２砲のキャノンから発射される超弩級のエネルギー波『ハイパームゲンキャノン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Chaosdramon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "gamma",
+      "to": "betelgamma",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,100+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "to": "kausgamma",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "to": "wezengamma",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gamma",
+      "to": "gulusgamma",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "to": "canoweiss",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "to": "canoweiss",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "to": "canoweiss",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gulusgamma",
+      "to": "canoweiss",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "to": "brachio",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "kausgamma",
+      "to": "brachio",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "to": "chimaira",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gulusgamma",
+      "to": "chimaira",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wezengamma",
+      "to": "tankdra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "to": "aegisdra",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tankdra",
+      "to": "aegisdra",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "to": "ultimatebrachi",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "brachio",
+      "to": "ultimatebrachi",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "chimaira",
+      "to": "ultimatebrachi",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "canoweiss",
+      "to": "chaosdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "brachio",
+      "to": "chaosdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "chimaira",
+      "to": "chaosdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tankdra",
+      "to": "chaosdra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "curi",
+      "to": "guri",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "guri",
+      "to": "gamma",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "betelgamma",
+      "to": "tankdra",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    }
+  ]
+}

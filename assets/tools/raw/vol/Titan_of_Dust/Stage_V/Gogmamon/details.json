@@ -1,0 +1,88 @@
+{
+  "id": "gogma",
+  "name": "Gogmamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gogma.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gogma.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/gogma.jpg",
+  "appearances": [
+    {
+      "dim_id": "tdu",
+      "dim_name": "Titan of Dust",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "torta",
+        "gole"
+      ],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Gogmamon",
+    "name_en": "Gogmamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "14",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "torta",
+        "name": "Tortamon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "gole",
+        "name": "Golemon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dig",
+        "name": "Digmon",
+        "conditions": "Jogress with Vaccine Adult"
+      },
+      {
+        "id": "toge",
+        "name": "Togemon",
+        "conditions": "Jogress with Vaccine Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "dinorex",
+        "name": "Dinorexmon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "blast",
+        "name": "Blastmon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "ancientsphinx",
+        "name": "Ancient Sphinxmon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "pharaoh",
+        "name": "Pharaohmon",
+        "conditions": "Jogress with Data or Free Perfect"
+      }
+    ]
+  }
+}

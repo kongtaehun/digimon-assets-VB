@@ -1,0 +1,77 @@
+{
+  "id": "paledra",
+  "name": "Paledramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/paledra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/paledra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/paledra.jpg",
+  "appearances": [
+    {
+      "dim_id": "bfa",
+      "dim_name": "Blizzard Fang",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "bluco"
+      ],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Paledramon",
+    "name_en": "Paledramon",
+    "attribute": "Data",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "20 (★4)",
+      "hp": "4",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "bluco",
+        "name": "Blucomon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "panjya",
+        "name": "Panjyamon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "cryspaledra",
+        "name": "Crys Paledramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "frozo",
+        "name": "Frozomon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "cresce",
+        "name": "Crescemon",
+        "conditions": "Jogress with Virus Adult"
+      },
+      {
+        "id": "mam",
+        "name": "Mammon",
+        "conditions": "Jogress with Vaccine or Free Adult"
+      }
+    ]
+  }
+}

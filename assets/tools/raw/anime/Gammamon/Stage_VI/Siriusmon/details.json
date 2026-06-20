@@ -1,0 +1,89 @@
+{
+  "id": "sirius",
+  "name": "Siriusmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/sirius.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/sirius.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/sirius.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "canoweiss"
+      ],
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "fuma"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "zanmetsu"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Siriusmon",
+    "name_en": "Siriusmon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "6200",
+      "hp": "5300",
+      "ap": "1900"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "canoweiss",
+        "name": "Canoweissmon",
+        "conditions": "15+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "fuma",
+        "name": "Fumamon",
+        "conditions": "12+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "zanmetsu",
+        "name": "Zanmetsumon",
+        "conditions": "10+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "proxima",
+        "name": "Proximamon",
+        "conditions": "Jogress with Arcturusmon  from the Gammamon BE Memory Dim"
+      }
+    ]
+  }
+}

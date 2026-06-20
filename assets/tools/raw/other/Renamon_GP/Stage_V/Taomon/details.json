@@ -1,0 +1,105 @@
+{
+  "id": "tao",
+  "name": "Taomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tao.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tao.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/tao.jpg",
+  "appearances": [
+    {
+      "dim_id": "rena_gp",
+      "dim_name": "Renamon GP",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Taomon",
+    "name_en": "Taomon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Active",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "8",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "kyubi",
+        "name": "Kyubimon (EX)",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "lynx",
+        "name": "Lynxmon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "kyubi",
+        "name": "Kyubimon (GP)",
+        "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Vaccine, Virus or Free Adult"
+      },
+      {
+        "id": "youko",
+        "name": "Youkomon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "icedevi",
+        "name": "Ice Devimon",
+        "conditions": "Jogress with Free Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "sakuya_x",
+        "name": "Sakuyamon X",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "sakuya",
+        "name": "Sakuyamon (EX)",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "kuzuha",
+        "name": "Kuzuhamon",
+        "conditions": "• 10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio• Jogress with Vaccine Perfect"
+      },
+      {
+        "id": "sakuya",
+        "name": "Sakuyamon (GP)",
+        "conditions": "• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+      },
+      {
+        "id": "sakuya_m",
+        "name": "Sakuyamon: Miko Mode",
+        "conditions": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Free Perfect"
+      },
+      {
+        "id": "kuzuha_m",
+        "name": "Kuzuhamon: Miko Mode",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "parasi",
+        "name": "Parasimon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

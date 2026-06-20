@@ -1,0 +1,79 @@
+{
+  "id": "beelzebu_2010",
+  "name": "Beelzebumon (2010)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/beelzebu_2010.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/beelzebu_2010.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/beelzebu_2010.jpg",
+  "appearances": [
+    {
+      "dim_id": "imp_gp",
+      "dim_name": "Impmon GP",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Beelzebumon (2010)",
+    "name_en": "Beelzemon (2010)",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "50 (★8)",
+      "hp": "12",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "baal",
+        "name": "Baalmon (DEv)",
+        "conditions": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "cyberdra_2010",
+        "name": "Cyberdramon (2010)",
+        "conditions": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "joker",
+        "name": "Jokermon",
+        "conditions": "15+ Trophies, 4500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "baal",
+        "name": "Baalmon (Imp GP)",
+        "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+      },
+      {
+        "id": "pump",
+        "name": "Pumpmon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "vamde",
+        "name": "Vamdemon",
+        "conditions": "Jogress with Data Perfect"
+      },
+      {
+        "id": "fanto",
+        "name": "Fantomon",
+        "conditions": "Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

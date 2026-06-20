@@ -1,0 +1,88 @@
+{
+  "id": "gusoku",
+  "name": "Gusokumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gusoku.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gusoku.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/gusoku.jpg",
+  "appearances": [
+    {
+      "dim_id": "iti",
+      "dim_name": "Infinite Tide",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "tobiu",
+        "shell"
+      ],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Gusokumon",
+    "name_en": "Gusokumon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "14",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "tobiu",
+        "name": "Tobiumon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "shell",
+        "name": "Shellmon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "oct",
+        "name": "Octmon",
+        "conditions": "Jogress with Data Adult"
+      },
+      {
+        "id": "seadra",
+        "name": "Seadramon",
+        "conditions": "Jogress with Vaccine Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "regalecus",
+        "name": "Regalecusmon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "neptune",
+        "name": "Neptunemon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "metalseadra",
+        "name": "Metal Seadramon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "plesio",
+        "name": "Plesiomon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

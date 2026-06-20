@@ -1,0 +1,78 @@
+{
+  "id": "bryweludra",
+  "name": "Bryweludramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bryweludra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bryweludra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bryweludra.jpg",
+  "appearances": [
+    {
+      "dim_id": "espi",
+      "dim_name": "Espimon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "raijiludo",
+        "piccolo"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Bryweludramon",
+    "name_en": "BryweLudramon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "15",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "raijiludo",
+        "name": "Raiji Ludomon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "piccolo",
+        "name": "Piccolomon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+      },
+      {
+        "id": "rarerare",
+        "name": "Rare Raremon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      },
+      {
+        "id": "manticore",
+        "name": "Manticoremon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ragnalord",
+        "name": "Ragna Lordmon",
+        "conditions": "Jogress with Durandamon (Ryuda)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "cyberdra",
+  "name": "Cyberdramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cyberdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cyberdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cyberdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "monodra_gp",
+      "dim_name": "Monodramon GP",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Cyberdramon",
+    "name_en": "Cyberdramon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "10",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "strikedra",
+        "name": "Strikedramon",
+        "conditions": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data, Virus or Free Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "justi_a",
+        "name": "Justimon: Accel Arm",
+        "conditions": "• 30+ Trophies, 4,500+ Vital Values, 10-24 Battles, 50%-69% Win Ratio• 30+ Trophies, 4,500+ Vital Values, 25+ Battles, 50%-69% Win Ratio• 30+ Trophies, 4,500+ Vital Values, 10-24 Battles, 70%+ Win Ratio• Jogress with Virus Perfect"
+      },
+      {
+        "id": "justi",
+        "name": "Justimon: Blitz Arm",
+        "conditions": "• 10+ Trophies, 4,500+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+      },
+      {
+        "id": "justi_c",
+        "name": "Justimon: Critical Arm",
+        "conditions": "• 10+ Trophies, 7,000+ Vital Values, 10+ Battles, 70%+ Win Ratio• Jogress with Free Perfect"
+      }
+    ]
+  }
+}

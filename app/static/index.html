@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>디지몬 진화 트리</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+
+    <header id="header">
+      <div id="cat-nav"></div>
+      <div id="dim-bar"></div>
+    </header>
+
+    <main id="main">
+      <div id="view-tree" class="view active"></div>
+      <div id="view-evo" class="view"></div>
+    </main>
+
+    <nav id="tab-bar">
+      <button class="tab active" data-tab="tree">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <circle cx="12" cy="5" r="3"/><circle cx="5" cy="19" r="3"/><circle cx="19" cy="19" r="3"/>
+          <line x1="12" y1="8" x2="5" y2="16"/><line x1="12" y1="8" x2="19" y2="16"/>
+        </svg>
+        <span>트리뷰</span>
+      </button>
+      <button class="tab" data-tab="evo">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
+        </svg>
+        <span>진화뷰</span>
+      </button>
+    </nav>
+
+  </div>
+
+  <!-- DIM 선택 바텀 시트 -->
+  <div id="sheet-overlay" class="sheet-overlay hidden"></div>
+  <div id="dim-sheet" class="sheet hidden">
+    <div class="sheet-handle"></div>
+    <div class="sheet-header">
+      <div>
+        <div class="sheet-title">DIM 선택</div>
+        <div class="sheet-subtitle" id="sheet-subtitle"></div>
+      </div>
+      <button id="sheet-close" class="sheet-close">✕</button>
+    </div>
+    <div class="sheet-list" id="sheet-list"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

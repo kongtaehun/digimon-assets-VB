@@ -1,0 +1,78 @@
+{
+  "id": "cannondra",
+  "name": "Cannondramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cannondra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cannondra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cannondra.jpg",
+  "appearances": [
+    {
+      "dim_id": "vbe",
+      "dim_name": "Volcanic Beat",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "mastertyrano",
+        "lavogarita",
+        "groundra"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Cannondramon",
+    "name_en": "Cannondramon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "45 (★8)",
+      "hp": "16",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "mastertyrano",
+        "name": "Master Tyranomon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "lavogarita",
+        "name": "Lavogaritamon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "groundra",
+        "name": "Groundramon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "deathmera",
+        "name": "Death Meramon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "volca",
+        "name": "Volcamon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

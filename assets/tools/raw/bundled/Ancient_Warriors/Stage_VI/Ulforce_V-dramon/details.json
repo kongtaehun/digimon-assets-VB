@@ -1,0 +1,78 @@
+{
+  "id": "ulforcevdra",
+  "name": "Ulforce V-dramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ulforcevdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ulforcevdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ulforcevdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "awa",
+      "dim_name": "Ancient Warriors",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "aerovdra",
+        "sagittari",
+        "digitama"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ulforce V-dramon",
+    "name_en": "Ulforce V-dramon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "14",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "aerovdra",
+        "name": "Aero V-dramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "sagittari",
+        "name": "Sagittarimon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      },
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      },
+      {
+        "id": "goldvdra",
+        "name": "Gold V-dramon",
+        "conditions": "Jogress with Virus or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

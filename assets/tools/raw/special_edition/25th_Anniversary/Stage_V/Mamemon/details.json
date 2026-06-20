@@ -1,0 +1,65 @@
+{
+  "id": "mame_d",
+  "name": "Mamemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mame_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mame_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mame.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mamemon",
+    "name_en": "Mamemon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5500",
+      "hp": "4400",
+      "ap": "1540"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "tyrano_d",
+        "name": "Tyranomon",
+        "conditions": "15+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "seadra_d",
+        "name": "Seadramon",
+        "conditions": "15+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mera_d",
+        "name": "Meramon",
+        "conditions": "15+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "banchomame_d",
+        "name": "Bancho Mamemon",
+        "conditions": "15+ PP, 3,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

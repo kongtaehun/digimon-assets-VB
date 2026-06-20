@@ -1,0 +1,68 @@
+{
+  "id": "digitama",
+  "name": "Digitamamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/digitama.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/digitama.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/digitama.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dog",
+        "publi"
+      ],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Digitamamon",
+    "name_en": "Digitamamon",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Lazy",
+    "stats": {
+      "bp": "5300",
+      "hp": "4200",
+      "ap": "1610"
+    },
+    "schedule": {
+      "activity_type": "Lazy",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "dog",
+        "name": "Dogmon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      },
+      {
+        "id": "publi",
+        "name": "Publimon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "pie",
+        "name": "Piemon",
+        "conditions": "Stage 12 cleared, 30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "pluto",
+        "name": "Plutomon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

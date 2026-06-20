@@ -1,0 +1,67 @@
+{
+  "id": "corona",
+  "name": "Coronamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/corona.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/corona.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/corona.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "wanya"
+      ],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Coronamon",
+    "name_en": "Coronamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "4400",
+      "hp": "3100",
+      "ap": "1050"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "wanya",
+        "name": "Wanyamon",
+        "conditions": "5+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "fira",
+        "name": "Firamon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "gaoga",
+        "name": "Gaogamon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "leo",
+        "name": "Leomon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

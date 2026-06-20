@@ -1,0 +1,32 @@
+{
+  "id": "popo",
+  "name": "Popomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/popo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/popo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/popo.jpg",
+  "appearances": [
+    {
+      "dim_id": "louwe_ex",
+      "dim_name": "Louwemon EX",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Popomon",
+    "name_en": "Popomon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "stats": {
+      "dp": "(★)",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

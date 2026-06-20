@@ -1,0 +1,83 @@
+{
+  "id": "climb",
+  "name": "Climbmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/climb.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/climb.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/climb.jpg",
+  "appearances": [
+    {
+      "dim_id": "ici",
+      "dim_name": "Impulse City",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "bulk",
+        "namake"
+      ],
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Climbmon",
+    "name_en": "Climbmon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "35 (★7)",
+      "hp": "10",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "bulk",
+        "name": "Bulkmon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "namake",
+        "name": "Namakemon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "exer",
+        "name": "Exermon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "shroud",
+        "name": "Shroudmon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "shiva",
+        "name": "Shivamon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "kazuchi",
+        "name": "Kazuchimon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "achilles",
+        "name": "Achillesmon",
+        "conditions": "Jogress with Data Perfect"
+      }
+    ]
+  }
+}

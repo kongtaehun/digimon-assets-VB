@@ -1,0 +1,60 @@
+{
+  "id": "sango",
+  "name": "Sangomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sango.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sango.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/sango.jpg",
+  "appearances": [
+    {
+      "dim_id": "iti",
+      "dim_name": "Infinite Tide",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Sangomon",
+    "name_en": "Sangomon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "puka",
+        "name": "Pukamon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "tobiu",
+        "name": "Tobiumon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "seadra",
+        "name": "Seadramon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "oct",
+        "name": "Octmon",
+        "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "shell",
+        "name": "Shellmon",
+        "conditions": "• 0-4 Trophies•0-599 Vital Values•0-2 Battles"
+      }
+    ]
+  }
+}

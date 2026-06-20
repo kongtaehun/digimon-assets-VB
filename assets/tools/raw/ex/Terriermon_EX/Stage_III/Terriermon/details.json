@@ -1,0 +1,60 @@
+{
+  "id": "terrier",
+  "name": "Terriermon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/terrier.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/terrier.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/terrier.jpg",
+  "appearances": [
+    {
+      "dim_id": "terrier_ex",
+      "dim_name": "Terriermon EX",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Terriermon",
+    "name_en": "Terriermon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "10 (★1)",
+      "hp": "3",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "gummy",
+        "name": "Gummymon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "galgo",
+        "name": "Galgomon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "turuie",
+        "name": "Turuiemon",
+        "conditions": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "wendi",
+        "name": "Wendimon",
+        "conditions": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "harpy",
+        "name": "Harpymon",
+        "conditions": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    ]
+  }
+}

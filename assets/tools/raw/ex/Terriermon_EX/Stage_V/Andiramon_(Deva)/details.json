@@ -1,0 +1,85 @@
+{
+  "id": "andira_d",
+  "name": "Andiramon (Deva)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/andira_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/andira_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/andira_d.jpg",
+  "appearances": [
+    {
+      "dim_id": "terrier_ex",
+      "dim_name": "Terriermon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Andiramon (Deva)",
+    "name_en": "Antylamon (Good)",
+    "attribute": "Data",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "30 (★6)",
+      "hp": "7",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "galgo",
+        "name": "Galgomon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "wendi",
+        "name": "Wendimon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "turuie",
+        "name": "Turuiemon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "harpy",
+        "name": "Harpymon",
+        "conditions": "Jogress with Data Adult"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "cherubi",
+        "name": "Cherubimon (Virtue)",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "cherubi_vice",
+        "name": "Cherubimon (Vice)",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "rapid_a",
+        "name": "Rapidmon (Armor)",
+        "conditions": "Stage 15 Cleared, Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "saintgalgo",
+        "name": "Saint Galgomon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ]
+  }
+}

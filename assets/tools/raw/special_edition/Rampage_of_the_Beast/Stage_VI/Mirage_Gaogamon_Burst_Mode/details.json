@@ -1,0 +1,52 @@
+{
+  "id": "miragegaoga_b",
+  "name": "Mirage Gaogamon: Burst Mode",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/miragegaoga_b.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/miragegaoga_b.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/miragegaoga_b.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "machgaoga"
+      ],
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 11 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mirage Gaogamon: Burst Mode",
+    "name_en": "Mirage Gaogamon: Burst Mode",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6800",
+      "hp": "5800",
+      "ap": "2100"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "machgaoga",
+        "name": "Mach Gaogamon",
+        "conditions": "Stage 11 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

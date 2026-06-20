@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "id": "sho",
+  "name": "Shadow Howl",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Mar 2021 - Promo (Prize for V-Jump Contest)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_sho.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "puni",
+      "name": "Punimon",
+      "name_jp": "Punimon",
+      "name_ko": "푸니몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/puni/frame1.gif",
+        "frame2": "sprites/puni/frame2.gif"
+      },
+      "artwork": "sprites/puni/artwork.jpg",
+      "lore": {
+        "en": "A new kind of newborn Digimon. Its gelatinous red body is squishy, and there are three feeler-like things growing on its head. It is unable to battle, but it can produce resilient, acidic bubbles to intimidate its opponents.Digimon Reference Book⇨ English生まれたての新種デジモン。ゲル状の赤い体はプニプニしていて、頭部には３つの触手のようなものが生えている。戦うことができず、酸性の強い泡をだして敵を威嚇する。デジモン図鑑",
+        "ko": "갓 태어난 신종 디지몬. 젤 과 같은 붉은 몸은 말랑말랑하고, 머리 부분에는 3개의 촉수와 같은 것이 나 있다. 싸우지 못하고, 산성의 강한 거품을 입으로 토해내 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Punimon"
+    },
+    {
+      "id": "tuno",
+      "name": "Tsunomon",
+      "name_jp": "Tunomon",
+      "name_ko": "뿔몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/tuno/frame1.gif",
+        "frame2": "sprites/tuno/frame2.gif"
+      },
+      "artwork": "sprites/tuno/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon that hardened one of the feelers it had on its head asPunimon. It has evolved in a more animal-like direction from Punimon, and is covered in tufty body hair. It is still at the peak of playfulness, and it has a prank-loving personality, but its combat instinct has not awakened.Digimon Reference Book⇨ Englishプニモンの頭部の触手の１つが硬化した小型デジモン。プニモンから、より動物的進化をとげ、フサフサな体毛に覆われている。まだまだ遊びたい盛りで、いたずら好きな性格だが、闘争本能は目覚めていない。デジモン図鑑",
+        "ko": "푸니몬 의 머리에 난 촉수 중 하나가 단단해진 소형 디지몬. 푸니몬에서 보다 동물적 진화를 하여, 몸이 복슬복슬한 털에 싸여있다. 아직 잔뜩 놀고 싶어하는 성격이며, 장난꾸러기 같은 성격이지만, 전투 본능은 각성 되지 않았다."
+      },
+      "wikimon_url": "https://wikimon.net/Tsunomon"
+    },
+    {
+      "id": "gabu_b",
+      "name": "Gabumon (Black)",
+      "name_jp": "Gabumon (Black)",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gabu_b/frame1.gif",
+        "frame2": "sprites/gabu_b/frame2.gif"
+      },
+      "artwork": "sprites/gabu_b/artwork.jpg",
+      "lore": {
+        "en": "A Gabumon who evolved to a Virus-species. The fur pelt it wears was made by gathering up the data of aviral Garurumon. Although it is violent, it turns cowardly and timid when its pelt is removed, just like theVaccine-species, and its true face is still a secret. Its Special Move is spitting out a small fireball (Petit Fire).Digimon Reference Book⇨ Englishウィルス種に進化したガブモン。かぶっている毛皮はウィルス種のガルルモンのデータを集めてつくったようだ。暴れん坊だが、毛皮をぬぐと内気で臆病になるところはワクチン種と同じで、素顔はやはり秘密。必殺技は小さな火の玉を吐き出す『プチファイアー』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gabumon_(Black)"
+    },
+    {
+      "id": "garuru_b",
+      "name": "Garurumon (Black)",
+      "name_jp": "Garurumon (Black)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/garuru_b/frame1.gif",
+        "frame2": "sprites/garuru_b/frame2.gif"
+      },
+      "artwork": "sprites/garuru_b/artwork.jpg",
+      "lore": {
+        "en": "A Virus attributeGarurumon. The blades extending from its shoulders are so sharp that they slice apart anything they touch. It loves collecting bones and burying them in the ground, though there appear to have been cases of these bones being quietly stolen away by prank-lovingDrimogemon. Its Special Move is breathing blue, high-temperature flames from its mouth (Foxfire).Digimon Reference Book⇨ Englishウィルス種のガルルモン。肩から伸びているブレードは、触れるものは全てを切り裂くほど強烈。ホネを集めるのが好きで地中に埋めているが、イタズラ好きのドリモゲモンにコッソリ持って行かれることもあるらしい。必殺技は、口から吐く高熱の青い炎『フォックスファイアー』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Garurumon_(Black)"
+    },
+    {
+      "id": "weregaruru_b",
+      "name": "Were Garurumon (Black)",
+      "name_jp": "Were Garurumon (Black)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/weregaruru_b/frame1.gif",
+        "frame2": "sprites/weregaruru_b/frame2.gif"
+      },
+      "artwork": "sprites/weregaruru_b/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved from a Virus attributeGarurumon. Its speed has fallen due to becoming bipedal, but it makes up for that with a powerful, newly-attained technique which utilizes both of its arms. Its Special Move is tearing the opponent apart with the sharp claws on its hands (Kaiser Nail).Digimon Reference Book⇨ Englishウィルス種のガルルモンから進化したデジモン。２本足になりスピードは落ちたが、その分強い攻撃力で両腕を使った技を身につけた。必殺技は、両腕のカギヅメで敵を切りさく「カイザーネイル」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Were_Garurumon_(Black)"
+    },
+    {
+      "id": "metalgaruru_b",
+      "name": "Metal Garurumon (Black)",
+      "name_jp": "Metal Garurumon (Black)",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgaruru_b/frame1.gif",
+        "frame2": "sprites/metalgaruru_b/frame2.gif"
+      },
+      "artwork": "sprites/metalgaruru_b/artwork.jpg",
+      "lore": {
+        "en": "A Virus-typeMetal Garurumonequipped with cold-based weapons all over its body. It has a fearsome personality, in that once theLaser Sightson its snout lock onto its prey, it will pursue them relentlessly and bombard them with missiles regardless of whether they are friend or foe. Its Special Move is cold air that freezes everything in an instant (Cocytus Breath). In addition, it wipes out the opponent with its \"GaruruTomahawk\", in which it launches a gigantic missile called theFreeze Bomberfrom its chest, and \"Grace Cross Freezer\", in which it fires its weapons all at once.Digimon Reference Book⇨ English体中に冷気系の兵器を装備したウィルス種のメタルガルルモン。鼻先の「レーザーサイト」で獲物をキャッチすると、敵味方に関わらずしつこく追い回して、ミサイルを撃ち込む恐ろしい性格だ。必殺技は、すべてのものが一瞬で凍りつく冷気『コキュートスブレス』。また胸部からフリーズボンバーと呼ばれる巨大なミサイルを発射する『ガルルトマホーク』、そしてメタルガルルモンの持つ武器を一斉発射する『グレイスクロスフリーザー』で敵を一掃する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Garurumon_(Black)"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "puni",
+      "to": "tuno",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "tuno",
+      "to": "gabu_b",
+      "conditions": {
+        "text": "• No requirements (SHo/TSH)• 0-1,199 Vital Values (WHo)"
+      }
+    },
+    {
+      "from": "gabu_b",
+      "to": "garuru_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 900+ Vital Values, 5+ Battles (TSH)• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (SHo)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (WHo)"
+      }
+    },
+    {
+      "from": "garuru_b",
+      "to": "weregaruru_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• Jogress with Free Adult (TSH)• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio (SHo/WHo)"
+      }
+    },
+    {
+      "from": "weregaruru_b",
+      "to": "metalgaruru_b",
+      "conditions": {
+        "text": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio (TSH/WHo)• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (SHo)"
+      }
+    }
+  ]
+}

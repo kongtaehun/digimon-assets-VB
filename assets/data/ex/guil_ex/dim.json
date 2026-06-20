@@ -1,0 +1,890 @@
+{
+  "schema_version": "1.0",
+  "id": "guil_ex",
+  "name": "Guilmon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Feb 2022 - Retail (Set EX2)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_guil_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "jyari",
+      "name": "Jyarimon",
+      "name_jp": "Jyarimon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/jyari/frame1.gif",
+        "frame2": "sprites/jyari/frame2.gif"
+      },
+      "artwork": "sprites/jyari/artwork.jpg",
+      "lore": {
+        "en": "An extremely scarce Digimon, whose population is small. The Babies of Dragon-species Digimon are small in absolute number, and it is said that most of them are captured or die before they grow up. You wouldn't know it to look at it, but there are tiny, closely packed fangs growing within its mouth, and it is foreseen that it will grow into a powerful Dragon-species Digimon. Although it is powerless, it has the disposition to face those with bodies larger than its own, and that becomes the reason for its low survival rate. It attacks with bubbles heated by the constant high temperatures within its body.Digimon Reference Book⇨ English個体数が少なく、非常に希少なデジモン。竜系のデジモンの幼年期は絶対的に数が少なく、そのほとんどが成長する前に捕獲や死滅してしまうと言われている。見た目では分からないが、口の中にはびっしりと細かい牙が生えており、力強い竜系のデジモンに成長することを予見させる。非力ではあるが、自分より体の大きなものに向かっていく性質をもっており、そのことが生存率の低さの理由にもなっている。体内が常に高温で熱気を帯びた泡で攻撃する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Jyarimon"
+    },
+    {
+      "id": "gigi",
+      "name": "Gigimon",
+      "name_jp": "Gigimon",
+      "name_ko": "기기몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/gigi/frame1.gif",
+        "frame2": "sprites/gigi/frame2.gif"
+      },
+      "artwork": "sprites/gigi/artwork.jpg",
+      "lore": {
+        "en": "A four-legged Baby Digimon that grew fromJyarimon. Its physical features resemble those ofTokomon, and powerful fangs also line the interior of its mouth. However, unlike Tokomon, who evolves into the Mammal-species, Gigimon, who evolves into the Dragon-species, has a rough personality and is ferocious despite its small size. There are more than a few even larger Digimon who were deceived by its appearance and suffered a counterattack. Its Special Move is snapping at the opponent (Hot Bite). Its body temperature is hot, just like Jyarimon, and it is said that it leaves burns on the areas it bites.Digimon Reference Book⇨ Englishジャリモンが成長した四足型の幼年期デジモン。身体的特徴はトコモンに酷似しており、口の中にも強力な牙が生え揃っている。しかし、哺乳類系に進化するトコモンとは違い、竜系に進化するギギモンは性格も荒く、小型ながら獰猛である。見た目に騙されて反撃を受ける大型のデジモンも少なくない。必殺技は相手に噛み付く『ホットバイト』。ジャリモンと同じく体温が熱く、噛まれたところが焼けどすると言われている。デジモン図鑑",
+        "ko": "쟈리몬 이 성장한 사족보행 유년기 디지몬 . 신체적 특징은 토코몬 비스무레해, 입 안에도 강력한 송곳니가 자라나고 있다. 하지만, 포유류 계열로 진화하는 토코몬과는 달리, 용 계열로 진화하는 기기몬은 성격도 거칠어, 소형이지만 영리하고 용맹하다. 겉모습만 보고 건드렸다가 반격당한 대형 디지몬도 적지 않다. 필살기는 상대를 물어뜯는 \"핫 바이트\". 쟈리몬과 같이 체온이 매우 높아, 물린 자리에는 화상을 입게 된다고 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Gigimon"
+    },
+    {
+      "id": "guil",
+      "name": "Guilmon",
+      "name_jp": "Guilmon",
+      "name_ko": "길몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/guil/frame1.gif",
+        "frame2": "sprites/guil/frame2.gif"
+      },
+      "artwork": "sprites/guil/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose appearance resembles a dinosaur that still retains its youth. Although it is still a Child, its potential as a \"Combat Species\"—something which all Digimon naturally possess—is very high, and beneath its surface lies the ferocious personality of a carnivorous beast. The mark depicted on its abdomen is called the \"Digital Hazard\", which is inscribed on those that have the potential to cause massive damage to computer data. However, as long as this ability is used peacefully, it is also possible for it to turn into a guardian of the Digital World. Its Signature Move is destroying rocks with its sturdy foreclaws (Rock Breaker). Its Special Move is spewing out a powerful flame shot (Fireball).Digimon Reference Book⇨ Englishまだ幼さを残す恐竜のような姿をしたデジモン。まだ成長期ではあるが、デジモン本来が持っている“戦う種”としてのポテンシャルは非常に高く、肉食獣のような凶暴性を秘めている。腹部に描かれたマークは“デジタルハザード”と呼ばれ、コンピュータデータに対して多大なる被害を及ぼす可能性があるものに刻印される。しかし、この能力も平和的に利用さえすれば、デジタルワールドの守護者たる存在となりえるだろう。得意技は強靭な前爪で岩石をも破壊する『ロックブレイカー』。必殺技は強力な火炎弾を吐き出す『ファイアーボール』。デジモン図鑑",
+        "ko": "아직 어린모습이 남아있는 공룡같이 생긴 디지몬. 성장기이지만 디지몬이 본래 가지고 있는 \"싸우는 종\"으로서의 잠재력은 매우 높고, 육식동물과 같은 흉폭함을 숨기고 있다. 복부에 그려진 마크는 ' 디지털 해저드 '라고 불리며 컴퓨터 데이터에 대해 막대한 피해를 미칠 가능성이 있는 것에 각인되는 것이다. 그러나, 이 능력도 평화적으로 이용한다면 디지털 월드의 수호자격의 존재 가 될 수 있을 것이다. 특기는 강인한 앞발톱으로 암석도 파괴하는 \"록 브레이커\". 필살기는 강력한 화염탄을 내뿜는 \"파이어 볼\"."
+      },
+      "wikimon_url": "https://wikimon.net/Guilmon"
+    },
+    {
+      "id": "siesa",
+      "name": "Siesamon",
+      "name_jp": "Siesamon",
+      "name_ko": "시사몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/siesa/frame1.gif",
+        "frame2": "sprites/siesa/frame2.gif"
+      },
+      "artwork": "sprites/siesa/artwork.jpg",
+      "lore": {
+        "en": "A Digimon which has the appearance of the legendary holy beast, the \"Siisaa\". It has the power to sweep away calamity, and exhibits tremendous power toward evildoers. It is an ally to those that are kind-hearted, and will try to protect its Tamer from every calamity, even if it has to sacrifice its own body. Contrary to its heroic appearance, it usually basks leisurely in the sunlight, due to its docile personality. However, the sunlight is an important factor for Siesamon, because it charges its life energy. Its Signature Move \"Sekkantou\" temporarily prevents the intrusion of evil Viruses, as a kind ofFirewall. Its Special Move is firing countless holy arrows of sunlight (Tiida Ija).Digimon Reference Book⇨ English伝説の聖獣“シーサー”の姿をしたデジモン。災いを払う力を持ち、邪悪なるものには絶大なパワーを発揮する。心優しきものの味方であり、自らの身をていしてでも、テイマーをあらゆる災厄から守ろうとする。その雄々しい姿とは裏腹に、普段は大人しい性格で、太陽の光を浴びてのんびりしている。しかし、シーサモンにとって太陽の光は生命エネルギーを充電するための重要な要素である。得意技の『石敢当（せっかんとう）』は邪悪なウィルスの侵入を一時的に防ぐ、一種のファイアーウォール。必殺技は聖なる太陽光の矢を無数に放つ『ティーダ・イヤ』。デジモン図鑑",
+        "ko": "전설의 성수 \"시사\"의 모습을 한 디지몬. 재앙을 거두는 힘을 가지며, 사악한 자에겐 절대적인 파워를 발휘한다. 상냥한 마음을 지녔으며, 자신의 몸을 돌보지 않으면서까지 테이머를 모든 재액에서 지키려고 한다. 그 위엄있는 자태와는 별개로, 보통은 어른스러운 성격이며 햇빛을 쬐며 느긋하게 있곤 한다. 하지만, 시사몬에게 있어 햇빛은 생명 에너지를 충전하기 위한 중요한 요소이다. 특기인 \"석감당\"은 사악한 바이러스의 침입을 단숨에 막는 일종의 방화벽. 필살기는 성스러운 햇빛의 화살을 무수히 날리는 \"티다 이야\" [1] 다."
+      },
+      "wikimon_url": "https://wikimon.net/Siesamon"
+    },
+    {
+      "id": "grow_o",
+      "name": "Growmon (Orange)",
+      "name_jp": "Growmon (Orange)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/grow_o/frame1.gif",
+        "frame2": "sprites/grow_o/frame2.gif"
+      },
+      "artwork": "sprites/grow_o/artwork.jpg",
+      "lore": {
+        "en": "AGrowmonthat became an orange-colored Data-type. Compared to the Virus-type, its usual personality is calmer, but it will quickly become agitated if something occurs. Its Special Move is spewing out a powerful blaze with a roar (Exhaust Flame).Digimon Reference Book⇨ Englishデータ種でオレンジ色になっているグラウモン。ウィルス種に比べて普段の性格は落ち着いているが、何かあればすぐにカッカする。必殺技は爆音と共に強力な火炎を吐き出す『エキゾーストフレイム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Growmon_(Orange)"
+    },
+    {
+      "id": "grow",
+      "name": "Growmon",
+      "name_jp": "Growmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grow/frame1.gif",
+        "frame2": "sprites/grow/frame2.gif"
+      },
+      "artwork": "sprites/grow/artwork.jpg",
+      "lore": {
+        "en": "A Demon Dragon Digimon that is called the \"Deep-crimson Demon Dragon\". The childishness it had when it wasGuilmonhas vanished, and it evolved into a wilder, more brutal Digimon. Also, although it is a Virus Digimon, it may battle for justice depending on how it was raised by its Tamer, because it will be faithfully obedient. Growmon's roar has the power to shake the solid earth, and before battle it raises its voice to an offensive roar to intimidate the opponent. Its Signature Move is developingplasmaalong the blades on both of its elbows, then striking the opponent (Plasma Blade). Its Special Move is spewing out a powerful blaze with a roar (Exhaust Flame).Digimon Reference Book⇨ English「深紅の魔竜」と呼ばれている魔竜型デジモン。ギルモンの頃にあった幼さは消え、より野性的で凶暴なデジモンへと進化をしている。また、ウィルス種のデジモンではあるが、テイマーの育て方次第では忠実に従うので、正義のために戦うこともある。グラウモンの咆哮は大地を揺るがすほどの威力を持っており、戦いの前には攻撃的な唸り声をあげ敵を威嚇する。得意技は両肘のブレイドにプラズマを発生させ敵を攻撃する『プラズマブレイド』。必殺技は爆音と共に強力な火炎を吐き出す『エキゾーストフレイム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Growmon"
+    },
+    {
+      "id": "devidra",
+      "name": "Devidramon",
+      "name_jp": "Devidramon",
+      "name_ko": "데블드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/devidra/frame1.gif",
+        "frame2": "sprites/devidra/frame2.gif"
+      },
+      "artwork": "sprites/devidra/artwork.jpg",
+      "lore": {
+        "en": "An Evil Dragon Digimon that is known and feared as the \"Many-eyed Demon\". As a demon beast that was summoned from theDark Areaby the messenger of darkness,Devimon, there are no other Digimon as evil as it is. Although it is aDramon-species Digimon, its limbs are unusually developed, so it cuts the opponent to pieces with its elongated arms, and flies about the darkness with its sturdy legs and wings. Its personality is the epitome of wickedness, and it does not hold a shred of compassion in its heart. Any opponent it glares at with its four burning, crimson eyes becomes unable to move, and has their body sliced apart while they are unable to resist. Also, the tip of its tail is able to open up and take on the shape of claws, which it uses to skewer the opponent. This Digimon was likely birthed from the evil emotions ofhackerswho were abusing theComputer Networkfor their own selfish desires. Its Special Move is tearing its opponent to shreds with its gigantic claws, beating them bloody (Crimson Nail).Digimon Reference Book⇨ English「複眼の悪魔」と呼ばれ恐れられている邪竜デジモン。闇の使者デビモンにダークエリアより召喚された魔獣で、これほど邪悪なデジモンは他にはいない。ドラモン系のデジモンだが手足が異常に発達しており、長く伸びた両腕で相手を切り裂き、強靭な両足と翼で闇を飛び回る。性格は邪悪そのもので慈悲の心は持ち合わせていない。深紅に燃え上がる四眼でにらまれると相手は身動きを取れなくなり、無抵抗のまま体を切り刻まれる。また、尻尾の先は開くと鉤爪状になっており相手を串刺しにすることができる。コンピュータネットワークを私利私欲のために悪用するハッカー達の邪悪な感情がこのデジモンを生んだのだろう。必殺技は巨大な爪で相手を切り刻み、血祭りにあげる『クリムゾンネイル』デジモン図鑑",
+        "ko": "「복안의 악마」라고 불리는 사룡 디지몬. 어둠의 사자 데블몬 에 의해 다크 에리어에서 소환된 마수로, 이 정도로 사악한 디지몬은 거의 없다. 드라몬계의 디지몬이지만 손발이 비정상으로 발달해 [3] , 길게 뻗은 양팔로 상대를 베며 강인한 양 다리와 날개로 어둠 속을 날아다닌다. 성격은 사악 그 자체로 자비심이 없다. 진한 주홍색으로 타오르는 네 개의 눈으로 감시받으면 상대는 움직일 수 없게 되어, 저항도 하지 못하고 몸이 잘게 잘려진다. 또, 꼬리의 끝은 열면 갈고리가 되어 상대를 찌를 수 있다. 컴퓨터 네트워크를 사리사욕을 위해서 악용하는 해커들의 사악한 감정이 이 디지몬을 낳았을 것이다. 필살기는 거대한 발톱으로 상대를 잘게 잘라 피 범벅으로 만드는 \"크림존 네일 [4] \". 모델은 고지라 시리즈 의 디스트로이어 [5] . 디지몽 항목 참조."
+      },
+      "wikimon_url": "https://wikimon.net/Devidramon"
+    },
+    {
+      "id": "vajra",
+      "name": "Vajramon",
+      "name_jp": "Vajramon",
+      "name_ko": "바지라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/vajra/frame1.gif",
+        "frame2": "sprites/vajra/frame2.gif"
+      },
+      "artwork": "sprites/vajra/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theOx. A follower of theFour Holy BeastsDigimonXuanwumon, it is a seeker of truth who aims for both physical and spiritual heights. Its warrior-like personality values honor, and loathes cowardice and effeminacy. With the most well-tempered physical strength among the Deva, it can easily wield its giant twinBǎo Jiànthat it carries on its waist. Its Special Move is using its forefeet and upper body to strike the ground with its twinBǎo Jiàn, generating fissures that extend up to 50 m ahead of it (Rodha). The resulting shock waves that erupt from underground also causes rocks to be hurled out, inflicting damage on those nearby.[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、牛に似た姿の完全体デジモン。四聖獣デジモンであるシェンウーモンの配下で、肉体的にも精神的にも高みを目指している求道家。その性格は侍的で義を重んじ、卑怯な事、女々しい事を嫌う。鍛え上げられた腕力はデーヴァ１で腰に携えた巨大な宝剣（パオチェン）二振りを軽々と振り回す。必殺技は前足と上体を使って二振りの宝剣を地面に叩きつけ、前方５０メートルにわたる地割れを起こす『ローダ』。その際に地中から吹き出す衝撃波で飛ばされた岩も、周りにいる者にダメージを与える。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 소 의 형상을 가진 완전체 디지몬. 4성수 인 현무몬 의 휘하에서 심신 모두 높은 경지에 이르는 것을 목표로 하고 있는 구도가. 성격은 사무라이 그 자체로 도리를 중시하고 비겁한 것, 남자답지 못한 것을 싫어한다. 단련을 거듭한 완력은 데바 NO.1으로 허리에 찬 거대한 보검(宝剣, 파오첸) 2자루를 가볍게 휘두른다. 필살기는 앞다리와 상체를 이용해 두 자루의 파오첸을 땅에 있는 힘껏 박아 전방 50m에 걸쳐 땅에 균열을 일으키는 \"로다(Rodha) [2] \". 이때 땅속에서 뿜어져 나오는 충격파에 날아간 바위도 주변에 있는 적들에게 타격을 준다."
+      },
+      "wikimon_url": "https://wikimon.net/Vajramon"
+    },
+    {
+      "id": "majira",
+      "name": "Majiramon",
+      "name_jp": "Majiramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/majira/frame1.gif",
+        "frame2": "sprites/majira/frame2.gif"
+      },
+      "artwork": "sprites/majira/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theDragon. As a follower of theFour Holy BeastsDigimonQinglongmon, it is extremely calculating and hates to even lift a finger if it won't benefit itself. However, if it realizes that something will benefit itself, it will want to poke its head in no matter what the thing is. It has a habit of putting a price on everything, and expressing various matters by their cost in money. During battle, it shoots through the opponent with theBǎo Shǐ, which are the hairs of its tail and whiskers transformed (Incidentally, oneBǎo Shǐis worth¥5,000). Its Special Move is disappearing into the center of a swirl of light summoned in the sky, then firing108shiningBǎo Shǐ, burying a horde of opponents in just an instant (Vedhaka).[1]It possesses ¥540,000 worth of destructive power.Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、竜に似た姿の完全体デジモン。四聖獣デジモンであるチンロンモンの配下で、非常に計算高く自分の得にならないと指一本動かすのもいやがる。ただし、それが自分に有利になると分かれば、何を置いても首を突っ込みたがる。あらゆる物に値段をつける癖があり、様々な事柄を金額で表現する。戦闘時には、尻尾や髭、髪を変化させた宝矢（パオスー）で相手を射抜く（ちなみに一本の宝矢は五千元）。必殺技は天に呼んだ光の渦の中心に消え、１０８本の輝く宝矢を放って大量の敵を一瞬にして葬る「ヴェーダカ」。五十四万元分の破壊力を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Majiramon"
+    },
+    {
+      "id": "mihira",
+      "name": "Mihiramon",
+      "name_jp": "Mihiramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mihira/frame1.gif",
+        "frame2": "sprites/mihira/frame2.gif"
+      },
+      "artwork": "sprites/mihira/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theTiger. As a follower of theFour Holy BeastsDigimonQinglongmon, it is the biggest ruffian among the Deva, though it is also a brilliant tactician that specializes in reading the terrain. With its tremendous speed, faster than the wind when racing across the land and quicker than a sound when soaring through the sky on its two wings, it runs down the opponent. In battle, it cuts the opponent apart with its sharp fangs and claws, and it has mastered the \"Bǎo Bàng\", which is its tail transformed into an octagonalthree-section staff. Its Special Move is striking the ground with theBǎo Bàng, generating a shock wave over the surrounding area (Vimohana).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、虎に似た姿の完全体デジモン。四聖獣デジモンであるチンロンモンの配下で、デーヴァいちの荒くれ者だが、地の利を読んだ戦術が得意な策略家でもある。地を駆ければ風より速く、二枚の翼で天を駆ければ音より速い凄まじい行動力で敵を追い詰める。戦闘においては鋭い牙と爪で敵を切り裂き、尻尾を八角棒の三節棍に変化させた宝棒（パオバン）を使いこなす。必殺技は宝棒を地面に叩きつけて周囲に衝撃波を起こす『ヴィモーハナ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mihiramon"
+    },
+    {
+      "id": "megalogrow_o",
+      "name": "Megalo Growmon (Orange)",
+      "name_jp": "Megalo Growmon (Orange)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/megalogrow_o/frame1.gif",
+        "frame2": "sprites/megalogrow_o/frame2.gif"
+      },
+      "artwork": "sprites/megalogrow_o/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that evolved fromData-attribute Growmon.Armed with the super-metal \"Chrome Digizoid\", it also possessesanti-aircapabilities with its twovernier. Its Special Move is an attack fired from both of the gunports on its chest that destroys the opponent on the atomic level (Atomic Blaster).Digimon Reference Book⇨ Englishデータ種のグラウモンから進化したサイボーグ型のデジモン。超金属“クロンデジゾイド”で武装されており、２基のバーニアで対空能力も備わっている。必殺技は両胸の砲門から原子レベルで敵を破壊する『アトミックブラスター』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Megalo_Growmon_(Orange)"
+    },
+    {
+      "id": "megalogrow",
+      "name": "Megalo Growmon",
+      "name_jp": "Megalo Growmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/megalogrow/frame1.gif",
+        "frame2": "sprites/megalogrow/frame2.gif"
+      },
+      "artwork": "sprites/megalogrow/artwork.jpg",
+      "lore": {
+        "en": "Possessing the name \"GreatGrowmon\", it is a Cyborg-type Perfect Digimon. As its name suggests, its body has grown gigantic, and its upper body has been metallized with the super-metal, \"Chrome Digizoid\". It is able to take flight with the twovernierattached to its shoulders, so it is possible for it to perform bothanti-airandanti-groundattacks. In order to restrain it from running wild due to excess power, a restraining tool similar to abitis attached to its jaw section. Also, since the \"Assault Balancer\" extending like a cable from its back section is extensible, it can be used to impale the opponent. Its Signature Move is cutting the opponent to pieces with the \"Pendulum Blades\" on its arms (Double Edge). Its Special Move is an attack fired from both of the gunports on its chest that destroys the opponent on the atomic level (Atomic Blaster).Digimon Reference Book⇨ English「巨大なグラウモン」の名前を持つ、サイボーグ型の完全体デジモン。その名の通り体は大きく巨大化しており、上半身は超金属“クロンデジゾイド”でメタル化されている。両肩に付いている２基のバーニアで飛行することもでき、対空・対地攻撃の両方が可能である。有り余るパワーで暴走するのを抑えるために、顎の部分にクツワのような拘束具を着けている。また背部の部分から帯のように伸びる「アサルトバランサー」は伸縮自在で、敵を貫き刺すこともできる。得意技は両腕の「ペンデュラムブレイド」で敵を切り裂く『ダブルエッジ』。必殺技は両胸の砲門から原子レベルで敵を破壊する『アトミックブラスター』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Megalo_Growmon"
+    },
+    {
+      "id": "sandira",
+      "name": "Sandiramon",
+      "name_jp": "Sandiramon",
+      "name_ko": "산티라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "7",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/sandira/frame1.gif",
+        "frame2": "sprites/sandira/frame2.gif"
+      },
+      "artwork": "sprites/sandira/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theSnake. As a follower of theFour Holy BeastsDigimonZhuqiaomon, it is the most cunning and cruel among the Deva. It doesn't like to decide matches in an instant, and prefers to instead choke the life out of the opponent while tormenting them bit by bit. It usually lives deep beneath the ground, and subterranean maneuvers are its specialty. During battle, it can produce a spear made of light, theBǎo Kuí, from its mouth, and skillfully wield it with its tail wrapped around it like a hand. Although theBǎo Kuívanishes once it slashes the opponent, as long as Sandiramon's energy lasts, it can spit out any number of them, and they will not degrade in sharpness. Its Special Move is impaling the opponent by thrashing its body and then powerfully vomiting up a Bǎo Kuí (Krishńa).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、蛇に似た姿の完全体デジモン。四聖獣デジモンであるスーツェーモンの配下で、デーヴァの中でも最も狡猾で残忍。勝負を一瞬で決めるのを好まず、相手をジワジワといたぶりながら息の根を止めるのが好み。普段は地下深くに生息し、地中での移動を得意としている。戦闘時には、口から光で出来た鉾の宝鉾（パオグー）を出し、尾でからめて器用に振り回す。宝鉾は一度相手を斬ると消えるが、サンティラモンの気力の続く限り、何本でも吐き出せて、切れ味が落ちることは無い。必殺技は体を大きく振って勢い良く吐き出した宝鉾で敵を貫く『クリシュナ』。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 뱀 [1] 과 비슷한 형상의 완전체 디지몬. 4성수 디지몬인 주작몬 의 부하로, 데바 중에서도 가장 교활하고 잔인하다. 승부를 한순간에 끝내는 것을 좋아하지 않고, 상대방을 서서히 몰아붙이면서 숨통을 끊는 것을 좋아한다. 평상시는 지하 깊이 살아서, 땅속에서의 이동을 자랑으로 여기고 있다. 전투시에는, 입에서 빛으로 만들어진 모 인 보모(宝鉾, 파오구)를 꺼내고, 꼬리로 감아 재주있게 휘두른다. 파오구는 한 번 상대를 베면 사라지지만, 산티라몬의 기력이 계속 되는 한, 몇개라도 토해낼 수 있고, 예리함이 떨어지는 일은 없다. 필살기는 파오구를 힘차게 내뱉어 그대로 적을 관통시켜 버리는 \"크리슈나(Krishna) [2] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Sandiramon"
+    },
+    {
+      "id": "duke",
+      "name": "Dukemon",
+      "name_jp": "Dukemon",
+      "name_ko": "듀크몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/duke/frame1.gif",
+        "frame2": "sprites/duke/frame2.gif"
+      },
+      "artwork": "sprites/duke/artwork.jpg",
+      "lore": {
+        "en": "This Holy Knight Digimon is called one of the \"Royal Knights\" alongsideOmegamonandMagnamon. The Royal Knights are Digimon assigned the highest rank ofNetwork Security, so it is absolutely impossible to violateSecurityin their presence. It is a living contradiction, being a guardian deity of theNetdespite being a Virus attribute, and if by any chance its balance is lost, it is possible for it to becomea dangerous being. It is clad in holy armor refined and constructed from 99.9% pureChrome Digizoid, and it wields the holy lance \"Gram\" in its right hand and the holy shield \"Aegis\" in its left. It honors chivalry, and is a loyal vassal towards its lord. Its Special Moves are a strong blow dispatched from the holy lanceGram(Royal Saber), and firing a beam which purifies everything from the holy shieldAegisin its left hand (Final Elysion).Digimon Reference Book⇨ Englishオメガモン、マグナモンと共に聖騎士型デジモンは“ロイヤルナイツ”と呼ばれている。“ロイヤルナイツ”とはネットワークセキュリティの最高位に位置するデジモンで、このデジモン達を前にセキュリティを破るのは絶対に不可能である。ウィルス属性でありながらネットの守護神という矛盾を内包した存在であり、万が一でもバランスが崩れると危険な存在にもなりうる。９９.９％の高純度“クロンデジゾイド”を精製して造られた聖鎧を纏い、右手は聖槍「グラム」、左手は聖盾「イージス」になっている。騎士道を重んじ、主君に対しては忠義の士である。必殺技は聖槍「グラム」から繰出す強烈な一撃『ロイヤルセーバー』と左腕の聖盾「イージス」から全てを浄化するビームを放つ『ファイナル・エリシオン』。デジモン図鑑",
+        "ko": "오메가몬 , 매그너몬 과 함께 성기사형 디지몬은 \" 로얄 나이츠 \"로 불린다. \"로얄 나이츠\"란 네트워크 보안의 최고위에 위치하는 디지몬으로, 이 디지몬들을 앞에 두고 보안을 뚫는 것은 절대 불가능하다. 바이러스 속성이면서 넷의 수호신이라는 모순을 내포한 존재로, 혹시라도 밸런스가 붕괴되면 위험한 존재가 될 수 있다. [7] 99.9%의 고순도 \" 크롬디지조이드 \"를 정제하여 만든 성스러운 갑옷을 두르고, 오른손은 성창(聖槍) \" 그람 \", 왼손은 성순(聖盾) [8] \" 이지스 [9] \"로 되어 있다. [10] 기사도를 중히 여기며, 주군 에 대해서는 충의의 기사이다. 필살기는 성창 \"그람\"에서 내보내는 강렬한 일격 \"로얄 세이버 [11] \"와 왼팔의 성순 \"이지스\"에서 모든 것을 정화하는 빔을 쏘는 \"파이널 엘리시온 [12] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Dukemon"
+    },
+    {
+      "id": "duke_x",
+      "name": "Dukemon X",
+      "name_jp": "Dukemon X",
+      "name_ko": "듀크몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/duke_x/frame1.gif",
+        "frame2": "sprites/duke_x/frame2.gif"
+      },
+      "artwork": "sprites/duke_x/artwork.jpg",
+      "lore": {
+        "en": "This Holy Knight Digimon is called one of the \"Royal Knights\" alongsideOmegamonandMagnamon. The Royal Knights are Digimon assigned the highest rank ofNetwork Security, so it is absolutely impossible to violateSecurityin their presence. It is a being containing contradictions, as it is called a guardian deity of theNetdespite being a Virus attribute, and if by any chance its balance is lost, it is possible for it to become a dangerous being. It is clad in holy armor refined and constructed from 99.9% pureChrome Digizoid, and its right hand can become the holy lance \"Gram\" while its left hand can become the holy shield \"Aegis\". It honors chivalry, and is a loyal vassal towards its lord. Its Special Moves are a strong blow dispatched from the holy lanceGram(Royal Saber), and firing a beam which purifies everything from the holy shieldAegisin its left hand (Final Elysion).The effect onDukemon'sDigicoredue to theX-AntibodyCarrying out its devotion as a knight, this Dukemon threw itself into the sacred battle and was at last blessed with the supreme sacred armor, sacred lance, and sacred shield. It has sacred hybrid equipment combining \"Red Digizoid\", \"Blue Digizoid\", and \"Gold Digizoid\", which are rare metals, as well asChrome Digizoidboasting the highest known purity. Since its form was remodeled in order to demonstrate its holy power, the lance of light emitted from its sacred lanceGramwas amplified, and it acquired a new Special Move called \"SiegSaber\" which lengthens it. In addition, it is said that Dukemon's red mantle from before acquiring the X-Antibody was given to the hero,Leomon.Digimon Reference Book⇨ Englishオメガモン、マグナモンと共に聖騎士型デジモンは“ロイヤルナイツ”と呼ばれている。“ロイヤルナイツ”とはネットワークセキュリティの最高位に位置するデジモンで、このデジモン達を前にセキュリティを破るのは絶対に不可能である。ウィルス属性でありながらネットの守護神という矛盾を内包した存在であり、万が一でもバランスが崩れると危険な存在にもなりうる。９９.９％の高純度“クロンデジゾイド”を精製して造られた聖鎧を纏い、右手は聖槍「グラム」、左手は聖盾「イージス」になっている。騎士道を重んじ、主君に対しては忠義の士である。必殺技は聖槍「グラム」から繰出す強烈な一撃『ロイヤルセーバー』と左腕の聖盾「イージス」から全てを浄化するビームを放つ『ファイナル・エリシオン』。■Ｘ抗体によるデュークモンのデジコアへの影響騎士としての忠義を貫き、聖なる戦いに身を投じるデュークモンは遂に、至高の聖鎧（せいがい）、聖槍（せいそう）、聖盾（せいじゅん）を授かるに至った。レアメタルである“レッドデジゾイド”、“ブルーデジゾイド”、“ゴールドデジゾイド”、そして現状最高純度を誇るクロンデジゾイドを組み合せた聖なるハイブリッド装具である。より聖なる力を発揮するようにフォルムが一新され、聖槍「グラム」より放たれる光の槍は聖なる力で増幅、長大化し『ジークセイバー』という新たな必殺技を身に付けている。尚、Ｘ抗体を獲得する前のデュークモンの赤いマントは、勇者レオモンに与えたと言われている。デジモン図鑑",
+        "ko": "오메가몬 , 매그너몬 과 함께 성기사형 디지몬은 \" 로얄 나이츠 \"로 불린다. \"로얄 나이츠\"란 네트워크 보안의 최고위에 위치하는 디지몬으로, 이 디지몬들을 앞에 두고 보안을 뚫는 것은 절대 불가능하다. 바이러스 속성이면서 넷의 수호신이라는 모순을 내포한 존재로, 혹시라도 밸런스가 붕괴되면 위험한 존재가 될 수 있다. [7] 99.9%의 고순도 \" 크롬디지조이드 \"를 정제하여 만든 성스러운 갑옷을 두르고, 오른손은 성창(聖槍) \" 그람 \", 왼손은 성순(聖盾) [8] \" 이지스 [9] \"로 되어 있다. [10] 기사도를 중히 여기며, 주군 에 대해서는 충의의 기사이다. 필살기는 성창 \"그람\"에서 내보내는 강렬한 일격 \"로얄 세이버 [11] \"와 왼팔의 성순 \"이지스\"에서 모든 것을 정화하는 빔을 쏘는 \"파이널 엘리시온 [12] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Dukemon_X"
+    },
+    {
+      "id": "megidra",
+      "name": "Megidramon",
+      "name_jp": "Megidramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "12",
+        "ap": "9"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/megidra/frame1.gif",
+        "frame2": "sprites/megidra/frame2.gif"
+      },
+      "artwork": "sprites/megidra/artwork.jpg",
+      "lore": {
+        "en": "An extremely wicked Digimon that is the most evil among Dragon Digimon. It is one of theFour Great DragonsDigimon alongsideQinglongmon,Goddramon, andHolydramon, but its personality is so fiendish that it doesn't bear the slightest resemblance to the other three. Although it is a rare species that isn't even known to be extant, and its very existence is a \"Digital Hazard\", its powers were sealed away by some sort of \"force\". However, it is said that a great amount of damage will be exerted on theDigital Worldwhen its powers are awakened. It has a body made fromChrome Digizoid. According to one theory, Megidramon andChaos Dukemonare the same being, and it is said that whether thatwave of terroris projected as a dark knight or as a dark dragon depends on the observer. Its Signature Move is a powerful shock wave that is called the \"howl of hell\" (Hell Howling). Its Special Move is its \"Megiddo Flame\" which reduces everything to ash.Digimon Reference Book⇨ English竜型デジモンの中では最凶であり、最も邪悪なデジモン。チンロンモン、ゴッドドラモン、ホーリードラモンと並ぶ四大竜デジモンの１体ではあるが、その性格は他の３体とは似ても似つかぬほど凶悪である。現存しているのかどうかもわからないほどの希少種であり、その存在自体が\"デジタルハザード\"であるが、そのパワーは何らかの“力”により封印されている。しかし、そのパワーが覚醒したときにはデジタル世界に対して多大なる被害を及ぼすと言われている。クロンデジゾイド製のボディを持っている。一説によるとメギドラモンとカオスデュークモンは同一の存在であり、その恐怖の波動が見るものによっては暗黒騎士であったり、暗黒竜として映るのではないかとまで言われている。得意技は「地獄の咆哮」と言われる強力な衝撃波『ヘル・ハウリング』。必殺技はあらゆる物体をも灰と化してしまう『メギドフレイム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Megidramon"
+    },
+    {
+      "id": "duke_c",
+      "name": "Dukemon: Crimson Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "16",
+        "ap": "9"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A hidden form ofDukemonwhose body is clad in armor that shines crimson. Because it has fully released its power, its armor portions possess the heat to dye them red. For that reason, it is unable to maintainCrimson Modefor a long duration. Within its chest is itsDigicore, which sealed the \"Digital Hazard\", and when it discharges all the power in its body, apinnateenergy emission can be distinguished coming from its back. It wields a divine lance of light, \"Gungnir\", and a divine sword of light, \"Blutgang\", energy weapons that have no physical form. Its Special Moves are cutting the opponent to pieces with its divine sword \"Blutgang\" (Invincible Sword), and disintegrating the opponent into electrons with its divine lance \"Gungnir\", then consigning them to oblivion within another dimension afar (Quo Vadis).Digimon Reference Book⇨ English紅蓮色に輝く鎧に身を包んだ、デュークモンの隠された姿。パワーを全開放しているため、鎧部分が熱を持ち赤色に染まっている。そのため、クリムゾンモードを長時間維持することは出来ない。胸部には「デジタルハザード」を封印したデジコア（電脳核）があり、体内のパワーを全放出すると背部から、羽状のエネルギー照射を確認できる。実体を持たないエネルギー状の武器、光の神槍「グングニル」と光の神剣「ブルトガング」を揮う。必殺技は神剣「ブルトガング」で敵を切り裂く『インビンシブルソード（無敵剣）』と、神槍「グングニル」で敵を電子分解し異次元の彼方に葬り去る『クォ・ヴァディス』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Dukemon:_Crimson_Mode"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "jyari",
+      "to": "gigi",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "gigi",
+      "to": "guil",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "guil",
+      "to": "grow",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "guil",
+      "to": "grow_o",
+      "conditions": {
+        "text": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "guil",
+      "to": "siesa",
+      "conditions": {
+        "text": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "guil",
+      "to": "devidra",
+      "conditions": {
+        "text": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "vajra",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "majira",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "mihira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "megalogrow_o",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "sandira",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "siesa",
+      "to": "megalogrow",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "grow_o",
+      "to": "megalogrow",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grow_o",
+      "to": "megalogrow_o",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grow_o",
+      "to": "mihira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grow_o",
+      "to": "majira",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "grow_o",
+      "to": "sandira",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "grow_o",
+      "to": "vajra",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "megalogrow",
+      "conditions": {
+        "text": "• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Vaccine, Data or Free Adult"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "megalogrow_o",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "sandira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "vajra",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "majira",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "grow",
+      "to": "mihira",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "devidra",
+      "to": "vajra",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "devidra",
+      "to": "majira",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "devidra",
+      "to": "sandira",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "devidra",
+      "to": "megalogrow_o",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "devidra",
+      "to": "mihira",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "devidra",
+      "to": "megalogrow",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "vajra",
+      "to": "megidra",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "vajra",
+      "to": "duke",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "vajra",
+      "to": "duke_x",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "vajra",
+      "to": "duke_c",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "majira",
+      "to": "megidra",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "majira",
+      "to": "duke",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "majira",
+      "to": "duke_c",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "majira",
+      "to": "duke_x",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "mihira",
+      "to": "duke_x",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "mihira",
+      "to": "duke",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "mihira",
+      "to": "megidra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "mihira",
+      "to": "duke_c",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "megalogrow_o",
+      "to": "duke_c",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "megalogrow_o",
+      "to": "duke_x",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "megalogrow_o",
+      "to": "duke",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "megalogrow_o",
+      "to": "megidra",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "duke_c",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "megidra",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "duke",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "megalogrow",
+      "to": "duke_x",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    },
+    {
+      "from": "sandira",
+      "to": "duke_c",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "sandira",
+      "to": "duke_x",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "sandira",
+      "to": "megidra",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "sandira",
+      "to": "duke",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    }
+  ]
+}

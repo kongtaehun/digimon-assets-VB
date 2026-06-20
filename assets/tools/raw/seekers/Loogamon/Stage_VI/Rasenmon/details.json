@@ -1,0 +1,57 @@
+{
+  "id": "rasen",
+  "name": "Rasenmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/rasen.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/rasen.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/rasen.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "soloogar",
+        "stiffil"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Rasenmon",
+    "name_en": "Rasenmon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "6000",
+      "hp": "6000",
+      "ap": "1900"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "soloogar",
+        "name": "Soloogarmon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "stiffil",
+        "name": "Stiffilmon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

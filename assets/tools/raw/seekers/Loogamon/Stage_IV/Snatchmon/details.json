@@ -1,0 +1,74 @@
+{
+  "id": "snatch",
+  "name": "Snatchmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/snatch.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/snatch.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/snatch.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "looga",
+        "bem"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Snatchmon",
+    "name_en": "Snatchmon",
+    "attribute": "Free",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5300",
+      "hp": "3400",
+      "ap": "1250"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "looga",
+        "name": "Loogamon",
+        "conditions": "Stage 4 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "bem",
+        "name": "Bemmon",
+        "conditions": "Stage 4 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "destro",
+        "name": "Destromon",
+        "conditions": "Stage 8 cleared, 12+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "mastertyrano",
+        "name": "Master Tyranomon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "helloogar",
+        "name": "Helloogarmon",
+        "conditions": "8+ PP, 1,500+ Vital Values, 8+ Battles, 30%+ Win Ratio"
+      }
+    ]
+  }
+}

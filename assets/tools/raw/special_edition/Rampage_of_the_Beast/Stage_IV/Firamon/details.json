@@ -1,0 +1,68 @@
+{
+  "id": "fira",
+  "name": "Firamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fira.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fira.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/fira.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "corona",
+        "gao"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Firamon",
+    "name_en": "Firamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5000",
+      "hp": "3700",
+      "ap": "1310"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "gao",
+        "name": "Gaomon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "corona",
+        "name": "Coronamon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "machgaoga",
+        "name": "Mach Gaogamon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

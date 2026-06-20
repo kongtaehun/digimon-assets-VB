@@ -1,0 +1,74 @@
+{
+  "id": "sakuya_x",
+  "name": "Sakuyamon X",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sakuya_x.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sakuya_x.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/sakuya_x.jpg",
+  "appearances": [
+    {
+      "dim_id": "rena_ex",
+      "dim_name": "Renamon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Sakuyamon X",
+    "name_en": "Sakuyamon X",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "60 (★10)",
+      "hp": "14",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "kumbhira",
+        "name": "Kumbhiramon",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "tao",
+        "name": "Taomon",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "catura",
+        "name": "Caturamon",
+        "conditions": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "vikarala",
+        "name": "Vikaralamon",
+        "conditions": "Stage 15 Cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "dou",
+        "name": "Doumon",
+        "conditions": "Stage 15 Cleared, Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "indara",
+        "name": "Indaramon",
+        "conditions": "Stage 15 Cleared, Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

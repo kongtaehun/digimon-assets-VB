@@ -1,0 +1,970 @@
+{
+  "schema_version": "1.0",
+  "id": "iti",
+  "name": "Infinite Tide",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Jun 2021 - Retail (Set Vol.02)EN: Jul 2022 - Retail (Set Vol.02)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_iti.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "pitch",
+      "name": "Pitchmon",
+      "name_jp": "Pitchmon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/pitch/frame1.gif",
+        "frame2": "sprites/pitch/frame2.gif"
+      },
+      "artwork": "sprites/pitch/artwork.jpg",
+      "lore": {
+        "en": "Amicrobe-like Digimon which was discovered in the \"Net Ocean\", which had long been studied as the birthplace of life within theDigital World, it has the smallest size among the many Digimon. Since it seems to be living with nothing but emotions, its behavior changes very frequently. Since it is extremely full of curiosity, it greatly wishes to communicate with the outside world, but as yet, no means to do so has been found. However, it is a Digimon Baby that is loved by everyone, due to its big, bright red eyes which are charming enough to shake the opponent's feelings. It spits out soap-like bubbles from its mouth and blinds the opponent's eyes, then flees.Digimon Reference Book⇨ English以前からデジタルワールド内の生命誕生の場として研究されてきた『ネットの海』で発見された微生物のようなデジモンで、数多くいるデジモンの中では最小のサイズ。感情のみで生きているようで、行動は非常にめまぐるしく変わる。好奇心が非常に旺盛で、外界とのコミュニケーションを強く希望しているが、まだ、その手段を得ていない。しかし、大きく真っ赤な目は相手の感情をゆさぶるほど魅力的で誰からも愛されているデジモンベビーである。シャボン玉の様なアワを口からはきだし、敵の目をくらまし逃げてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pitchmon"
+    },
+    {
+      "id": "puka",
+      "name": "Pukamon",
+      "name_jp": "Pukamon",
+      "name_ko": "둥실몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/puka/frame1.gif",
+        "frame2": "sprites/puka/frame2.gif"
+      },
+      "artwork": "sprites/puka/artwork.jpg",
+      "lore": {
+        "en": "Although its appearance gives the image of an aquatic dinosaur infant, this playful Digimon's clever movements are like those of aseahorse. However, the friendly personality it had asPitchmonhas totally vanished, and it quickly flees if others approach. Its outer skin cannot yet bear the water pressure and low temperature of the deep sea, so the duration it can spend submerged in deep waters is not long.Digimon Reference Book⇨ English水棲恐竜の幼生を思わせる外観を持つが、その動きはまるでタツノオトシゴのように軽妙で、ひょうきんなデジモン。しかし、性格的にはピチモンだったころの人なつっこさは影を潜めてしまい、他者が接近すると素早く逃げてしまう。外皮はまだ深海の水圧と低温に耐えられず、深海への潜水可能時間も長くない。デジモン図鑑",
+        "ko": "수생 공룡의 아기 모습을 생각하게 하는 외관을 가졌지만, 그 움직임은 마치 해마와 같이 경쾌한 맛이 있으며 익살스러운 디지몬. 그치만 성격은 피치몬 시절에 갖고 있던 붙임성이 사라져, 다른 사람이 접근해오면 재빨리 도망쳐버린다. 외피는 아직 심해의 수압과 저온을 견디지 못하고, 잠수가 가능한 시간도 길지 않다."
+      },
+      "wikimon_url": "https://wikimon.net/Pukamon"
+    },
+    {
+      "id": "sango",
+      "name": "Sangomon",
+      "name_jp": "Sangomon",
+      "name_ko": "산호몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/sango/frame1.gif",
+        "frame2": "sprites/sango/frame2.gif"
+      },
+      "artwork": "sprites/sango/artwork.jpg",
+      "lore": {
+        "en": "A Mollusk Digimon that lives in the shallows of theNet Ocean. It often mingles with other species due to its gentle disposition and cheerfulness. It uses the backs ofShellmonas a resting spot, andGanimonhave been witnessed trimming the coral protruding from its head.When attacked by intruders, it spreads a poisonous, lachrymatory mist from its coral and escapes (Refuge Mist); if it is unable to escape in time, it fights back with its \"Coral Pressure\", which releases high-pressure water from the ends of its arms.Digimon Reference Book⇨ Englishネットの海の浅瀬に暮らす軟体型デジモン。気性が温厚で陽気なことから他種族との関わりも多い。シェルモンの背中を寝床にしたり、伸びすぎた頭の珊瑚をガニモンがトリミングする姿が目撃されている。外敵に襲われたときは珊瑚から催涙性の毒霧「レフュージミスト」を撒いて逃走し、逃げ切れないときは腕の先から高圧の水を放つ「コーラルプレッシャー」で応戦する。デジモン図鑑",
+        "ko": "넷의 바다 얕은 여울에 사는 연체형 디지몬. 성품이 온화하고 쾌활하여 타종족과의 관계가 깊다. 쉘몬 의 등에서 잠자거나 너무나 긴 머리의 산호를 크랩몬 이 다듬는 모습도 목격된다. 적으로부터 습격당할 시에는 최루성 독안개 『리퓨지 미스트』를 뿌려 도주하고, 도망칠 수 없을 시에는 팔 끝에서 고압수를 쏘는 『코랄 프레셔』로 응전한다."
+      },
+      "wikimon_url": "https://wikimon.net/Sangomon"
+    },
+    {
+      "id": "tobiu",
+      "name": "Tobiumon",
+      "name_jp": "Tobiumon",
+      "name_ko": "플라잉피쉬몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/tobiu/frame1.gif",
+        "frame2": "sprites/tobiu/frame2.gif"
+      },
+      "artwork": "sprites/tobiu/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Digimon that corners its targeted prey at high speed. Its oddly developed fins allow it to fly, and its large arms enable it to move on the ground. It holds the alias of \"Hunter Fish\" from how it brings down its targets regardless of whether they are on land, in the sea, or in the air.After it slows down its prey with its \"SuckerfishDarts\", organic missiles fired from its abdomen, it finishes them off with its \"Flying Finish\", where it unleashes a high-speed slash attack with its sharp fins.Digimon Reference Book⇨ English狙った獲物を高速で追い詰める水棲型のデジモン。異様に発達したヒレは飛行を、大きな腕は地上での移動を可能にした。陸海空問わずに標的を仕留めることから、”ハンターフィッシュ”の異名を持つ。腹部から発射する生態ミサイル「サッカーフィッシュダーツ」で獲物の動きを鈍らせた後、鋭利なヒレで高速の斬撃を繰り出す「フライングフィニッシュ」でとどめを刺す。デジモン図鑑",
+        "ko": "노린 사냥감을 고속으로 몰아넣는 수서형 디지몬. 이상하게도 발달한 지느러미는 비행을, 큰 팔은 지상에서 이동이 가능하게 되었다. 육해공을 불문하고 표적의 숨통을 끊어 버리는 것으로부터 \"헌터 피시\" 라는 이명을 가지고 있다. 복부에서 발사하는 생태 미사일 『사커 피시 다츠』로 먹이 의 움직임을 둔화시킨 후, 예리한 지느러미로 고속 참격을 가하는 『플라잉 피니시』로 끝낸다."
+      },
+      "wikimon_url": "https://wikimon.net/Tobiumon"
+    },
+    {
+      "id": "seadra",
+      "name": "Seadramon",
+      "name_jp": "Seadramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/seadra/frame1.gif",
+        "frame2": "sprites/seadra/frame2.gif"
+      },
+      "artwork": "sprites/seadra/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Digimon that has a long, serpentine body. Using its long body, it wreathes itself around approaching enemies and constricts them until they are suffocated. It did not have any intelligence to begin with, and it swims around theNet Ocean, wherever its instincts take it. Its Special Move is breathingabsolute zeroair out of its mouth, instantly freezing water and firing it at the opponent (Ice Arrow).Digimon Reference Book⇨ English大蛇のような長い体を持った水棲型デジモン。この長い体を使い、襲い来る敵に体を巻きつけ、敵が息絶えるまで締め上げる。元来、知性といものを持ち合わせておらず、本能の赴くままネットの海を泳ぎ回っている。必殺技は口から絶対零度の息をはきだし、水を瞬時に凍らせて敵に放つ『アイスアロー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Seadramon"
+    },
+    {
+      "id": "shell",
+      "name": "Shellmon",
+      "name_jp": "Shellmon",
+      "name_ko": "쉘몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/shell/frame1.gif",
+        "frame2": "sprites/shell/frame2.gif"
+      },
+      "artwork": "sprites/shell/artwork.jpg",
+      "lore": {
+        "en": "A hermit crab-like Digimon that lives in the shallower seabeds of the \"Net Ocean\". Although it has a turtle-like appearance when settled inside its shell, it actually has a soft body like that of a mollusk. Because its body rapidly gets bigger as it grows, it switches homes each time until it reaches the size of a small mountain. Not only that, it has a habit of settling into anything it is able to fit its body into. Since it has low intelligence and a belligerent personality, one must take caution when coming across a Shellmon. Its Special Move is shooting liquid at high pressure (Hydro Pressure).Digimon Reference Book⇨ English「ネットの海」の浅い海底に棲むヤドカリの様なデジモン。貝殻の中に住み着いたカメの様な風体をしているが、実際は軟体動物のように柔らかい体をしている。成長すると体がどんどん大きくなるため、その度に住処を替え小さな岩山程の大きさになってしまう。また、体がすっぽり入るものなら、何にでも住み着いてしまう習性を持っている。知性は低く、好戦的な性格なのでシェルモンに出会ったら気をつけねばならない。必殺技は、液体を高圧で発射する『ハイドロプレッシャー』。デジモン図鑑",
+        "ko": "「네트워크 바다」의 얕은 해저에 사는 소라게 의 모습을 한 디지몬. 겉모습은 소라 껍데기 안에 사는 거북이처럼 생겼지만 사실 연체동물처럼 몸이 유연하다. 성장하면 몸이 점점 커지기에 그때마다 거처를 바꾸기 때문에 나중에는 작은 바위산 정도의 크기가 되어 버린다. 또한 몸이 쏙 들어가는 것이라면 뭐든지 정착해 버리는 습성을 지니고 있다. 지성은 낮고 호전적인 성격이기에 쉘몬을 만났다면 조심해야 한다. 필살기는 액체를 높은 압력으로 발사하는 『하이드로 프레셔』다."
+      },
+      "wikimon_url": "https://wikimon.net/Shellmon"
+    },
+    {
+      "id": "oct",
+      "name": "Octmon",
+      "name_jp": "Octmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/oct/frame1.gif",
+        "frame2": "sprites/oct/frame2.gif"
+      },
+      "artwork": "sprites/oct/artwork.jpg",
+      "lore": {
+        "en": "A Mollusk Digimon that was discovered from thevirusused by a fiendishhackerto crash a rival's research computer. It has a nasty habit of collecting things; the tips of its tentacles are affixed with claws obtained from aDevidramon's data, and it is clad throughout with Digi-Treasure which it gathered from the bottom of theNet Ocean.Fujitsumon, a kind of tiny Shellfish-type Digimon, cling to the pot it wears on its head. These Fujitsumon develop their senses, and it is thought that they have formed a symbiotic relationship so that if they sense danger they inform Octmon. Its Special Move is shooting a bullet packed with potently toxic ink (Kaimei Bokujū).Digimon Reference Book⇨ English凶悪なハッカーが、ライバルの探索コンピューターを破壊するために使用したウィルスから発見された軟体型デジモン。収集癖があり、触手の先端にはデビドラモンのデータから得た爪をつけ、ネットの海底から拾ったデジ宝（デジホウ）を体中にまとっている。頭にかぶっている壷には、小型デジモンの一種である貝型のフジツモンが付着している。このフジツモンは感覚が発達しており、危険を察知するとオクタモンに知らせるため共存関係が成立していると考えられる。必殺技は、毒性の強い墨のつまった弾を発射する『海鳴墨銃（かいめいぼくじゅう）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Octmon"
+    },
+    {
+      "id": "gusoku",
+      "name": "Gusokumon",
+      "name_jp": "Gusokumon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/gusoku/frame1.gif",
+        "frame2": "sprites/gusoku/frame2.gif"
+      },
+      "artwork": "sprites/gusoku/artwork.jpg",
+      "lore": {
+        "en": "A Crustacean Digimon that lurks at the bottom of the ocean, at a depth that light fails to reach. It is also known for being a long-lived Digimon, capable of long-term biological activity while consuming a miniscule amount of energy. Weak, injured Digimon that occasionally sink to the bottom of the ocean turn into its prey. It barely ever moves on its own accord.In addition to fighting back against intruders that draw near with the sharp \"Brunt Claws\" on its forelimbs, when facing a large number of enemies, it defends itself by firing countless \"Colony Torpedoes\", small fish-shaped biological weapons, from its back. Although the underwater speed of these biological weapons is slow, their nature is similar to that of mines in that they trigger a huge explosion on contact.Digimon Reference Book⇨ English光が届かないほどの海底に潜む甲殻類型デジモン。僅かなエネルギーで長期の生命活動が可能な長寿デジモンとしても知られる。ときどき海底に沈んでくる、負傷し弱ったデジモンを獲物にする。ほとんど自分から動くことはない。外敵が近付くと前脚の鋭利な爪「ブラントクロー」で応戦するほか、大勢の敵に対しては背中から小魚型の生体兵器「コロニートーピード」を無数に放ち、自分の身を守る。生体兵器の潜行速度は鈍いものの、触れれば大爆発を起こす機雷のような性質を持っている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gusokumon"
+    },
+    {
+      "id": "marinchimaira",
+      "name": "Marin Chimairamon",
+      "name_jp": "Marin Chimairamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/marinchimaira/frame1.gif",
+        "frame2": "sprites/marinchimaira/frame2.gif"
+      },
+      "artwork": "sprites/marinchimaira/artwork.jpg",
+      "lore": {
+        "en": "A Composite Digimon that was created by putting together the parts of various Aquatic Digimon. It is thought to have been produced using the same technology asChimairamon, but other than that, it is a complete mystery. It appears out of nowhere like a gust of wind, bringing devastation to ecosystems with its terrifying destructive impulses, and then disappears somewhere else.Its Special Moves are generating a large whirlpool by rapidly spinning its whole body (Poseidon Vortex), and vaporizing its surroundings with a massive amount of energy released from the tip of its horn (Aqua Viper).Digimon Reference Book⇨ English様々な水棲系のデジモンのパーツを組み合わせ創られた合成型デジモン。キメラモンと同様の技術で生み出されたと思われるが、それ以外のことは全くの謎。神出鬼没で嵐のように現れ、凄まじい破壊衝動で生態系を蹂躙し、何処かへと消えていく。必殺技は全身を高速回転させ大渦を発生させる「ポセイドンボルテックス」と、ツノの先端から放つ大質量のエネルギーで周囲を蒸発させる「アクア・バイパー」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Marin_Chimairamon"
+    },
+    {
+      "id": "mermai",
+      "name": "Mermaimon",
+      "name_jp": "Mermaimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mermai/frame1.gif",
+        "frame2": "sprites/mermai/frame2.gif"
+      },
+      "artwork": "sprites/mermai/artwork.jpg",
+      "lore": {
+        "en": "A Digimon with the appearance of the legendaryMermaid, it is based in seas found in cold regions in theDigital World. It is good at singing, which is unusual for a Digimon, and does so with a very beautifultimbre, charming those who listen to it. However, because it is greedy and extremely fond of treasure, it will charm those with its singing when it feels attracted to them, even if their data (treasure) belongs to other Digimon, and then take the opportunity to loot from them. For that reason, it is rumored that it hides a vast amount of data somewhere in theNet Ocean, but it loses interest in the data it has looted once it falls into its possession, and discards it. Its Special Moves are drawing near while adorning its beautiful mermaid-like figure, and instantly piercing the enemy with its golden anchor (Charm Plunder), and spinning its golden anchor in a turbulent manner to pulverize the enemy  (Northern CrossBomber).Digimon Reference Book⇨ English伝説に登場する人魚の姿をしたデジモンで、デジタルワールドでも寒冷地域の海を拠点としている。デジモンには珍しく、歌が得意で非常に綺麗な音色で歌い、聞くものを魅了する。しかし、物欲が強くて宝物には目が無いため、他のデジモンが所有しているデータ（宝物）でも魅力を感じると歌で魅了し、その隙に略奪する。その為、ネットの海の何処かに莫大なデータを隠しているとうわさされているが、略奪したデータは自分の所有になったとたんに魅力を感じなくなり捨てている。必殺技は美しい人魚のような姿を装い接近し、黄金の錨で一瞬にして敵を貫く『チャームプランダー』と、黄金の錨を乱れ回して敵を粉砕する『ノーザンクロスボンバー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mermaimon"
+    },
+    {
+      "id": "megaseadra",
+      "name": "Mega Seadramon",
+      "name_jp": "Mega Seadramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/megaseadra/frame1.gif",
+        "frame2": "sprites/megaseadra/frame2.gif"
+      },
+      "artwork": "sprites/megaseadra/artwork.jpg",
+      "lore": {
+        "en": "Seadramon-speciesthat survived the harsh environment of theFolder Continentarea evolved into this form, in order to outlive others in the Digital World where theweak are food for the strong. Its body became a size larger, the carapace covering its head got harder, and a lightning-shaped blade has grown on itscalvaria. Its intelligence has developed more than the Seadramon-species, so it chases its opponent persistently, like a seeking torpedo, and reliably brings them down. Its Special Move is a powerful lightning strike fired from the blade on its calvaria (Thunder Javelin). There is a generator device equipped in the carapace on its head, in order to enable this Special Move.Digimon Reference Book⇨ Englishフォルダ大陸周辺の過酷な環境を生き延びたシードラモン種が、弱肉強食のデジタルワールドを生き抜くためにに進化した形態。体も一回り大きくなり、頭部を覆う外殻も硬度を増し、頭頂部にイナズマ型のブレードが生えている。シードラモン種より知性が発達しており、追尾型魚雷のようにしつこく敵を追い回し、確実に仕留める。必殺技は頭頂部のブレードから発する強力な雷撃『サンダージャベリン』。頭部の外殻は、この必殺技を可能にするための発電装置が仕込まれている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mega_Seadramon"
+    },
+    {
+      "id": "pirani",
+      "name": "Piranimon",
+      "name_jp": "Piranimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/pirani/frame1.gif",
+        "frame2": "sprites/pirani/frame2.gif"
+      },
+      "artwork": "sprites/pirani/artwork.jpg",
+      "lore": {
+        "en": "A ferocious Aquatic Digimon that acts in large schools. The exoskeleton covering its head amplifies the power of its jaws so that it can reliably bring down the enemy with its sharp fangs. That power is said to rival that of aMammonstomping.After it pulls its target underwater using its \"Cruel Invite\", where it impales them with its caudal fin, which is sharpened like a fish hook, it punctures the body of its prey with \"Calamity Vise\", in which it rapidly oscillates as it gnaws through them, killing them. Since it attacks a single Digimon in schools, not a scrap of data is left behind after it is assaulted by the Piranimon.Digimon Reference Book⇨ English大群で活動する凶暴な水棲型デジモン。頭部を覆う外骨格は、鋭利な牙で確実に敵を仕留められるように顎の力を増幅させている。その威力は、マンモンが足で踏みつける力に匹敵するという。釣り針のように尖った尾びれで刺突する「クルーアルインバイト」で標的を水中に引きずり込んだ後、噛みついたまま高速回転をする「カラミティバイス」で獲物の体に風穴を空け絶命させる。群れで一体のデジモンに攻撃するため、ピラニモンに襲われた後はデータの塵ひとつ残らない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Piranimon"
+    },
+    {
+      "id": "dago",
+      "name": "Dagomon",
+      "name_jp": "Dagomon",
+      "name_ko": "드라고몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/dago/frame1.gif",
+        "frame2": "sprites/dago/frame2.gif"
+      },
+      "artwork": "sprites/dago/artwork.jpg",
+      "lore": {
+        "en": "A wicked god Digimon referred to as the \"Sinful Priest of the Ocean Floor\". It is thought to have evolved from acomputer virusthat would infect computers aboard ships, messing up their bearings and course. It bundles up its innumerable, multiplying tentacles and takes on a humanoid appearance, but its true form is a strange evolution of a Mollusk Digimon. Its Special Move is throwing its trident with tremendous physical strength (Forbidden Trident). For its defeated opponents, it holds therosaryaround its neck and adopts a pose similar to mourning.Digimon Reference Book⇨ English「海底の破戒僧」と呼ばれる邪神デジモン。船舶などのコンピュータに感染して、方位や航路を狂わせていたコンピュータウィルスが進化したと考えられている。無数に増える触手を束ね、人型に姿を変えているが、その正体は奇怪な軟体型デジモンの進化型である。必殺技は凄まじい腕力で、三つ又の鉾を投げつける『フォービドゥントライデント』。倒した相手には、首の数珠を持ち、弔うようなポーズをとる。デジモン図鑑",
+        "ko": "「해저의 파계승」이라고 불리는 사신(邪神) 디지몬. 선박 등의 컴퓨터에 감염되어, 방위나 항로를 혼란시키는 컴퓨터 바이러스가 진화했다고 여겨지고 있다. 무수히 늘어나는 촉수를 묶어 인간형으로 모습을 바꾸고 있지만 그 정체는 기괴한 연체형 디지몬의 진화형이다. 필살기는 엄청난 완력으로 삼지창을 던지는 \"포비든 트라이던트\". 쓰러뜨린 상대에게는 목의 염주를 쥐고 애도하는 듯한 포즈를 취한다. 디지몬 펜들럼 사람들에게 「해저의 파계승」이라고 불리며 두려움받는 사신 디지몬. 그 발생은 선박 등의 컨트롤을 하는 컴퓨터에 감염되어, 방위나 항로 등을 혼란시키는 컴퓨터 바이러스가 진화한 것이라고 여겨지고 있다. 몸은 무수히 늘어나는 촉수를 묶어 인간형으로 모습을 바꾸고 있지만 정체는 기괴한 연체형 디지몬의 진화형이자 부정형인 정말 끔찍한 것이다. 그 모습을 본 사람은 일부 예외를 제외하고는 모조리 이 세상에서 생명이 지워졌다고 한다. 엄청난 완력으로 삼지창을 던지는 \"포비든 트라이던트\"가 필살기이며 쓰러뜨린 상대를 향해 목의 염주를 들고 경을 외며 애도하듯 포즈를 취하는 습성이 있다. 디지몬 스토리 선버스트·문라이트 배의 컴퓨터에 감염되어 방위 등을 혼란시키는 바이러스가 진화한 수서수인형 디지몬. 촉수를 묶어서 인간형이 되어 있지만 그 정체는 끔찍한 것 같다. \"해저의 파계승\"이라고 불린다. 디지털 몬스터 카드 게임 St-419 - 수몰 필수! 금단의 쌍날검이 인도를 건넌다!! St-908 - 심해에 울리는 염불은 사냥감을 피안으로 보내는 문어중의 공물! Bo-33 - 배틀 상대는 지옥행이다! Bo-233 - 손?과 손?을 모아서 승리의 포즈, 해저의 파계중!"
+      },
+      "wikimon_url": "https://wikimon.net/Dagomon"
+    },
+    {
+      "id": "neptune",
+      "name": "Neptunemon",
+      "name_jp": "Neptunemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "16",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/neptune/frame1.gif",
+        "frame2": "sprites/neptune/frame2.gif"
+      },
+      "artwork": "sprites/neptune/artwork.jpg",
+      "lore": {
+        "en": "One of theOlympos XII, it is a Digimon god of the sea which governs all Aquatic Digimon. The Scalemail which covers Neptunemon's body is made of \"Chrome Digizoid\" converted into the \"Blue Digizoid\" which excels in agility, so it is capable of moving at terrifying speeds in the sea. It constructed a castle to reside within, the \"Abyss Sanctuary\", at the far depths of the sea, so that only those who can withstand the water pressure of the extreme depths can intrude upon it. Its Special Moves are firing off its sentient spear \"King's Bite\" (Vortex Penetrate), and a gigantic tidal wave which swallows everything (Wave of Depth).Digimon Reference Book⇨ Englishオリンポス十二紳族の１体で、すべての海生デジモンを治める海神デジモン。ネプトゥーンモンの体を覆うスケイルメイル（鱗鎧）は機動力・スピードに優れる「ブルーデジゾイド」化されたクロンデジゾイドでできており、海中を恐るべき速度で移動することが可能である。超深海に建設された「アビスサンクチュアリ（深海神殿）」を居城としており、超深海の水圧に耐えられるものだけが「アビスサンクチュアリ」に入城することができる。必殺技は、思念を持つ槍「キングスバイト」を打ち出す『ボルテックスペネトレート』とすべてのものを飲み込む極大津波『ウェーブオブデプス』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Neptunemon"
+    },
+    {
+      "id": "metalseadra",
+      "name": "Metal Seadramon",
+      "name_jp": "Metal Seadramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "18",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalseadra/frame1.gif",
+        "frame2": "sprites/metalseadra/frame2.gif"
+      },
+      "artwork": "sprites/metalseadra/artwork.jpg",
+      "lore": {
+        "en": "The final form of theSeadramon-specieswhose whole body is covered in the super-metal,Chrome Digizoid. ItsMetal Bodyreflects every attack. Furthermore, it has the fastest speed of movement among aquatic Digimon. Metal Seadramon was remodeled as a Digimon for use in interception under the sea. With this, all Digimon for use in land, sea, and sky interception have been completed. Its Special Move is an energy cannon that is fired off from its snout (Ultimate Stream).The formal name of \"Chrome Digizoid\", the metal used by Metal-species Digimon, is called \"Chrondigizoit Hybrid Organism alloy\" and is abbreviated as \"CHO-alloy\". Chrome Digizoid is an intermediate material betweenChrondigizoitand living tissue, so it is able to integrate with living tissue, and it possesses both the super-hard firmness of Chrondigizoit, as well as the smoothness of living tissue.Digimon Reference Book⇨ English全身を超金属のクロンデジゾイドで覆われたシードラモン種の最終形態。このメタルボディーは、あらゆる攻撃を跳ね返す。更に水棲デジモンの中では最速の移動スピードを持っている。メタルシードラモンは水中迎撃用デジモンとして改造された。これにより陸海空全ての迎撃用デジモンが完成した。必殺技は鼻先の砲身から打ち出されるエネルギー砲『アルティメットストリーム』。※メタル系デジモンに使用される金属「クロンデジゾイド」の正式名称は「Chrondigizoit Hybrid Organism合金」略して「CHO－合金」と呼ばれている。クロンデジゾイドはクロンデジゾイトと生物の中間的存在で、生物と一体化することができ、かつクロンデジゾイトの持つ超硬度の硬さと、生物の持つ滑らかさを併せ持っている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Seadramon"
+    },
+    {
+      "id": "regalecus",
+      "name": "Regalecusmon",
+      "name_jp": "Regalecusmon",
+      "name_ko": "레가렉스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/regalecus/frame1.gif",
+        "frame2": "sprites/regalecus/frame2.gif"
+      },
+      "artwork": "sprites/regalecus/artwork.jpg",
+      "lore": {
+        "en": "An aloof Aquatic Digimon who hates grouping with others. It is a pirate who repeatedly assaults and plunders the feeding grounds and territories of other Digimon, and is also the ruler of the abyss that stands at the apex of the food chain due to its overwhelming power. Its sword—which it made after tearing off aZudomon's horn—and the giant pincer on its left arm are symbols of awe that strike fear into those who lay their eyes upon them.Its Special Moves are piercing the enemy with the sword in its right hand, accompanied by a flash of lightning (BrionaStrike), and blowing away everything around it, including seawater, with plasma discharged from its pincer (Reactor Discharge).Digimon Reference Book⇨ English群れを嫌う孤高の水棲型デジモン。他のデジモンの餌場や縄張りに強襲・略奪を繰り返す海賊であり、圧倒的な力で食物連鎖の頂点に立った深海の覇者でもある。ズドモンのツノをもぎ取って作った剣と左腕の巨大なハサミは、見た者を震え上がらせる畏怖の象徴だ。必殺技は右手の剣で稲妻と共に敵を貫く「ブリューナストライク」と、ハサミから放つプラズマで海水ごと周囲を吹き飛ばす「リアクターディスチャージ」。デジモン図鑑",
+        "ko": "해적이자 압도적인 힘으로 먹이사슬의 정점에 선 심해의 패자이기도 하다. 쥬드몬 의 뿔을 떼어 만든 검과 왼팔의 거대한 가위는 보는 이로 하여금 떨게 하는 두려움의 상징이다. 필살기는 오른손의 검으로 번개와 함께 적을 관통하는 『브리오나 스트라이크』와 가위에서 쏘는 플라즈마로 해수 채로 주위를 날려버리는 『리액터 디스차지』."
+      },
+      "wikimon_url": "https://wikimon.net/Regalecusmon"
+    },
+    {
+      "id": "plesio",
+      "name": "Plesiomon",
+      "name_jp": "Plesiomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/plesio/frame1.gif",
+        "frame2": "sprites/plesio/frame2.gif"
+      },
+      "artwork": "sprites/plesio/artwork.jpg",
+      "lore": {
+        "en": "A previously imaginary Digimon discovered within the computer of a Britishcryptozoologyresearch institute. It was a Digimon that had already been rumored amongresearchers. Although it rarely makes an appearance, it seems to show up when visibility is reduced due to being shrouded in fog. It is a mysterious being whose appearance gives the impression of being polished to shine white. It sings with a high-pitched, crystal-clear voice, wrapping the listener in sorrow and making them lose their fighting spirit (Sorrow Blue).Digimon Reference Book⇨ Englishイギリスの未確認生物研究所のコンピュータ内で発見された空想上の存在だったデジモン。すでに研究者の間では噂になっていたデジモンだった。滅多に姿を現わせることはなく、霧に包まれ視界が悪くなると出現するらしい。その姿は白く輝き洗練された印象を受ける神秘的な存在。甲高く、透き通るような声で鳴き、聞くものを悲しみで包み込み戦意を喪失させる『ソローブルー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Plesiomon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "sango",
+      "to": "tobiu",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sango",
+      "to": "seadra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sango",
+      "to": "shell",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sango",
+      "to": "oct",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "gusoku",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shell",
+      "to": "gusoku",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "seadra",
+      "to": "marinchimaira",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "oct",
+      "to": "marinchimaira",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "mermai",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "shell",
+      "to": "mermai",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "seadra",
+      "to": "megaseadra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "oct",
+      "to": "megaseadra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "pirani",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "seadra",
+      "to": "pirani",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "shell",
+      "to": "dago",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "oct",
+      "to": "dago",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gusoku",
+      "to": "neptune",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mermai",
+      "to": "neptune",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pirani",
+      "to": "neptune",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mermai",
+      "to": "metalseadra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "megaseadra",
+      "to": "metalseadra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dago",
+      "to": "metalseadra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gusoku",
+      "to": "regalecus",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "regalecus",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "pirani",
+      "to": "regalecus",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "plesio",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "megaseadra",
+      "to": "plesio",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dago",
+      "to": "plesio",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "pitch",
+      "to": "puka",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "puka",
+      "to": "sango",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "dago",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "marinchimaira",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "tobiu",
+      "to": "megaseadra",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "seadra",
+      "to": "dago",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "seadra",
+      "to": "gusoku",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "seadra",
+      "to": "mermai",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "shell",
+      "to": "marinchimaira",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "shell",
+      "to": "pirani",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "oct",
+      "to": "gusoku",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "oct",
+      "to": "mermai",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "oct",
+      "to": "pirani",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "gusoku",
+      "to": "metalseadra",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "gusoku",
+      "to": "plesio",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "metalseadra",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "marinchimaira",
+      "to": "neptune",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "mermai",
+      "to": "plesio",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "mermai",
+      "to": "regalecus",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "megaseadra",
+      "to": "neptune",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "megaseadra",
+      "to": "regalecus",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "pirani",
+      "to": "metalseadra",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "pirani",
+      "to": "plesio",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "dago",
+      "to": "neptune",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "dago",
+      "to": "regalecus",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    }
+  ]
+}

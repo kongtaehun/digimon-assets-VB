@@ -1,0 +1,39 @@
+{
+  "id": "petit",
+  "name": "Petitmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/petit.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/petit.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/petit.jpg",
+  "appearances": [
+    {
+      "dim_id": "dbl",
+      "dim_name": "Draconic Blaze",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Petitmon",
+    "name_en": "Petitmon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "babyd",
+        "name": "Babydmon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

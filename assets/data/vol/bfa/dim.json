@@ -1,0 +1,949 @@
+{
+  "schema_version": "1.0",
+  "id": "bfa",
+  "name": "Blizzard Fang",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Apr 2021 - Retail (Set Vol.01)EN: Jul 2022 - Retail (Set Vol.01)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_bfa.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "yukimibota",
+      "name": "Yukimibotamon",
+      "name_jp": "Yukimibotamon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/yukimibota/frame1.gif",
+        "frame2": "sprites/yukimibota/frame2.gif"
+      },
+      "artwork": "sprites/yukimibota/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon whose whole body is covered in fluffy, white hair. It is considered a species ofBotamon, and was named \"Yukimi Botamon\" after its white body, but the details are not clearly known. It is weak to heat, and tends to prefer cold places, so its body feels cold to the touch. Its attack technique is breathing out freezing cold air (Diamond Dust). When Yukimi Botamon exhales, the moisture in the air freezes, and falls while brilliantly glittering.Digimon Reference Book⇨ English全身を白くてフワフワしている繊毛に覆われているベビーデジモン。ボタモンの一種と考えられており、白い体からユキミボタモンと名付けられているが、その詳細は不明である。熱さに弱く、寒い場所を好む習性があり、体を触るとヒンヤリしている。攻撃技は、冷たい冷気の息を吐き出す「ダイアモンドダスト」。ユキミボタモンが息を吐き出すと、空気中の水分が凍りついて、きらきら光りながら落ちていく。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Yukimibotamon"
+    },
+    {
+      "id": "hiyari",
+      "name": "Hiyarimon",
+      "name_jp": "Hiyarimon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/hiyari/frame1.gif",
+        "frame2": "sprites/hiyari/frame2.gif"
+      },
+      "artwork": "sprites/hiyari/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromYukimi Botamon. The fluffyciliait once had are now gone, and instead the surface of its body is always covered with snow. It lives mostly in snowy mountains, and its body melts when exposed to sunlight, so it is active after sunset. It seems that the bigger the icicle is that hangs from the tip of its beak, the more energized it is.Its Signature Move is spewing cold breath (Diamond Dust).Digimon Reference Book⇨ Englishユキミボタモンから進化したレッサー型デジモン。かつてのフワフワとした繊毛はなくなったが、代わりに体表面が常に雪で覆われている。雪山に多く棲息しており、太陽光にあたると身体が溶けてしまうため陽が沈んでから行動する。クチバシの先から垂れるツララが大きくなるほど元気が出るらしい。得意技は、冷たい息を吐き出す『ダイアモンドダスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Hiyarimon"
+    },
+    {
+      "id": "bluco",
+      "name": "Blucomon",
+      "name_jp": "Blucomon",
+      "name_ko": "블루코몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/bluco/frame1.gif",
+        "frame2": "sprites/bluco/frame2.gif"
+      },
+      "artwork": "sprites/bluco/artwork.jpg",
+      "lore": {
+        "en": "A Small Dragon Digimon that resides in areas isolated from the outside world by ice. Its physical strength has been tempered by cold, harsh environment, allowing it to lift objects larger than itself with ease. However, because its body is made mainly out of ice, its body will shrink and its power will weaken when exposed to high temperatures. Due to being brought up in areas with small populations, they will tend to form very strong bonds even with Digimon of different species that they encounter. It is especially close toPenmon. Its Special Moves are exhaling chilled air from its mouth, shooting out countless shards of ice (Baby Hail), and attacking continuously with its outer shell of ice (Ice Mash).Digimon Reference Book⇨ English氷に閉ざされた大地に棲息する小竜型デジモン。極寒の地で鍛えられた筋力は、自分の身体よりも大きなものを軽々と持ち上げる。ただ体の大半が氷でできているため、気温が熱くなると溶けて細くなりパワーが下がってしまう。生き物の絶対数が少ない地で育つため、他のデジモンを見つけると種族が違っても仲間意識を強く持つといい、なかでもペンモンとは仲が良い。必殺技は口から冷気を放ち、無数の小さな氷を撃ち出す「ベビーヘイル」と、氷の外殻で連続攻撃する「アイスマッシュ」。デジモン図鑑",
+        "ko": "얼음으로 막힌 대지에 서식하는 소룡형 디지몬. 극한의 땅에서 단련된 근력은 자신의 몸보다도 큰 것을 가볍게 들어올린다. 몸의 대부분이 얼음으로 이루어져 있어, 기온이 높아지면 녹아 가늘어져서 파워가 내려가게 된다. 생명체의 수가 적은 땅에서 성장하기 때문에, 다른 디지몬을 발견하면 동료의식을 강하게 가진다고 하며, 그 중에서도 펭귄몬 과 사이가 좋다. 필살기는 입에서 냉기를 쏘아, 무수한 적에게 얼음을 발사하는 『베이비 헤일 』과, 얼음 외피로 연속 공격하는 『아이스 매시』. [2]"
+      },
+      "wikimon_url": "https://wikimon.net/Blucomon"
+    },
+    {
+      "id": "yukidaru",
+      "name": "Yukidarumon",
+      "name_jp": "Yukidarumon",
+      "name_ko": "프리지몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/yukidaru/frame1.gif",
+        "frame2": "sprites/yukidaru/frame2.gif"
+      },
+      "artwork": "sprites/yukidaru/artwork.jpg",
+      "lore": {
+        "en": "An Ice-snow Digimon whose body is covered in snow and ice crystals. Contrary to its cold appearance, it has a very warm, gentle personality. As a Digimon that melts the hearts of those who see it with its calm movements and sweet behavior, Yukidarumon hates fighting by nature. Among the battle-loving Digimon, it dreadsMeramonin particular. Its Special Move is \"Zettai Reido Punch\", which it fires from its large body.Digimon Reference Book⇨ English雪と氷の結晶にからだを覆われた氷雪デジモン。見た目の冷たさとは裏腹にとても温厚であたたかい性格の持ち主。ゆったりとした動きと、かわいらしい仕草で見ているものの心を和ませるデジモンで、ユキダルモン自体は戦うことを好んでいない。戦闘を好むデジモンの中でも、特にメラモンが大の苦手である。必殺技は大きな体から繰り出す『絶対零度パンチ』。デジモン図鑑",
+        "ko": "온몸이 눈과 얼음으로 덮인 빙설 디지몬. 차가워 보이는 외모와 달리 아주 온화하며 따뜻한 마음씨를 지녔다. 느긋한 동작과 사랑스러운 움직임으로 보는 이의 마음을 편안하게 해주며, 프리지몬 자신도 싸우는 것을 좋아하지 않는다. 전투를 좋아하는 디지몬 중에서도, 특히 메라몬 을 싫어한다. 필살기는 커다란 몸체를 이용한 \"절대영도 펀치\". 얼음이라는 상성상 천적은 메라몬 이라고 한다. 물론 싸움을 싫어하는 디지몬이라서 싸우는 건 드문 일이지만 말이다. [4]"
+      },
+      "wikimon_url": "https://wikimon.net/Yukidarumon"
+    },
+    {
+      "id": "paledra",
+      "name": "Paledramon",
+      "name_jp": "Paledramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/paledra/frame1.gif",
+        "frame2": "sprites/paledra/frame2.gif"
+      },
+      "artwork": "sprites/paledra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved fromBlucomon. Its large wings of ice allow it to fly at high speed, even in foul weather. Changes in temperature due to the environment no longer affect its body, but when facing hot Digimon such asMeramon, its body will melt just like its Child form, causing its power to decrease.It has a strong sense of camaraderie, so if a Digimon who it has teamed up with falls into a crisis, it will try to help them out regardless of the risks.Its Special Moves are freezing the enemy with its breath (Ice Age), and charging from the sky as if it were a giant block of ice (Meteor Hail).Digimon Reference Book⇨ Englishブルコモンが進化したデジモン。大きな氷の翼は悪天候をものともせず、高速で飛行することを可能とする。環境による気温の変化程度では体に影響は出なくなったが、メラモンなどの熱いデジモン相手では、成長前と同様に身体を溶かされパワーダウンしてしまう。仲間意識が強く、行動を共にしたデジモンが危機に陥るとリスクを顧みずに助けようとする。必殺技は吐息で敵を凍らせる「アイスエイジ」と、自分を巨大な氷塊に見立て上空から突進する「メテオヘイル」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Paledramon"
+    },
+    {
+      "id": "hyouga",
+      "name": "Hyougamon",
+      "name_jp": "Hyougamon",
+      "name_ko": "블루우가몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/hyouga/frame1.gif",
+        "frame2": "sprites/hyouga/frame2.gif"
+      },
+      "artwork": "sprites/hyouga/artwork.jpg",
+      "lore": {
+        "en": "A species ofOrgemonthat inhabits cold places. It is very territorial, and will attack in rage the moment anyone takes even a step into its territory (apparently, there are times when it gets into territorial disputes withMojyamon). Its Special Move is dishing out a cold-packed punch (Snow Punch).Digimon Reference Book⇨ English寒い場所に住むオーガモンの一種。ナワバリ意識が強く、例え一歩でも踏み込むと怒っておそいかかってくる（モジャモンとナワバリ争いをすることもあるらしい）。必殺技は、冷気をこめたパンチをくり出す「スノーパンチ」。デジモン図鑑",
+        "ko": "동양의 전설에 등장하는 오니 와 같은 모습을 한 디지몬. 무섭게 발달한 근육에서 뿌려지는 공격은 굉장한 파괴력을 가지고 있다. 지성은 높지만 성격이 난폭하고, 분노를 원동력으로 삼고 있는 그들은 파괴의 극을 추구한다. 매우 호전적이고, 자신보다 전투력이 높은 상대에게 과감하게 싸움을 걸기도 해 디지몬 헌터라 불린다. 오른팔에 들고 있는 곤봉은 스컬그레이몬 을 쓰러뜨렸을 때의 전리품이다. [3] 필살기는 거대한 양팔에서 발산하는 '패왕권'. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Hyougamon"
+    },
+    {
+      "id": "moose",
+      "name": "Moosemon",
+      "name_jp": "Moosemon",
+      "name_ko": "무스몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/moose/frame1.gif",
+        "frame2": "sprites/moose/frame2.gif"
+      },
+      "artwork": "sprites/moose/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Ancient Beast Digimon that evolved through the power of the \"Digimental of Hope\". It inhabits mountainous areas, and has a tough body that makes light of adverse conditions such as the thin air and extreme cold. Moosemon is revered as the \"Guardian Deity of the Mountains\", and should someone show up and defile the mountain it lives on, Moosemon will try to defend it until the very end, even at the cost of its own life. Its mood swings are erratic; though all is well when it is calm, it can turn uncontrollable when is in a bad mood. It seems that Moosemon's mood is linked to the weather on the mountains, and it is said that the unexplained occurrences of thunder or avalanches from time to time are the result of Moosemon's ill temper. Its Special Move \"Horn Blade\" is a technique where it cuts through space itself using its giant antlers, so no matter how far away the opponent is, it is capable of cutting them along with space.Digimon Reference Book⇨ English“希望のデジメンタル”のパワーによって進化したアーマー体の古代獣型デジモン。山岳地帯に生息しており、希薄な空気や極寒などの悪条件をものともしない強靭な肉体を持っている。ムースモンは「山の守り神」として敬われており、自分の住む山を汚すものが現れるとその命を削ってでも守り抜こうとする。感情の起伏が激しく、穏やかなときはよいが機嫌が悪いと手がつけられなくなる一面も持っている。ムースモンの機嫌はその山の気候とリンクしているらしく、時々起こる原因不明の雷や雪崩がおきるときは、ムースモンの機嫌の悪さから来ると伝えられている。必殺技の『ホーンブレード』は巨大な角で空間そのものを切り裂く技で、相手が離れていようとも空間ごと切断することが可能である。デジモン図鑑",
+        "ko": "\"희망의 디지멘탈\"의 파워에 의해서 진화한 아머체의 고대짐승형 디지몬. [4] 산악 지대에 생식하고 있어 희박한 공기나 극한 등의 악조건에도 아랑곳 하지 않는 강인한 육체를 지니고 있다. 무스몬은 \"산의 수호신\"으로 존경받고 있어 자신이 사는 산을 더럽히는 것이 나타나면 자기 생명을 깎아서라도 지킨다. 감정의 기복이 격렬하고 온활 때는 좋지만 기분이 나쁘면 손 댈 수 없게 되는 일면도 가지고 있다. 무스몬의 기분은 그 산의 기후와 연결되어 있는 것 같아서 가끔 일어나는 원인불명의 번개나 눈 사태가 일어날 때는 무스몬의 기분이 나쁨으로부터 온다고 전해진다. 필살기 \"호른 블레이드\"는 거대한 뿔로 공간 그 자체를 잘라내는 기술로, 상대가 떨어져 있어도 공간과 같이 잘라낼 수 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Moosemon"
+    },
+    {
+      "id": "mam",
+      "name": "Mammon",
+      "name_jp": "Mammon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/mam/frame1.gif",
+        "frame2": "sprites/mam/frame2.gif"
+      },
+      "artwork": "sprites/mam/artwork.jpg",
+      "lore": {
+        "en": "The fact that this ancient Digimon existed long ago was made clear from a multitude of evidence. Due toDigital Worldwarming, its super-compressed data was expanded, and it made its way from the once-iceboundIce-Snow Area. Its whole body is covered in dense fur, and although it is an ancient Digimon that possesses immense power, it also has a weakness to extreme heat. The crest engraved into the mask covering its face is a super-ancient crystal of wisdom, so it possesses the power of clairvoyance so that it is able to see far into the distance, and its large ears can even identify sounds from faraway places. Its Special Moves are skewering the opponent with its two elongated tusks (Tusk Strikes), and spewing cold breath out of its long trunk in one burst, instantly freezing any opponent (Tundra Breath).Digimon Reference Book⇨ English数々の形跡から、遥か昔に存在していた事実は明らかになっていた古代デジモン。デジタルワールドの温暖化によって、超圧縮されていたデータが解凍され、氷に閉ざされていた氷雪エリアから姿を現した。全身を濃い体毛で覆われ、太古の強大なパワーを持つデジモンだが、極端な熱さに弱い一面を持つ。顔面を覆う仮面に刻まれた紋章は、超古代の英知の結晶であり、遥か彼方まで見通すことができる千里眼の力を持ち、大きな耳は遠く離れた場所の音まで聞き分ける。必殺技は長く伸びた2本の牙で相手を突き刺す『タスクストライクス』と、長い鼻から一気に冷たい息を吐き出して、どんな相手も一瞬で凍らせる『ツンドラブレス』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mammon"
+    },
+    {
+      "id": "panjya",
+      "name": "Panjyamon",
+      "name_jp": "Panjyamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/panjya/frame1.gif",
+        "frame2": "sprites/panjya/frame2.gif"
+      },
+      "artwork": "sprites/panjya/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon of proud justice. For someLeomon, who go through repeated training day after day in order to defend justice, it is a form that acquired power over the cold in the freezing lands of theDigital World'sIce-Snow Area, and evolved. By being in the cold, it tempered its mighty will and body, and they cannot be broken by any attack. Its Special Move is firing a fist packed with cold air (Hyoujūken).Digimon Reference Book⇨ English誇り高き正義の獣人型デジモン。正義を守るために日々トレーニングを重ねる一部のレオモンが、デジタルワールドの氷雪エリアの極寒の地において、冷気の力を身に付けて進化した姿である。寒さの中で鍛えられた強い意志と体は、どんな攻撃にも挫けることはない。必殺技は冷気を込めた拳で放つ『氷獣拳』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Panjyamon"
+    },
+    {
+      "id": "cryspaledra",
+      "name": "Crys Paledramon",
+      "name_jp": "Crys Paledramon",
+      "name_ko": "크리스페일드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/cryspaledra/frame1.gif",
+        "frame2": "sprites/cryspaledra/frame2.gif"
+      },
+      "artwork": "sprites/cryspaledra/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man Digimon that only a select fewPaledramonare said to be able to evolve into. Its developed icy shell has changed into armor that covers its entire body, drastically raising its defensive and offensive power.Thanks to the icicles mounted on its wings, it now remains unaffected even when facing the hottest of Digimon. In addition, it can also control air currents due to the cold air it blasts from its thrusters, allowing it to fly at higher speeds even during snowstorms.Its Special Moves are tearing the enemy to pieces with the ice claws equipped to both of its arms, and then freezing their wounds (Frozen Claw), and generating asnowsquallwhich causes everything around it to be frozen in ice, including the enemy (Callous Dimension).Digimon Reference Book⇨ Englishペイルドラモンの中でも、限られた者しか進化出来ないと言われている竜人型デジモン。発達した氷の外殻は全身を包む甲冑と化し、防御力と攻撃力を大幅に向上させた。翼についている氷柱により、どんな熱きデジモンを前にしても変化なく自分を保てるようになった。また、スラスターから噴出される冷気によって気流さえも操り、吹雪の中でも更なる高速飛行が可能になっている。必殺技は両腕に備える氷の爪で敵を斬り裂き、傷口を凍らせる「フローズンクロー」と、局地的な吹雪を発生させ、敵もろとも辺り一面を氷漬けにする「カロスディメンション」。デジモン図鑑",
+        "ko": "페일드라몬 중에서도 한정된 자 밖에 진화 할 수 없다는 용인형 디지몬. 발달한 얼음 외피는 전신을 감싼 갑주로 변해, 방어력과 공격력을 대폭 향상시켰다. 날개에 달린 고드름으로부터 어떤 뜨거운 디지몬이 앞에 있어도 변화하지 않게 되었다. [1] 또한, 스러스터에서 분출되는 냉기에 의해 기류조차 조종해 눈보라 안에서도 더욱이 고속이동이 가능해졌다. 필살기는 양팔에 장착한 얼음의 발톱으로 적을 베어가르고, 상처를 얼리는 『프로즌 클로』와, 국지적인 눈보라를 발생시켜, 적과 함께 주변을 전부 얼려버리는 『캘러스 [2] 디멘션』."
+      },
+      "wikimon_url": "https://wikimon.net/Crys_Paledramon"
+    },
+    {
+      "id": "cresce",
+      "name": "Crescemon",
+      "name_jp": "Crescemon",
+      "name_ko": "크레세몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/cresce/frame1.gif",
+        "frame2": "sprites/cresce/frame2.gif"
+      },
+      "artwork": "sprites/cresce/artwork.jpg",
+      "lore": {
+        "en": "A Demon Man Digimon with a flexible body, allowing it to perform nimble movements as it attacks its enemies. It excels in battling elegantly, and its power is said to double when it is exposed to moonlight. Its Special Move is entrancing the enemy with its dance-like steps, after which it closes the distance and slashes with the weapons,Nova Luna, that it wields in both hands (Lunatic Dance). It is also capable of combining its twoNova Lunaweapons to transform it into a bowgun. It can use its weapon when in this form to perform two techniques: firing an arrow of ice (Ice Archery), and firing an arrow made from dark energy (Dark Archery).Digimon Reference Book⇨ English体が柔軟で、しなやかな動きで敵を討つ魔人型デジモン。流麗な戦闘を得意とし、月の光を受けるとその力は倍増すると言われている。必殺技は、舞うようなステップで敵を幻惑し、間合いを詰め、両手に持った武器“ノワ・ルーナ（羅：新月）”を使った斬撃『ルナティックダンス』。また、“ノワ・ルーナ”は１つに組み合わせることでボウガンのような形態に変化する。この状態から氷の矢を放つ『アイスアーチェリー』と、闇エネルギーの矢を放つ『ダークアーチェリー』の２つの技を繰り出すことができる。デジモン図鑑",
+        "ko": "몸이 유연해서 탄력 있는 움직임으로 적을 공격하는 마인형 디지몬. 유려한 전투에 능하며 달빛을 받으면 그 힘은 배로 증가한다고 한다. 필살기는 춤추는 듯한 발놀림으로 적을 현혹해 간격을 좁힌 후, 양손에 든 무기 \"노바 루나 [1] \"를 사용해 베는 『루나틱 댄스』다. 또한 \"노와 루나\"는 1개로 조합하면 보우건처럼 형태가 변화한다. 이 형태에서 얼음 화살을 쏘는 『아이스 아처리』와 어둠의 에너지 화살을 쏘는 『다크 아처리』 기술을 사용할 수 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Crescemon"
+    },
+    {
+      "id": "frozo",
+      "name": "Frozomon",
+      "name_jp": "Frozomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/frozo/frame1.gif",
+        "frame2": "sprites/frozo/frame2.gif"
+      },
+      "artwork": "sprites/frozo/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon that inhabits areas with heavy snowfall and removes snow vigorously. Contrary to its reliable side that rescues those who get lost in snowstorms and the like, it is also a troublesome Digimon who uses all its strength to eliminate those that get in the way of its rescues, even if they areBabies. It is a specialist when it comes to cold regions who is capable of not only removing snow, but also melting ice with its red-hot sword.Its Special Moves are unleashing a punch attack with its enormous right arm while charging (Removal Blow), and piercing the enemy using heat from theHeat Swordon its left arm (Defrost Blade). In addition, its \"Glaciate Missile\", in which it shoots ice compacted from the snow that gets sucked in by its propeller, generates huge blocks of ice on impact. It can use this to stop avalanches.Digimon Reference Book⇨ English豪雪地帯に棲息し、力強く除雪を行うマシーン型デジモン。吹雪などで遭難した者を救助する頼もしい一面とは裏腹に、救助の邪魔になる者はたとえ幼年期だろうと全力で排除しにかかる厄介なデジモンでもある。除雪だけではなく、高熱を帯びた剣で氷を溶かすことも出来る寒帯地域のスペシャリストだ。必殺技は突進とともに巨大な右腕でパンチ攻撃を繰り出す『リムーバルブロウ』と、左腕のヒートソードの熱で敵を貫く『デフロストブレード』。さらに、プロペラから吸い込んだ雪を固めた氷を撃ち出す『グラシエイトミサイル』は着弾と共に巨大な氷塊が発生する。これを利用して雪崩をせき止めることが可能だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Frozomon"
+    },
+    {
+      "id": "daipen",
+      "name": "Daipenmon",
+      "name_jp": "Daipenmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/daipen/frame1.gif",
+        "frame2": "sprites/daipen/frame2.gif"
+      },
+      "artwork": "sprites/daipen/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Ice that has transcended legend by inheriting all the might of one of the legendaryTen Warriorsand acquiring unknown abilities. Although its wings have degenerated, by flapping the gigantic \"Kakikaki-kun\" hunk of ice held in its right hand and the \"Kochikochi-kun\" held in its left, it seems it can momentarily fly in the air. It's free from care because it is able to manufacture theKakikaki-kunand theKochikochi-kunon its own even if they melt away. Its Special Moves are dipping theKakikaki-kunfrom its right hand in blue syrup, then striking the opponent (Blue HawaiiDeath), and dipping theKochikochi-kunfrom its left hand in red syrup, then striking the opponent (Ichigo Death). Furthermore, there seems to be no difference in the offensive abilities of the dipped syrup colors.Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた氷の能力を持つデジモン。羽は退化しているものの、右手に持った巨大な氷の固まり「カキカキクン」と左手に持った「コチコチクン」を羽ばたかせ、一瞬空を飛べるらしい。カキカキクンとコチコチクンは解けてしまっても自ら製造することが出来るので安心である。必殺技は、右手のカキカキクンに青色シロップをつけて敵を殴る『ブルーハワイデス』と、左手のコチコチクンに赤色シロップをつけて敵を殴る『イチゴデス』。尚、つけたシロップの色に攻撃力の差はないらしい。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Daipenmon"
+    },
+    {
+      "id": "skullmam",
+      "name": "Skull Mammon",
+      "name_jp": "Skull Mammon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/skullmam/frame1.gif",
+        "frame2": "sprites/skullmam/frame2.gif"
+      },
+      "artwork": "sprites/skullmam/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon that was aMammon, revived from ancient times, that continued to battle with Virus-species Digimon, resulting in its whole body being eaten away by a virus, leaving nothing but bones. Its survival instinct as a Vaccine is strong even in death, and in order to continue battling, it has lost all emotion and intelligence aside from its resolve to exterminate Viruses. TheDigicoreshining within its chest is undamaged, so it is able to maintain its vital functions even though its body has become nothing but bones, but if the bare Digicore is struck, then Skull Mammon would probably be at the edge of death. Its Special Move is rapidly spinning and then hurling one of itsvertebra(Spiral Bone).Digimon Reference Book⇨ English太古より蘇ったマンモンがウィルス種のデジモンと戦い続け、全身がウィルスによって蝕まれた結果、全身が骨だけになってしまたアンデットデジモン。死してなお、ワクチンとしての生存本能が強く、戦い続けているため、ウィルスを殲滅すること意外の感情や知性を失っている。胸に輝くデジコアが無傷なうちは、全身が骨だけになっても生命活動を維持することができるが、剥き出しのデジコアを攻撃された時はスカルマンモンの最期だろう。必殺技はせびれの骨を高回転させて飛ばす『スパイラルボーン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Skull_Mammon"
+    },
+    {
+      "id": "hexeblau",
+      "name": "Hexeblaumon",
+      "name_jp": "Hexeblaumon",
+      "name_ko": "헥세블라우몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/hexeblau/frame1.gif",
+        "frame2": "sprites/hexeblau/frame2.gif"
+      },
+      "artwork": "sprites/hexeblau/artwork.jpg",
+      "lore": {
+        "en": "A legendary Magic Knight Digimon that only those who have mastered ice sorcery (ahigh-level programming language) are said to be able to evolve to. It protected other Digimon until the very end when theDigital Worldwas visited by anice agelong ago, and was later rumored to have moved to another dimension, \"Witchelny\".It excels in the art of manipulating the cold, and creates various things with ice. It starts with weapons such as swords and hammers, and then other tools such as restraints that restrict the enemy's movements, and is also capable of erecting a barrier to defend itself from attacks, so it is definitely an ice professional.Its Special Moves are spreading cold air over a wide range, instantly transforming anyone that draws near into statues of ice (Summon Frost), and causing countless ice swords to fall down like a blizzard (Hecto Edge Blizzard). In addition, its final secret technique \"Absolute Blast\" unleashes anabsolute zerowave from the dragon jaws on its left shoulder which shatters everything.Digimon Reference Book⇨ English氷の魔術（高級プログラム言語）をマスターした者だけが進化できるとされる伝説の魔法騎士型デジモン。かつてデジタルワールドに氷河期が訪れた時に他のデジモンたちを守りぬき、その後は別次元の「ウィッチェルニー」に移ったと噂されている。冷気を操る術に長け、氷で様々なものを作り出す。剣や槌などの武器に始まり、敵の動きを拘束する枷などの道具の他、攻撃から身を守るための結界を張ることもできる、まさに氷のプロフェッショナル。必殺技は、広範囲に冷気を張り巡らせ近付く者すべてを一瞬で氷像に変える「サモンフロスト」、吹雪のごとく無数の氷剣を降らせる「ヘクトエッジブリザード」。そして、左肩の竜の顎から絶対零度の波動を放ち全てを砕く最終奥義「アブソリュートブラスト」。デジモン図鑑",
+        "ko": "얼음 마술(고급 프로그램 언어)을 마스터한 자만이 진화 할 수 있다고 하는 전설의 마법기사형 디지몬. 과거 디지털 월드에 빙하기 가 도래했을 때 다른 디지몬들을 지켜내어, 그 후 다른 차원인 『 윗체르니 』로 옮겼다는 소문이 있다. 냉기를 조종하는 마술이 뛰어나, 얼음으로 여러 가지를 만들어 낸다. 칼이나 망치부터 시작해서, 적의 움직임을 구속하는 방해물 같은 도구 외, 공격으로부터 몸을 지키기 위한 결계를 칠 수도 있는, 말 그대로 얼음의 프로페셔널 . 필살기는 광범위로 냉기를 둘러 접근하는 모든 것을 얼음으로 바꾸는 『서먼 프로스트』, 눈보라 와 같이 무수한 빙검을 휘몰아치는 『헥토 엣지 블리자드』, 그리고 왼쪽 어깨의 용의 턱에서 절대영도 의 파동을 날려 모든 것을 부수는 최종오의 『앱솔루트 블래스트』."
+      },
+      "wikimon_url": "https://wikimon.net/Hexeblaumon"
+    },
+    {
+      "id": "frosvelgr",
+      "name": "Fros Velgrmon",
+      "name_jp": "Fros Velgrmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "16",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/frosvelgr/frame1.gif",
+        "frame2": "sprites/frosvelgr/frame2.gif"
+      },
+      "artwork": "sprites/frosvelgr/artwork.jpg",
+      "lore": {
+        "en": "A Giant Bird Digimon that rarely appears before others. It is considered to be a symbol of awe in certain regions, and according to legend, it appears before those who are stranded on snowy mountains and assesses their lives. It is said that those who are deemed worthy of saving descend the mountain on Fros Velgrmon, but those who are deemed unworthy are given a peaceful death with its freezing breath.Its Special Moves are a ranged attack in which it generates a blizzard with its tail and wings (Innocence Blizzard), and instantly turning the enemy intodry icewith a cold beam fired from its mouth (Freezing Ray). Although its \"RuinReverb\", in which it sings with a beautiful cry, charms the listener, it is a song of destruction that causes those who finish listening to it to completely shatter internally.Digimon Reference Book⇨ English滅多に他者の前に姿を現さない巨鳥型デジモン。ある地域では畏怖の象徴とされ、伝承では雪山で遭難した者の前に現れ命の価値を見定めるという。助ける価値があると判断された者はフロスベルグモンに運ばれ下山するが、その価値がないと判断された者には凍てつく吐息で静かな死を与えると言われている。必殺技は尻尾と翼から吹雪を発生させる範囲攻撃『イノセンスブリザード』と、口から放つ冷気のビームで敵を一瞬にしてドライアイスに変えてしまう『フリージングレイ』。美しい鳴き声で歌う『ルインリバーヴ』は聴く者を魅了するが、最後まで歌を聴いた者を身体の内側から粉々に砕いてしまう滅びの歌だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Fros_Velgrmon"
+    },
+    {
+      "id": "ancientmegatheriu",
+      "name": "Ancient Megatheriumon",
+      "name_jp": "Ancient Megatheriumon",
+      "name_ko": "에이션트메가테리우몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientmegatheriu/frame1.gif",
+        "frame2": "sprites/ancientmegatheriu/frame2.gif"
+      },
+      "artwork": "sprites/ancientmegatheriu/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Ice\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is said that the power and bravery it possesses can adapt even to the intense cold of the freezing tundra. With an attack ofabsolute zeroit suspends the atomic movement of every object, and it easily destroys even the eternally frozen gigantic icebergs. Ancient Megatheriumon's abilities were later passed on to the \"Mammal\" and \"Ice-Snow Digimon\". Its Special Moves are a super-blizzard at absolute zero (Freezing Blizzard), and a super-charge which can even destroy a gigantic iceberg (Great Snowplow).Digimon Reference Book⇨ English“氷”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、超低温の極寒凍土でも適応できる力強さと勇敢さを持っていたと言われている。絶対零度の攻撃であらゆる物の原子活動を停止させ、永久氷結した巨大氷山をも軽々と破壊する。エンシェントメガテリウモンの能力は、その後“哺乳類型デジモン”や“氷雪型デジモン”等に引き継がれていった。必殺技は絶対零度の超吹雪『フリージングブリザード』と、巨大氷山をも破壊する超突進『グレートスノープロー』。デジモン図鑑",
+        "ko": "\"얼음\"의 속성을 지닌 고대 디지털 월드를 구한 전설의 10투사 디지몬. 아득히 고대에 존재한 최초의 궁극체이며, 초저온의 극한동토에서도 적응할 수 있는 강력함과 용감함을 가지고 있었다고 전해진다. 절대영도 의 공격으로 모든 물체의 원자 활동을 정지시켜, 영구빙결한 거대빙산조차 가볍게 파괴한다. 에이션트메가테리우몬의 능력은, 그 후 “포유류형 디지몬”이나 “빙설형 디지몬” 등에 계승되어 갔다. 필살기는 절대영도 의 엄청난 눈보라 를 만드는 『프리징 블리자드』와 거대한 빙산을 파괴하는 아주 빠른 돌진 기술 『그레이트 스노플로』다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Megatheriumon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bluco",
+      "to": "yukidaru",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bluco",
+      "to": "paledra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bluco",
+      "to": "hyouga",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bluco",
+      "to": "moose",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "yukidaru",
+      "to": "mam",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "moose",
+      "to": "mam",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "paledra",
+      "to": "panjya",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "hyouga",
+      "to": "panjya",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "paledra",
+      "to": "cryspaledra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hyouga",
+      "to": "cryspaledra",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "yukidaru",
+      "to": "cresce",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "moose",
+      "to": "cresce",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "paledra",
+      "to": "frozo",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hyouga",
+      "to": "frozo",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "yukidaru",
+      "to": "daipen",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "moose",
+      "to": "daipen",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mam",
+      "to": "skullmam",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "panjya",
+      "to": "skullmam",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "daipen",
+      "to": "skullmam",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cryspaledra",
+      "to": "hexeblau",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "hexeblau",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "frozo",
+      "to": "hexeblau",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "panjya",
+      "to": "frosvelgr",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "frosvelgr",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "daipen",
+      "to": "frosvelgr",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mam",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "cryspaledra",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "frozo",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "yukimibota",
+      "to": "hiyari",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "hiyari",
+      "to": "bluco",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "yukidaru",
+      "to": "frozo",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "yukidaru",
+      "to": "panjya",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "paledra",
+      "to": "cresce",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "paledra",
+      "to": "mam",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "hyouga",
+      "to": "daipen",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "hyouga",
+      "to": "mam",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "moose",
+      "to": "cryspaledra",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "moose",
+      "to": "panjya",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Adult"
+      }
+    },
+    {
+      "from": "mam",
+      "to": "frosvelgr",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "mam",
+      "to": "hexeblau",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "panjya",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "panjya",
+      "to": "hexeblau",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "cryspaledra",
+      "to": "frosvelgr",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "cryspaledra",
+      "to": "skullmam",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "skullmam",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "frozo",
+      "to": "frosvelgr",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "frozo",
+      "to": "skullmam",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "daipen",
+      "to": "ancientmegatheriu",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "daipen",
+      "to": "hexeblau",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Perfect"
+      }
+    }
+  ]
+}

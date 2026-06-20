@@ -1,0 +1,1062 @@
+{
+  "schema_version": "1.0",
+  "id": "ryuda",
+  "name": "Ryudamon",
+  "category": "seekers",
+  "device": "VBBE",
+  "release": "JP: Oct 2023 - Premium Bandai",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_ryuda.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "fufu",
+      "name": "Fufumon",
+      "name_jp": "Fufumon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/fufu/frame1.gif",
+        "frame2": "sprites/fufu/frame2.gif"
+      },
+      "artwork": "sprites/fufu/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon with an extremely light body that has floated through the air since it was born. When its life is threatened by an assault from a larger opponent, it will thrust at them with the horn on its head to intimidate them with all its might, but because the horn is very soft, the thrust will not injure the opponent. Though it is easy for opponents to target it because it floats very slowly through the air, but if they approach it spit \"Chīsana Tetsu no Toge\" from its mouth to attack.Digimon Reference Book⇨ English体がとても軽く、生まれた時から空中に浮んでいるスライム型デジモン。大きな敵に襲われると頭部の角を突き立てて命一杯の威嚇をするが、角は非常に柔らかく、敵に刺してもダメージは無い。空中を浮遊する動きがとても遅いので敵に狙われやすいが、近づくと口から『小さな鉄のトゲ』を吐いて攻撃する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Fufumon"
+    },
+    {
+      "id": "kyokyo",
+      "name": "Kyokyomon",
+      "name_jp": "Kyokyomon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/kyokyo/frame1.gif",
+        "frame2": "sprites/kyokyo/frame2.gif"
+      },
+      "artwork": "sprites/kyokyo/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon whose body has grown long. If it gets angry it can stretch up to nearly nine times its normal length to attack the opponent, but because it only extends forward, the opponent usually avoids it completely. It has a light body likeFufumon, and floats lightly through the air, but it is able to move relatively nimbly by paddling the air with its hands and feet. Its Special Move is stretching itself out and then firing an iron spike from its mouth (Metal Straw).Digimon Reference Book⇨ English体が長く伸びるレッサー型デジモン。怒ると体長の９倍近くまで体を伸ばして敵を攻撃するが、真正面にしか体が伸びないので避けられてしまうことも多い。フフモンと同じく体が軽く、空中にフワフワ浮んでいるが、両手足で空中を掻いて比較的素早く移動することができる。必殺技は体を伸ばして鉄のトゲを口から放つ『メタルストロー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kyokyomon"
+    },
+    {
+      "id": "ryuda",
+      "name": "Ryudamon",
+      "name_jp": "Ryudamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4500",
+        "hp": "3100",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ryuda/frame1.gif",
+        "frame2": "sprites/ryuda/frame2.gif"
+      },
+      "artwork": "sprites/ryuda/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon that, because it has an old-styleInterfaceon its brow, is presumed to be an experimental \"Prototype Digimon\" from before Digimon were discovered. Although its body is clad in Japanese-style armor high in defensive ability, its movements are nimble, so it fights by resolutely leaping into the opponent's chest. It studies the business of combat as it fights, and possessesBushikatagi, with bravery and a soul that doesn't fear more powerful Digimon. The data that is said to have been hidden within the deepest parts of itsDigicore, during an experiment, is the ferocious combat data of the \"Dragons\" and \"Generals\" of Japanese mythology, and it is said it has the potential to grow into a mighty Digimon. Signature Move: Withstands the opponent's attacks with its armor and helmet, then counterattacks (Kabutogaeshi). Its Special Move is leaping into the opponent's chest and firing a blade of iron from its mouth (Iaijin).Digimon Reference Book⇨ English額に旧式なインターフェースをもつ為、デジモンが発見される以前の実験用の“プロトタイプデジモン”ではないかと推測されている獣型デジモン。防御力の高い和風の鎧を身にまとっているが、動きは軽快で、敵の懐に果敢に飛び込んで戦う。戦うほどに戦いの業を修め、強大な敵デジモンをも恐れない魂と潔さ、武士気質（ぶしかたぎ）を持っている。実験の時、デジコア（電脳核）の最も深い部分に隠されたと言われるデータは、日本の神話における“竜”や“武将”などの猛々しい戦闘データであり、強大なデジモンに成長する可能性をもつと言われている。得意技：敵の攻撃を鎧兜で受けて反撃する『兜返し』。必殺技は敵の懐に飛び込み鉄の刃を口から放つ『居合刃（いあいじん）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ryudamon"
+    },
+    {
+      "id": "commandra",
+      "name": "Commandramon",
+      "name_jp": "Commandramon",
+      "name_ko": "코만드라몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "4900",
+        "hp": "2800",
+        "ap": "900"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/commandra/frame1.gif",
+        "frame2": "sprites/commandra/frame2.gif"
+      },
+      "artwork": "sprites/commandra/artwork.jpg",
+      "lore": {
+        "en": "An infantry Digimon belonging to the mechanized \"D-Brigade\". The \"D-Brigade\" is a mechanized brigade composed of Dragon type Cyborg Digimon, and the missions assigned to this special force are never made public. The surface of Commandramon's skin has been modified with a special texture that detects its surrounding colors in real-time, and is capable of displaying a variety of camouflage patterns. As a result, it is said that most of Commandramon's 'targets' do not even notice Commandramon's presence before being silenced. Its Special Moves are firing its hand-held assault rifle (M16 Assassin) and throwing a small bomb (DCD Bomb).Digimon Reference Book⇨ English機械化旅団「D－ブリガード」の歩兵デジモン。「D-ブリガード」は竜型サイボーグデジモンで構成された機械化旅団であり、決して表沙汰になることのないミッションに投入される特殊部隊である。コマンドラモンの体表は特殊テクスチャー加工が施してあり、周囲の色をリアルタイムに判断し、あらゆる迷彩パターンを表示することが可能となっている。そのため、ほとんどの「目標」はコマンドラモンの存在に気が付くことなく葬られることが多いという。必殺技は携帯したアサルトライフルから放つ『Ｍ１６アサシン』と小型爆弾『ＤＣＤボム』だ。デジモン図鑑",
+        "ko": "기계화 여단「 D-브리가드 」의 보병 디지몬. 「D-브리가드」는 용형 사이보그 디지몬으로 구성된 기계화 여단이며, 결코 겉으로 드러나지 않는 미션에 투입되는 특수부대이다. 코만드라몬의 체표는 특수 텍스처 가공이 되어 있어, 주위의 색을 실시간으로 판단해、모든 위장 패턴을 표시하는 것이 가능하다. 그 때문에, 대부분의 「목표」는 코만드라몬의 존재를 알아차리는 일이 없이 매장되는 경우가 많다고 한다. 필살기는 휴대한 돌격 소총으로 쏘는 『M16 어쌔신』과 소형 폭탄『DCD 봄』."
+      },
+      "wikimon_url": "https://wikimon.net/Commandramon"
+    },
+    {
+      "id": "ginryu",
+      "name": "Ginryumon",
+      "name_jp": "Ginryumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5300",
+        "hp": "3600",
+        "ap": "1150"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ginryu/frame1.gif",
+        "frame2": "sprites/ginryu/frame2.gif"
+      },
+      "artwork": "sprites/ginryu/artwork.jpg",
+      "lore": {
+        "en": "A Beast Dragon Digimon whose entire body is clad in sturdy, Japanese-styled armor. Despite what its appearance may suggest, it has a light body that allows it to glide gracefully in mid-air, and it fights while parrying enemy attacks with its tough yet smooth armor. It does not cower before any enemy Digimon and excels at attacking with exceptional breakthrough ability, using its courage at parrying enemy attacks using its own body, and eyesight that allows it to detect enemy attacks right before they hit. It is hypothesized to be a \"Prototype Digimon\" due to the outdatedInterfaceon its forehead. Its Special Move is impaling the enemy with an iron spear fired from its mouth (Tekkoujin). Its Signature Move is parrying enemy attacks with its armor and charging at the enemy (Boujinha).Digimon Reference Book⇨ English全身に堅固な和風の鎧をまとう獣竜型デジモン。見た目と異なり体は軽く、空中を優雅に漂い、非常に堅く滑らかなその鎧で敵の攻撃を受け流しながら戦う。自らの体で敵の攻撃を受け流す度胸と、敵の攻撃を寸前で見切る眼力を持って、どんな敵デジモンにも怯まない突破力抜群の攻撃を得意とする。額に旧式なインターフェースをもつ為 “プロトタイプデジモン”の進化系ではないかと推測されている。必殺技は鉄の槍を口から放ち敵を射抜く『徹甲刃（てっこうじん）』。 得意技は敵の攻撃を鎧で受け流して突撃する「棒陣破（ぼうじんは）」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ginryumon"
+    },
+    {
+      "id": "hicommandra",
+      "name": "Hi-Commandramon",
+      "name_jp": "Hi-Commandramon",
+      "name_ko": "하이코만드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5000",
+        "hp": "4000",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/hicommandra/frame1.gif",
+        "frame2": "sprites/hicommandra/frame2.gif"
+      },
+      "artwork": "sprites/hicommandra/artwork.jpg",
+      "lore": {
+        "en": "A heavy infantry Digimon from the mechanized \"D-Brigade\". It is said that many of those that have not been chosen in \"Selection-D\", a special selection test that screens through 100Commandramon, evolve into Hi-Commandramon. Its main role is to act as a \"shield\", defending Commandramon assault troops with its enormous build and protective shield. The surface of its skin has been modified with a special texture similar to Commandramon's, and has the function of displaying its surrounding colors in real-time. Its Special Moves are firing from its multi-grenade launcher (DCD Grenade), and performing a ramming attack with its protective shield (Destroy Charge).DCD Grenadeis equipped with a special warhead, and is capable of instantly switching between high-explosive shells, smoke bombs, andsound grenades.Digimon Reference Book⇨ English機械化旅団「D－ブリガード」の重歩兵デジモン。コマンドラモン100体をふるいに掛ける特殊選抜試験「セレクション－D」で選抜されなかったものの多くがこのハイコマンドラモンへと進化すると言われている。「盾」としての役割を担い、巨大な体躯と防護盾でコマンドラモンの突撃部隊を守ることが主な役目である。体表にはコマンドラモンと同様の特殊テクスチャー加工が施してあり、周囲の色をリアルタイムに投影できる機能を備える。必殺技は多連装グレネードランチャーから発射する『DCDグレネード』と防護盾で体当たりをする『デストロイチャージ』。『DCDグレネード』は特殊な弾頭を搭載しており、瞬時に榴弾、スモーク弾、音響弾の3種のどれかに切り替えが可能である。デジモン図鑑",
+        "ko": "기계화 여단 ' D-브리가드 ' 의 중보병 디지몬. 코만드라몬 100체 중에서 1체만 통과시키는 특수 선발 시험 '셀렉션-D'에서 선발되지 않았던 개체들은 대부분 이 하이코만드라몬으로 진화한다고 한다. [1] [2] 전선에선 '방패' 역할을 담당하며, 거대한 체구와 방호 방패로 코만드라몬 돌격 부대를 지키는 것이 주된 역할이다. 체표에는 코만드라몬과 같은 특수 텍스처 가공이 되어 있어서, 주위의 색을 실시간으로 투영할 수 있는 기능을 갖추고 있다. 필살기는 다연장 수류탄 발사기에서 발사하는『DCD 그레네이드』와 방호방패를 앞세워 몸을 날리는『디스트로이 차지』. 『DCD그레네이드』는 특수한 탄두를 탑재하고 있어 순간에 유탄, 스모크탄, 음향탄 중 어느 하나로 전환 가능하다."
+      },
+      "wikimon_url": "https://wikimon.net/Hi-Commandramon"
+    },
+    {
+      "id": "delta",
+      "name": "Deltamon",
+      "name_jp": "Deltamon",
+      "name_ko": "델타몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4800",
+        "hp": "3600",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/delta/frame1.gif",
+        "frame2": "sprites/delta/frame2.gif"
+      },
+      "artwork": "sprites/delta/artwork.jpg",
+      "lore": {
+        "en": "A Composite Digimon fused from three Digimon. Although each of them had existed as separate Digimon, they were forced to fuse by acomputer bug, which resulted when a computer went out of control after being struck by a powerful electromagnetic storm. It is said that since this Digimon, which possesses three heads and two tails, specializes in tripartite attacks that capitalize on its body's traits, it is even able to fight against three Digimon at the same time. However, as each of them was originally a vicious Digimon, they may be united in seeking destruction but they otherwise lack cooperation, and are usually on bad terms with each other. Its Special Moves are combining the energy discharged from its three mouths and firing it (Triplex Force), and lunging with the Digimon on its left arm (Skull Fang).Digimon Reference Book⇨ English３体のデジモンが融合した合成型デジモン。それぞれが別々のデジモンとして存在していたが、強力な電磁波の嵐を受けたコンピュータの暴走により、バグが生じ融合してしまった。３つの頭、２本の尻尾をもつこのデジモンは、体の特徴を生かした３段攻撃を得意とし、１度に３対のデジモンとの戦いも可能だといわれている。しかし、それぞれが凶悪なデジモンだったため、破壊という統一の意識はあるが協調性がなく普段は仲が悪い。必殺技は３つの口から出るエネルギーを合わせて発射する『トリプレックスフォース』と左腕のデジモンが繰り出す『スカルファング』。デジモン図鑑",
+        "ko": "왼팔엔 공룡의 두개골, 오른팔엔 사이보그 디지몬의 머리가 달린 합성형 디지몬. 3체의 디지몬이 융합했으며 각각이 다른 디지몬으로서 존재하고 있었지만 강력한 전자파의 폭풍우를 받은 컴퓨터의 폭주에 의해 버그가 생겨 융합해 버렸다. 3개의 머리, 2개의 꼬리 [1] 를 가진 이 디지몬은 몸의 특징을 살려 3단 공격을 자랑하고 한번에 세마리의 디지몬을 상대할수 있다고 한다. 하지만 세 머리 다 자아를 가지고 있으며 흉악한 디지몬이었기 때문에 파괴라고 하는 통일의식은 있지만 마음이 맞지 않으면 서로 싸우기도. 필살기는 세 머리에서 광선을 뿜어내는 \"트리플렉스 포스\"와 왼손의 스컬 헤드로 상대를 무는 기술인 \"스컬 팡\". 사실상 최초의 합성형 디지몬 [2] 이라는 점에서 주로 키메라몬 의 성숙기 취급을 받고 실제로 사신강림의 효과로 델타몬과 엮이는 키메라몬(Bo-675) 카드도 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Deltamon"
+    },
+    {
+      "id": "nume",
+      "name": "Numemon",
+      "name_jp": "Numemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4600",
+        "hp": "3500",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/nume/frame1.gif",
+        "frame2": "sprites/nume/frame2.gif"
+      },
+      "artwork": "sprites/nume/artwork.jpg",
+      "lore": {
+        "en": "A Mollusk Digimon which possesses a slug-like body. It prefers dark, gloomy environments, and has neither offensive power nor intelligence. A Digimon becomes a Numemon if mistakes are made in raising it, but as a matter of fact, there appears to be somehidden secret...In order to defend itself against intruders, it uses a disgusting attack in which it throws its own poop.Digimon Reference Book⇨ Englishナメクジのような体を持った軟体型デジモン。暗くてジメジメした環境を好み、攻撃力も知性も無い。育て方を間違えるとヌメモンになってしまうが、実は隠された秘密があるらしい・・・。外敵から身を守るため、自分のウンチを投げつける最低の攻撃をする。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Numemon"
+    },
+    {
+      "id": "sealsdra",
+      "name": "Sealsdramon",
+      "name_jp": "Sealsdramon",
+      "name_ko": "실즈드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "3500",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/sealsdra/frame1.gif",
+        "frame2": "sprites/sealsdra/frame2.gif"
+      },
+      "artwork": "sprites/sealsdra/artwork.jpg",
+      "lore": {
+        "en": "It is said that only the one that passes the \"Selection-D\", a special selection test that screens through 100Commandramon, can evolve to Sealsdramon. It is able to move over short distances at speeds that are impossible to perceive with the eyes, and without equipping things like camouflage features or a rifle, it has the ability to bring down its \"Target\" with just itstaijutsu. Its primary function is assassination. Its Special Moves are a single blow from a knife sharpened to its limit (Death Behind), and measuring the opponent's vital points in an instant (Scouter Monoeye).Digimon Reference Book⇨ Englishコマンドラモン１００体をふるいに掛ける特殊選抜試験「セレクション－D」を合格した１体のみシールズドラモンへ進化することが出来るといわれている。目視で捕らえることが不可能に近い速度での移動が可能であり、迷彩機能や銃などは装備せず、体術のみで「目標」をしとめる能力を持つ。主に暗殺を任務としている。必殺技は、極限まで研いだナイフの一撃『デスビハインド』と、一瞬のうちに相手の急所を計測する『スカウターモノアイ』。デジモン図鑑",
+        "ko": "코만드라몬 100체 중 특수 선발 시험「셀렉션-D」를 합격한 1체만 실즈드라몬으로 진화할 수 있다고 한다. 육안으로 잡는 것이 불가능에 가까운 속도로 이동이 가능하고, 미채 기능이나 총 등은 장비하지 않고, 체술만으로 「목표」를 잡는 능력을 가진다. 주로 암살을 임무로 하고 있다. 필살기는 극한까지 날카롭게 간 나이프의 일격『데스 비하인드』와, 순식간에 상대의 급소를 계측하는『스카우터 모노아이』."
+      },
+      "wikimon_url": "https://wikimon.net/Sealsdramon"
+    },
+    {
+      "id": "hisyaryu",
+      "name": "Hisyaryumon",
+      "name_jp": "Hisyaryumon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6500",
+        "hp": "4500",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/hisyaryu/frame1.gif",
+        "frame2": "sprites/hisyaryu/frame2.gif"
+      },
+      "artwork": "sprites/hisyaryu/artwork.jpg",
+      "lore": {
+        "en": "A Beast Dragon Digimon clad in thick, shining scalemail and who soars the skies unbounded, taking this form when the fierce combat data of the \"dragon\" and \"general\" that lay slumbering in the depths of itsDigicorewas released by theInterfaceon its forehead. It has great mobility, allowing it control over nearly the entirety of the vast Net airspace. Its demeanor is usually sagacious and calm, akin to a god; however, the moment the crystal-like orbs it holds in both hands are scratched, its wrath will be incurred, turning it into a god of anger that will attack with all its might. Not only that, it is said that the orbs in its two hands are in actuality the souls of its fallen comrades; the orb in its right hand is the soul of \"Kinryū\", while the orb in its left hand is the soul of \"Kakuryū\", and Digicore information lies hidden within each of them. Its Special Moves are transforming itself into gigantickatanamade of steel and bisecting the enemy in a single stroke (Seiryūjin), as well as surrounding the enemy from all directions and attacking (Jūouguruma).Digimon Reference Book⇨ Englishデジコア（電脳核）の最深部に眠っていた日本の神話における“竜”や“武将”の猛々しい戦闘データが、額のインターフェースによって解き放たれた姿であり、重厚に輝く鱗の鎧をまとい大空を縦横無尽に駆け巡る獣竜型デジモン。その移動力は長大で、広大なネット空域のほとんどを制することができる。普段は神の如く聡明で大人しいが、両手に持つ水晶のような球体を傷つけられると、逆鱗に触れるが如く正に荒ぶる神となって全身全霊を込めて襲い掛かる。尚、両手に持つ球体は、今は存在しない同朋の魂であり、右手の球体は“金竜（きんりゅう）”の魂、左手の球体は“角竜（かくりゅう）”の魂であり、それぞれにデジコア（電脳核）の情報が秘められているという。必殺技は自ら巨大な鋼鉄の刀と化し、敵を一刀両断する『成龍刃（せいりゅうじん）』と、敵の上下左右全てを包囲し攻撃を放つ『縦横車（じゅうおうぐるま）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Hisyaryumon"
+    },
+    {
+      "id": "cargodra",
+      "name": "Cargodramon",
+      "name_jp": "Cargodramon",
+      "name_ko": "카고드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "5000",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/cargodra/frame1.gif",
+        "frame2": "sprites/cargodra/frame2.gif"
+      },
+      "artwork": "sprites/cargodra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon in charge of troop transport for the mechanized \"D-Brigade\". It is said to have evolved by taking in the design data for areal-worldtiltrotor aircraftthat was obtained viahacking. It has excellent maneuverability that allows it to hover and fly at high-speed by adjusting the angle of the propellers on both of its wings. Cargodramon's fuselage has a cargo hold, and on normal missions, it often houses a squadron of fiveCommandramonand oneHi-Commandramon. Also, when the cargo hold is empty, it can carry a singleTankdramonby suspending wires under its fuselage. Its Special Move is attacking with the Gatling gun on the front of its fuselage (Suppression Strike). It is used for ground control when deploying troops. If a close combat situation arises due to unforeseen circumstances, it will hack the opponent to pieces with its \"Slaughter Blade\", in which it slashes them with the propellers on both of its wings. This technique may damage the propellers, so it is only allowed to be used in emergencies.Digimon Reference Book⇨ English機械化旅団「D－ブリガード」において部隊輸送を担当するデジモン。ハッキングによって入手した現実世界のティルトローター機の設計データを組み込んで進化したと言われている。両翼のプロペラの角度を調整することでホバリングや高速度の飛行が可能な優れた機動性を持つ。カーゴドラモンは胴体部分が荷室となっており、通常のミッションであればコマンドラモン5体＋ハイコマンドラモン1体で構成される分隊を収容することが多い。また、荷室が空の状態ならば胴体下部にワイヤーで懸架することでタンクドラモン1体を運ぶことも可能である。必殺技は胴体前部のガトリング砲で攻撃する「サプレッションストライク」。部隊を降下させる際の地上制圧のために使用する。不測の事態で近接戦闘が発生した場合は両翼のプロペラで相手を斬りつける「スローターブレード」で相手をなます切りにする。この技はプロペラを破損する恐れがあるため緊急事態のみ使用が許される。デジモン図鑑",
+        "ko": "기계화여단 「 D-브리가드 」에서 부대 수송을 담당하는 디지몬. 해킹을 통해 입수한 현실세계의 틸트로터 기 설계 데이터를 접목해 진화한 것으로 알려졌다. 양 날개의 프로펠러 각도를 조정함으로써 호버링이나 고속 비행이 가능한 뛰어난 기동성을 갖는다. 카고드라몬은 몸통 부분이 짐칸으로 되어 있어 통상 미션이면 코만드라몬 5체 + 하이코만드라몬 1체로 구성되는 분대를 수용하는 경우가 많다. 또한, 짐칸이 빈 상태라면 몸체 하부에 와이어를 연결하여 탱크드라몬 1체를 운반하는 것도 가능하다. 필살기는 동체 앞부분의 개틀링 포로 공격하는 「서프레션 스트라이크」. 부대를 강하시킬 때 지상 제압을 위해 사용한다. 예상치 못한 사태로 근접 전투가 발생했을 경우에는 양 날개 프로펠러로 상대를 베는 「슬로터 블레이드」로 상대를 썰어버린다. 이 기술은 프로펠러가 파손될 우려가 있기 때문에 긴급 상황에만 사용이 허용된다."
+      },
+      "wikimon_url": "https://wikimon.net/Cargodramon"
+    },
+    {
+      "id": "orochi",
+      "name": "Orochimon",
+      "name_jp": "Orochimon",
+      "name_ko": "오로치몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "4700",
+        "hp": "4700",
+        "ap": "1450"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/orochi/frame1.gif",
+        "frame2": "sprites/orochi/frame2.gif"
+      },
+      "artwork": "sprites/orochi/artwork.jpg",
+      "lore": {
+        "en": "A gigantic Demon Dragon Digimon which possesses eight heads. However, seven among its eight heads are dummies, and the black head in the middle is the only real one. The roots of Orochimon's creation are old, and although it was a being such that it raged in all its fury in the ancientDigital World, and drove some areas to devastation, it was sealed by the servant of a \"being\" which sought to preserve the harmony of the Digital World. Its Signature Move is to make the opponent completely drunk by intoxicating them with its alcohol-laden breath (Sake Breath). Its Special Move is turning the tip of its tail into a sharp blade and then cutting the opponent to pieces (Ame no Murakumo).Orochimon was adopted from a winning Digimon illustration entry in the \"Bandai-Town FAX Service Digimon Illustration Contest\" which belonged to Mr. Noritake Furuta fromNiigata prefecture.Digimon Reference Book⇨ English８本の頭部を持つ巨大な魔竜型デジモン。しかし、８本ある内の７本はダミーであり、中央の黒色の頭部が本体である。オロチモンの誕生起源は古く、古代デジタルワールドでは猛威をふるい、あるエリアを壊滅状態にまで追い込んだことがある程の存在だったが、デジタルワールドの調和を保とうとする“存在”の使いによって封印されていた。得意技はアルコールを含んだ息で敵を酔わせて酩酊させてしまう『酒ブレス』。必殺技は尻尾の先が切れ味の鋭い刃になり敵を切り裂く『アメノムラクモ』。※オロチモンは「バンダイタウンFAXサービスデジモンイラストコンテスト」で新潟県の「古田典丈」さんのデジモンイラストが入賞し、採用されたものです。デジモン図鑑",
+        "ko": "여덟 개의 머리를 지닌 거대한 마룡형 디지몬. 그러나 여덟 개 중 일곱 개는 가짜고 중앙의 검은 머리가 본체다. 오로치몬의 탄생 기원은 오래되어, 고대 디지털 월드에 맹위를 떨치고, 한 에리어를 괴멸상태로 몰고 간 적이 있을 정도의 존재였지만, 디지털 월드의 조화를 유지하려는 \"존재\"의 사자에 의해 봉인되어 있었다. 특기는 알코올을 머금은 숨결로 적을 만취시키는 \"사케 브레스\". 필살기는 꼬리 끝이 날카로운 날이 되어 적을 가르는 \" 아메노무라쿠모 \"."
+      },
+      "wikimon_url": "https://wikimon.net/Orochimon"
+    },
+    {
+      "id": "monzae",
+      "name": "Monzaemon",
+      "name_jp": "Monzaemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5100",
+        "hp": "4000",
+        "ap": "1400"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/monzae/frame1.gif",
+        "frame2": "sprites/monzae/frame2.gif"
+      },
+      "artwork": "sprites/monzae/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that is completely shrouded in mystery. From its looks, it's an unmodified plush toy of a bear, so it's rumored that there issomeonewithin, who got in through where the zipper is attached on its back section. It wraps the opponent up in the love overflowing from this cute body (with scary eyes), and makes them feel happy. Its Special Move is its \"Lovely Attack\", in which it flings hearts.Digimon Reference Book⇨ Englishすべてが謎に包まれているデジモン。見た感じは、そのまま熊のぬいぐるみで、背中の部分にチャックが付いているところから、中に何者かが入っているという噂。この可愛らしい（目が恐い）体から溢れる愛で敵を包み込んで幸せな気持ちにしてくれる。必殺技はハートを飛ばす『ラブリーアタック』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Monzaemon"
+    },
+    {
+      "id": "ete",
+      "name": "Etemon",
+      "name_jp": "Etemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "4950",
+        "hp": "4300",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/ete/frame1.gif",
+        "frame2": "sprites/ete/frame2.gif"
+      },
+      "artwork": "sprites/ete/artwork.jpg",
+      "lore": {
+        "en": "An unidentified Digimon that suddenly appeared in the Digital World. It calls itself the \"King of Digimon\", and its fighting strength is beyond imagination. And, well, it's rumored that it pulls the strings of the mysterious Digimon \"Monzaemon\". It is dressed in its reinforcedSaru Suitwhich can endure every attack, and even today it bustles about the whole world for the sake of its unending battles. Its Special Move is breaking the opponent's heart and making their fighting spirit vanish (Love Serenade), and a dark sphere that consumes everything it touches (Dark Spirits).Digimon Reference Book⇨ English突如としてデジタルワールドに出現した正体不明のデジモン。“キング・オブ・デジモン”を自称し、その戦闘力は想像を絶する。あの、謎のデジモン「もんざえモン」を陰で操っていると噂される。あらゆる攻撃に耐える強化サルスーツに身を包んで、果てることのない戦いのため今日も全世界を飛び回っている。必殺技は敵のハートを切なくさせ、戦意を消失させる『ラブ・セレナーデ』と、触れるものを全て消滅させる黒い球体『ダークスピリッツ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Etemon"
+    },
+    {
+      "id": "tankdra",
+      "name": "Tankdramon",
+      "name_jp": "Tankdramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5900",
+        "hp": "4800",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/tankdra/frame1.gif",
+        "frame2": "sprites/tankdra/frame2.gif"
+      },
+      "artwork": "sprites/tankdra/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon which functions as the riot-suppression and assault-extermination for the mechanized \"D-Brigade\". It specializes in the extermination of hordes of \"Targets\", and it boasts overwhelming firepower. It is equipped with radar which is able tolockonto thirty \"Targets\" simultaneously, and if one Tankdramon supplements its \"Targets\" by data-linking to other Tankdramon, it is said to be impossible to escape. Also, its mission survival rate is very high, and it is said that so far onlyonehas ever been shot down during a sortie. Its Special Move is its \"Striver Cannon\" firing a shell loaded with amini-nuke, reducing everything within a 30 km radius to scorched earth. Also, in close-combat it uses the \"Blast Gatling\" beside its cannon, which can fire all 3600 bullets in one second.Digimon Reference Book⇨ English機械化旅団「D－ブリガード」の暴徒鎮圧・強襲駆逐を任務とするマシーン型デジモン。多数の「目標」を駆逐することに特化しており、圧倒的な火力を誇る。同時に３０体の「目標」をロックオンすることの出来るレーダーを装備しており、１体のタンクドラモンが補足した「目標」は他のタンクドラモンにもデータリンクされ、逃げ切ることは不可能といわれている。また、任務の生存率も非常に高く、今までの出撃で撃墜されたのは１体しかいないと言われている。必殺技『ストライバ－キャノン』は小型核弾頭搭載の砲弾を放ち、半径３０ｋｍ内の全てを焦土と化す。また、キャノンの横にある『ブラストガトリング』は接近戦用に使われ、１秒間に３６００発の弾を撃ち尽くすことができる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tankdramon"
+    },
+    {
+      "id": "ouryu",
+      "name": "Ouryumon",
+      "name_jp": "Ouryumon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6600",
+        "hp": "5800",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ouryu/frame1.gif",
+        "frame2": "sprites/ouryu/frame2.gif"
+      },
+      "artwork": "sprites/ouryu/artwork.jpg",
+      "lore": {
+        "en": "Ouryumon is an imaginary Digimon born from the \"Daydream of aDigicore\". It is a form that had even the Digicore's own creativity miraculously released through theInterfaceon its brow, and evolved. Possibly because it naturally possessed the ferocious combat data of the \"Dragons\" and \"Generals\" of Japanese myth within its Digicore, the form created by its Digicore is a \"Warrior Dragon\", clad in frightening, majestic Japanese armor and holding swords in both of its hands. The left-hand sword is the \"Gairyū Sadaijin\", and the right-hand sword is the \"Gairyū Udaijin\". The blades of the wings on its back are called the \"Gaiba Daimeijin\". Its Special Moves are firing from the swords in both hands (Eiseiryūoujin), and rampaging like theearthflowof a mighty river, cutting everything apart while charging (Ougai). There is a theory that this technique has its roots inHuanglongmon's Special Move, \"Oukai\", although it isn't confirmed.Digimon Reference Book⇨ Englishオウリュウモンとは、“デジコア（電脳核）の空想”が生み出した架空のデジモンである。額のインターフェースによってデジコア自身の創造力までもが奇跡的に解き放たれて進化した姿である。元々デジコア内に日本の神話における“竜”や“武将” などの猛々しい戦闘データを持っていたためか、デジコアの創造した姿は、畏怖堂々とした和風の鎧を身にまとい、両腕に刀を持つ“武者竜”であった。左手の刀は「鎧龍左大刃（がいりゅうさだいじん）」、右手の刀は「鎧龍右大刃（がいりゅううだいじん）」である。背部の翼の刃は「鎧馬大名刃（がいばだいめいじん）」と呼ばれる。必殺技は両腕の刀より放つ『永世竜王刃（えいせいりゅうおうじん）』と、大河の土砂流のごとく荒れ狂い、全てを切り裂きながら突進する『黄鎧（おうがい）』。これはファンロンモンの必殺技『黄廻（おうかい）』にルーツがあるとの説もあるが定かではない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ouryumon"
+    },
+    {
+      "id": "brigadra",
+      "name": "Brigadramon",
+      "name_jp": "Brigadramon",
+      "name_ko": "브리가드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6100",
+        "hp": "5400",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/brigadra/frame1.gif",
+        "frame2": "sprites/brigadra/frame2.gif"
+      },
+      "artwork": "sprites/brigadra/artwork.jpg",
+      "lore": {
+        "en": "D-Brigadehad perfected an Ultimate Digimon as their weapon of last resort in the past, butthis individualcaused a fiasco when it broke out after running wild. After reflecting upon their failure to produce the strongest and most unique Digimon to represent their organization, they evolved and developed a Digimon as a command machine for managing troops efficiently—Brigadramon. It circles above the mission area, searching for and destroying threats on the ground or at low altitudes. Once a major threat has been eliminated,Cargodramoncarrying squadrons will land, deployingCommandramon,Hi-Commandramon, andTankdramonon the ground. Brigadramon circles the skies until the mission is complete, continuously giving commands to the deployed troops and performing reconnaissance. Its Special Moves are strafing with high-explosive shells fired at a rate of 4,800 rounds per second using the huge Gatling cannon on its right arm (Genocide Rain), and organic missiles housed within the claws on its left hand (Exa Destroyer). For a time, D-Brigade had lost their reputation due to the fiasco; however, after the deployment of Brigadramon, their operational success rate has improved and their troop loss rate has dropped significantly, so they have started to regain their former reputation. There are also reports that three Brigadramon are currently in commission, and that number is expected to further increase in the future.Digimon Reference Book⇨ English過去に最終決戦兵器としての究極体デジモンを完成させていたD-ブリガードであるが、この個体は暴走後に逃走するという大失態を引き起こした。この組織を象徴する最強でオンリーワンのデジモン開発が失敗したことを反省し、部隊を効率よく運用するための指令機として開発・進化させたデジモンがブリガードラモンである。ブリガードラモンは任務を行うエリアの上空を旋回し、地上や低高度にいる脅威の索敵と破壊を行う。大きな脅威の殲滅が完了すると分隊を収納したカーゴドラモンが降下し、地上にコマンドラモンとハイコマンドラモン、タンクドラモンが展開される。任務が完了するまでブリガードラモンは上空を旋回し、展開部隊への指令と索敵を継続する。必殺技は右腕の巨大ガトリングキャノンで毎秒4,800発の速度で掃射される榴弾「ジェノサイドレイン」と左手の爪に格納された有機体系ミサイル「エクサデストロイヤー」。一時は大失態により名声が失墜したD-ブリガードだが、ブリガードラモンの配備後は作戦成功率が向上し、部隊損耗率も大幅に低下したことからかつての勢いを取り戻し始めている。現在は3体のブリガードラモンが配備されているとの情報もあり、今後配備数はさらに増えると思われる。デジモン図鑑",
+        "ko": "과거에 최종 결전 병기로서의 궁극체 디지몬 을 완성시킨 D-브리가드 이지만, 이 개체는 폭주 후 도주하는 큰 실패를 야기했다. 이 조직을 상징하는 최강의 온리 원 디지몬 개발 실패를 반성하고 부대를 보다 효율적으로 운용하기 위해 지령기로써 개발 및 진화시킨 디지몬이 브리가드라몬이다. 브리가드라몬은 임무가 진행되는 에리어 상공을 선회하면서 지상이나 저고도에 있는 위협을 색출하고 파괴한다. 큰 위협의 섬멸을 완료하면 분대를 수납한 카고드라몬 이 강하하여 지상에 코만드라몬 과 하이코만드라몬 , 탱크드라몬 을 전개한다. 임무가 완료될 때까지 브리가드라몬은 상공을 선회하면서 전개 부대에게 지령 전달과 적을 찾아내는 색적을 계속한다. 필살기는 오른쪽 팔의 거대 개틀링 캐논에서 초당 4,800발이 속도로 소사 되는 유탄 『제노사이드 레인』과 왼쪽 손 갈퀴에 격납된 유기체계 미사일 『엑사 디스트로이어』다. 한때는 큰 실패로 명성을 실추한 D-브리가드이지만, 브리가드라몬을 배치한 후에는 작전 성공률이 높아지고 부대 소모율도 큰 폭으로 저하되어 과거의 위세를 되찾기 시작했다. 현재는 3마리의 브리가드라몬이 배치되어 있다는 정보가 있고 앞으로 배치수가 늘어날 것으로 생각된다."
+      },
+      "wikimon_url": "https://wikimon.net/Brigadramon"
+    },
+    {
+      "id": "nidhogg",
+      "name": "Nidhoggmon",
+      "name_jp": "Nidhoggmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5000",
+        "hp": "6000",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/nidhogg/frame1.gif",
+        "frame2": "sprites/nidhogg/frame2.gif"
+      },
+      "artwork": "sprites/nidhogg/artwork.jpg",
+      "lore": {
+        "en": "A colossal Digimon that takes vast amounts of energy into its body, and is in a constant state ofthermal runaway. The light emitted from its wings indicates what stage of thermal runaway it is in; the more it approaches the danger level, the redder it becomes. Nidhoggmon repeatedly destroys and absorbs things, leaving nothing behind in its wake.Its Special Moves are firing red-hot beams from its eyes (Annihilention), and condensing the energy within its body, and breathing it out of its mouth in the form of a wave (Rudiment).Digimon Reference Book⇨ English体内に莫大なエネルギーを取り込み、常に熱暴走状態である超巨大デジモン。翼から放たれる光は熱暴走レベルを表し、危険レベルに近づくほど赤くなっていく。破壊と吸収を繰り返し、ニーズヘッグモンが通った跡には何も残らない。必殺技は、目から発射する赤い熱線『アナイアレンション』と、体内のエネルギーを凝縮して口から吐く波動『ルウダメント』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Nidhoggmon"
+    },
+    {
+      "id": "shinmonzae",
+      "name": "Shin Monzaemon",
+      "name_jp": "Shin Monzaemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "5500",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/shinmonzae/frame1.gif",
+        "frame2": "sprites/shinmonzae/frame2.gif"
+      },
+      "artwork": "sprites/shinmonzae/artwork.jpg",
+      "lore": {
+        "en": "A Puppet Digimon that evolved as a result ofMonzaemontaking in nightmare-related analysis data. At first glance, it is shaped like a teddy bear, but it is actually a fluffy, amorphous Digimon with a mysterious nature, like a cross between slime and clouds. It is a moody Digimon that has a childish personality and does not act intelligently. It has a habit of liking and taking in simple and cute things, and chooses immature Digimon that are Child-level and below as its targets. On the other hand, since it considers Digimon that have gotten more mature to be \"repulsive beings with impurities mixed in with their data\", it hates even getting close to them. When it feeds, it extends its soft wings to envelop its targets. Because its whole body is made up of powerful energy, weak Digimon are said to completely lose consciousness just by touching it.Its Special Moves are sending countless parts of its body flying to steal the opponent's consciousness (Nightmare Rain), changing the shape of its right arm into a hammer and smashing the opponent with it (Fancy Fantasista), and piercing the opponent'sDigicorewith a laser fired from its left eye (Sweet Lovely Attack).Digimon Reference Book⇨ Englishもんざえモンが悪夢に関する解析データを取り込むことで進化したパペット型デジモン。一見してテディベアのような形状をとってはいるが、実際にはスライムと雲を合わせたような不思議な性質を持つ、フワフワとした不定形のデジモンだ。幼稚な性格で理知的な行動を取らない気分屋。シンプルで可愛らしいものを好んで取り込む習性があり、未成熟な成長期以下のデジモンをターゲットに選ぶ。逆に、成長が進んだデジモンは「データに不純物が混ざっている穢らわしい存在」と考えているため、近付くことすら嫌っている。食事をするときはフワフワとした翼を膨張させ標的を包み込む。体全体が強力なエネルギーで出来ているため、ひ弱なデジモンは触れられただけで意識を失ってしまうという。必殺技は体の一部を無数に飛ばして敵の意識を奪い取る『ナイトメアレイン』、右腕の形状をハンマーに変えて相手を叩きつぶす『ファンシーファンタジスタ』、そして左目から放つレーザーで敵のデジコアを貫く『スイートラブリーアタック』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shin_Monzaemon"
+    },
+    {
+      "id": "kingete",
+      "name": "King Etemon",
+      "name_jp": "King Etemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "5000",
+        "ap": "1800"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/kingete/frame1.gif",
+        "frame2": "sprites/kingete/frame2.gif"
+      },
+      "artwork": "sprites/kingete/artwork.jpg",
+      "lore": {
+        "en": "It styles itself among otherEtemonas the \"King of Etemon\", and after all, it is an ultimate form that is said to be a being set at the top. It gets even more carried away and calls itself the \"King of Kings\". It is snazzily dressed in its \"Saru Suit\", engraved with the characters \"Great King\" on its chest, but although it swaggers around with the affectation of a star, it only earns derision from other Digimon. Its Special Move is putting up a false show that cripples the opponent's fighting spirit (Saru Shibai).Digimon Reference Book⇨ English自称、「キング・オブ・エテモン」のエテモンの中でも、更に頂点に位置する存在といわれている究極の形態。更に調子にのって「キング・オブ・キングス」を名乗っている。胸に\"大王\"の文字が入ったサルスーツを颯爽と着こなし、スターきどりで闊歩しているが、他のデジモン達の冷笑を買っている。必殺技は、芝居をうって相手の戦闘意欲をそいでしまう「サルしばい」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/King_Etemon"
+    },
+    {
+      "id": "metalete",
+      "name": "Metal Etemon",
+      "name_jp": "Metal Etemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5100",
+        "hp": "5300",
+        "ap": "1850"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/metalete/frame1.gif",
+        "frame2": "sprites/metalete/frame2.gif"
+      },
+      "artwork": "sprites/metalete/artwork.jpg",
+      "lore": {
+        "en": "The \"King of Digimon\". There once existed aDigimon with unparalleled strengthreferred to by that name. It set out on a journey of harsh battles in search of the strong, and though it was able to acquire valuable combat data, it was also injured considerably from the constant battling. It then studied its own weaknesses from the data acquired through battling, and has now been perfectly reborn as an ultimate combat machine byfull-metallizingitself. Its body's surface is coated fully in theChrome Digizoidused by Metal-species Digimon. While its basic combat abilities have been raised to their maximum, its Special Move is tripping the opponent (Banana Slip). An invincible fighter which has acquiredStrong- and Dirty-stylewrestling skills has been born.Digimon Reference Book⇨ English“キング・オブ・デジモン”。かつてそう呼ばれた最強のデジモンがいた。強者を求め過酷な戦いの旅に出、貴重な戦闘データを得ることができたが、連戦による身体的な損傷もかなりのものであった。そこで戦いで得たデータから自己の弱点を研究し、自らをフルメタル化することで究極の戦闘マシーンとして完全復活した。体表面はメタル系デジモンに使われる「クロンデジゾイド」でフルコーティングしている。基本戦闘能力を最大限に上げておきながら、その必殺技は相手の足をすくう『バナナスリップ』。ストロングスタイルもダーティースタイルもこなす無敵のファイターが誕生した。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Etemon"
+    },
+    {
+      "id": "darkdra",
+      "name": "Darkdramon",
+      "name_jp": "Darkdramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6100",
+        "hp": "5900",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/darkdra/frame1.gif",
+        "frame2": "sprites/darkdra/frame2.gif"
+      },
+      "artwork": "sprites/darkdra/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon which is believed to be the weapon of last resort for the mechanized \"D-Brigade\". Although this is information that stubbornly remains part of the rumor mill, it is said that aTankdramon, shot down during an operation to eliminate a \"target\" designated \"Codename:BAN-TYO\", was retrieved and evolved to Darkdramon at theD-Brigaderesearch facility it was left at. It seems that on the verge of its evolution, a large quantity of \"Dark Matter\" was applied, and after its evolution it ran wild and broke out, so currently even the D-Brigade cannot secure Darkdramon's whereabouts. It is said that even now it is hunting \"Codename: BAN-TYO\"...Its Special Move \"Dark Roar\" is a bold move in which it fires Dark Matter as energy shots, and it is said that there is nothing in this world that can suffer that attack and survive. Also, its right hand is equipped with the \"Gigastick Lance\", which rivalsDukemon's holy lance \"Gram\".Digimon Reference Book⇨ English機械化旅団「D－ブリガード」の最終決戦兵器であると推測されるサイボーグ型デジモン。あくまで噂の域を出ない情報だが、コードネーム「BAN-TYO」と呼ばれる「目標」を排除する作戦で撃墜されたタンクドラモンが回収され、「D－ブリガード」の研究機関においてダークドラモンへと進化したと言われている。進化の際に大量の「ダークマター」が使用されたらしく、進化後に暴走・逃亡し、現在は「D-ブリガード」もダークドラモンの消息をつかめていないらしい。今でもコードネーム「BAN-TYO」を探し彷徨っているというが・・・。必殺技『ダークロアー』は「ダークマター」をエネルギー弾として打ち放つ禁断の大技で、これを受けて生き延びるものはこの世界に皆無と言われている。また右手にはデュークモンが持つ聖槍グラムに匹敵する『ギガスティックランス』が仕込まれている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Darkdramon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "kyokyo",
+      "to": "ryuda",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kyokyo",
+      "to": "commandra",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ryuda",
+      "to": "ginryu",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "commandra",
+      "to": "hicommandra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ryuda",
+      "to": "delta",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ryuda",
+      "to": "nume",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "commandra",
+      "to": "nume",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "commandra",
+      "to": "sealsdra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "hisyaryu",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "nume",
+      "to": "hisyaryu",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sealsdra",
+      "to": "hisyaryu",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "cargodra",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hicommandra",
+      "to": "cargodra",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sealsdra",
+      "to": "cargodra",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ginryu",
+      "to": "orochi",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "hicommandra",
+      "to": "orochi",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "delta",
+      "to": "orochi",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "delta",
+      "to": "monzae",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "nume",
+      "to": "monzae",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "delta",
+      "to": "ete",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "nume",
+      "to": "ete",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "hicommandra",
+      "to": "tankdra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "sealsdra",
+      "to": "tankdra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "hisyaryu",
+      "to": "ouryu",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "cargodra",
+      "to": "ouryu",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "tankdra",
+      "to": "ouryu",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hisyaryu",
+      "to": "brigadra",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cargodra",
+      "to": "brigadra",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tankdra",
+      "to": "brigadra",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "hisyaryu",
+      "to": "nidhogg",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "orochi",
+      "to": "nidhogg",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "orochi",
+      "to": "shinmonzae",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "monzae",
+      "to": "shinmonzae",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "monzae",
+      "to": "kingete",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "ete",
+      "to": "kingete",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "orochi",
+      "to": "metalete",
+      "conditions": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "ete",
+      "to": "metalete",
+      "conditions": {
+        "PP": "13+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "cargodra",
+      "to": "darkdra",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "tankdra",
+      "to": "darkdra",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "fufu",
+      "to": "kyokyo",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

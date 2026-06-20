@@ -1,0 +1,42 @@
+{
+  "id": "ancientbeat",
+  "name": "Ancient Beatmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientbeat.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientbeat.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ancientbeat.jpg",
+  "appearances": [
+    {
+      "dim_id": "blitz_ex",
+      "dim_name": "Blitzmon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ancient Beatmon",
+    "name_en": "AncientBeatmon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "stats": {
+      "dp": "50 (★)",
+      "hp": "14",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

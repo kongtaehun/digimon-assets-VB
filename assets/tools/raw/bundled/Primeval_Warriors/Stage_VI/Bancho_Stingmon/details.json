@@ -1,0 +1,77 @@
+{
+  "id": "banchosting",
+  "name": "Bancho Stingmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/banchosting.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/banchosting.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/banchosting.jpg",
+  "appearances": [
+    {
+      "dim_id": "pwa",
+      "dim_name": "Primeval Warriors",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "jewelbee",
+        "kongou"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Bancho Stingmon",
+    "name_en": "BanchoStingmon",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "50 (★8)",
+      "hp": "12",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "jewelbee",
+        "name": "Jewelbeemon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "kongou",
+        "name": "Kongoumon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "pucchie_g",
+        "name": "Pucchie (Green)",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "Jogress with Data Perfect"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      },
+      {
+        "id": "pucchie",
+        "name": "Pucchiemon",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Digimon Asset Index",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "categories"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "generated": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "totals": {
+      "type": "object"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "label",
+          "dims"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "device": {
+            "type": "string"
+          },
+          "source_url": {
+            "type": "string"
+          },
+          "dims": {
+            "type": "array"
+          }
+        }
+      }
+    }
+  }
+}

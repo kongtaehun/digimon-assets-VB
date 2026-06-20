@@ -1,0 +1,72 @@
+{
+  "id": "sangloup",
+  "name": "Sangloupmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/sangloup.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/sangloup.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/sangloup.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dracu"
+      ],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Sangloupmon",
+    "name_en": "Sangloupmon",
+    "attribute": "Virus",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Lazy",
+    "stats": {
+      "bp": "5800",
+      "hp": "3000",
+      "ap": "1250"
+    },
+    "schedule": {
+      "activity_type": "Lazy",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "dracu",
+        "name": "Dracumon",
+        "conditions": "12+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "olea",
+        "name": "Oleamon",
+        "conditions": "Stage 9 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "pheles",
+        "name": "Phelesmon",
+        "conditions": "Stage 6 cleared, 12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "matadr",
+        "name": "Matadrmon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mephis",
+        "name": "Mephismon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    ]
+  }
+}

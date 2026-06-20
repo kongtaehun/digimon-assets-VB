@@ -1,0 +1,522 @@
+{
+  "schema_version": "1.0",
+  "id": "fairi_ex",
+  "name": "Fairimon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Flame)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_fairi_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "yura",
+      "name": "Yuramon",
+      "name_jp": "Yuramon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/yura/frame1.gif",
+        "frame2": "sprites/yura/frame2.gif"
+      },
+      "artwork": "sprites/yura/artwork.jpg",
+      "lore": {
+        "en": "A Seed Digimon whose whole body is covered in a substance with the appearance of long, soft hair. When it hatches from itsDigitama, it seeks an environment suitable for its growth, and drifts lightly through the air, like a dandelion seed. If it finds a place where there will be no intruders and where the environment is good, it will settle to the ground and begin preparations for evolution. Its offensive ability is practically nil, so it will spit out adhesive bubbles to hinder the opponent's movement, then seize the opportunity to escape.Digimon Reference Book⇨ English体中を細長く柔らかい毛の様な物で覆われた種子型デジモン。デジタマから孵化すると、成長をするのに適した環境を求めて、タンポポの種の様にフワフワと空中を漂う。外敵の無い、環境の良い場所を見つけると地上に降り進化の準備を始める。攻撃力は殆ど無く、粘着性の泡を吐き出し相手の動きを鈍らせ、その隙に逃げ出す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Yuramon"
+    },
+    {
+      "id": "tane",
+      "name": "Tanemon",
+      "name_jp": "Tanemon",
+      "name_ko": "시드몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/tane/frame1.gif",
+        "frame2": "sprites/tane/frame2.gif"
+      },
+      "artwork": "sprites/tane/artwork.jpg",
+      "lore": {
+        "en": "A Bulb Digimon with something resembling plant sprout burgeoning from its head. It is aYuramonthat floated around in search of the optimal environment, then settled into the ground and evolved. Due to its extremely timid personality, the moment it senses an intruder's presence, it will burrow into the ground with its four feet and bury its main body beneath the surface. Once it is completely hidden underground, the thing growing from its head camouflages as a plant, allowing it to defend itself from intruders. However, this is ineffective against herbivorous Digimon.Digimon Reference Book⇨ English頭部から植物の芽の様なものが発芽している球根型デジモン。最適な環境を求めて浮遊していたユラモンが地上に降り進化した。非常に臆病な性格で、外敵の存在を察知すると４本の足で穴を掘り、体の部分を地中に埋めてしまう。一旦地中に潜ってしまうと頭部から生えた物が植物の擬態をとり、外敵から身を守ることができる。ただし、草食性のデジモンには効果が無い。デジモン図鑑",
+        "ko": "머리에 식물의 싹 같은게 발아한 알뿌리형 디지몬. 최적의 환경을 찾아 부유하던 유라몬 이 지상에 내려와 진화했다. 매우 겁이 많은 성격으로, 외적의 존재를 느끼면 네 발로 구멍을 파고, 몸 부분을 땅 속에 파고 들어가버린다. 일단 땅 속에 잠겨버리면 머리에 난 것으로 식물인 양 의태하여 외적으로부터 몸을 지킬 수 있다. 하지만, 초식성 디지몬에겐 효과가 없다."
+      },
+      "wikimon_url": "https://wikimon.net/Tanemon"
+    },
+    {
+      "id": "tinker",
+      "name": "Tinkermon",
+      "name_jp": "Tinkermon",
+      "name_ko": "팅커몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/tinker/frame1.gif",
+        "frame2": "sprites/tinker/frame2.gif"
+      },
+      "artwork": "sprites/tinker/artwork.jpg",
+      "lore": {
+        "en": "A Fairy Digimon that is always snuggling up toPetermon. It does its best to work with Petermon in building \"Never-Ever Land\", a world of children. It bounces around in the best of moods when it is with Petermon, but if it's ignored then it will angrily strike Petermon and then fly off somewhere. After that, it is happy to come looking for Petermon and meekly receive pampering. Tinkermon's wings shine, and because there is a change in the strength of the radiance when it is tense, looking at the wings' radiance is considered a good way to suss out Tinkermon's mood. It applies a paralytic nail polish to its sharply pointed, poisoned spear and nails, and if one mocks its tiny appearance, they'll suffer a massive retaliation. Its Special Move is dragging the opponent into a nightmare with the fast-acting \"Speed Nightmare\" hallucinogen from its poisoned spear. Its \"Nightmare Pandemic\" is able to control its paralyzing effect from just a section to the whole body by increasing the number of nails it stings with. Also, the \"Fairy Powder\" scattered from its wings has the ability to change about half of those it covers into babies. The infantilized opponents give into Petermon's temptations and are led to the world of children, \"Never-Ever Land\". This cooperation with Petermon and Tinkermon is called \"Petermon Syndrome\".Digimon Reference Book⇨ Englishいつもピーターモンに寄り添っている妖精型デジモン。ピーターモンが子供の世界「ネバーエヴァーランド」を作り上げることに全力で協力している。ピーターモンといる時が一番の上機嫌で弾んでいるが、放っておかれるとプンスカあたってどこかへ飛んで行ってしまう。そのあとピーターモンが探してきてくれると素直に甘えて喜ぶ。ティンカーモンの羽は光り輝いており、その時のテンションで輝きの強さに変化があるので、ティンカーモンの気持ちを探るには羽の輝きを見ると良いとされる。鋭く尖った毒銛と爪には麻痺性のネイルアートを施しており、小さな身なりで侮ると大きなしっぺ返しを受ける。必殺技は毒銛から速効性の幻覚剤『スピードナイトメア』で相手を悪夢に引きずりこむ。『ナイトメアパンデミック』は刺す爪の数を増やすことで麻痺効果を部分から全身までコントロールすることが出来る。また、羽から舞い散る『フェアリーパウダー』を浴びた者は幼児化し能力が半減してしまう。幼児化した敵はピーターモンの誘惑に乗って子供の世界「ネバーエヴァーランド」へと導かれてゆく。このピーターモンとティンカーモンの連携を『ピーターモンシンドローム』と言う。デジモン図鑑",
+        "ko": "언제나 피터몬 과 동행하고 있는 요정형 디지몬. 피터몬이 아이의 세계 네버 에버랜드 를 만드는 것에 전력으로 협력하고 있다. 피터몬과 함께 있을 때가 가장 기분이 좋지만, 방치되어지면 자연스럽게 어딘가로 날아가버린다. 그 후 피터몬이 찾아 와주면 솔직하게 응석부리고 기뻐한다. 팅커몬의 날개는 빛이 나고 있어 그 때의 텐션으로 빛의 힘에 변화가 있으므로, 팅커몬의 기분을 알려면 날개의 빛을 보면 알 수 있다고 여겨진다. 날카롭게 뾰족한 독 작살과 손톱에는 마비성의 네일아트를 나타내고 있어 작은 모습이라고 무시하면 즉각 보복을 받는다. 필살기는 독 작살에서 속효성 환각제 '스피드 나이트메어'로 상대를 악몽으로 끌어들인다. ‘나이트메어 팬데믹’은 찌르는 손톱의 수를 늘림으로써 마비 효과를 부분에서 전신까지 조절할 수 있다. 또, 날개에서 흩날리는 ‘페어리 파우더’를 맞은 사람은 유아화되어 능력이 반감돼버린다. 유아화된 적은 피터몬의 유혹에 따라 아이의 세계 '네버 에버랜드'로 인도된다. 이 피터몬과 팅커몬의 연계를 ‘피터몬 신드롬’이라고 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Tinkermon"
+    },
+    {
+      "id": "pomu",
+      "name": "Pomumon",
+      "name_jp": "Pomumon",
+      "name_ko": "폼몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/pomu/frame1.gif",
+        "frame2": "sprites/pomu/frame2.gif"
+      },
+      "artwork": "sprites/pomu/artwork.jpg",
+      "lore": {
+        "en": "Although it looks like a Bird-type, it is aPlantDigimon whose body is packed with juices with high sugar content like that of a fruit. For that reason, it has many natural predators such asBirdandInsectDigimon. Despite having wings, it is mainly active on land because its flight speed is so slow that it becomes defenseless.When it senses danger, it protects itself with \"Rapid Seed\", in which it spits out countless seed-like bullets from its mouth. Its \"Fruits Rush\", where it curls up and speeds off, is often used as a means of escape rather than an attack.Digimon Reference Book⇨ English鳥型のように見えるが、果物のように体内に高糖度の果汁が詰まった植物型デジモン。そのため鳥系・虫系のデジモンなど天敵が非常に多い。羽根は付いているものの飛行速度が遅く無防備になってしまうことから、主に陸で活動している。危険を感じたときは口からタネのような弾丸を無数に吐き出す「ラピッドシード」で身を守る。体を丸めて突進する「フルーツラッシュ」は攻撃よりも逃走手段として用いられることがほとんどだ。デジモン図鑑",
+        "ko": "새처럼 보이지만 과일 처럼 체내에 고농도 과즙이 가득 찬 식물형 디지몬. 그 때문에 조류・곤충류 디지몬 등 천적이 매우 많다. 날개는 붙어 있지만 비행 속도가 매우 느리고 무방비가 되어버리기 때문에 주로 육지에서만 활동하고 있다. 위험을 느꼈을 때는 입에서 씨앗 같은 탄환을 무수히 발사하는 『래피드 시드』로 몸을 지킨다. 몸을 웅크리고 돌진하는 『프루츠 러시』는 공격보다도 도주 수단으로 이용되는 경우가 대부분이다."
+      },
+      "wikimon_url": "https://wikimon.net/Pomumon"
+    },
+    {
+      "id": "fairi",
+      "name": "Fairimon",
+      "name_jp": "Fairimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/fairi/frame1.gif",
+        "frame2": "sprites/fairi/frame2.gif"
+      },
+      "artwork": "sprites/fairi/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Wind which bears the might of one of the legendaryTen Warriors. It freely manipulates the atmosphere to display mirages to its opponents, and specializes in attacks that generate \"Kamaitachi\" made from vacuums. However, it is more proficient in information warfare than in actual combat ability. Although it has an innocent personality brimming with curiosity, and is a gossipy, talkative troublemaker, because it has no ill will for the person, it isn't really hated. It is thoroughly optimistic, and is the possessor of a strong heart that cuts its way through small difficulties with a smile. Its Special Moves are performing a handstand and unleashing a whirlwind kick (Tornado Gamba), and rushing toward the opponent, then dispatching a back-flip kick after a barrage of kicks (Roseo Temporale).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、風の能力を持つデジモン。大気を自在に操って敵に蜃気楼を見せたり、真空状態を作り「カマイタチ」を発生させたりといった攻撃を得意とする。実際の戦闘能力よりも情報戦に長けたところがある。無邪気で好奇心旺盛な性格で、おしゃべりで口が軽いトラブルメーカーだが、本人に悪気が全くないため、あまり憎まれることは無い。徹底した楽天主義で、少々の困難も笑って切り抜ける強い精神の持ち主。必殺技は逆立ちをして旋風脚を繰り出す『トルナード・ガンバ』と、敵に向かって突進し、蹴りの連打のあとバク転蹴りを出す『ロゼオ・テンポラーレ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Fairimon"
+    },
+    {
+      "id": "cockatri",
+      "name": "Cockatrimon",
+      "name_jp": "Cockatrimon",
+      "name_ko": "꼬끼몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/cockatri/frame1.gif",
+        "frame2": "sprites/cockatri/frame2.gif"
+      },
+      "artwork": "sprites/cockatri/artwork.jpg",
+      "lore": {
+        "en": "A Giant Bird Digimon with two overdeveloped legs. Because it has continued to live on the ground for so long, it cannot fly through the air, and has evolved a body that is suited for land. For that reason, its body became even larger, and its leg strength has developed tremendously as well. Its wing parts have completely degenerated, and in battle, it spreads them wide along with its tail to intimidate the enemy. Although its disposition is violently ferocious, it doesn't do well in battles that consume too much energy due to its need to sustain its large build. Its Special Move is \"Petra Fire\". It is a terrifying technique that does not carbonize those it hits, but instead completely petrifies their body.Digimon Reference Book⇨ English２本の脚が巨大に発達した巨鳥型デジモン。地上での生活を長く続けていたため、空を飛ぶ事ができず、地上に適した体に進化した。そのために体も巨大になり、脚力も凄まじく発達した。羽の部分は完全に退化しており、戦闘の際に尻尾と共に大きく広げて敵を威嚇する。性質は荒く獰猛だが、その巨体を維持するために、エネルギーの消費が激しいバトルは苦手。必殺技は『ペトラファイアー』。この攻撃を受けると炭化するのではなく、体が石化してしまう恐ろしい技。デジモン図鑑",
+        "ko": "2개의 다리가 거대하게 발달한 거대새형 디지몬. 지상에서의 생활을 오래 하다 보니 하늘을 날 수 없고 지상에 적합한 몸으로 진화했다. 그렇기 때문에 몸은 거대해지고 각력이 매우 발달하였다. 날개 부분은 완전히 퇴화하여 전투를 할 때는 꼬리와 함께 거대하게 펼쳐서 적을 위협한다. 성질은 거칠고 사납지만 그 큰 몸을 지탱하기 위한 에너지 소모가 커 전투는 어려워한다. 필살기는 『페트라 파이어』 [5] . 몸이 석화되어 버리는 무서운 기술이다."
+      },
+      "wikimon_url": "https://wikimon.net/Cockatrimon"
+    },
+    {
+      "id": "arbor",
+      "name": "Arbormon",
+      "name_jp": "Arbormon",
+      "name_ko": "알볼몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/arbor/frame1.gif",
+        "frame2": "sprites/arbor/frame2.gif"
+      },
+      "artwork": "sprites/arbor/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Wood which bears the might of one of the legendaryWarrior Ten. The blueprints of amedieval, woodenkarakuri puppetconverted into its data, so its gimmicks are surprisingly archaic. You can't tell what it's thinking due to its lack of facial expression and being taciturn, and it is usually treated literally like a puppet by its comrades, but once a battle begins, it makes sport of the enemy with its keen and tricky movements. It is able to shoot strong ivy from the tubes on its back and manipulate the opponent like a marionette. Although its skin is fireproof, its insides and joints are vulnerable to fire. Its Special Moves are unleashing continuous kicks from unexpected directions with its strange movements (Machine Gun Dance), and firing an enormous seed from the opening in its chest, causing ivy to spread all over the opponent's body (Blockade Seed).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、植物の能力を持つデジモン。中世の木製からくり人形の設計図がデータ化されたもので、そのギミックは意外に古風。表情が顔に出ず無口なため何を考えているか分からず、普段は仲間から文字通り木偶の坊扱いされているが、一度、戦闘が開始されると、俊敏でトリッキーな動きで敵を翻弄する。背中の筒からは強力なツタを発射し相手をマリオネットのように操ることができる。表皮は防火処理をしてあるが、内部と関節は火に弱い。必殺技は奇怪な動きで思わぬ方向から連続蹴りを繰り出す『マシンガン・ダンス（機銃の踊り）』と、胸の穴から巨大な種を発射して、相手の身体中にツタをはわせる『ブロッケイドシード（封じ込めの種）』。デジモン図鑑",
+        "ko": "전설의 10투사의 힘을 내포한, 식물의 능력을 가진 디지몬. 중세의 목제 꼭두각시 인형의 설계도가 데이터화된 것으로, 그 기믹은 의외로 고풍스럽다. 표정이 얼굴에 나오지 않고 과묵하기 때문에 무엇을 생각하고 있는지 알지 못하고, 평상시는 동료로부터 문자 그대로 꼭두각시 취급당하고 있지만, 한번 전투가 개시되면, 준민하고 트릭키한 움직임으로 적을 농락한다. 등의 통에서는 강력한 담쟁이덩굴을 발사해 상대를 마리오네트와 같이 조종할 수 있다. 표피는 방화 처리가 되어 있지만, 내부와 관절은 불에 약하다. 필살기는 기괴한 움직임으로 생각지 못한 방향에서 킥을 계속 내보내는 머신건 댄스(기관총의 춤), 가슴의 구멍에서 거대한 씨를 발사하고 상대의 신체에 담쟁이 덩굴을 붙이는 블록케이드 시드(봉쇄의 씨앗)."
+      },
+      "wikimon_url": "https://wikimon.net/Arbormon"
+    },
+    {
+      "id": "zassou",
+      "name": "Zassoumon",
+      "name_jp": "Zassoumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/zassou/frame1.gif",
+        "frame2": "sprites/zassou/frame2.gif"
+      },
+      "artwork": "sprites/zassou/artwork.jpg",
+      "lore": {
+        "en": "A subspecies of theVegimonspecies whose body is completely green. Unlike Vegimon, it does not ripen and turn red; in turn, it has obtained the vitality of a weed, allowing it to survive no matter how many times it is cut or beaten. Its Special Move is using its vine arms to squeeze the enemy (Squeeze Vine).Digimon Reference Book⇨ English全身が緑色をしたベジーモン種の一種。熟して赤くなることはないが、かわりに手に入れた雑草の生命力で、切ってもたたいてもしぶとく生き残る。必殺技は、触手で敵をグイグイしめ上げる「スクイーズバイン」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zassoumon"
+    },
+    {
+      "id": "jetsilphy",
+      "name": "Jet Silphymon",
+      "name_jp": "Jet Silphymon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/jetsilphy/frame1.gif",
+        "frame2": "sprites/jetsilphy/frame2.gif"
+      },
+      "artwork": "sprites/jetsilphy/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Wind that has transcended legend by inheriting all the might of one of the legendaryTen Warriorsand acquiring unknown abilities. By taking in wind and using the wind's power, it is able to fly about the sky like a jet aircraft. Also, like the wind, its form cannot be seen as it moves through the sky. Its Special Moves are firing from both arms with the power of the wind (JetBinter), and generating an unprecedented turbulence from its gigantic pinwheel and blowing the opponent all the way away (Ultra Turbulence).Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた風の能力を持つデジモン。風を取り込み、風のパワーで空中をジェット機のように飛び回ることが出来る。また、空中を移動する時の姿は風の如く見ることはできない。必殺技は風のパワーで両腕を発射する『ジェットビンター』と、巨大な風車から未曾有の乱気流を発生させ敵を根こそぎ吹き飛ばす『ウルトラタービュレンス』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Jet_Silphymon"
+    },
+    {
+      "id": "shutu",
+      "name": "Shutumon",
+      "name_jp": "Shutumon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/shutu/frame1.gif",
+        "frame2": "sprites/shutu/frame2.gif"
+      },
+      "artwork": "sprites/shutu/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Wind which bears the might of one of the legendaryTen Warriors. At a glance, it looks like a composed adult woman, but although it perplexes its opponents with its languid behavior, it actually has an impish personality that loves to capriciously embarrass people. It does things like purposefully telling its opponent unhappy fortunes or startling them. In battle, it seldom takes the initiative and helps out, but although you don't see its efforts, it will sometimes risk the possibility of getting into trouble. Once it feels so inclined, it glides freely through the sky, manipulating the wind and knocking out the opponent with a secretMesopotamianspell. Its Special Moves are cutting the opponent and the atmosphere around it to pieces with the claws on its hands and feet (Gilgamesh Slicer), and flying up into the air and hurling the feathers of its hair and wings as pointed arrows (Wind of Pain).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、風の能力を持つデジモン。一見、落ち着いた大人の女性風に見え、けだるい仕草で相手をとまどわせるが、実際は気まぐれで人を困らせるのが好きな小悪魔的性格。相手にわざと不幸な占いをして驚かせたりもする。戦闘においても自ら率先して手助けすることは少なく、本人の努力が見えないと、あえて苦況に立たせることもある。一度、その気になれば空中を自在に滑空し、メソポタミア秘伝の呪文で風を操って敵を倒す。必殺技は手足の爪で大気ごと相手を切り裂く『ギルガメッシュスライサー』と、空中に飛び上がり髪と翼の羽根を鋭い矢として飛ばす『ウィンドオブペイン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shutumon"
+    },
+    {
+      "id": "petaldra",
+      "name": "Petaldramon",
+      "name_jp": "Petaldramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/petaldra/frame1.gif",
+        "frame2": "sprites/petaldra/frame2.gif"
+      },
+      "artwork": "sprites/petaldra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Wood which bears the might of one of the legendaryWarrior Ten. Countless buds sprouted fromArbormon's surface and grew suddenly, and it changed into a form resembling a giant lizard with plants over its surface. Although it's just like Arbormon in that you can't tell what it's thinking due to its lack of expression, it possesses a great appetite that is the exact opposite of Arbormon, who doesn't require food. When it opens its mouth, it sticks out its ivy-like tongue and swallows anything. Once it swallows its prey, the branches on its back grow and it grins eerily just at that moment. Its physical attacks involve using its branches and tail-whip. It scatters sleep-inducing spores from its moss, which acts as its skin. Its Special Moves are rotating the leaves around its head and firing them (Leaf Cyclone), and making innumerable roots lurking in the ground pop up onto the surface all at once, skewering enemies in the area (Thousand Spike).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、植物の能力を持つデジモン。アルボルモンの表面から無数の芽が出て急激に成長し、表面が植物の巨大なトカゲのような姿に変わる。無表情で何を考えているか分からないところはアルボルモンと同じだが、食料を必要としなかったアルボルモンとは正反対に旺盛な食欲の持ち主。口を開くとツタに似た舌を出し、何でも飲み込んでしまう。獲物を飲み込むと背中の枝が成長し、その瞬間だけ不気味な笑みを浮かべる。物理攻撃は枝と尻尾のムチ。表皮にあたるコケから眠りを誘う胞子を振り撒く。必殺技は頭の回りの葉を回転させて発射する『リーフサイクロン』と、地面に這わせた無数の根を一気に地上に飛び出させて一帯の敵を串刺しにする『サウザンドスパイク』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Petaldramon"
+    },
+    {
+      "id": "peacock",
+      "name": "Peacockmon",
+      "name_jp": "Peacockmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/peacock/frame1.gif",
+        "frame2": "sprites/peacock/frame2.gif"
+      },
+      "artwork": "sprites/peacock/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Machine Digimon that evolved through the power of the \"Digimental of Miracles\". When certain Bird Digimon perform normal evolution, they have the potential to becomeDelumon, but there are rare cases where they evolve into Peacockmon using the Digimental of Miracles. Its body is made of blue metallicChrome Digizoid, and it is able to fly at extremely high speeds by producing laser-shaped wings from portions of both of its arms. Its Special Move is a unique beam radiated from its laser wings (Rainbow Shower). If you suffer this attack, your whole body will be burned to cinders.Digimon Reference Book⇨ English“奇跡のデジメンタル”のパワーによって進化したアーマー体のマシーン型デジモン。特定の鳥型デジモンが通常の進化をすると、「デラモン」になる可能性があるが、奇跡のデジメンタルを使用することで稀にピーコックモンに進化する場合がある。そのボディはブルーメタリックのクロンデジゾイドで作られており、両腕の部分からレーザー状のウィングを出し、超高速で飛行することができる。必殺技はレーザーウィングから照射される特殊光線『レインボーシャワー』。この攻撃を受けると、全身をズタズタに焼き切られてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Peacockmon"
+    },
+    {
+      "id": "zamiel",
+      "name": "Zamielmon",
+      "name_jp": "Zamielmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/zamiel/frame1.gif",
+        "frame2": "sprites/zamiel/frame2.gif"
+      },
+      "artwork": "sprites/zamiel/artwork.jpg",
+      "lore": {
+        "en": "The general of the Wood-spirit Army of the \"Big Death-Stars\". It has dominion over many Fairy and Plant Digimon which are able to blend in with the land of meadows and forests to camouflage themselves. It goes forward with things in a calm and collected manner, and in surprise attacks, pincer attacks, exterminations, feints, blitzes, guerrilla attacks, or any other tactic it pleases, it directs its army to make the extermination of its enemies successful. As enabling such a strategy definitely needs strict iron discipline, it possesses enough of a cool head that in situations where its subordinates throw its movements out of order, it snipes from anywhere to deal with it. No matter what the strategy is, its own actions are considered to hold the key to success, so it shoots through the opponent's head with its \"Snipe Headshot\" while rushing about the battlefield. Its body is trained in various techniques, and it freely draws the techniques out in order to fire arrows from its hands with its \"Arrow Lance\", slash with its \"Bow Cutter\" that uses the bow on the side of its abdomen as a blade, and trick-fire with its \"Foot Shot\" that it prepared in its feet. Even if it is surrounded by a group, it slashes at its neighbors with its \"Turbulence Arrow\", then fires arrows into the distance and shoots the opponents dead with its random firing, without missing a single shot. When facing formidable and gigantic opponents, it deals with them using its \"The World Shot\", a bold move that concentrates energy into the gigantic \"Indra\" arrow that is set on its abdomen, then pierces it into the opponent's core.Digimon Reference Book⇨ English「ビッグデスターズ」木精軍団将軍。草原や樹海などの土地と同化しカモフラージュできる妖精型や植物型などのデジモンを多く所有している。冷静沈着に事を進ませ、奇襲戦、挟撃戦、掃討戦、陽動戦、電撃戦、ゲリラ戦など、いかなる作戦も思いのままに軍を動かし敵殲滅を成功させている。この様な作戦を可能とするのは、厳しい鉄の戒律があってこそで、動きを乱す部下がいた場合はどこからでも狙撃し始末するほどの冷徹さを持つ。どんな作戦であっても成功の鍵を握るは自身の行動にあるとされ、「スナイプヘッドショット」で敵頭部を射抜きながら戦場を駆け巡る。身体には多彩な技を仕込んでおり、手から「アローランス」で矢を放ち、腹部サイドの弓を刃にした「ボウカッター」で斬り、足に仕込んだ「フットショット」で騙し撃ちにと自在に技を繰り出す。集団に囲まれても「タービュランスアロー」で近接には弓で斬りつけ、遠方には矢を射撃し1発たりとも外さない乱れ撃ちで射止めていく。強敵や巨大な敵に対しては腹部にセットされた巨大な矢“インドラ”にエネルギーを集中させ敵の核をぶち抜く大技「ザ・ワールドショット」で始末する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Zamielmon"
+    },
+    {
+      "id": "ancientiris",
+      "name": "Ancient Irismon",
+      "name_jp": "Ancient Irismon",
+      "name_ko": "에이션트이리스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "10",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientiris/frame1.gif",
+        "frame2": "sprites/ancientiris/frame2.gif"
+      },
+      "artwork": "sprites/ancientiris/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Wind\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it has golden wings and a beautiful rainbow-colored figure. With its golden wings it soars around the vast skies, and it is said that by erecting rainbow bridges it can move freely even through the earth and sea. Ancient Irismon's beauty and abilities were later passed on to the \"Bird Man\" and \"Fairy Digimon\". Its Special Moves are continuously generating a colossal storm (Storm Gazer), and firing a super-fused laser that shines with the seven colors (Rainbow Symphony).Digimon Reference Book⇨ English“風”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、黄金の翼と虹色の美しい容姿もつ。黄金の翼で広大な空を神速で駈け巡り、虹の橋を掛けることで、大地や水中までをも自由に動き回ることができたと云われる。エンシェントイリスモンの美しさや能力は、その後“鳥人型デジモン”や“妖精型デジモン”等へ引き継がれていった。必殺技は超巨大な暴風雨を絶え間なく発生させる『ストームゲイザー』と、七色に輝く超融解レーザーを放つ『レインボーシンフォニー』。デジモン図鑑",
+        "ko": "\"바람(風)\"의 속성을 가진, 고대 디지털 월드 를 구한 전설의 10투사 디지몬. 아득히 먼 고대에 존재한 최초의 궁극체로 황금의 날개와 무지개색의 아름다운 용모를 가지고 있다. 황금의 날개로 광대한 하늘을 신속 으로 돌아다니고, 무지개의 다리(橋)를 만들어 대지나 수중까지도 자유롭게 돌아다닐 수 있었다고 한다. 에이션트이리스몬의 아름다움이나 능력은 이후 \"조인형 디지몬\"이나 \"요정형 디지몬\"등에게 이어졌다. 필살기는 매우 거대한 폭풍우를 끊임없이 발생시키는 『스톰 게이저』와 일곱 빛깔로 빛나는 초융해 레이저를 쏘는 『레인보우 심포니』다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Irismon"
+    },
+    {
+      "id": "lotus",
+      "name": "Lotusmon",
+      "name_jp": "Lotusmon",
+      "name_ko": "로터스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "45 (★)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/lotus/frame1.gif",
+        "frame2": "sprites/lotus/frame2.gif"
+      },
+      "artwork": "sprites/lotus/artwork.jpg",
+      "lore": {
+        "en": "A Fairy Digimon that has an appearance like the lotus, which is said to be a flower that blooms in heaven. Its personality islady-like in its calmness and grace, and it possesses the abilities of making people forget the suffering of this sad world and granting them good dreams. However, it will bring down its grand hammer on those that refuse that good will. Its Special Moves are released from theCaduceus, which is held in its left hand and administers restoration and devastation, as a white aura (Serpent Cure), and a black aura (Serpent Ruin). Also, a seven-colored aura is released from the staff of rainbow-colored flowers that is held in its right hand (Seven's Fantasia), and this makes the opponent completely lose its fighting spirit by tempting it into a euphoric fantasy world.Digimon Reference Book⇨ English天界に咲く花と云われる蓮の様な姿をした妖精型デジモン。性格は物静かで気品のあるお嬢様のようで、浮世の苦しみを忘れ幸せな夢を与える能力を持っている。しかし、その好意に反した者には壮絶な鉄槌を下す。必殺技は、右手に持つ治癒と破滅を司る“双蛇の杖”より放つ白いオーラ『サーペントキュア』と、黒いオーラ『サーペントルイン』である。また、右手に持つ虹色の花の杖より放つ７色のオーラ『セブンズファンタジア』は、相手を幸福な幻想の世界へと誘い戦意を喪失させてしまう。デジモン図鑑",
+        "ko": "천계에 피는 꽃과도 같다고 말해지는 연꽃의 모습을 한 요정형 디지몬. 성격은 조용하고 기품있는 아가씨같고, 속세의 괴로움을 잊어 행복한 꿈을 주는 능력을 갖고 있다. 그러나 그 호의에 반대하는 사람에게는 장렬한 철퇴를 내린다. 필살기는 왼손에 든 치유와 파멸을 관장하는 “쌍사의 지팡이”에서 감도는 하얀 아우라 『서펀트 큐어』와 검은 아우라 『서펀트 루인』이다. 또 오른손에 들고 있는 무지개색 꽃의 지팡이에서 나오는 7색의 아우라 『세븐즈 판타지아』는 상대를 행복한 환상의 세계로 유혹하여 전의를 상실시킨다."
+      },
+      "wikimon_url": "https://wikimon.net/Lotusmon"
+    },
+    {
+      "id": "ancienttroia",
+      "name": "Ancient Troiamon",
+      "name_jp": "Ancient Troiamon",
+      "name_ko": "에이션트트로이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/ancienttroia/frame1.gif",
+        "frame2": "sprites/ancienttroia/frame2.gif"
+      },
+      "artwork": "sprites/ancienttroia/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Wood\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it boasts of the greatest size among the Ancient Digimon. Various mechanisms are set within its body, and it displays tricky attacks and movements. Ancient Troiamon's abilities were later passed on to the \"Plant Digimon\". Its Special Moves are attacking by simultaneously operating every gimmick throughout its body (EpeiusGimmick), and shooting super-massive shells from the huge cannons in its mouth and chest (Surprise Cannon).Digimon Reference Book⇨ English“木”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、エンシェントデジモンの中でも最大の大きさを誇る。体の中には様々なカラクリが仕掛けられており、トリッキーな攻撃や動きを見せる。エンシェントトロイアモンの能力は、その後“植物型”等のデジモンに引き継がれていった。必殺技は体中のあらゆるギミックを発動させ一斉攻撃をする『エペイオスギミック』と、口と胸部にある巨大砲から超質量の砲弾を撃ち出す『サプライズキャノン』デジモン図鑑",
+        "ko": "\"나무\"의 속성을 지닌 고대 디지털 월드 를 구한 전설의 10투사 디지몬. 아득히 고대에 존재한 최초의 궁극체이며, 에이션트디지몬 중에서도 최대의 크기를 자랑한다. 몸 안에 설치된 여러 가지 태엽장치에 의해 변칙적인 공격이나 움직임을 보인다. 에이션트트로이몬의 능력은, 그 후 “식물형” 등의 디지몬에 계승되어 갔다. 필살기는 온몸의 모든 속임수 장치를 발동시켜 일제히 공격하는 『에피이오스 [1] 기믹』과 입, 가슴에 있는 거대한 대포에서 초질량 포탄을 쏘는 『서프라이즈 캐논』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Troiamon"
+    },
+    {
+      "id": "lordknight",
+      "name": "Lord Knightmon",
+      "name_jp": "Lord Knightmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/lordknight/frame1.gif",
+        "frame2": "sprites/lordknight/frame2.gif"
+      },
+      "artwork": "sprites/lordknight/artwork.jpg",
+      "lore": {
+        "en": "A Holy Knight Digimon which is the monarch which presides over allKnightmonand is one of the \"Royal Knights\". More than morality, Lord Knightmon is faithful to what it personally regards as \"Justice\", and that end justifies their means. If it will bring about lasting peace, Lord Knightmon will find merit there, even with \"Rule by Power\". In its entirety, it has unparalleled ruthlessness in the execution of its duties, and it shows no compassion for the weak. Its Special Moves are chopping up the opponent with the four sash-blades that extend from its armor (Spiral Masquerade), and instantly coming into point-blank range, shooting the opponent in the chest with shock waves from thePile Bunkeron its right arm (Urgent Fear).Digimon Reference Book⇨ English全てのナイトモンを統べる王であり、“ロイヤルナイツ”の一員でもある聖騎士型デジモン。ロードナイトモンは善悪の基準よりも、自らの考える“正義”に忠実であり、そのための手段は選ばない。“力による支配”であれ、それが一定の平和をもたらすのであれば、ロードナイトモンはそこに価値を見出すのだ。任務の遂行には冷酷無比な一面もあり、弱者に対する慈悲は無い。必殺技は鎧から伸びる４本の帯刃で敵を切り刻む『スパイラルマスカレード』と、瞬時に相手の懐に入り込みゼロ距離から右腕のパイルバンカーで衝撃波を撃ち出す『アージェントフィアー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lord_Knightmon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "yura",
+      "to": "tane",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

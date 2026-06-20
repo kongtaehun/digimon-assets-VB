@@ -1,0 +1,77 @@
+{
+  "id": "lighdra",
+  "name": "Lighdramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lighdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lighdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/lighdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "awa",
+      "dim_name": "Ancient Warriors",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "v"
+      ],
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Lighdramon",
+    "name_en": "Raidramon",
+    "attribute": "Free",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "15 (★3)",
+      "hp": "4",
+      "ap": "2"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "v",
+        "name": "V-mon",
+        "conditions": "• 0-2 Trophies• 0-499 Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "6+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "aerovdra",
+        "name": "Aero V-Dramon",
+        "conditions": "Jogress with Vaccine or Data Adult"
+      },
+      {
+        "id": "sagittari",
+        "name": "Sagittarimon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ]
+  }
+}

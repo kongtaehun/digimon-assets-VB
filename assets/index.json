@@ -1,0 +1,441 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-06-20",
+  "source": "https://humulos.com/digimon/",
+  "totals": {
+    "categories": 8,
+    "dims": 51,
+    "digimon": 861
+  },
+  "categories": [
+    {
+      "id": "v",
+      "label": "DIM V",
+      "device": "VBDM",
+      "source_url": "https://humulos.com/digimon/vbdm/v/",
+      "dim_count": 5,
+      "dims": [
+        {
+          "id": "gamma",
+          "name": "Gammamon",
+          "digimon_count": 14,
+          "evolution_count": 25,
+          "path": "data/v/gamma"
+        },
+        {
+          "id": "angora",
+          "name": "Angoramon",
+          "digimon_count": 14,
+          "evolution_count": 25,
+          "path": "data/v/angora"
+        },
+        {
+          "id": "jelly",
+          "name": "Jellymon",
+          "digimon_count": 14,
+          "evolution_count": 24,
+          "path": "data/v/jelly"
+        },
+        {
+          "id": "espi",
+          "name": "Espimon",
+          "digimon_count": 16,
+          "evolution_count": 44,
+          "path": "data/v/espi"
+        },
+        {
+          "id": "ryuda",
+          "name": "Ryudamon",
+          "digimon_count": 16,
+          "evolution_count": 44,
+          "path": "data/v/ryuda"
+        }
+      ]
+    },
+    {
+      "id": "vol",
+      "label": "DIM Vol.",
+      "device": "VBDM",
+      "source_url": "https://humulos.com/digimon/vbdm/vol",
+      "dim_count": 8,
+      "dims": [
+        {
+          "id": "vbe",
+          "name": "Volcanic Beat",
+          "digimon_count": 17,
+          "evolution_count": 50,
+          "path": "data/vol/vbe"
+        },
+        {
+          "id": "bfa",
+          "name": "Blizzard Fang",
+          "digimon_count": 17,
+          "evolution_count": 50,
+          "path": "data/vol/bfa"
+        },
+        {
+          "id": "iti",
+          "name": "Infinite Tide",
+          "digimon_count": 17,
+          "evolution_count": 53,
+          "path": "data/vol/iti"
+        },
+        {
+          "id": "tdu",
+          "name": "Titan of Dust",
+          "digimon_count": 17,
+          "evolution_count": 52,
+          "path": "data/vol/tdu"
+        },
+        {
+          "id": "hju",
+          "name": "Hermit in the Jungle",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/vol/hju"
+        },
+        {
+          "id": "nme",
+          "name": "Nu Metal Empire",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/vol/nme"
+        },
+        {
+          "id": "mbr",
+          "name": "Mad Black Roar",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/vol/mbr"
+        },
+        {
+          "id": "tsh",
+          "name": "True Shadow Howl",
+          "digimon_count": 17,
+          "evolution_count": 53,
+          "path": "data/vol/tsh"
+        }
+      ]
+    },
+    {
+      "id": "bundled",
+      "label": "DIM Bundled",
+      "device": "VBDM",
+      "source_url": "https://humulos.com/digimon/vbdm/",
+      "dim_count": 6,
+      "dims": [
+        {
+          "id": "ici",
+          "name": "Impulse City",
+          "digimon_count": 17,
+          "evolution_count": 50,
+          "path": "data/bundled/ici"
+        },
+        {
+          "id": "awa",
+          "name": "Ancient Warriors",
+          "digimon_count": 17,
+          "evolution_count": 50,
+          "path": "data/bundled/awa"
+        },
+        {
+          "id": "dro",
+          "name": "Dinosaur Roar",
+          "digimon_count": 15,
+          "evolution_count": 38,
+          "path": "data/bundled/dro"
+        },
+        {
+          "id": "who",
+          "name": "Wolf Howl",
+          "digimon_count": 15,
+          "evolution_count": 38,
+          "path": "data/bundled/who"
+        },
+        {
+          "id": "dev",
+          "name": "Dynasty of the Evil",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/bundled/dev"
+        },
+        {
+          "id": "pwa",
+          "name": "Primeval Warriors",
+          "digimon_count": 17,
+          "evolution_count": 59,
+          "path": "data/bundled/pwa"
+        }
+      ]
+    },
+    {
+      "id": "ex",
+      "label": "DIM EX",
+      "device": "VBDM",
+      "source_url": "https://humulos.com/digimon/vbdm/ex/",
+      "dim_count": 11,
+      "dims": [
+        {
+          "id": "agu_ex",
+          "name": "Agumon EX",
+          "digimon_count": 16,
+          "evolution_count": 44,
+          "path": "data/ex/agu_ex"
+        },
+        {
+          "id": "gabu_ex",
+          "name": "Gabumon EX",
+          "digimon_count": 16,
+          "evolution_count": 44,
+          "path": "data/ex/gabu_ex"
+        },
+        {
+          "id": "guil_ex",
+          "name": "Guilmon EX",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/ex/guil_ex"
+        },
+        {
+          "id": "terrier_ex",
+          "name": "Terriermon EX",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/ex/terrier_ex"
+        },
+        {
+          "id": "rena_ex",
+          "name": "Renamon EX",
+          "digimon_count": 17,
+          "evolution_count": 54,
+          "path": "data/ex/rena_ex"
+        },
+        {
+          "id": "agni_ex",
+          "name": "Agnimon EX",
+          "digimon_count": 16,
+          "evolution_count": 1,
+          "path": "data/ex/agni_ex"
+        },
+        {
+          "id": "fairi_ex",
+          "name": "Fairimon EX",
+          "digimon_count": 17,
+          "evolution_count": 1,
+          "path": "data/ex/fairi_ex"
+        },
+        {
+          "id": "chack_ex",
+          "name": "Chackmon EX",
+          "digimon_count": 17,
+          "evolution_count": 3,
+          "path": "data/ex/chack_ex"
+        },
+        {
+          "id": "wolf_ex",
+          "name": "Wolfmon EX",
+          "digimon_count": 16,
+          "evolution_count": 0,
+          "path": "data/ex/wolf_ex"
+        },
+        {
+          "id": "blitz_ex",
+          "name": "Blitzmon EX",
+          "digimon_count": 17,
+          "evolution_count": 0,
+          "path": "data/ex/blitz_ex"
+        },
+        {
+          "id": "louwe_ex",
+          "name": "Louwemon EX",
+          "digimon_count": 17,
+          "evolution_count": 0,
+          "path": "data/ex/louwe_ex"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "DIM Other",
+      "device": "VBDM",
+      "source_url": "https://humulos.com/digimon/vbdm/other/",
+      "dim_count": 7,
+      "dims": [
+        {
+          "id": "medarot",
+          "name": "Medarot",
+          "digimon_count": 13,
+          "evolution_count": 21,
+          "path": "data/other/medarot"
+        },
+        {
+          "id": "bro",
+          "name": "Black Roar",
+          "digimon_count": 6,
+          "evolution_count": 5,
+          "path": "data/other/bro"
+        },
+        {
+          "id": "sho",
+          "name": "Shadow Howl",
+          "digimon_count": 6,
+          "evolution_count": 5,
+          "path": "data/other/sho"
+        },
+        {
+          "id": "guil_gp",
+          "name": "Guilmon GP",
+          "digimon_count": 8,
+          "evolution_count": 7,
+          "path": "data/other/guil_gp"
+        },
+        {
+          "id": "imp_gp",
+          "name": "Impmon GP",
+          "digimon_count": 8,
+          "evolution_count": 7,
+          "path": "data/other/imp_gp"
+        },
+        {
+          "id": "rena_gp",
+          "name": "Renamon GP",
+          "digimon_count": 8,
+          "evolution_count": 7,
+          "path": "data/other/rena_gp"
+        },
+        {
+          "id": "monodra_gp",
+          "name": "Monodramon GP",
+          "digimon_count": 8,
+          "evolution_count": 7,
+          "path": "data/other/monodra_gp"
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "label": "BE Anime",
+      "device": "VBBE",
+      "source_url": "https://humulos.com/digimon/vbbe/anime/",
+      "dim_count": 5,
+      "dims": [
+        {
+          "id": "gamma",
+          "name": "Gammamon",
+          "digimon_count": 22,
+          "evolution_count": 40,
+          "path": "data/anime/gamma"
+        },
+        {
+          "id": "angora",
+          "name": "Angoramon",
+          "digimon_count": 23,
+          "evolution_count": 46,
+          "path": "data/anime/angora"
+        },
+        {
+          "id": "jelly",
+          "name": "Jellymon",
+          "digimon_count": 23,
+          "evolution_count": 46,
+          "path": "data/anime/jelly"
+        },
+        {
+          "id": "dwy",
+          "name": "D-3 White and Yellow",
+          "digimon_count": 23,
+          "evolution_count": 47,
+          "path": "data/anime/dwy"
+        },
+        {
+          "id": "dwr",
+          "name": "D-3 White and Red",
+          "digimon_count": 23,
+          "evolution_count": 45,
+          "path": "data/anime/dwr"
+        }
+      ]
+    },
+    {
+      "id": "special_edition",
+      "label": "BE Special",
+      "device": "VBBE",
+      "source_url": "https://humulos.com/digimon/vbbe/",
+      "dim_count": 5,
+      "dims": [
+        {
+          "id": "gamma",
+          "name": "Gammamon",
+          "digimon_count": 22,
+          "evolution_count": 40,
+          "path": "data/special_edition/gamma"
+        },
+        {
+          "id": "25th",
+          "name": "25th Anniversary",
+          "digimon_count": 23,
+          "evolution_count": 28,
+          "path": "data/special_edition/25th"
+        },
+        {
+          "id": "dbl",
+          "name": "Draconic Blaze",
+          "digimon_count": 22,
+          "evolution_count": 39,
+          "path": "data/special_edition/dbl"
+        },
+        {
+          "id": "rbe",
+          "name": "Rampage of the Beast",
+          "digimon_count": 22,
+          "evolution_count": 41,
+          "path": "data/special_edition/rbe"
+        },
+        {
+          "id": "looga",
+          "name": "Loogamon",
+          "digimon_count": 22,
+          "evolution_count": 40,
+          "path": "data/special_edition/looga"
+        }
+      ]
+    },
+    {
+      "id": "seekers",
+      "label": "BE Seekers",
+      "device": "VBBE",
+      "source_url": "https://humulos.com/digimon/vbbe/seekers/",
+      "dim_count": 4,
+      "dims": [
+        {
+          "id": "looga",
+          "name": "Loogamon",
+          "digimon_count": 22,
+          "evolution_count": 40,
+          "path": "data/seekers/looga"
+        },
+        {
+          "id": "ryuda",
+          "name": "Ryudamon",
+          "digimon_count": 22,
+          "evolution_count": 40,
+          "path": "data/seekers/ryuda"
+        },
+        {
+          "id": "doru",
+          "name": "DORUmon",
+          "digimon_count": 22,
+          "evolution_count": 40,
+          "path": "data/seekers/doru"
+        },
+        {
+          "id": "pulse",
+          "name": "Pulsemon",
+          "digimon_count": 22,
+          "evolution_count": 41,
+          "path": "data/seekers/pulse"
+        }
+      ]
+    }
+  ]
+}

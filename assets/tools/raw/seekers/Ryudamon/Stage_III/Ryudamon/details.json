@@ -1,0 +1,67 @@
+{
+  "id": "ryuda",
+  "name": "Ryudamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/ryuda.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/ryuda.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/ryuda.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "kyokyo"
+      ],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Ryudamon",
+    "name_en": "Ryudamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "4500",
+      "hp": "3100",
+      "ap": "1000"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "kyokyo",
+        "name": "Kyokyomon",
+        "conditions": "5+ PP, 1,000+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ginryu",
+        "name": "Ginryumon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "delta",
+        "name": "Deltamon",
+        "conditions": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "nume",
+        "name": "Numemon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

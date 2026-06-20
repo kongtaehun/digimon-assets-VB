@@ -1,0 +1,63 @@
+{
+  "id": "deathxdorugora",
+  "name": "Death-X-Dorugoramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/deathxdorugora.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/deathxdorugora.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/deathxdorugora.jpg",
+  "appearances": [
+    {
+      "dim_id": "doru",
+      "dim_name": "DORUmon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dorugure",
+        "deathxdorugure",
+        "grade"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Death-X-Dorugoramon",
+    "name_en": "DexDorugoramon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "5900",
+      "hp": "5500",
+      "ap": "2050"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "dorugure",
+        "name": "DORUguremon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "deathxdorugure",
+        "name": "Death-X-Doruguremon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "grade",
+        "name": "Grademon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

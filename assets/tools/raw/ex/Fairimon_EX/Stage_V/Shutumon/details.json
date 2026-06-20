@@ -1,0 +1,42 @@
+{
+  "id": "shutu",
+  "name": "Shutumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shutu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shutu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shutu.jpg",
+  "appearances": [
+    {
+      "dim_id": "fairi_ex",
+      "dim_name": "Fairimon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shutumon",
+    "name_en": "Zepyrmon",
+    "attribute": "Free",
+    "stage_text": "Stage V (Perfect)",
+    "stats": {
+      "dp": "35 (★)",
+      "hp": "9",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

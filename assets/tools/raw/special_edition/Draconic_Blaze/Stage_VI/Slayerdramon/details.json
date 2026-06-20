@@ -1,0 +1,63 @@
+{
+  "id": "slayerdra",
+  "name": "Slayerdramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/slayerdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/slayerdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/slayerdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "dbl",
+      "dim_name": "Draconic Blaze",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "rizegrey",
+        "wingdra"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Slayerdramon",
+    "name_en": "Slayerdramon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6300",
+      "hp": "4800",
+      "ap": "1950"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "rizegrey",
+        "name": "Rize Greymon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "wingdra",
+        "name": "Wingdramon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "exa",
+        "name": "Examon",
+        "conditions": "Jogress with Breakdramon  from the Draconic Blaze BE Memory Dim"
+      }
+    ]
+  }
+}

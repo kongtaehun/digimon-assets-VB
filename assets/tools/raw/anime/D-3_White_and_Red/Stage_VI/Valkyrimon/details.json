@@ -1,0 +1,63 @@
+{
+  "id": "valkyri",
+  "name": "Valkyrimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/valkyri.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/valkyri.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/valkyri.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "silphy",
+        "angewo",
+        "chimaira"
+      ],
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Valkyrimon",
+    "name_en": "Valkyrimon",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "5900",
+      "ap": "2050"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "silphy",
+        "name": "Silphymon",
+        "conditions": "20+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "angewo",
+        "name": "Angewomon",
+        "conditions": "20+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "chimaira",
+        "name": "Chimairamon",
+        "conditions": "18+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

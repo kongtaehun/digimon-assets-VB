@@ -1,0 +1,963 @@
+{
+  "schema_version": "1.0",
+  "id": "tdu",
+  "name": "Titan of Dust",
+  "category": "vol",
+  "device": "VBDM",
+  "release": "JP: Jun 2021 - Retail (Set Vol.02)EN: Jul 2022 - Retail (Set Vol.02)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_tdu.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "suna",
+      "name": "Sunamon",
+      "name_jp": "Sunamon",
+      "name_ko": "스나몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/suna/frame1.gif",
+        "frame2": "sprites/suna/frame2.gif"
+      },
+      "artwork": "sprites/suna/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon whose body is made of sand. Despite being a Baby, it has an aggressive personality and is very territorial. It has a body that falls apart like sand, or conversely, hardens like clay at will, but its pacifier never changes shape. If approached by an enemy, it threatens them by throwing a large amount of sand.Digimon Reference Book⇨ English身体が砂で出来ているスライム型デジモン。幼年期であるにも関わらず攻撃的な性格をしており、縄張り意識が強い。身体を砂のように分解したり、逆に粘土のように硬くする自由自在の身体を持つが、おしゃぶりだけはどうしても形状変化が出来ない。敵が近づくと大量の砂をかけて威嚇する。デジモン図鑑",
+        "ko": "몸이 모래로 이루어져 있는 슬라임형 디지몬. 유년기임에도 불구하고 공격적인 성격을 지녔으며 구역 의식이 강하다. 몸을 모래처럼 분해하거나 반대로 점토처럼 단단하게 만드는 자유자재의 몸을 지녔지만 쪽쪽이만큼은 어찌해도 형태 변화가 불가능하다. 적이 다가오면 대량의 모래를 뿌려 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Sunamon"
+    },
+    {
+      "id": "goro",
+      "name": "Goromon",
+      "name_jp": "Goromon",
+      "name_ko": "고로몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/goro/frame1.gif",
+        "frame2": "sprites/goro/frame2.gif"
+      },
+      "artwork": "sprites/goro/artwork.jpg",
+      "lore": {
+        "en": "A Baby Digimon that grows by eating rocks. Because its digestive system is not fully developed yet, it stores an amount of ore in its body unimaginable from its small size, and gradually converts it into nourishment. The site in which its eye is located also serves as its mouth, and it seems to turn completely blind while eating. Its Signature Move is spitting out rocks from its large mouth (Rock Breath).Digimon Reference Book⇨ English石を食べて成長する幼年期デジモン。消化器官がまだ発達しきっていないため、小さなサイズからは想像できないほどの大量の鉱石を体内に貯め込み、徐々に栄養に変える。瞳がある位置は口も兼用しており、食事をしている時は周りがまったく見えなくなるらしい。得意技は、大きな口から石を吐き出す『ロックブレス』。デジモン図鑑",
+        "ko": "돌을 먹고 성장하는 유년기 디지몬. 소화기관이 아직 다 발달하지 않은 탓에 작은 사이즈에서는 상상도 못할 정도의 대량의 광석을 몸안에 축적하여 서서히 영양분으로 변환한다. 눈이 있는 위치는 입도 겸용하여 식사를 할 때는 주위가 전혀 보이지 않게 된다고 한다. 주특기는 커다란 입에서 돌을 내뱉는 '록 브레스'다."
+      },
+      "wikimon_url": "https://wikimon.net/Goromon"
+    },
+    {
+      "id": "sunariza",
+      "name": "Sunarizamon",
+      "name_jp": "Sunarizamon",
+      "name_ko": "샌드리자몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/sunariza/frame1.gif",
+        "frame2": "sprites/sunariza/frame2.gif"
+      },
+      "artwork": "sprites/sunariza/artwork.jpg",
+      "lore": {
+        "en": "A Reptile Digimon that mainly acts in groups while camouflaging itself in desert areas. By controlling the amount of sand that makes up its body, it is able to expand and contract, and transform its limbs and tail. It is difficult to detect once it has blended in with the desert, and it is not uncommon for one to think that there is quicksand, but turns out to be hordes of Sunarizamon.It defends itself from intruders with its \"Grit Nail\", where it transforms its forelimbs to being claw-shaped and scratches with them, and \"Sand Blast\", which shaves off the enemy's body with sand that it spits out aggressively.Digimon Reference Book⇨ English主に砂漠地帯で擬態しながら群れで活動する爬虫類型デジモン。身体を構成している砂の体積を調節することで、四肢や尻尾を伸縮・変形させることが出来る。砂漠に溶け込んだ姿は識別が難しく、流砂かと思いきやスナリザモンの大群だったということも珍しくない。前脚を鉤爪状に変形させてひっかく「グリットネイル」と、勢いよく吐き出した砂で敵の体を削り取る「サンドブラスト」で外敵から身を守る。デジモン図鑑",
+        "ko": "주로 사막지대에 의태하며 무리 지어 활동하는 파충류형 디지몬. 신체를 구성하고 있는 모래의 부피를 조절하는 것으로 사지 혹은 꼬리를 신축・변형시키는 것이 가능하다. 사막에 녹아든 모습은 식별이 어려우며 모래인가 했더니 사실 샌드리자몬의 무리였다는 것도 드물지 않다. 앞다리를 갈고리 모양으로 변형시켜 할퀴는 『그리드 네일』과, 기세 좋게 토해내는 모래로 적의 몸을 깎아 내리는 『샌드 블래스트』로 적으로부터 몸을 지킨다."
+      },
+      "wikimon_url": "https://wikimon.net/Sunarizamon"
+    },
+    {
+      "id": "torta",
+      "name": "Tortamon",
+      "name_jp": "Tortamon",
+      "name_ko": "토타몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/torta/frame1.gif",
+        "frame2": "sprites/torta/frame2.gif"
+      },
+      "artwork": "sprites/torta/artwork.jpg",
+      "lore": {
+        "en": "A tortoise-type Digimon armed with a shell covered in sharp blades. As both its shell and body are highly dense, it is heavier than it looks, such that it creates fierce tremors with every step it takes. Furthermore, it holds the alias \"Noise Digimon\" due to its shrill, metallic-sounding cry. While its usual walking movements are extremely slow, it can retract its limbs so that its body is in the shape of a disc and spin itself, allowing it to move at ten times its usual speed. Its Special Move is firing the blades on its shell as if they were multiple-warhead missiles (Shell Phalanx).Digimon Reference Book⇨ English鋭いブレードの生えた甲羅で武装した陸亀タイプのデジモン。甲羅も本体も高密度で形成されているため、見ためより重く、歩く度に凄まじい地響きを起こす。また、鳴き声は金属的で甲高く“騒音デジモン”の異名を持っている。通常の歩行動作は極めて遅いが、手足を引っ込めて円盤状になり回転すると、通常の１０倍以上の速度で移動できる。必殺技は、甲羅のブレードを多弾頭ミサイルの様に発射する『シェルファランクス』。デジモン図鑑",
+        "ko": "예리한 칼날이 얼마든지 난 등껍데기로 몸을 지키는 디지몬. 등껍데기도 본체도 무겁기 때문에, 쓸데없이 걸음이 늦다. 게다가 걸을 때마다 땅울림을 일으켜, 울음소리도 시끄럽기 때문에 \"소음 디지몬\"으로 불리고 있다. 그러나, 손발을 짚어놓고 나서 원반상이 되어 회전하면, 통상의 10배 이상의 속도로 이동할 수 있다. 필살기는 등딱지의 블레이드를 다탄두 미사일처럼 발사하는 \"쉘 팔랑크스 [1] \""
+      },
+      "wikimon_url": "https://wikimon.net/Tortamon"
+    },
+    {
+      "id": "toge",
+      "name": "Togemon",
+      "name_jp": "Togemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/toge/frame1.gif",
+        "frame2": "sprites/toge/frame2.gif"
+      },
+      "artwork": "sprites/toge/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon which has the appearance of a gigantic cactus. It can store nutrient data within its body, and can even survive for a long time in the empty desert areas. What it's thinking usually can't be understood at all by trying to discern it from its facial expression, as it spends most of the day staring off into space. However, once Togemon is angered, that expression changes completely, it starts getting violent, and it becomes unable to settle down. Its Special Move is further hardening the thorns on the ends of its arms andbang-bangstriking with them (Chikuchiku Bang-bang).Digimon Reference Book⇨ English巨大なサボテンの姿をした植物型デジモン。体内に栄養素データを保存することができ、何も無い砂漠地帯でもしばらくは生きていくことができる。その表情からも見てとれるように、普段は何を考えているか全く分からず、１日中ボーッとしていることがほとんど。しかし、ひとたびトゲモンを怒らせるとその形相が一変し、暴れ出して手が着けられなくなる。必殺技は腕先のトゲを更に硬質化させてバンバン殴る『チクチクバンバン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Togemon"
+    },
+    {
+      "id": "gole",
+      "name": "Golemon",
+      "name_jp": "Golemon",
+      "name_ko": "록몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/gole/frame1.gif",
+        "frame2": "sprites/gole/frame2.gif"
+      },
+      "artwork": "sprites/gole/artwork.jpg",
+      "lore": {
+        "en": "A Rock/Mineral Digimon that was discovered from the digital analysis of an ancient curse. Ancient, forbidden incantations spelling \"plague\", \"curse\", and \"misfortune\" are carved onto its back, and it seems those incantations protect it from the gas that it emits. About 90% of its body is composed of rock data, and it survives by fastening its arms and legs. It is an emotionless Digimon that will not take action without being ordered to.Digimon Reference Book⇨ English超古代の呪いをデジタル解析している時に、発見された岩石・鉱物型デジモン。背中には“疫” “呪” “凶”と古代の禁断の呪文が彫られており、自ら出すガスから守るためのものらしい。体の約９割が岩石のデータでできており、手足を繋ぎ止めて生きている。命令されないと動かない感情の無いデジモン。デジモン図鑑",
+        "ko": "초고대의 저주를 해석하고 있을 때 발견된 암석·광물형 디지몬. 등에는 역, 주, 흉이라고 고대의 금단의 주문이 조각되어 있어 스스로 내는 가스로부터 지키기 위한 것인 듯하다. 몸의 약 9할이 암석의 데이터로 되어 있어, 손발을 연결해 멈추어 살아 있다. 명령되지 않으면 움직이지 않는 감정이 없는 디지몬."
+      },
+      "wikimon_url": "https://wikimon.net/Golemon"
+    },
+    {
+      "id": "dig",
+      "name": "Digmon",
+      "name_jp": "Digmon",
+      "name_ko": "디그몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/dig/frame1.gif",
+        "frame2": "sprites/dig/frame2.gif"
+      },
+      "artwork": "sprites/dig/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Insect Digimon which evolved through the power of the \"Digimental of Knowledge\". The \"Digimental of Knowledge\" has the attribute of \"Earth\", and those that don this Digimental wield the power to manipulate the earth. As can be seen from its unique form, it never loses to any Digimon in underground battles. Its Signature Move is impacting the ground with its spinning drills, causing a fissure (Big Crack). Its Special Move is rapidly spinning the drills on its snout and both of its hands, performing a simultaneous attack with its drills (Gold Rush).Digimon Reference Book⇨ English“知識のデジメンタル”のパワーによって進化したアーマー体の昆虫型デジモン。“知識のデジメンタル”は“土”の属性を持っており、このデジメンタルを身に付けたものは大地を操る力を持つ。その特異な形状からみてもわかるように、地中での戦いにおいてはどのデジモンにも負けることはない。得意技は回転するドリルで地面に衝撃を与え、地割れを起こす「ビッグクラック」。必殺技は、鼻先と両手のドリルを高速回転させて、ドリルによる一斉攻撃をする「ゴールドラッシュ」。デジモン図鑑",
+        "ko": "\"지식의 디지멘탈\"의 파워에 의해서 진화한 아머체의 곤충형 디지몬. \"지식의 디지멘탈\"은 \"흙\"의 속성을 가지고 있어, 이 디지멘탈을 몸에 걸친 것은 대지를 조종하는 힘을 가진다. 그 특이한 형상에서 봐도 알수 있듯이, 지중에서의 싸움에서는 어느 디지몬에게도 지지 않는다. 장기는 회전하는 드릴로 땅에 충격을 주어 땅을 일으키는 \"빅 크랙 [1] \". 필살기는 코 끝과 양 손의 드릴을 회전시켜 드릴로 일제공격하는 \"골드 러쉬 [2] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Digmon"
+    },
+    {
+      "id": "gogma",
+      "name": "Gogmamon",
+      "name_jp": "Gogmamon",
+      "name_ko": "고그마몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/gogma/frame1.gif",
+        "frame2": "sprites/gogma/frame2.gif"
+      },
+      "artwork": "sprites/gogma/artwork.jpg",
+      "lore": {
+        "en": "An Ore Digimon with an enormous body. It is said to have a small population at present, and mostly lives in solitude deep inside caves. It hardly ever eats in a conventional manner, instead building up energy by occasionally leaving the cave and taking in light through the crystals covering its body.It reliably eliminates intruders into the cave with its \"Giant Grater\", in which it grinds the enemy with the crystals on its arms, and its \"Curse Reflection\", where it fires the light energy it has accumulated from the tips of its crystals.Digimon Reference Book⇨ English巨大な身体を持つ鉱石型デジモン。現存する個体数が少ないと言われており、ほとんどが洞窟の奥で孤独に生息している。食事らしい食事はほとんど摂らず、ときどき洞窟から出て身体のクリスタルに光を取り込むことでエネルギーを蓄える。腕のクリスタルで敵をすり潰す「ジャイアントグレイター」と、クリスタルの先端から蓄えた光のエネルギーを放つ「カース・リフレクション」で洞窟の侵入者を確実に排除する。デジモン図鑑",
+        "ko": "거대한 몸을 지닌 광석형 디지몬. 현존하는 개체수가 적다고 하며, 대부분이 동굴 안에서 고독하게 살고 있다. 식사다운 식사는 거의 하지 않고, 가끔 동굴에서 나와 신체의 크리스탈에 빛을 흡수하는 것으로 에너지를 저축한다. 팔의 크리스탈로 적을 으깨버리는 『자이언트 그레이터』와, 크리스탈 모서리에서 모아둔 빛의 에너지를 쏘는 『커스 리플렉션』으로 동굴의 침입자를 확실하게 배제한다."
+      },
+      "wikimon_url": "https://wikimon.net/Gogmamon"
+    },
+    {
+      "id": "jyaga",
+      "name": "Jyagamon",
+      "name_jp": "Jyagamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/jyaga/frame1.gif",
+        "frame2": "sprites/jyaga/frame2.gif"
+      },
+      "artwork": "sprites/jyaga/artwork.jpg",
+      "lore": {
+        "en": "A mimicking Digimon which is able to hide itself from opponents with its potato-like appearance. Although it has a timid personality and doesn’t much like to fight, its hidden combat abilities are extremely great. In fact, with its peaceful personality it loves to eat and sleep. Since its rind is several orders harder than it looks, it can curl up its limbs and head to allow it to endure the opponent’s attacks. The visible part of its sprout serves as radar which can perceive the motion of enemies above and behind it, so even if its head is hidden it can take in the conditions of its surroundings, and understand them. Its Special Move is firing off pieces of its rind (Smash Potato).Digimon Reference Book⇨ English一見ジャガイモのような外見で敵から身を隠すことができる擬態型のデジモン。戦闘はあまり好まず臆病な性格だが、秘めた戦闘能力は極めて高い。食べることと寝ることが大好きな平和的な性格。表皮は見ためより数段硬質で、手足と頭を丸めて相手の攻撃に耐えることができる。芽に見える部分は上方や後方の敵の動きを感知するレーダーの役目を果たしていて、頭を隠していても回りの様子が手に取るようにわかる。必殺技は表皮の一部を発射する『スマッシュポテト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Jyagamon"
+    },
+    {
+      "id": "tricera",
+      "name": "Triceramon",
+      "name_jp": "Triceramon",
+      "name_ko": "트리케라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/tricera/frame1.gif",
+        "frame2": "sprites/tricera/frame2.gif"
+      },
+      "artwork": "sprites/tricera/artwork.jpg",
+      "lore": {
+        "en": "A bipedal Ceratopsian Digimon with the appearance of theTriceratops, whose offensive ability competes for first or second among herbivorous dinosaur types. The sturdiness of its skin is top class among organic Digimon. The two horns growing from its brow are super-sturdy, just like its skin, and are far harder than that ofMonochromon. It normally has a gentle personality. However, its ordinarily sluggish movements belie the offensive power of its charging attacks, which are capable of obliterating even the sturdy-bodied Mineral-species Digimon. Its Special Move is charging at the opponent with the two horns on its brow and the horn on its snout (Tri-Horn Attack).Digimon Reference Book⇨ English草食恐竜型では一、二を争う攻撃力を持つトリケラトプスの姿を持つ二足歩行の角竜型デジモン。表皮の頑丈さは生物系デジモンの中ではトップクラス。表皮同様、額から生えた２本の角は超硬質で、モノクロモンよりもはるかに硬い。基本的に性格は温厚。しかし、通常時の緩慢な動作からは推測しかねる突進攻撃は、硬質の体を持つ鉱物系デジモンでさえ破壊してしまう攻撃力を持っている。必殺技は額の２本角と鼻先の角で敵に突進していく『トライホーンアタック』。デジモン図鑑",
+        "ko": "초식공룡 중에서는 1, 2위를 다투는 공격력을 자랑하는 트리케라톱스 의 모습을 한 2족 보행의 각룡형 디지몬. 생물계 디지몬 중에서는 톱 클래스에 속하는 튼튼한 표피를 가졌으며. 특히 이마에 돋아난 2개의 뿔은 모노크로몬 을 능가하는 초경질로 되어 있다. 기본적으로 성격은 온후. 그러나, 평소의 느긋한 동작만 봐서는 상상조차 하기 어려울 정도의 공격력을 가진 돌진은, 광물계 디지몬조차 파괴해 버릴 정도. 필살기는 세 개의 뿔을 앞세우고 적에게 돌진하는 \"트라이 혼 어택\". [2]"
+      },
+      "wikimon_url": "https://wikimon.net/Triceramon"
+    },
+    {
+      "id": "scorpio",
+      "name": "Scorpiomon",
+      "name_jp": "Scorpiomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/scorpio/frame1.gif",
+        "frame2": "sprites/scorpio/frame2.gif"
+      },
+      "artwork": "sprites/scorpio/artwork.jpg",
+      "lore": {
+        "en": "An Insect Digimon referred to as the \"Assassin of the Desert\". It sneaks up from behind the opponent while hiding its presence, and pierces the opponent with the venomous stinger at the tip of its tail. The venom that Scorpiomon carries acts faster than the transmission speed of nerve data, killing the opponent before they even realize that they have been stung. It is referred to as an assassin for this reason, since its opponent will not even know of its existence. Its Signature Move, \"Blackout\", blinds the opponent by spraying a slightly poisonous mist. Through this technique, it ensures that the opponent will never lay eyes on it. Its Special Move is attacking with the venomous stinger on its tail tip (Poison Pierce).Scorpiomon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Mr. Yūsuke Ogura fromOkayama Prefecture.Digimon Reference Book⇨ English「砂漠の暗殺者」と呼ばれる、昆虫型デジモン。気配を感じさせず背後から近づき、尻尾の先の猛毒針で相手を突き刺す。スコピオモンの持つ毒は、神経データの伝達スピードより速く、刺されたことにさえ気づかれず絶命してしまう。そのため、相手にその存在すら知られることが無いのが、暗殺者と呼ばれる所以である。得意技の『ブラックアウト』は軽度の毒霧を散布しで相手の視力を奪う。これにより相手に姿を見られることは絶対に無い。必殺技は、尻尾の先にある猛毒針『ポイズンピアス』。※スコピオモンは「デジモンウェブドット絵コンテスト」で岡山県の「小椋勇輔くん」のデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Scorpiomon"
+    },
+    {
+      "id": "vulture",
+      "name": "Vulturemon",
+      "name_jp": "Vulturemon",
+      "name_ko": "벌처몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/vulture/frame1.gif",
+        "frame2": "sprites/vulture/frame2.gif"
+      },
+      "artwork": "sprites/vulture/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose cruelty is unrivaled, it prioritizes its own interests above all else. Feared as the \"Reaper of Dust\", it has excellent eyesight such that it can snipe its targets even in sandstorms. It wears its camouflage cloak in open areas to hide itself, and waits for an opportunity to arise. Then, it quietly brings down the enemy using the outstandingsilencingperformance of its \"CND-96\" rifle, which fires compressed sand.Its Special Moves are shooting at the opponent's vitals with theCND-96on its right arm (Reaper Strike), and tearing them to pieces with the scythe attached to theCND-96(Desert Deathscythe). When cornered by masses of enemies, it turns the tables against them with its \"Wither Wing\", in which it shoots out hordes of condors made of sand.Digimon Reference Book⇨ Englishなによりも自分の利益を優先する冷酷無比なデジモン。砂塵の死神と恐れられており、砂嵐の中でも標的を狙撃する優れた視力を持っている。視界の開けた場所では迷彩マントを纏い、姿を隠してチャンスを待つ。そして、圧縮した砂を撃ち出すライフル「CND-96」の優れた消音性能で静かに敵を仕留める。必殺技は右腕の「CND-96」で相手の急所を撃ち抜く『リーパーストライク』と、「CND-96」に取り付けられた大鎌で敵を切り裂く『デザートデスサイズ』。大勢の敵に追い詰められたときは、砂で作られたコンドルの大群を撃ち出す『ウィザーウィング』で返り討ちにする。デジモン図鑑",
+        "ko": "본인의 이익을 무엇보다도 우선시하는 냉혹 무자비한 디지몬. 사막의 사신이라는 공포의 대상이며 모래 폭풍 속에서도 표적을 저격하는 뛰어난 시력을 지녔다. 시야가 트인 장소에서는 위장 망토를 둘러 모습을 숨기고 찬스를 기다린다. 그리고 압축된 모래를 발사하는 라이플 'CND-96'의 뛰어난 소음 성능으로 고요하게 적을 처리한다. 필살기는 오른팔의 'CND-96'으로 상대의 급소를 꿰뚫는 '리퍼 스트라이크'와 'CND-96'에 장착된 낫으로 적을 베어 가르는 '데저트 데스사이드'. 많은 수의 적에게 몰렸을 때에는 모래로 만든 콘도르 무리를 발사하는 '위저 윙'으로 격퇴한다"
+      },
+      "wikimon_url": "https://wikimon.net/Vulturemon"
+    },
+    {
+      "id": "mummy",
+      "name": "Mummymon",
+      "name_jp": "Mummymon",
+      "name_ko": "미이라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/mummy/frame1.gif",
+        "frame2": "sprites/mummy/frame2.gif"
+      },
+      "artwork": "sprites/mummy/artwork.jpg",
+      "lore": {
+        "en": "An Undead Digimon whose whole body is wrapped in bandages in the manner of an Egyptian mummy. It is also known as the \"Necromancer\" due to its summoning and manipulation of the reluctant souls (residual data) of annihilated Digimon. What it's thinking is difficult to understand because it is taciturn and its facial expressions are concealed, but it is a dangerous being that if attacked will brandish its weapon and completely beat down the opponent, and if cornered will start randomly firing its cherished gun, \"Obelisk\". Its Signature Move is coiling the bandages on both of its arms around the opponent, like a snake (Snake Bandage). Its Special Move is summoning ghosts to drive its opponent into maddened death (Necrophobia).Digimon Reference Book⇨ Englishエジプトのミイラの様な全身包帯巻きのアンデッド型デジモン。志半ばで消滅したデジモンの霊（残留データ）を召喚し操るところから別名「死霊使い（ネクロマンサー）」と呼ばれている。無口で表情が見えないところから何を考えているか分かりづらいが、攻撃されると武器を振り回し徹底的に敵を叩きのめし、追い詰められると愛用の銃「オベリスク」を乱射するす危険な存在である。得意技は両腕の包帯が蛇のように伸びて敵を締め付ける『スネークバンデージ』。必殺技は死霊を呼び出し敵を狂死させる『ネクロフォビア』。デジモン図鑑",
+        "ko": "이집트의 미라처럼 전신에 붕대를 감은 언데드형 디지몬. 수명이 남은 채 소멸한 디지몬의 영혼(잔여 데이터)을 소환해 조종하기 때문에 일명 「사령사(네크로맨서)」라고 불리운다. 과묵하고 표정이 보이지 않기 때문에 무슨 생각을 하는지 알기 어렵지만 [5] 공격을 당하면 무기를 휘둘러 철저하게 적을 때려눕히고, 궁지에 몰리면 애용하는 총기 오벨리스크를 난사하는 위험한 존재다. 특기는 양 팔의 붕대가 뱀처럼 뻗어나가 적을 옥죄는 스네이크 밴디지 [6] , 필살기는 사령을 불러내 적을 미쳐 죽게 하는 네크로포비아 [7] ."
+      },
+      "wikimon_url": "https://wikimon.net/Mummymon"
+    },
+    {
+      "id": "blast",
+      "name": "Blastmon",
+      "name_jp": "Blastmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "18",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/blast/frame1.gif",
+        "frame2": "sprites/blast/frame2.gif"
+      },
+      "artwork": "sprites/blast/artwork.jpg",
+      "lore": {
+        "en": "A super-heavyweight Digimon with a mineral body. It is clad in a hard crystal armor that regenerates when broken, and boasts a number of various, powerful techniques, so its slowly moving form is the epitome of an impregnable moving fortress. Because of its glittering body and power, it calls itself the \"most beautiful, sublime creature.\"Its \"Diamond Machine Gun\", which fires off the crystals throughout its body like a machine gun, alongside an intense punch, can sweep through hundreds of enemies in one shot, and its \"Diamond Hedgehog\", which capitalizes on its hard body and great weight, is just it curling up its body and rolling around, but there's nothing that can keep its original shape after being squashed by that. Although its \"Crystal Breath\", a technique in which it absorbs sunlight into its body, then spews it out as an extremely high-temperature, high-pressure laser, has the weakness of only being usable in daytime, the destructive power it displays more than makes up for its faults.Digimon Reference Book⇨ English鉱物の体を持つ超重量級デジモン。壊れても壊れても再生する硬質クリスタルの鎧をまとい、多彩にして高威力の技を誇ってゆっくりと移動する姿は難攻不落の動く要塞そのものである。その光り輝く体とパワー故に、自らを“もっとも美しく気高き存在”と呼んでいる。強烈なパンチと共に体中のクリスタルをマシンガンの様に打ち出す「ダイアモンドマシンガン」は一発で数百の敵を一掃し、硬い身体と重量を活かした「ダイアモンドヘッジホッグ」は身体を丸めて転がるだけだが、その下敷きになって原型を留ていられるものなど存在しない。太陽光を体中に取り入れ、超高熱・高圧縮のレーザーを吐き出す技「クリスタルブレス」は日中しか使えないのが唯一の欠点であるが、欠点を補って余りうる破壊力を見せつける。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Blastmon"
+    },
+    {
+      "id": "dinorex",
+      "name": "Dinorexmon",
+      "name_jp": "Dinorexmon",
+      "name_ko": "다이노렉스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/dinorex/frame1.gif",
+        "frame2": "sprites/dinorex/frame2.gif"
+      },
+      "artwork": "sprites/dinorex/artwork.jpg",
+      "lore": {
+        "en": "This carnivorous Dinosaur Digimon is named the \"KingofTerror\" due to the strength it possesses far in excess of other Dinosaur Digimon, as well as the unparalleled ferocious nature it displays in battle. It seizes the opponent with its talons, which are almost half as long as its body, then snaps and brandishes its gigantic jaws at them to end their life. Its exceedingly brutal behaviour gives it a battle style that flourishes in a world where only the fittest survive, and is probably the reason it is called the \"King\". Also, partly due to it fighting with other Dinorexmon, it is said that their population is very small. Its Special Moves are seizing and killing the opponent with its talons (Splatter Hunting), and firing extremely high-temperature grenades, with a semi-fluid form similar to magma, from its mouth (Ogre Flame). Even if these extremely high-temperature grenades don't hit the opponent, they nevertheless raze the surrounding area the moment they land.Digimon Reference Book⇨ English他の恐竜型デジモンとはあまりにもかけ離れた強さと、比類なき獰猛性を持って戦う姿から“恐怖の王”と名付けられた肉食恐竜型デジモン。体の半分近くもある長い鉤爪で敵を捕らえ、巨大なアゴで噛み付き振り回し、敵を絶命させる。非常に残虐なその様は、弱肉強食の世界においては最も優れた戦いの姿であり “王”と言われる所以であろう。また、ディノレクスモン同士で争うこともあり、非常に個体数は少ないと言われている。必殺技は鉤爪で敵を捕らえて仕留める『スプラッターハンティング』と、マグマに似た半液体状の超高熱榴弾を口から放つ『オーガフレイム』。この超高熱榴弾は当たらずとも着弾と同時に周囲を焼け野原にする。デジモン図鑑",
+        "ko": "다른 공룡형 디지몬과는 너무나 차이 나는 강한 힘과 비교할 수 없을 정도의 난폭성을 지니고 싸우는 모습에서 \"공포의 왕\"이라는 이름이 붙은 육식 공룡형 디지몬. 몸의 절반에 가까운 긴 갈고리발톱으로 적을 붙잡고, 거대한 턱으로 물어뜯어 휘두른 후 적의 숨통을 끊는다. 이렇게 매우 잔인한 모습은 약육강식의 세계에서는 가장 뛰어난 전투 방식이기에 \"왕\"이라고 불리는 듯하다. 또한, 다이노렉스몬끼리 싸울 때도 있어 개체 수는 매우 적다고 한다. 필살기는 갈고리발톱으로 적을 붙잡아 숨통을 끊어버리는 『스플래터 헌팅』과 마그마와 비슷한 반액체 상태의 초고열 유탄을 입에서 쏘는 『오거 플레임』이다. 이 초고열 유탄은 명중하지 않아도 떨어지는 동시에 주위를 불타버린 황폐한 곳으로 만든다."
+      },
+      "wikimon_url": "https://wikimon.net/Dinorexmon"
+    },
+    {
+      "id": "pharaoh",
+      "name": "Pharaohmon",
+      "name_jp": "Pharaohmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/pharaoh/frame1.gif",
+        "frame2": "sprites/pharaoh/frame2.gif"
+      },
+      "artwork": "sprites/pharaoh/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Demon Man Digimon whose body shines gold enough to be baleful. It is said that it evolved fromMummy Digimon, and it boasted absolute power in the ancientDigital World, ruling many areas. As for the mysterious ancient ruins that dot the Digital World, many Digimon were under Pharaohmon's control at theGenesisof the Digital World, and from these places which are said to have been raised in just a few days, that control can be perceived. Its Special Move is emitting a fear-gas that steals the will of hostile Digimon, and slowly desiccates their flesh (Necromist). If you suffer this attack, there are only two options—whether to be lured completely to the world of death, or to serve Pharaohmon as an immortal, even in death.Pharaohmon was adopted from a winning Digimon entry in the \"Bandai-Town FAX Service Digimon Illustration Contest\" which belonged to Mr. Toshiki Mizutani fromKanagawa prefecture.Digimon Reference Book⇨ English凶々しいまでに黄金に光り輝く究極体の魔人型デジモン。ミイラ型のデジモンから進化すると言われており、古代デジタルワールドで絶対的な権力をほこり多くのエリアを支配していた。デジタルワールドに点在する謎の古代遺跡群は、デジタルワールド創世記にファラオモンが多くのデジモンを支配下におき、僅か数日で創り上げたというところから、その支配力をうかがい知ることができる。必殺技は敵対するデジモンの意志を奪い、肉体を徐々に乾燥させていく恐怖のガスを放射する『ネクロミスト』。この攻撃を受けると完全に死の世界へ誘われるか、死してなお、不死者としてファラオモンに仕えるかの２つしかない。 ※ファラオモンは「バンダイタウンFAXサービスデジモンイラストコンテスト」で神奈川県の「水谷俊樹」さんのデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pharaohmon"
+    },
+    {
+      "id": "ancientsphinx",
+      "name": "Ancient Sphinxmon",
+      "name_jp": "Ancient Sphinxmon",
+      "name_ko": "에이션트스핑크스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientsphinx/frame1.gif",
+        "frame2": "sprites/ancientsphinx/frame2.gif"
+      },
+      "artwork": "sprites/ancientsphinx/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Darkness\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is set at the opposite extreme toAncient Garurumonas a being born from darkness. It rules over the destruction and annihilation of all existing or living things, and is feared as the \"Deadly Dark Beast\". Ancient Sphinxmon's abilities were later passed on to the \"Mythical Beast\" and \"Demon Beast Digimon\". Its Special Moves are a laser beam fired with a roar (Dark Blast), and the ultimate annihilation technique which completely envelops the opponent in the darkness of death (Necro Eclipse).Digimon Reference Book⇨ English“闇”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、闇より生まれし存在としてエンシェントガルルモンとは両極に位置する。形あるものや生あるものの破壊と消滅を司り、「死を招く闇の獣」として恐れられた。エンシェントスフィンクモンの能力は、その後“幻獣型デジモン”や“魔獣型デジモン”等へ引き継がれていった。必殺技は咆哮と共に発する破壊光線『ダークブラスト』と、敵を死の闇に包み込んでしまう究極の消滅技『ネクロエクリプス』。デジモン図鑑",
+        "ko": "\"어둠\"의 속성을 가진, 고대 디지털 월드를 구한 전설의 10투사 중 하나인 디지몬. 아득히 고대에 존재한 첫 궁극체이며, 어둠에서 태어난 존재로서 에인션트가루몬과는 양극에 위치한다. 형태가 있는 것이나 생명이 있는 것의 파괴와 소멸을 맡아, 죽음을 부르는 어둠의 짐승으로서 두려움을 받았다. 에인션트 스핑크스 몬의 능력은, 그 후 환수형 디지몬이나 마수형 디지몬등에 계승되었다. 필살기는 포효와 동시에 쏘는 파괴 광선 『다크 블래스트』와 적을 죽음의 어둠으로 휘감는 궁극의 소멸 기술 『네크로 이클립스 [1] 』다. 빛의 속성을 가진 에인션트가루루몬과는 상극이었지만 전우로서 정이 있었던 모양이며 루체몬의 수하들과 전투 중 부상이 겹쳐 죽었다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Sphinxmon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "sunariza",
+      "to": "torta",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sunariza",
+      "to": "toge",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sunariza",
+      "to": "gole",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sunariza",
+      "to": "dig",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "torta",
+      "to": "gogma",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gole",
+      "to": "gogma",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "toge",
+      "to": "jyaga",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dig",
+      "to": "jyaga",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "toge",
+      "to": "tricera",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gole",
+      "to": "tricera",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "torta",
+      "to": "scorpio",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dig",
+      "to": "scorpio",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "toge",
+      "to": "vulture",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gole",
+      "to": "vulture",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "torta",
+      "to": "mummy",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dig",
+      "to": "mummy",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gogma",
+      "to": "blast",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "jyaga",
+      "to": "blast",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "scorpio",
+      "to": "blast",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gogma",
+      "to": "dinorex",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tricera",
+      "to": "dinorex",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vulture",
+      "to": "dinorex",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tricera",
+      "to": "pharaoh",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vulture",
+      "to": "pharaoh",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "pharaoh",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jyaga",
+      "to": "ancientsphinx",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "scorpio",
+      "to": "ancientsphinx",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "ancientsphinx",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "suna",
+      "to": "goro",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "goro",
+      "to": "sunariza",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "torta",
+      "to": "jyaga",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "torta",
+      "to": "tricera",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "torta",
+      "to": "vulture",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "toge",
+      "to": "gogma",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "toge",
+      "to": "mummy",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "toge",
+      "to": "scorpio",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "gole",
+      "to": "jyaga",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "gole",
+      "to": "mummy",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "gole",
+      "to": "scorpio",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "dig",
+      "to": "gogma",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "dig",
+      "to": "tricera",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "dig",
+      "to": "vulture",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "gogma",
+      "to": "ancientsphinx",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "gogma",
+      "to": "pharaoh",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "jyaga",
+      "to": "dinorex",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "jyaga",
+      "to": "pharaoh",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "tricera",
+      "to": "ancientsphinx",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "tricera",
+      "to": "blast",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "scorpio",
+      "to": "pharaoh",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "vulture",
+      "to": "blast",
+      "conditions": {
+        "text": "Jogress with Vaccine Perfect"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "blast",
+      "conditions": {
+        "text": "Jogress with Free Perfect"
+      }
+    },
+    {
+      "from": "mummy",
+      "to": "dinorex",
+      "conditions": {
+        "text": "Jogress with Vaccine or Data Perfect"
+      }
+    }
+  ]
+}

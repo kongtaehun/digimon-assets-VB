@@ -1,0 +1,63 @@
+{
+  "id": "miragegaoga",
+  "name": "Mirage Gaogamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/miragegaoga.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/miragegaoga.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/miragegaoga.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "machgaoga",
+        "flare",
+        "cresce"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mirage Gaogamon",
+    "name_en": "MirageGaogamon",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "4150",
+      "ap": "2050"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "machgaoga",
+        "name": "Mach Gaogamon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "flare",
+        "name": "Flaremon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "cresce",
+        "name": "Crescemon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

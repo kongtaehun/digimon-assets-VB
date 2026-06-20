@@ -1,0 +1,73 @@
+{
+  "id": "puku",
+  "name": "Pukumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/puku.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/puku.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/puku.jpg",
+  "appearances": [
+    {
+      "dim_id": "jelly",
+      "dim_name": "Jellymon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "wha",
+        "thetis"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "hangyo"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Pukumon",
+    "name_en": "Pukumon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "13",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "wha",
+        "name": "Whamon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "thetis",
+        "name": "Thetismon",
+        "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 60%+ Win Ratio• Jogress with Virus Perfect"
+      },
+      {
+        "id": "hangyo",
+        "name": "Hangyomon",
+        "conditions": "15+ Trophies, 5,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

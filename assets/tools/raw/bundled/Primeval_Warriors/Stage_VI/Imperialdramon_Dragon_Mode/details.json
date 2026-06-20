@@ -1,0 +1,113 @@
+{
+  "id": "imperialdra_d",
+  "name": "Imperialdramon: Dragon Mode",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/imperialdra_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/imperialdra_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/imperialdra_d.jpg",
+  "appearances": [
+    {
+      "dim_id": "awa",
+      "dim_name": "Ancient Warriors",
+      "stage": "VI"
+    },
+    {
+      "dim_id": "pwa",
+      "dim_name": "Primeval Warriors",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "aerovdra",
+        "paildra",
+        "dinobee"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Imperialdramon: Dragon Mode",
+    "name_en": "Imperialdramon: Dragon Mode",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "45 (★8)",
+      "hp": "16",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "aerovdra",
+        "name": "Aero V-dramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon (AWa)",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon (AWa)",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "goldvdra",
+        "name": "Gold V-dramon",
+        "conditions": "Jogress with Data Perfect"
+      },
+      {
+        "id": "sagittari",
+        "name": "Sagittarimon",
+        "conditions": "Jogress with Vaccine or Data Perfect"
+      },
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon (PWa)",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon (PWa)",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "pucchie",
+        "name": "Pucchiemon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "jewelbee",
+        "name": "Jewelbeemon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "kongou",
+        "name": "Kongoumon",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      },
+      {
+        "id": "pucchie_g",
+        "name": "Pucchiemon (Green)",
+        "conditions": "Jogress with Vaccine or Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

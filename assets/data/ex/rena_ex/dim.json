@@ -1,0 +1,890 @@
+{
+  "schema_version": "1.0",
+  "id": "rena_ex",
+  "name": "Renamon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Feb 2022 - Retail (Set EX2)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_rena_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "rele",
+      "name": "Relemon",
+      "name_jp": "Relemon",
+      "name_ko": "레레몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/rele/frame1.gif",
+        "frame2": "sprites/rele/frame2.gif"
+      },
+      "artwork": "sprites/rele/artwork.jpg",
+      "lore": {
+        "en": "A mysterious Digimon that is said to only be born on moonlit nights. It is said that Relemon born specifically on the night of the full moon receive its magical power, and as they grow, are able to use greater and more wondrous abilities than other Digimon. Because it is nocturnal, it seldom appears before people and has a shy personality. It is not able to attack, but it can transform into anything to defend itself, if it is close to the size of its body. However, it can still be found because it can never conceal its tail.Digimon Reference Book⇨ English月夜の晩にしか生まれないと言われる神秘的なデジモン。特に満月の晩に生まれたレレモンは満月の魔力を受け、他のデジモンよりも能力が高く不思議な術が使えるデジモンに成長すると言われている。夜行性で、めったに人の前には姿を現さない恥ずかしがりやな性格。攻撃はできないが、体のサイズに近いものなら、何にでも変化して身を守ることができる。しかし、いつも尻尾だけは隠せずに見つかってしまう。デジモン図鑑",
+        "ko": "달밤의 밤에만 태어난다고 하는 신비로운 디지몬. 특히 보름달의 밤에 태어난 레레몬은 보름달의 마력을 받아 다른 디지몬보다 능력이 높고 불가사의한 술법을 쓸 수 있는 디지몬으로 성장한다고 전해진다. 야행성으로 좀처럼 사람 앞에 모습을 드러내지 않는 부끄럼많은 성격. 공격은 아니지만 몸 사이즈와 비슷한 것이라면 무엇으로든 변신해 몸을 지킬 수 있다. 하지만 언제나 꼬리만은 숨기지 못해 들키고 만다."
+      },
+      "wikimon_url": "https://wikimon.net/Relemon"
+    },
+    {
+      "id": "poko",
+      "name": "Pokomon",
+      "name_jp": "Pokomon",
+      "name_ko": "포코몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/poko/frame1.gif",
+        "frame2": "sprites/poko/frame2.gif"
+      },
+      "artwork": "sprites/poko/artwork.jpg",
+      "lore": {
+        "en": "A nocturnal Baby Digimon that evolved fromRelemon. Due to it only acting in the evening and on moonlit nights, it is said that its existence is close to an illusion. For that reason, it confers a kind of status among Tamers to raise a Pokomon. It will grow into an extremely heartening Digimon depending on how it was raised. It always acts to avoid public notice, and although it is difficult to capture Pokomon, who is swift and speedy despite its appearance, it will show up without thinking if you set out its favorite food of fried tofu. Its Special Move is changing into a stone that spouts a toxic gas (Sesshou-seki).Digimon Reference Book⇨ Englishレレモンが進化した、夜行性の幼年期デジモン。夜でも月夜の晩にしか行動しないことから、その存在は幻に近いと言われている。そのためテイマーの中ではポコモンを育てることが一種のステータスになっている。育て方によっては非常に心強いデジモンに成長する。常に人目に付かないように行動し、見た目に反してスピードも速くポコモンを捕えることは難しいが、大好物の油揚げを出されると思わず姿を現してしまう。必殺技は石に変化して毒のガスを噴出す『殺生石』。デジモン図鑑",
+        "ko": "레레몬 이 진화한 야행성 유년기 디지몬. 밤이라도 달밤에만 행동하는 탓에 그 존재는 환상에 가깝다고 알려져 있다. 그 때문에 테이머 사이에서는 포코몬을 기르는 것이 일종의 스테이터스가 되어있다. 기르는 방법에 따라 매우 든든한 디지몬으로 성장한다. 항상 남의 눈에 띄지 않게 행동하며 겉보기와 달리 스피드가 빨라 포코몬을 잡는 것은 어렵지만 가장 좋아하는 유부를 내놓으면 무심코 모습을 나타내고 만다. 필살기는 돌로 변화해 독가스를 내뿜는 ‘살생석’."
+      },
+      "wikimon_url": "https://wikimon.net/Pokomon"
+    },
+    {
+      "id": "rena",
+      "name": "Renamon",
+      "name_jp": "Renamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/rena/frame1.gif",
+        "frame2": "sprites/rena/frame2.gif"
+      },
+      "artwork": "sprites/rena/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon with the appearance of a golden Fox. The relationship Renamon has with humans is directly apparent; it is said that depending on how it was raised during its time as a Baby, it can evolve into a Renamon of particularly high intelligence. It is always calm, cool, and collected, as well as disciplined enough not to lose that composure in any situation. Its slender, tall appearance stands out when compared with other Child levels, and rather than emphasising on power in battle, it instead makes sport of the enemy with various techniques that utilise its speed. Its Signature Move is a transformation art in which it copies the opponent's appearance and re-covers itself in that texture (Kohenkyo). Its Special Move is throwing sharpened leaves at the opponent (Koyousetsu).Digimon Reference Book⇨ English金色狐の姿をした獣人型デジモン。レナモンは人間との関係がストレートに現れるデジモンで、幼年期の頃の育て方によっては、特に知能が高いレナモンに進化できると言われている。常に冷静沈着で、あらゆる状況下でもその冷静さを失わないほど訓練されている。細身で長身の姿は他の成長期と比べても抜きに出ており、パワーバトルと言うよりは、スピードを利用した多彩な術で敵を翻弄する。得意技は相手の姿をコピーして自身のテクスチャを張り替える変化の術『狐変虚（こへんきょ）』。必殺技は鋭利な木葉を敵に投げる『狐葉楔（こようせつ）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Renamon"
+    },
+    {
+      "id": "kyubi",
+      "name": "Kyubimon",
+      "name_jp": "Kyubimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/kyubi/frame1.gif",
+        "frame2": "sprites/kyubi/frame2.gif"
+      },
+      "artwork": "sprites/kyubi/artwork.jpg",
+      "lore": {
+        "en": "A Bewitching Beast Digimon in the shape of a giant fox with nine tails. Although it is feared as a bewitching beast that brings about destruction and ruin, in ancient times, it was revered as a messenger that appeared in times of peace. It is said that even amongRenamon, only those with the most outstanding abilities and who have amassed the most experience can evolve into Kyubimon. While its attack power isn't actually high, it in turn specializes in magical techniques that utilize its tremendous spiritual strength. It is said to even be able to sprint across the sky with its four feet blazing with blue flames. Its Signature Move is causingonibito manifest, and manipulating them according to its will (Onibidama). Its Special Move is creating a burning dragon out of blue flames from its tails and incinerating the enemy (Koenryū).Digimon Reference Book⇨ English九本の尻尾をはやした巨大な狐の姿をした妖獣型デジモン。破滅と崩壊をもたらす妖獣と恐れられているが、古の時代では平和の世に現れる使者として崇められていた。レナモンの中でも特に能力が高く、多くの経験を積んだものがキュウビモンに進化できると言われている。攻撃力そのものは強くないが、強大な精神力を持っており“術系”の技を得意としている。青く燃え盛る四肢で天をも駆けると言われている。得意技は鬼火を出現させ意のままに操る『鬼火玉』。必殺技は尻尾から燃え盛る青炎の龍を出現させ敵を焼き尽くす『狐炎龍』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kyubimon"
+    },
+    {
+      "id": "youko",
+      "name": "Youkomon",
+      "name_jp": "Youkomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/youko/frame1.gif",
+        "frame2": "sprites/youko/frame2.gif"
+      },
+      "artwork": "sprites/youko/artwork.jpg",
+      "lore": {
+        "en": "A Bewitching Beast Digimon which has the appearance of a gigantic blue fox that grew nine tails. UnlikeKyubimon, it is feared as a bewitching beast that brings about destruction and decay. Although its offensive ability itself is not strong, it possesses powerful spiritual ability and specializes in \"Arts\" techniques, and it is said that it races through the heavens with its red, blazing limbs. Its Signature Move is manifesting scorching hot fireballs and manipulating them at will (Homuradama). Its Special Move is manifesting a dragon of blazing red flames from its tail and incinerating the opponent (Jaenryū).Digimon Reference Book⇨ English九本の尻尾をはやした巨大な青い狐の姿をした妖獣型デジモン。キュウビモンとは違い、破滅と崩壊をもたらす妖獣と恐れられている。攻撃力そのものは強くないが、強大な精神力を持っており“術系”の技を得意とし、赤く燃え盛る四肢で天をも駆けると言われている。得意技は灼熱の火の玉を出現させ意のままに操る『焔玉（ほむらだま）』。必殺技は尻尾から燃え盛る赤炎の龍を出現させ敵を焼き尽くす『邪炎龍（じゃえんりゅう)』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Youkomon"
+    },
+    {
+      "id": "icedevi",
+      "name": "Ice Devimon",
+      "name_jp": "Ice Devimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/icedevi/frame1.gif",
+        "frame2": "sprites/icedevi/frame2.gif"
+      },
+      "artwork": "sprites/icedevi/artwork.jpg",
+      "lore": {
+        "en": "A Fallen Angel Digimon with a heart as cold as ice. It is said to be the evolved form of aDevimonwith an especially cruel heart among other Devimon. As it specializes in deceiving the enemy with its way of words, it wraps them up in its ice wings and freezes them.Digimon Reference Book⇨ English氷のように冷たい心を持つ堕天使型デジモン。デビモンの中でも特に残忍な心を持つデビモンが進化した姿といわれている。話術で敵を騙すのが得意で、氷の羽で包み込み氷付けにさせる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ice_Devimon"
+    },
+    {
+      "id": "lynx",
+      "name": "Lynxmon",
+      "name_jp": "Lynxmon",
+      "name_ko": "링스몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/lynx/frame1.gif",
+        "frame2": "sprites/lynx/frame2.gif"
+      },
+      "artwork": "sprites/lynx/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Beast Digimon that evolved through the power of \"Digimental of Courage\". It has the appearance of a lynx shrouded in blazing fur, and inhabits tropical jungles. It is the polar opposite ofGarurumon, who lives in cold regions, and has a free-spirited personality. Although it hates being tied down and never swears allegiance to a master, Lynxmon and Garurumon recognize each other as good rivals. Its Special Move is detonating the thermal energy within its body to its maximum, generating bursting flames (Thermal Mane).Digimon Reference Book⇨ English“勇気のデジメンタル”のパワーによって進化したアーマー体の獣型デジモン。燃え盛る毛皮を纏った山猫の姿をしており、熱帯系のジャングルに生息している。寒冷地に棲むガルルモンとはまったくの正反対で自由気ままな性格。束縛を嫌い主人に忠誠を誓うことはないが、ガルルモンとはお互いを良きライバルとして認め合っている。必殺技は体内の熱エネルギーを最大限に爆発させ、爆炎を発生させる『サーマルメイン』。デジモン図鑑",
+        "ko": "「용기의 디지멘탈」의 파워에 의해 진화 한 아머체 의 짐승형 디지몬. 타오르는 모피를 두른 스라소니 의 모습을 하고 있으며, 열대계 정글에 서식하고 있다. 한랭지에 서식하는 가루몬 과는 정말 정반대로 자유로운 성격. 속박을 싫어하며 주인에게 맹세하지는 않지만, 가루몬과는 서로 좋은 라이벌로 인정하고 있다. 필살기는 체내의 열 에너지를 최대한으로 폭발시켜, 폭염을 발생시키는 『서멀 메인』."
+      },
+      "wikimon_url": "https://wikimon.net/Lynxmon"
+    },
+    {
+      "id": "kumbhira",
+      "name": "Kumbhiramon",
+      "name_jp": "Kumbhiramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/kumbhira/frame1.gif",
+        "frame2": "sprites/kumbhira/frame2.gif"
+      },
+      "artwork": "sprites/kumbhira/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theRat. As a follower of theFour Holy BeastsDigimonXuanwumon, who boasts of its great wisdom, it is a sage who plays the part of the \"challenger\" in Xuanwumon'sZen Kōans. With the psychology of anyone but Xuanwumon, it is mostly able to see ahead, and has a habit of bewildering the opponent by announcing their next move. Though it uses sarcasm with an acrimonious tone, it charmingly ends all of its sentences with \"~chū\". As it's not very strong, it's not suited for flinging itself at the opponent, but by means of its powerful abilities of telekinesis, it freely operates a giant steel pestle as big as its own body, theBǎo Chǔ. Its Special Move is splitting itself into six bodies and positioning them in ahexagrambarrier, sealing the opponent inside, then smashing them with theBǎo Chǔ, deleting them completely (Krimíśa).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、鼠に似た姿の完全体デジモン。四聖獣デジモンであるシェンウーモンの配下で、博識を誇るシェンウーモンの禅問答の相手を務める知恵者。シェンウーモン以外の者の心理であれば、ほとんど先読みすることが出来、相手の次の行動を言いあてて迷わせるのが常套手段。言葉は辛辣で皮肉が利いているが、語尾が“～でチュ”になってしまうのは御愛敬。非力で肉弾戦には向かないが、強力な念動力により、自分の身の丈と変わらない大きさの鋼の杵（きね）「宝杵（パオツウ）」を自在に使いこなす。必殺技は、六体に分身して六亡星の結界を張り、その中に閉じこめた敵を「宝杵」で叩きつぶしてデリート（消去）してしまう『クリミシャ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kumbhiramon"
+    },
+    {
+      "id": "vikarala",
+      "name": "Vikaralamon",
+      "name_jp": "Vikaralamon",
+      "name_ko": "비가라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/vikarala/frame1.gif",
+        "frame2": "sprites/vikarala/frame2.gif"
+      },
+      "artwork": "sprites/vikarala/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling thePig. As a follower of theFour Holy BeastsDigimonXuanwumon, it is an observer-type that gazes at everything from the outside without ever losing its broad smile. Although it has a special skill of sleeping with its eyes open, its intense snoring and the grinding of its teeth while sleeping quickly give it away. The wheel of light that it spews from its mouth is called theBǎo Lún, and its effect differs depending on its color; a blueBǎo Lúncaptures the opponent, a yellowBǎo Lúnis able to have things placed on it by taking the shape of a disk, if one passes through a greenBǎo Lúntheir wounds are instantly healed, and so on, as there are several variations. Its Special Move is boring through the opponent with a redBǎo Lún(Súkara).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、猪に似た姿の完全体デジモン。四聖獣デジモンであるシェンウーモンの配下で、いつもニヤニヤ笑いを絶やさずに物事を外から眺めている傍観者タイプ。目を開いたまま眠るのが特技だが、強烈ないびきと歯ぎしりで眠っているのが、すぐばれてしまう。口から吐く光の輪は宝輪（パオラン）と呼ばれ、その色によって効能が違い、青の宝輪は敵を捕らえる、黄の宝輪は円盤状になって物を乗せることができる、緑の宝輪をくぐると一瞬にして傷がいやされる等、様々なバリエーションがある。必殺技は赤の宝輪で敵をぶちぬく『スーカラ』。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 멧돼지 [1] 와 비슷한 형상을 한 완전체 디지몬 . 4성수 디지몬인 현무몬 의 부하로 언제나 능글능글 웃음이 떠나지 않고, 사건을 한걸음 떨어져 바라보는 방관자 타입. 눈을 뜬 채로 자는 것이 특기지만, 강렬한 코골이와 이를 가는 탓에 잠든 게 금방 들통나 버린다. 입에서 뱉어내는 빛 의 고리는 보륜(宝輪, 파오란)으로 불리며 그 색에 따라서 효능이 달라, 파란 파오란은 적을 잡고, 노란 파오란은 원반 모양이 되어 물건을 실을 수 있고, 초록 파오란을 통과하면 순식간에 상처가 낫게 되는 등, 여러 가지 바리에이션이 있다. 필살기는 붉은 파오란으로 적을 꿰뚫는 \"스카라(Sukara) [2] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Vikaralamon"
+    },
+    {
+      "id": "tao",
+      "name": "Taomon",
+      "name_jp": "Taomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/tao/frame1.gif",
+        "frame2": "sprites/tao/frame2.gif"
+      },
+      "artwork": "sprites/tao/artwork.jpg",
+      "lore": {
+        "en": "Versed inOnmyoudou, it is anonmyoujiDigimon that freely uses every technique in battle. Its faculty with magic is particularly high, and attacks with talismans and spells are its forte. Also, it is a master of concealed weapons, and hides various weapons up its sleeves. It doesn't talk very much due to its extreme reticence, and it is a being that lives and lurks within the darkness. Also, it is able to turn its talismans intoshikigamiand command them. Its Signature Move is wreathing its talismans around the opponent's body, then detonating them (Kofūsatsu). Its Special Move \"Bonhitsusen\" is chanting an incantation while painting theSanskritcharacter\"Hūṃ\" in the air with its gigantic brush, then hurling it at the opponent. An opponent that is hit withBonhitsusengets caught in a gigantic explosion and is annihilated.It shouts\"Bon-Hitsu-Sen\"as it paints the Sanskrit character.Digimon Reference Book⇨ English陰陽道に精通し、あらゆる技を駆使して戦う陰陽師デジモン。特に呪術の能力が高く、霊符や呪文の攻撃が得意。また暗器の達人でもあり、様々な武器を袖の下に隠し持っている。非常に寡黙で多くは語ることはなく闇に潜み闇に生きる存在である。また、霊符を式神（しきがみ）に変え使役することもできる。得意技は霊符を敵の体に巻きつけて爆発させる『狐封札（こふうさつ）』。必殺技の『梵筆閃（ぼんひつせん）』は巨大な筆で呪文を唱えながら梵字の「ウーン」を空中に描き敵に飛ばす。梵筆閃を受けた敵は大爆発を起こし消滅する。※「梵・筆・閃」の掛け声と共に梵字を描きます。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Taomon"
+    },
+    {
+      "id": "dou",
+      "name": "Doumon",
+      "name_jp": "Doumon",
+      "name_ko": "도우몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/dou/frame1.gif",
+        "frame2": "sprites/dou/frame2.gif"
+      },
+      "artwork": "sprites/dou/artwork.jpg",
+      "lore": {
+        "en": "AnonmyoujiDigimon that is versed inOnmyoudouand freely uses every technique in battle. Its spellcasting ability is particularly high, and it specializes in attacks using talismans and spells. LikeTaomon, it is a being that lives and lurks within the darkness, but unlike Taomon, it specializes in death curses and assassinations. Not only that, it is able to turn its talismans intoshikigamiand command them. Its Signature Move is wreathing its talismans around the opponent's body, then detonating them (Jugonsatsu). Its Special Move \"Kimontonkou\" is a terrifying technique in which it chants an incantation while painting a barrier in the air with its gigantic brush, confining the opponent in an eternal labyrinth from which they can never escape.Digimon Reference Book⇨ English陰陽道に精通し、あらゆる技を駆使して戦う陰陽師デジモン。特に呪術の能力が高く、霊符や呪文の攻撃が得意。タオモンと同じく闇に潜み闇に生きる存在であるが、呪殺や暗殺を得意としタオモンとは対照的である。また、霊符を式神（しきがみ）に変え使役することもできる。得意技は霊符を敵の体に巻きつけて爆発させる『呪禁札（じゅごんさつ）』。必殺技の『鬼門遁甲（きもんとんこう）』は巨大な筆で呪文を唱えながら空中に結界を描き、決して抜け出ることのできない永遠の迷路に敵を封じ込める恐ろしい技。デジモン図鑑",
+        "ko": "음양도에 정통하는 모든 기술을 구사해 싸우는 음양사 디지몬. 특히 주술의 능력이 높고, 주문이나 부적이 특기이다. 도사몬과 같이 어둠에 숨어 어둠에 사는 존재이지만, 주살이나 암살을 자랑으로 여겨 도사몬과는 대조적이다. 또, 부적을 식신 (시키가미)으로 바꿔 사역할 수도 있다. 장기는 부적을 적의 몸에 두르고 폭발시키는 \"주금찰\". 필살기의 \"귀문둔갑\"은 거대한 붓으로 주문을 외면서 공중에 결계를 그려, 결코 벗어날 수 없는 미로에 적을 봉쇄시키는 무서운 기술이다."
+      },
+      "wikimon_url": "https://wikimon.net/Doumon"
+    },
+    {
+      "id": "catura",
+      "name": "Caturamon",
+      "name_jp": "Caturamon",
+      "name_ko": "챠츠라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/catura/frame1.gif",
+        "frame2": "sprites/catura/frame2.gif"
+      },
+      "artwork": "sprites/catura/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon whose appearance resembles theDog. As a follower of theFour Holy BeastsDigimonBaihumon, it looks after its fellow followersMakuramonandSinduramonas if they were its younger brothers (those two, however, do not appear to be very appreciative of it). Its sense of justice is strong, and it will not be satisfied until it sorts everything clearly into black or white. When its comrades are quarreling, it will sometimes serve as a moderator or presiding judge; it transforms itself into theBǎo Chuí, a gigantic hammer, and delivers the verdict between guilt and innocence. Its Special Move is generating a massive earthquake accompanied by a shock wave by striking the ground with theBǎo Chuí(Śwabhojana).Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、狗に似た姿の完全体デジモン。四聖獣デジモンであるバイフーモンの配下で、同じ配下のマクラモンとシンドゥーラモンを弟のように思い面倒を見ている（二人は、それほど恩義に感じてはいない様子）。正義感が強く、何事も白黒ハッキリさせないと気が済まない。仲間の争いごとの際は、議長、裁判長を務める事があり、自らを巨大な鎚である宝鎚（パオツェイ）に変化させ、有罪無罪の判決を下す。必殺技は宝鎚で地面を打つことによって衝撃波を伴う大地震を起こす『シュヴァボージャナ』。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 개 와 비슷한 형상을 한 완전체 디지몬. [1] 4성수 디지몬인 백호몬 의 부하로, 소속이 같은 마쿠라몬 과 신드라몬 을 동생처럼 생각해 돌보고 있다.(그러나 두 명은, 별로 고마움을 느끼지 않는 상태다.) 정의감이 강하고, 무슨 일이라도 흑백이 분명히 가려지지 않으면 기분이 풀리지 않는다. 동료가 싸울 때는 의장, 재판장을 맡으며, 스스로 거대한 망치 인 보추(宝鎚, 파오체이)로 변해 유죄나 혹은 무죄의 판결을 내린다. 필살기는 파오체이로 땅을 치는 것으로 충격파를 동반한 대지진을 일으키는 '슈바보쟈나(Shwabhojana) [2] '."
+      },
+      "wikimon_url": "https://wikimon.net/Caturamon"
+    },
+    {
+      "id": "indara",
+      "name": "Indaramon",
+      "name_jp": "Indaramon",
+      "name_ko": "인다라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/indara/frame1.gif",
+        "frame2": "sprites/indara/frame2.gif"
+      },
+      "artwork": "sprites/indara/artwork.jpg",
+      "lore": {
+        "en": "One of the \"DevaDigimon\", it is a Perfect Digimon with a form resembling theHorse. As a follower of theFour Holy BeastsDigimonZhuqiaomon, it has an intolerably arrogant personality. When it opens its mouth only bragging comes out, and it is constantly fussing over the glossiness of its mane and tail. It indulges in its talents, and ridicules those who work hard. Among the Deva, it is on especially bad terms withVajramon. Though it fusses over its appearance, in battle it is comparatively unrefined; using the giganticBǎo Bèitrumpet shell tied to its arms, it beats the opponent down by wielding it like a cudgel. Its Special Move is blowing theBǎo Bèiusing its tremendous lung capacity, generating ultrasonic waves (Adhomukha).[1]Digimon Reference Book⇨ English「デーヴァ（十二神）デジモン」の１体で、馬に似た姿の完全体デジモン。四聖獣デジモンであるスーツェーモンの配下で、高慢で鼻持ちならない性格。口を開けると出てくるのは自慢話ばかりで、髪と尻尾のつやには気を使っている。自分の才能に溺れ、努力する者を笑う。デーヴァの中では特にヴァジラモンと仲が悪い。身だしなみに気を使う割には戦闘は荒削りで、巨大なほら貝にに似た宝貝（パオペイ）を腕にはめ、棍棒のように振り回して敵を薙ぎ倒す。必殺技は凄まじい肺活量で宝貝を吹いて超音波を起こす『アドームクハ』。デジモン図鑑",
+        "ko": "\" 데바 (십이신) 디지몬\"의 일원으로 말 과 비슷한 형상의 완전체 디지몬 . 4성수 디지몬 주작몬 의 부하로 성격은 바이러스종답게 오만하고 역겨운 성격을 지녔다. 입을 열면 나오는 것은 자랑거리뿐으로, 머리카락과 꼬리의 윤기에는 신경을 쓰고 있다. 자신의 재능에 자신감이 넘치는 탓에 노력하는 자를 비웃는다. 따라서 같은 데바 중에서 특히 바지라몬 과 사이가 아주 나쁘다. 몸치장에 신경쓰는 것 치고 전투는 거칠며, 거대한 소라를 닮은 보패(宝貝, 파오페이)를 팔에 차고 곤봉 처럼 휘둘러 적을 차례차례 쓰러뜨린다. [1] 필살기는 엄청난 폐활량으로 파오페이를 불어 초음파를 일으키는 「아돔크하(Adhomukha) [2] 」."
+      },
+      "wikimon_url": "https://wikimon.net/Indaramon"
+    },
+    {
+      "id": "sakuya",
+      "name": "Sakuyamon",
+      "name_jp": "Sakuyamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/sakuya/frame1.gif",
+        "frame2": "sprites/sakuya/frame2.gif"
+      },
+      "artwork": "sprites/sakuya/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that holds the role of amiko, acting as an agent ofGod's will. LikeTaomon, it freely usesOnmyoudoutechniques in battle, and has the ability to employ God Beast-species Digimon. It always carries four pipes on the belt around its waist, within which lurk fourkuda-gitsune. It is able to use these kuda-gitsune for everything from attacking to gathering information. Just likeHoly Angemon'sPriest Mode, it is able to change into aMiko Modewhich administers Shinto rituals. Its Signature Move is attacking the opponent with the four kuda-gitsune carried on its waist (Izuna). The four kuda-gitsune possess the attributes of \"Fire\", \"Water\", \"Wind\", and \"Thunder\", respectively. Its Special Move is striking the ground with its \"KongouShakujou\", spreading a purifying barrier that exorcises evil spirits (Kongoukai Mandara).Digimon Reference Book⇨ English神の意志を代行する巫女の役割を持ったデジモン。タオモン同様、陰陽道の技を駆使して戦い、神獣系のデジモンを使役する能力を持つ。腰のベルトには常に４本の筒を携え、中には４匹の管狐（くだぎつね）が潜んでいる。この管狐を使役し攻撃や情報の収集など、あらゆることに利用することができる。ホーリーエンジェモンの神官形態と同じように神事を司る巫女形態になることもできる。得意技は腰に携えた４匹の管狐で敵を攻撃する『飯綱（いづな）』。この４匹の管狐はそれぞれ「火」「水」「風」「雷」の属性を持っている。必殺技は「金剛錫杖（こんごうしゃくじょう）」を地に打ち付けて邪気を払う浄化結界を張る『金剛界曼荼羅（こんごうかいまんだら）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sakuyamon"
+    },
+    {
+      "id": "kuzuha_m",
+      "name": "Kuzuhamon: Miko Mode",
+      "name_jp": "",
+      "name_ko": "쿠즈하몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A formKuzuhamontakes when it performs Shinto rituals and listens toGod's will. It seldom fights inMiko Mode, but has strengthened its ability to exorcise evil spirits.Digimon Reference Book⇨ Englishクズハモンが神事の奉仕をおこない神の意志を聞くときの姿。巫女形態で戦うことは少ないが、邪気をはらう力が強くなっている。デジモン図鑑",
+        "ko": "여우계 디지몬이 오랫동안 살아 변화해 사람의 모습이 되었다 전해지는 신인형 디지몬. 샤크라몬 은 그 중에서도 고위의 개체만이 진화할 수 있다고 말해지며 보통은 쿠즈하몬으로 진화한다. [1] 신도, 음양도, 수험도 등의 고대 마법에 정통하다. 벨트의 통 안에는 관호(대롱여우)가 한 마리밖에 없고 [2] 이 관호를 사역해 공격이나 정보 수집 등에 이용할 수 있다. 특기는 허리의 관호로 적을 공격하는 \"리번강(裏飯綱/우라이즈나)\". 필살기는 \"석장\"으로 사기(邪気)를 제거하는 정화 결계를 치는 \"태장계만다라(胎蔵界曼荼/타이죠우카이 만다라)\". [3]"
+      },
+      "wikimon_url": "https://wikimon.net/Kuzuhamon:_Miko_Mode"
+    },
+    {
+      "id": "parasi",
+      "name": "Parasimon",
+      "name_jp": "Parasimon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "10",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/parasi/frame1.gif",
+        "frame2": "sprites/parasi/frame2.gif"
+      },
+      "artwork": "sprites/parasi/artwork.jpg",
+      "lore": {
+        "en": "A special Digimon that can't survive without leeching off of other beings, even though it is an Ultimate. Parasimon is powerless when by itself, but when it gathers in numbers, it can easily defeat Adult-level Digimon. When Parasimon leeches off of another, it can draw out the host Digimon's abilities to their utmost limit, exhibiting a terrifying power. Also, it can amplify the host's desires, and it is capable of taking advantage of those weaknesses. The existence of Parasite Digimon types other than Parasimon has been confirmed, and the influence of Parasite Digimon, in addition to viralization, is considered the cause of berserk Digimon. Its Special Move is binding the opponent with its elongated tentacles and unleashing an intense electric shock (Electric Bind).Digimon Reference Book⇨ English究極体でありながら他の存在に寄生しないと生存できない特別なデジモン。パラサイモンは単体では力は弱いが、複数集まると成熟期レベルのデジモンであれば簡単にたおすことができる。パラサイモンが寄生すると、宿主のデジモンは能力を極限にまで引き出すことができ、恐るべきパワーを発揮する。また、宿主の願望を増幅させ、弱みに付け込む性質がある。パラサイモン以外にも何種か寄生型のデジモンの存在が確認されており、凶暴化したデジモン達の原因として、ウィルス化の他に寄生型デジモンの影響が考えられる。必殺技は長く伸びた触手で敵を縛り上げて強烈な電撃を繰り出す『エレクトリックバインド』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Parasimon"
+    },
+    {
+      "id": "sakuya_x",
+      "name": "Sakuyamon X",
+      "name_jp": "Sakuyamon X",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/sakuya_x/frame1.gif",
+        "frame2": "sprites/sakuya_x/frame2.gif"
+      },
+      "artwork": "sprites/sakuya_x/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that holds the role of amiko, acting as an agent ofGod's will. LikeTaomon, it freely usesOnmyoudoutechniques in battle, and has the ability to employ God Beast-species Digimon. It always carries four pipes on the belt around its waist, within which lurk fourkuda-gitsune. It is able to use these kuda-gitsune for everything from attacking to gathering information. Just likeHoly Angemon'sPriest Mode, it is able to change into aMiko Modewhich administers Shinto rituals. Its Signature Move is attacking the opponent with the four kuda-gitsune carried on its waist (Izuna). The four kuda-gitsune possess the attributes of \"Fire\", \"Water\", \"Wind\", and \"Thunder\", respectively. Its Special Move is striking the ground with its \"KongouShakujou\", spreading a purifying barrier that exorcises evil spirits (Kongoukai Mandara).The effect onSakuyamon'sDigicoredue to theX-AntibodyBeginning with necromancy and Onmyoudou, it has grown into a specialist who has mastered every secret art that has been passed down throughout theEastern Digital World. By attuning itself closely to theDigital World's nature, it is able to transform various object data such as flora and rocks intoshikigamiin the shape of flowers or foxes, and order them to do its bidding. It is skilled in using its kuda-gitsune and shikigami for reconnaissance and espionage; acting as a watchman of the darkness, it strikes at its foes from the dark using the information it has obtained. Its new Special Moves are turning all of the objects around it into countless shikigami, enveloping the enemy in a storm of flowers and annihilating them (Konohanasenki-banshou), and fusing its four kuda-gitsune, which possess power over each of the four elements respectively, into a single gigantic fox spirit and summoning it (Uka-no-Mitama).Digimon Reference Book⇨ English神の意志を代行する巫女の役割を持ったデジモン。タオモン同様、陰陽道の技を駆使して戦い、神獣系のデジモンを使役する能力を持つ。腰のベルトには常に４本の筒を携え、中には４匹の管狐（くだぎつね）が潜んでいる。この管狐を使役し攻撃や情報の収集など、あらゆることに利用することができる。ホーリーエンジェモンの神官形態と同じように神事を司る巫女形態になることもできる。得意技は腰に携えた４匹の管狐で敵を攻撃する『飯綱（いづな）』。この４匹の管狐はそれぞれ「火」「水」「風」「雷」の属性を持っている。必殺技は「金剛錫杖（こんごうしゃくじょう）」を地に打ち付けて邪気を払う浄化結界を張る『金剛界曼荼羅（こんごうかいまんだら）』。■Ｘ抗体によるサクヤモンのデジコアへの影響降霊術や陰陽術を始めとする、東方のデジタルワールドに伝わるあらゆる秘術を極めたスペシャリストへとなった。デジタルワールドの自然と調和することで、草木や岩などの様々なオブジェクトデータを花や狐の形をした式神に変換し使役することが出来る。管狐や式神による索敵・諜報活動に長けており、手に入れた情報を活用することで闇に紛れて敵を討つ暗闇の番人である。新たな必殺技は、周囲のあらゆるオブジェクトを無数の式神に換え、花嵐で敵を包んで消滅させる『此ノ花戦姫万象（このはなせんきばんしょう）』と、四大元素を司る管狐を合体させることで一体の巨大な狐神を召喚する『宇迦之御魂（うかのみたま）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sakuyamon_X"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "rele",
+      "to": "poko",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "poko",
+      "to": "rena",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "rena",
+      "to": "kyubi",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "rena",
+      "to": "youko",
+      "conditions": {
+        "text": "8+ Trophies, 900+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "rena",
+      "to": "icedevi",
+      "conditions": {
+        "text": "5+ Trophies, 600+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "rena",
+      "to": "lynx",
+      "conditions": {
+        "text": "• 0-4 Trophies• 0-599 Vital Values• 0-2 Battles"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "kumbhira",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "tao",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "catura",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "vikarala",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "indara",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "dou",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "youko",
+      "to": "vikarala",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "youko",
+      "to": "dou",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "youko",
+      "to": "indara",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "youko",
+      "to": "kumbhira",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "youko",
+      "to": "catura",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "youko",
+      "to": "tao",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "icedevi",
+      "to": "vikarala",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "icedevi",
+      "to": "dou",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "icedevi",
+      "to": "indara",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "icedevi",
+      "to": "kumbhira",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "icedevi",
+      "to": "catura",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "icedevi",
+      "to": "tao",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "lynx",
+      "to": "kumbhira",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "lynx",
+      "to": "tao",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "lynx",
+      "to": "catura",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "lynx",
+      "to": "vikarala",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "lynx",
+      "to": "indara",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "lynx",
+      "to": "dou",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "kumbhira",
+      "to": "sakuya_x",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "kumbhira",
+      "to": "sakuya",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "kumbhira",
+      "to": "parasi",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "kumbhira",
+      "to": "kuzuha_m",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "vikarala",
+      "to": "kuzuha_m",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "vikarala",
+      "to": "parasi",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "vikarala",
+      "to": "sakuya",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "vikarala",
+      "to": "sakuya_x",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "sakuya_x",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "sakuya",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "kuzuha_m",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "parasi",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "dou",
+      "to": "kuzuha_m",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "dou",
+      "to": "sakuya",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "dou",
+      "to": "sakuya_x",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "dou",
+      "to": "parasi",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "catura",
+      "to": "sakuya_x",
+      "conditions": {
+        "text": "Stage 15 Cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "catura",
+      "to": "parasi",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "catura",
+      "to": "sakuya",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "catura",
+      "to": "kuzuha_m",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "indara",
+      "to": "kuzuha_m",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "indara",
+      "to": "parasi",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "indara",
+      "to": "sakuya",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "indara",
+      "to": "sakuya_x",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Data Perfect"
+      }
+    }
+  ]
+}

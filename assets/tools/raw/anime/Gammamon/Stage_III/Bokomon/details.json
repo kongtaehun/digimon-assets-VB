@@ -1,0 +1,63 @@
+{
+  "id": "boko",
+  "name": "Bokomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/boko.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/boko.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/boko.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "guri"
+      ],
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Bokomon",
+    "name_en": "Bokomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "4100",
+      "hp": "2800",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "guri",
+        "name": "Gurimon",
+        "conditions": "Stage 2 cleared, 3+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "betelgamma",
+        "name": "Betel Gammamon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "sealsdra",
+        "name": "Sealsdramon",
+        "conditions": "Stage 6 cleared, 8+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    ]
+  }
+}

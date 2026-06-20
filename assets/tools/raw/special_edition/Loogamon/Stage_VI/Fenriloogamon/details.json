@@ -1,0 +1,63 @@
+{
+  "id": "fenrilooga",
+  "name": "Fenriloogamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/fenrilooga.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/fenrilooga.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/fenrilooga.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "soloogar",
+        "helloogar"
+      ],
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Fenriloogamon",
+    "name_en": "Fenriloogamon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6800",
+      "hp": "5500",
+      "ap": "2100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "soloogar",
+        "name": "Soloogarmon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "helloogar",
+        "name": "Helloogarmon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "fenrilooga_t",
+        "name": "Fenriloogamon: Takemikazuchi",
+        "conditions": "Jogress with Kazuchimon  from the Pulsemon BE Memory Dim"
+      }
+    ]
+  }
+}

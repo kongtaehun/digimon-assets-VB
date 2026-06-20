@@ -1,0 +1,74 @@
+{
+  "id": "nidhogg",
+  "name": "Nidhoggmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/nidhogg.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/nidhogg.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/nidhogg.jpg",
+  "appearances": [
+    {
+      "dim_id": "gabu_ex",
+      "dim_name": "Gabumon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Nidhoggmon",
+    "name_en": "Nidhoggmon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "16",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "parrot",
+        "name": "Parrotmon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "bigmame",
+        "name": "Big Mamemon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "orochi",
+        "name": "Orochimon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "weregaruru",
+        "name": "Were Garurumon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "valve",
+        "name": "Valvemon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "waruseadra",
+        "name": "Waru Seadramon",
+        "conditions": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

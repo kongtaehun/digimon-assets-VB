@@ -1,0 +1,71 @@
+[*] Fetching https://humulos.com/digimon/vbdm/other/
+[*] Found 7 dim card(s)
+[*] Found 57 unique digimon — fetching details & assets...
+  [  1/57] Weathered Medal
+  [  2/57] Medal
+  [  3/57] Tinpet
+  [  4/57] Greymon
+  [  5/57] Garurumon
+  [  6/57] Metabee (Head and Arm)
+  [  7/57] Rokusho (Head and Arm)
+  [  8/57] Grey Wars
+  [  9/57] Garuru Metal
+  [ 10/57] Metabee
+  [ 11/57] Rokusho
+  [ 12/57] Omega Knight
+  [ 13/57] Omedamon
+  [ 14/57] Botamon
+  [ 15/57] Koromon
+  [ 16/57] Agumon (Black)
+  [ 17/57] Greymon (Blue)
+  [ 18/57] Metal Greymon (Virus)
+  [ 19/57] Black War Greymon
+  [ 20/57] Punimon
+  [ 21/57] Tsunomon
+  [ 22/57] Gabumon (Black)
+  [ 23/57] Garurumon (Black)
+  [ 24/57] Were Garurumon (Black)
+  [ 25/57] Metal Garurumon (Black)
+  [ 26/57] Jyarimon
+  [ 27/57] Gigimon
+  [ 28/57] Guilmon
+  [ 29/57] Growmon
+  [ 30/57] Megalo Growmon
+  [ 31/57] Medieval Dukemon
+  [ 32/57] Dukemon
+  [ 33/57] Chaos Dukemon
+  [ 34/57] Kiimon
+  [ 35/57] Yaamon
+  [ 36/57] Impmon
+  [ 37/57] Wizarmon
+  [ 38/57] Baalmon
+  [ 39/57] Beelzebumon (2010)
+  [ 40/57] Beelzebumon
+  [ 41/57] Beelzebumon: Blast Mode
+  [ 42/57] Relemon
+  [ 43/57] Pokomon
+  [ 44/57] Renamon
+  [ 45/57] Kyubimon
+  [ 46/57] Taomon
+  [ 47/57] Sakuyamon
+  [ 48/57] Kuzuhamon
+  [ 49/57] Sakuyamon: Miko Mode
+  [ 50/57] Ketomon
+  [ 51/57] Hopmon
+  [ 52/57] Monodramon
+  [ 53/57] Strikedramon
+  [ 54/57] Cyberdramon
+  [ 55/57] Justimon: Accel Arm
+  [ 56/57] Justimon: Blitz Arm
+  [ 57/57] Justimon: Critical Arm
+
+[✓] Output written to ./other/
+    data.json   — 7 dims, 57 digimon
+    7 dim folder(s)
+      Black_Roar                        6 digimon  (12 frames + 6 artwork + 6 details.json)
+      Guilmon_GP                        8 digimon  (16 frames + 8 artwork + 8 details.json)
+      Impmon_GP                         8 digimon  (16 frames + 8 artwork + 8 details.json)
+      Medarot                          13 digimon  (26 frames + 13 artwork + 13 details.json)
+      Monodramon_GP                     8 digimon  (16 frames + 8 artwork + 8 details.json)
+      Renamon_GP                        8 digimon  (16 frames + 8 artwork + 8 details.json)
+      Shadow_Howl                       6 digimon  (12 frames + 6 artwork + 6 details.json)

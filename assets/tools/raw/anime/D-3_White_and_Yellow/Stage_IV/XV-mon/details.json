@@ -1,0 +1,72 @@
+{
+  "id": "xv",
+  "name": "XV-mon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/xv.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/xv.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/xv.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "v"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "XV-mon",
+    "name_en": "ExVeemon",
+    "attribute": "Free",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "bp": "5000",
+      "hp": "3500",
+      "ap": "1300"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "v",
+        "name": "V-mon",
+        "conditions": "20+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "v",
+        "name": "V-mon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "Choose one:"
+      },
+      {
+        "id": "holyange",
+        "name": "Holy Angemon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    ]
+  }
+}

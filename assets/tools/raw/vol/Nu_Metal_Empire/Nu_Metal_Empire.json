@@ -1,0 +1,595 @@
+{
+  "id": "nme",
+  "name": "Nu Metal Empire",
+  "release": "JP: Aug 2021 - Retail (Set Vol.03)EN: Jul 2022 - Retail (Set Vol.03)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_nme.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_bom.gif",
+  "digimon": [
+    {
+      "id": "bom",
+      "name": "Bommon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bom.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bom.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bom.jpg"
+    },
+    {
+      "id": "missi",
+      "name": "Missimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/missi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/missi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/missi.jpg"
+    },
+    {
+      "id": "haguru",
+      "name": "Hagurumon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/haguru.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/haguru.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/haguru.jpg"
+    },
+    {
+      "id": "mach",
+      "name": "Machmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mach.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mach.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mach.jpg"
+    },
+    {
+      "id": "ballista",
+      "name": "Ballistamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ballista.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ballista.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ballista.jpg"
+    },
+    {
+      "id": "mailbirdra",
+      "name": "Mail Birdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mailbirdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mailbirdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mailbirdra.jpg"
+    },
+    {
+      "id": "rare",
+      "name": "Raremon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rare.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rare.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rare.jpg"
+    },
+    {
+      "id": "loaderlio",
+      "name": "Loader Leomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/loaderlio.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/loaderlio.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/loaderlio.jpg"
+    },
+    {
+      "id": "atlurballista",
+      "name": "Atlur Ballistamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/atlurballista.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/atlurballista.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/atlurballista.jpg"
+    },
+    {
+      "id": "metalmame",
+      "name": "Metal Mamemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalmame.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalmame.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalmame.jpg"
+    },
+    {
+      "id": "loco",
+      "name": "Locomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "14",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/loco.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/loco.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/loco.jpg"
+    },
+    {
+      "id": "rebelli",
+      "name": "Rebellimon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rebelli.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rebelli.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rebelli.jpg"
+    },
+    {
+      "id": "metalgrey_2010",
+      "name": "Metal Greymon (2010)",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/metalgrey_2010.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/metalgrey_2010.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/metalgrey_2010.jpg"
+    },
+    {
+      "id": "heavyleo",
+      "name": "Heavy Leomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/heavyleo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/heavyleo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/heavyleo.jpg"
+    },
+    {
+      "id": "grandloco",
+      "name": "Grand Locomon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "18",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/grandloco.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/grandloco.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/grandloco.jpg"
+    },
+    {
+      "id": "zekegrey",
+      "name": "Zeke Greymon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zekegrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zekegrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zekegrey.jpg"
+    },
+    {
+      "id": "mugendra",
+      "name": "Mugendramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "18",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mugendra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mugendra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mugendra.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "haguru",
+      "from_name": "Hagurumon",
+      "to": "mach",
+      "to_name": "Machmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "haguru",
+      "from_name": "Hagurumon",
+      "to": "ballista",
+      "to_name": "Ballistamon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "haguru",
+      "from_name": "Hagurumon",
+      "to": "mailbirdra",
+      "to_name": "Mail Birdramon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "haguru",
+      "from_name": "Hagurumon",
+      "to": "rare",
+      "to_name": "Raremon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "mach",
+      "from_name": "Machmon",
+      "to": "loaderlio",
+      "to_name": "Loader Leomon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rare",
+      "from_name": "Raremon",
+      "to": "loaderlio",
+      "to_name": "Loader Leomon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "ballista",
+      "from_name": "Ballistamon",
+      "to": "atlurballista",
+      "to_name": "Atlur Ballistamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "from_name": "Mail Birdramon",
+      "to": "atlurballista",
+      "to_name": "Atlur Ballistamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mach",
+      "from_name": "Machmon",
+      "to": "metalmame",
+      "to_name": "Metal Mamemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rare",
+      "from_name": "Raremon",
+      "to": "metalmame",
+      "to_name": "Metal Mamemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ballista",
+      "from_name": "Ballistamon",
+      "to": "loco",
+      "to_name": "Locomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "from_name": "Mail Birdramon",
+      "to": "loco",
+      "to_name": "Locomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mach",
+      "from_name": "Machmon",
+      "to": "rebelli",
+      "to_name": "Rebellimon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rare",
+      "from_name": "Raremon",
+      "to": "rebelli",
+      "to_name": "Rebellimon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ballista",
+      "from_name": "Ballistamon",
+      "to": "metalgrey_2010",
+      "to_name": "Metal Greymon (2010)",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mailbirdra",
+      "from_name": "Mail Birdramon",
+      "to": "metalgrey_2010",
+      "to_name": "Metal Greymon (2010)",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "loaderlio",
+      "from_name": "Loader Leomon",
+      "to": "heavyleo",
+      "to_name": "Heavy Leomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "metalmame",
+      "from_name": "Metal Mamemon",
+      "to": "heavyleo",
+      "to_name": "Heavy Leomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rebelli",
+      "from_name": "Rebellimon",
+      "to": "heavyleo",
+      "to_name": "Heavy Leomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "loaderlio",
+      "from_name": "Loader Leomon",
+      "to": "grandloco",
+      "to_name": "Grand Locomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "atlurballista",
+      "from_name": "Atlur Ballistamon",
+      "to": "grandloco",
+      "to_name": "Grand Locomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "loco",
+      "from_name": "Locomon",
+      "to": "grandloco",
+      "to_name": "Grand Locomon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "loco",
+      "from_name": "Locomon",
+      "to": "zekegrey",
+      "to_name": "Zeke Greymon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rebelli",
+      "from_name": "Rebellimon",
+      "to": "zekegrey",
+      "to_name": "Zeke Greymon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "atlurballista",
+      "from_name": "Atlur Ballistamon",
+      "to": "mugendra",
+      "to_name": "Mugendramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "metalmame",
+      "from_name": "Metal Mamemon",
+      "to": "mugendra",
+      "to_name": "Mugendramon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

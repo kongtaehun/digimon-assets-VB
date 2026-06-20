@@ -1,0 +1,1061 @@
+{
+  "schema_version": "1.0",
+  "id": "looga",
+  "name": "Loogamon",
+  "category": "special_edition",
+  "device": "VBBE",
+  "release": "JP: May 2023 - Premium Bandai",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_looga.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "fusa",
+      "name": "Fusamon",
+      "name_jp": "Fusamon",
+      "name_ko": "후사몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/fusa/frame1.gif",
+        "frame2": "sprites/fusa/frame2.gif"
+      },
+      "artwork": "sprites/fusa/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon whose whole body is covered in soft fur. When danger draws near, it will emit a high-pitched, threatening cry called \"Puppy Noise\".",
+        "ko": "전신이 부드러운 털로 덮여 있는 슬라임형 디지몬. 호기심이 매우 왕성하고 여기저기 돌아다니는 걸 매우 좋아하는 디지몬이지만, 금방 지치기 때문에 대부분의 시간을 자면서 보낸다. 위험해지면 \"퍼피 노이즈\"라고 불리는 높고 날카로운 위협음을 낸다."
+      },
+      "wikimon_url": "https://wikimon.net/Fusamon"
+    },
+    {
+      "id": "bow",
+      "name": "Bowmon",
+      "name_jp": "Bowmon",
+      "name_ko": "바우몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/bow/frame1.gif",
+        "frame2": "sprites/bow/frame2.gif"
+      },
+      "artwork": "sprites/bow/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon whose whole body is covered in soft fur. It takes an interest in everything it sees, and has a habit of sniffing them out. Although it is an active Digimon, it immediately tumbles over when running due to its short legs. It is unable to ascend or descend to places with a difference in elevation greater than the length of its legs, so in areas with uneven elevation, it moves around while rolling. If someone hostile approaches it, it will intimidate them with a spark-filled bark called \"Puppy Spark\".Digimon Reference Book⇨ Englishやわらかい毛で全身がおおわれているレッサー型デジモン。目に入るものすべてに興味をいだき、においを嗅ぎにいくという習性がある。活発なデジモンだが脚が短いため走るとすぐ転んでしまう。脚の長さより高い段差がある場合は歩いて上り下りできないため、段差が多い場所は転がりながら移動をする。自身に敵意がある存在が近づいてくると、「パピースパーク」と呼ばれる火花を帯びた鳴き声で威嚇をする。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Bowmon"
+    },
+    {
+      "id": "looga",
+      "name": "Loogamon",
+      "name_jp": "Loogamon",
+      "name_ko": "루가몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5000",
+        "hp": "2800",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/looga/frame1.gif",
+        "frame2": "sprites/looga/frame2.gif"
+      },
+      "artwork": "sprites/looga/artwork.jpg",
+      "lore": {
+        "en": "A Demon Beast Digimon that is, because of the outdatedInterfaceon its brow, presumed to be an experimental \"Prototype Digimon\" from before Digimon were discovered. It is said that the data of thewargfromreal-worldmythology is embedded within the deepest parts of itsDigicore, and it exhibits behavior so violent you would not expect it from a Child. It may look like a cute puppy at first glance, but those who approach it carelessly will find themselves on the receiving end of a fierce counterattack. Its nature is such that it will recognize those who can control it as its master, and despite being difficult to tame, it can become a reliable companion if one is able to build a relationship of trust with it. Its Special Moves are shooting flames imbued with magical power from its mouth (Howling Fire), and biting with its sharp fangs as it spins (Spiral Bite).Digimon Reference Book⇨ English額に旧式なインターフェースをもつ為、デジモンが発見される以前の実験用の“プロトタイプデジモン”ではないかと推測されている魔獣型デジモン。デジコアの最も深い部分に現実世界の神話に登場する魔狼のデータが埋め込まれているといわれており、成長期には見合わないほどの狂暴なふるまいを見せることがある。一見すると可愛い仔犬のようであるが不用意に接すると手痛い反撃を喰らうことになるだろう。自身を御すことができる存在を主として認識する性質があり、手懐けるのは難しいが信頼関係を結ぶことができれば頼もしい相棒にすることができる。必殺技は口から魔力を込めた火炎を撃ち出す「ハウリングファイア」と鋭い牙で噛みついて回転する「スパイラルバイト」。デジモン図鑑",
+        "ko": "이마에 구식 인터페이스를 갖기 때문에, 디지몬이 발견되기 이전의 실험용 \" 프로토타입 디지몬 \"이 아닐까 추측되고 있는 마수형 디지몬. 디지코어 의 가장 깊은 부분에 현실 세계의 신화에 등장하는 마랑(魔狼)의 데이터가 심어져 있다고 알려져, 성장기 에는 어울리지 않을 정도로 광포한 행동을 보일 수도 있다. 언뜻 보면 귀여운 강아지 같지만 부주의하게 대하면 뼈아픈 반격을 당하게 될 것이다. 자신을 어루만질 수 있는 존재를 주인으로 인식하는 성질이 있어, 길들이기는 어렵지만 신뢰 관계를 맺을 수 있다면 든든한 파트너로 삼을 수 있다. 필살기는 입으로 마력을 담은 화염을 쏘아내는 \"하울링 파이어\"와 날카로운 송곳니로 물고 회전하는 \"스파이럴 바이트\"."
+      },
+      "wikimon_url": "https://wikimon.net/Loogamon"
+    },
+    {
+      "id": "heriss",
+      "name": "Herissmon",
+      "name_jp": "Herissmon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4600",
+        "hp": "3000",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/heriss/frame1.gif",
+        "frame2": "sprites/heriss/frame2.gif"
+      },
+      "artwork": "sprites/heriss/artwork.jpg",
+      "lore": {
+        "en": "It is brimming with curiosity and will lose sight of its surroundings once it finds something to fixate on, although it is also highly cautious and will make its hard, needle-like quills stand on end when it is afraid, curling up into a ball until no sign of danger remains. However, it gets very attached to those it has warmed up to, and will show them its favorite treasures that it keeps stashed in its fur. It seems to have a habit of going on guard whenever it spots aTailmon, due to having been bullied several times in the past. Its Special Moves are attacking the opponent by shooting lightning-coated quills (Lightning Fur), and curling its body up into a ball and charging forth (KenzanDive).Digimon Reference Book⇨ English好奇心旺盛で物事に熱中すると周りが一切目に入らなくなるが、警戒心は強く、怖いと感じると針のように硬い針毛を逆立てて危険が去るまで丸まってやり過ごす。ただし打ち解けた者にはよく懐き、針毛の中に隠したお気に入りの宝物を見せてくれる。過去に何度かいたずらされたことがあり、テイルモンを見ると少し身構えてしまう癖があるようだ。必殺技は、閃光を纏わせた針毛を撃ち出し相手を攻撃する「ライトニングファー」と、ボールのように身体を丸めて突進する「ケンザンダイブ」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Herissmon"
+    },
+    {
+      "id": "bem",
+      "name": "Bemmon",
+      "name_jp": "Bemmon",
+      "name_ko": "벰몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "2900",
+        "ap": "1050"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/bem/frame1.gif",
+        "frame2": "sprites/bem/frame2.gif"
+      },
+      "artwork": "sprites/bem/artwork.jpg",
+      "lore": {
+        "en": "An artificial Digimon that was created experimentally by someone. Programmed only with the command codes for \"eating and getting stronger\", once it defeats an enemy, it uses its \"Fusionize\" to turn them into its flesh and blood.Its Special Move is piercing the enemy with its sharp claws (Messer Claw).Digimon Reference Book⇨ English何者かが実験的に作り出した人工デジモン。「食べる・強くなる」という指示コードのみが組み込まれており、敵を倒すと『フュージョナイズ』で血肉とする。必殺技は、鋭い爪で敵を貫く『メッサークロー』。デジモン図鑑",
+        "ko": "누군가가 실험적으로 만들어낸 인공 디지몬.「먹는다·강해진다」라고 하는 지시 코드만 내장되어 있어 적을 쓰러뜨리면 『퓨저 나이즈』로 흡수한다. 필살기는 날카로운 발톱으로 적을 관통하는 『메서 클로』."
+      },
+      "wikimon_url": "https://wikimon.net/Bemmon"
+    },
+    {
+      "id": "loogar",
+      "name": "Loogarmon",
+      "name_jp": "Loogarmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "5400",
+        "hp": "3300",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/loogar/frame1.gif",
+        "frame2": "sprites/loogar/frame2.gif"
+      },
+      "artwork": "sprites/loogar/artwork.jpg",
+      "lore": {
+        "en": "A Demon Beast Digimon that generates an enormous amount of magical power within its body. The amount of magical power it generates is extraordinary, so it constantly releases it from its mouth in the form of flames. These flames have enough burning and spreading power to incinerate its surroundings just by roaring. Since the flames are rooted in magic, they burn for quite a long time, and those who are attacked will suffer more damage than expected. Because it has an outdatedInterfaceon its brow, it is presumed to be an evolution of a \"Prototype Digimon\". Its Special Moves are amassing flames and firing them from its mouth as a beam (Howling Burner), and enveloping its whole body in magical flames and performing a ramming attack (Flame Blow).Digimon Reference Book⇨ English膨大な魔力を体内で生成する魔獣型デジモン。生成する魔力の量が尋常でないため、口から常に炎に変換した魔力を放出している。この炎は咆哮するだけで周囲を焼け野原にするほどの燃焼力と拡散力がある。魔力を源とする炎であるためかなりの長い時間燃え続け、攻撃を喰らったものは予想以上の被害を被ることとなる。額に旧式なインターフェースをもつ為 “プロトタイプデジモン”の進化系ではないかと推測されている。必殺技は口からビーム状に炎を収束させて放つ「ハウリングバーナー」と全身に魔炎を纏い体当たりをする「フレイムブロウ」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Loogarmon"
+    },
+    {
+      "id": "fil",
+      "name": "Filmon",
+      "name_jp": "Filmon",
+      "name_ko": "필몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5200",
+        "hp": "3600",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/fil/frame1.gif",
+        "frame2": "sprites/fil/frame2.gif"
+      },
+      "artwork": "sprites/fil/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon with many large spikes sprouting out of its body. It has red claws that can pierce through anything, and yellow quills that inject energy into whatever they stab. It has a carefree personality, the kind that likes to collect soft material to help it to sleep comfortably in its nest or search for its favorite foods.Its Special Moves are skewering the enemy with its quills and injecting energy into them that destroys their data (Lightning Stinger), and slashing with the claws on both hands without stopping (Crimson Slash).Digimon Reference Book⇨ English体に大きな棘が何本も生えている獣人型デジモン。どんなものも貫く赤い爪と、刺したものにエネルギーを流し込む黄色い針毛を持つ。寝心地のいい巣材を集めたり好物を探すような、のんびりした性格である。必殺技は、敵を針毛で串刺しにし、エネルギーを流し込みデータを破壊する「ライトニングスティンガー」と、両手の爪で斬撃を途切れなく繰り出す「クリムゾンスラッシュ」。デジモン図鑑",
+        "ko": "몸에 큰 가시가 몇 가닥이나 나 있는 수인형 디지몬. 어떤 것도 꿰뚫는 붉은 손톱과, 찌른 것에 에너지를 주입하는 노란 털바늘을 가지고 있다. 잠자기 좋은 둥지 재료를 모으거나 좋아하는 것을 찾는 느긋한 성격이다. 필살기는 적을 털바늘로 꿰뚫어, 에너지를 주입해 데이터를 파괴하는 『라이트닝 스팅어』와, 양손의 손톱으로 참격을 끊임없이 내보내는 『크림슨 슬래시』."
+      },
+      "wikimon_url": "https://wikimon.net/Filmon"
+    },
+    {
+      "id": "tyrano",
+      "name": "Tyranomon",
+      "name_jp": "Tyranomon",
+      "name_ko": "티라노몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "3700",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/tyrano/frame1.gif",
+        "frame2": "sprites/tyrano/frame2.gif"
+      },
+      "artwork": "sprites/tyrano/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that resembles an ancient dinosaur that existed in the prehistoric world. It sweeps everything away with its two well-developed arms and its gigantic tail. It is extremely easy to tame due to its intelligence and docile personality. For that reason, it is highly valued by beginnerTamers, and is often raised with care. You could probably say that it is a representative figure of the most basic Digimon. Its Special Move is spewing out deep crimson flames the same color as its body (Fire Breath).Digimon Reference Book⇨ English有史以前の世界に存在した古代の恐竜のようなデジモン。発達した２本の腕と巨大な尾で全ての物をなぎ倒す。知性もあり、おとなしい性格のため、とても手なづけやすい。そのため、初級テイマーからは重宝がられ、だいじに育てられることが多い。もっとも基本的なデジモンの代表的存在と言えるだろう。必殺技は身体の色と同じ、深紅の炎を吐き出す『ファイアーブレス』。デジモン図鑑",
+        "ko": "역사가 생기기 이전에 존재한 고대의 공룡 과 같은 디지몬. 발달한 2개의 팔과 거대한 꼬리로 모든 물건을 박살낸다. 지성도 높고 성격도 온순해 길들이기 매우 쉬우므로 [4] 초보 테이머에게는 귀중한 보물같은 존재며, 소중하게 키워지는 경우가 많다. 무엇보다 기본적인 디지몬의 대표적 존재 라고 말할 수 있을 것이다. 필살기는 신체의 색과 같은 진홍의 화염을 토해내는 「파이어 브레스」. 파이어 브레스는 '불뿜기', 슬래시 네일은 '긁기'로 로컬라이징되었다. 참으로 직설적인 번역이 아닐 수 없다."
+      },
+      "wikimon_url": "https://wikimon.net/Tyranomon"
+    },
+    {
+      "id": "dame",
+      "name": "Damemon",
+      "name_jp": "Damemon",
+      "name_ko": "다메몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4800",
+        "hp": "3300",
+        "ap": "1150"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/dame/frame1.gif",
+        "frame2": "sprites/dame/frame2.gif"
+      },
+      "artwork": "sprites/dame/artwork.jpg",
+      "lore": {
+        "en": "Damemon was born by coincidence when the waste data drifting through the Digital World randomly combined. Since\"No good, no good!\"is its favorite phrase, it has a bad habit of criticizing anyone and everyone without reading the room, regardless of the situation. Although it is the most\"No good, no good!\"itself, it somehow gets by with the help of its partner,Tyutyumon. It's only together with Tyutyumon that Damemon can finally be said to be a decent-performing Digimon. Tyutyumon stays in the \"Tyutyu Tray\" on the back of Damemon's head, and takes Damemon to various places to go play. When the two of them are together, every day is Priceless. Its Special Move, \"Bunbun Ken\", involves merely rotating itstonfaand rarely ever hits its target, making it more useful for intimidating enemies instead of dealing damage. Its \"Gun Vulcan\", in which it fires small, black, mysterious objects that spread a foul smell from the hidden guns in its feet and tonfa, repulses enemies and causes them to lose their fighting spirit rather than actually inflicting damage. After firing them, however, it will have to clean up after itself or risk angering the Digimon residing in the area; hence, it is always careful with this move. With its \"Boo~st Attack\"[N 1], it spreads a large amount of smelly gas as it charges forth, though not even Damemon knows where it will fly off to. The damage dealt to the opponent when it does hit, together with the smelly gas, is very large, emotionally.Digimon Reference Book⇨ Englishデジタルワールドに吹き溜まるクズデータがデタラメに組み合わさって偶然誕生したのがダメモンだ。「ダメダメ！」が口癖で誰彼構わず所構わず空気も読まずにダメ出しをする残念な習性を持つ。そんな本人が一番「ダメダメ！」なのだが、相棒のチューチューモンのおかげでなんとかかんとかやっていけている。ダメモンはチューチューモンと一緒にいてやっと一人前のデジモンといえる。後頭部にチューチューモンが居座る「チューチュートレイ」はダメモンを色々な所へ遊びに連れて行く。二体一緒なら毎日がプライスレス。トンファーを回転させるだけでほとんど命中しない必殺の「ブンブン拳」は敵にダメージを与えるよりも怯ませる方に役に立つ。嫌な臭いをまきちらす黒くて小さな謎の物体を足先とトンファーに隠された銃からを発射する「ガンバルカン」は敵にダメージを与えるよりもドン引きさせて戦意を失わせる。撃った後はちゃんと掃除をしないと付近に住んでいるデジモンに怒られるのでいつも注意している。臭いガスを大量にまき散らしながら突撃する「ブー・スト・アタック」はどこに飛んで行くかダメモンすら解らない。命中した時の敵へのダメージは臭いガスも相俟って精神的にとても大きい。デジモン図鑑",
+        "ko": "디지털 월드에 모이는 쓰레기 데이터가 아무렇게나 합쳐저 우연히 탄생한 디지몬. \"다메. 다메.(안돼. 안돼.)\"가 말버릇이며 상대가 누구든 장소가 어디든 상관하지 않고 분위기를 읽지 않고 다메, 다메 거리는 습성을 가진다. 그런 본인이 제일 안되었지만.. 파트너인 츄츄몬 덕분에 어떻게든 해나갈 수가 있다. 다메몬은 츄츄몬과 함께 있어서 겨우 한 사람 분의 디지몬이라고 할 수 있다. 후두부에 츄츄몬이 눌러 앉는 츄츄 트레이는 다메몬을 다양한 곳의 놀이로 데리고 간다. 둘이서 함께라면 매일이 재미있다. 톤파를 회전시키는 것만으로 거의 명중하지 않는 \"윙윙 권\"은 적에게 데미지를 주는 것보다도 기가 죽게 하는 쪽이 도움이 된다. 냄새를 마구 뿌리는 검고 작은 수수께끼의 물체를 발부리와 통파에 숨겨진 총으로부터 발사하는 \"건 발칸\"은 적에게 데미지를 주는 것보다도 전의를 잃게 한다. 공격한 후 제대로 청소하지 않으면 부근에 살고 있는 디지몬이 화가 나므로 언제나 주의하고 있다. 냄새난 가스를 대량으로 흩뿌리면서 돌격하는 \"부 스트라이크 어택\"은 어디로 날아갈까 다메몬조차도 모른다. 명중했을 때의 적에게의 데미지는 냄새나는 가스와 함께 정신적인 충격이 크다. 어째 스카몬 하고 닮은 모습이 보인다. 쥐(츄몬-츄츄몬)랑 같이 다니고, 똥 모양이라는 것... 하지만 스카몬은 얘처럼 멋있게 변할 여지가 없다. 하지만 여타 X 몬 중에선 취급이 제일 좋다."
+      },
+      "wikimon_url": "https://wikimon.net/Damemon"
+    },
+    {
+      "id": "snatch",
+      "name": "Snatchmon",
+      "name_jp": "Snatchmon",
+      "name_ko": "스내치몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5300",
+        "hp": "3400",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/snatch/frame1.gif",
+        "frame2": "sprites/snatch/frame2.gif"
+      },
+      "artwork": "sprites/snatch/artwork.jpg",
+      "lore": {
+        "en": "An artificial Digimon that evolved after severalBEMmonthat grew stronger began cannibalizing each other and one survived until the very end. In addition to Snatchmon that await command codes to act, it is said that there are some individuals that develop a sense of self, seek greater strength, and aim to become the strongest by continually preying on their enemies.Its Special Moves are firing from the back of its arms (Ruin Laser), tearing the enemy to pieces with the tip of its tail (Tooth-spear), and feeding upon defeated opponents with its \"Fusionize\".Digimon Reference Book⇨ English強く成長した複数のベムモンが共食いを始め、最後まで勝ち残り進化した人工デジモン。スナッチモンには指示コードを待って活動するものの他に、自我が芽生えさらなる強さを求め、敵を捕食し続けて最強になることを目論む個体が現れるという。必殺技は、腕の甲から放つ『ルインレーザー』と、尻尾の先で切り裂く『トゥースピア』、そして打ち負かした相手を『フュージョナイズ』で自らの糧とする。デジモン図鑑",
+        "ko": "강하게 성장한 여러 벰몬이 서로 잡아먹기 시작해 최후에 이기고 남은 개체가 진화한 인공 디지몬. 스나치몬에게는 지시 코드를 기다렸다 활동하는 것 외에 자아가 싹텄으며 더 강한 힘을 요구하며 적을 계속 잡아먹어 최강이 되는 것을 목표로 하는 개체가 나타난다고 한다. 필살기는 손등에서 쏘는 『루인 레이저』와 꼬리 끝으로 잘라내는 『투스피어』, 그리고 쓰러뜨린 상대를 『퓨저 나이즈』로 자신의 양식으로 삼는다."
+      },
+      "wikimon_url": "https://wikimon.net/Snatchmon"
+    },
+    {
+      "id": "soloogar",
+      "name": "Soloogarmon",
+      "name_jp": "Soloogarmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4300",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/soloogar/frame1.gif",
+        "frame2": "sprites/soloogar/frame2.gif"
+      },
+      "artwork": "sprites/soloogar/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that succeeded in controlling the sinister magic data of the mythicalwarg, which slept within the deepest parts of itsDigicore. Program code written in a special language lines the inside of the armor that covers its whole body, suppressing its enormous amount of magical power, which is transformed into raging magical flames, as if it were sealed magic. Soloogarmon is able to freely manipulate the magical flames by modifying the program code, and these manipulated flames can be utilized for all kinds of actions, such as attacking, moving, and posture control. It can produce a focused, ultra-high-temperature magical flame called \"Prominence Laser\" from the index and middle fingers of both its hands, and despite being a flame, it can shoot through distant enemies as if it were a laser beam. Its Special Move is making the magical flame of the \"Vánagandr\", the mace in its right hand, burn at its highest temperature, forming a blade and slashing with it (Eruption Howling). It is said that when the ultra-high-temperature flame blade chafes against the air, it makes a sound like the howling of a wolf. In addition, it also uses \"SköllRage\", an attack where it uses the thrust of the magical flames spurting from both its shoulders to move at high speed, and then hurl theVánagandrat the opponent.Digimon Reference Book⇨ Englishデジコア（電脳核）の最深部に眠っていた神話に登場する魔狼の禍々しい魔力データの制御に成功したデジモン。全身を覆う鎧の内部には特殊な言語で記述されたプログラムコードが走っており、荒れ狂う魔炎と化している膨大な魔力をさながら封印魔法のように制御している。ソルガルモンはこのプログラムコードを操作することで自在に魔炎を操ることが可能であり、操作された魔炎は攻撃や移動、姿勢制御などすべての行動に生かすことが可能である。両手の人差し指と中指からは「プロミネンスレーザー」と呼ばれる収束した超高温の魔炎を生成でき、火炎でありながら遠距離の敵をレーザービームのように撃ち抜くことが可能である。必殺技は右手のメイス「ヴァナルガンド」に極限まで魔炎を高温燃焼させて刃を形成し斬撃する「イラプションハウリング」。超高温の炎の刃が空気と擦れる際に狼の遠吠えのような音を発すると言われている。また、両肩から魔炎を吹き出す推力で高速移動し「ヴァナルガンド」を相手に打ち付ける攻撃「スコルレイジ」も扱う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Soloogarmon"
+    },
+    {
+      "id": "stiffil",
+      "name": "Stiffilmon",
+      "name_jp": "Stiffilmon",
+      "name_ko": "스티필몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5600",
+        "hp": "4600",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/stiffil/frame1.gif",
+        "frame2": "sprites/stiffil/frame2.gif"
+      },
+      "artwork": "sprites/stiffil/artwork.jpg",
+      "lore": {
+        "en": "Only a small fraction ofFilmonwho have tempered their quills to the extreme can achieve evolution into this Perfect Digimon. The fur covering its entire body is said to rivalRed Digizoidin hardness, acting as both a shield that protects its body from harm and as a weapon that boasts unparalleled offensive power. The \"Hurricane Knuckles\" it wields in both hands are its prided weapons, made from compressing its own shed fur to ultra-high density. It trains diligently on a daily basis, dreaming of the day that it can finally faceWere Garurumon—who it views as its rival—in battle. Its Special Moves are charging forth while doing a high-speed drillspin, cleaving the opponent to bits with its bristled quills andHurricane Knuckles(Giga Crimson Dive), and causing the red, drill-shaped spears all over its body to extend, annihilating multiple enemies in one go (Vermilion Vortex).Digimon Reference Book⇨ Englishフィルモンの中でも、針毛を極限にまで鍛えた一部の者しか到達できない完全体デジモン。全身の毛の硬度はレッドデジゾイドに匹敵するとも言われ、身を守る盾であると同時に無類の攻撃力を誇る矛になっている。両手の『ハリケンナックル』も、抜け落ちた自身の毛を超高密度に圧縮した自慢の武器だ。ライバル視しているワーガルルモンといつか手合わせする日を夢見て日々精進している。必殺技は、高速できりもみ回転しながら突進し、逆立てた針毛とハリケンナックルで敵を滅多斬りにする「ギガクリムゾンダイブ」と、全身からドリル状の赤い槍を伸ばし複数の敵を一気に殲滅する「ヴァーミリオンボルテックス」。デジモン図鑑",
+        "ko": "필몬 중에서도, 털바늘이 극한까지 단련된 일부 밖에 도달할 수 없는 완전체 디지몬. 전신의 털의 강도는 레드디지조이드 에 필적한다 하며, 몸을 지키는 방패이자 동시에 비할 데 없는 공격을 자랑하는 창이 되어 있다. 양손의 『허리케인 너클』도 빠진 자신의 털을 초고밀도로 압축한 자랑스러운 무기이다. 라이벌시하는 워가루몬 과 언젠가 마주할 날을 꿈꾸며 하루하루 정진하고 있다. 필살기는 고속으로 회전하며 돌진, 곤두세운 털바늘과 허리케인 너클로 적을 마구 베는 『기가 크림슨 다이브』와, 전신으로부터 드릴 모양의 붉은 창을 뻗어 여러 적을 한번에 섬멸하는 『버밀리언 볼텍스』."
+      },
+      "wikimon_url": "https://wikimon.net/Stiffilmon"
+    },
+    {
+      "id": "helloogar",
+      "name": "Helloogarmon",
+      "name_jp": "Helloogarmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "4000",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/helloogar/frame1.gif",
+        "frame2": "sprites/helloogar/frame2.gif"
+      },
+      "artwork": "sprites/helloogar/artwork.jpg",
+      "lore": {
+        "en": "A Digimon in a chaotic state, overflowing with an enormous amount of magical power, whose form was released through theInterfaceon its brow by the sinister magic data of the mythicalwarg, which slept within the deepest parts of itsDigicore. That enormous amount of magical power is transformed into magical flames, which keep spewing forth endlessly. The ultra-high-temperature magical flames have consumed even Helloogarmon itself, so nearly its entire body has been replaced by those flames. It has also lost its sense of self, and its sole governing principle is to incinerate everything around it. Its Special Moves are firing a blast of flames that spread from its mouth (Howling Burst), and tearing the enemy to pieces with its claws enveloped in ultra-high-temperature magical flames (Inferno Claw). The attack in which it unleashes \"Inferno Claw\" with both hands, and crushes the opponent between its hands while tearing them apart is called \"HatiEmbrace\".Digimon Reference Book⇨ Englishデジコア（電脳核）の最深部に眠っていた神話に登場する魔狼の禍々しい魔力データが、額のインターフェースによって解き放たれた姿であり、膨大な魔力が氾濫した無秩序な状態のデジモン。膨大な魔力は魔炎に変換され、尽きることなく湧き出し続けている。超高温の魔炎はヘルガルモン自身の体をも焼き尽くしているため、全身のほとんどが魔炎に置き換わってしまっている。自我も失われており、周囲のあらゆるものを焼き尽くすことだけが行動原理である。必殺技は口から拡散される爆風炎を放つ「ハウリングバースト」と超高温の魔炎をまとった爪で敵を切り裂く「インフェルノクロー」。両手で「インフェルノクロー」を放ち、相手を切り裂きながら挟み込んでつぶしてしまう攻撃は「ハティエンブレイス」と呼ばれる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Helloogarmon"
+    },
+    {
+      "id": "andro",
+      "name": "Andromon",
+      "name_jp": "Andromon",
+      "name_ko": "안드로몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5000",
+        "hp": "3900",
+        "ap": "1450"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/andro/frame1.gif",
+        "frame2": "sprites/andro/frame2.gif"
+      },
+      "artwork": "sprites/andro/artwork.jpg",
+      "lore": {
+        "en": "A human-type Cyborg Digimon. It possesses a fighting strength which can fell a Digimon below Perfect in a single blow. Andromon was developed as aprototypefor Cyborg Digimon, and the mechanically-based Andromon and organically-based cyborgBoltmonwere manufactured at the same time. This technology was appropriated forMetal GreymonandMegadramon. As a prototype Digimon it possesses neither will nor emotion, and it is faithful to its programmed behavior. It was upgraded with a program based on the data acquired from the Andromon ofFile Island, and the strength of that program varies. Its Special Move is a blade of energy which it fires from its arm module (Spiral Sword).Digimon Reference Book⇨ English人型タイプのサイボーグデジモン。完全体になりきれていないデジモンなど一撃で倒す戦闘力を持っている。アンドロモンはサイボーグデジモンの試作型として開発され、機械ベースのアンドロモンと肉体ベースのサイボーグ「ボルトモン」は同時期に製造された。その技術はメタルグレイモンやメガドラモンに流用されている。試作型のデジモンのため意思や感情は持っておらず、プログラムされた行動に忠実である。ファイル島のアンドロモンから得たデータを元にバージョンアップのプログラムを施されており、その強さは桁違いである。必殺技はアーム部分から発射されるエネルギー状の刃物『スパイラルソード』。デジモン図鑑",
+        "ko": "인간형 사이보그 디지몬. 완전체가 되지 못한 디지몬이라면 일격에 쓰러뜨리는 전투력을 가지고 있다. 안드로몬은 사이보그 디지몬의 시작형으로 개발됐고, 기계 기반의 안드로몬과 육체 기반의 사이보그 볼트몬 은 같은 시기에 제조됐다. 그 기술은 메탈그레이몬 이나 메가드라몬 에 유용되고 있다. 시작형 디지몬이기 때문에 의지나 감정은 가지고 있지 않고, 프로그램된 행동에 충실하다. 파일섬의 안드로몬으로부터 얻은 데이터를 바탕으로 버전 업 프로그램을 사용하고 있어, 그 강함은 월등하다. 필살기는 암 부분에서 발사되는 에너지 형상의 칼날 「스파이럴 소드 [4] [5] [6] 」. 디지털 몬스터 인간형 사이보그 디지몬. 인간형으로서는 최강의 강함을 자랑하며, 완전체가 되지 못한 디지몬이라면 일격에 쓰러뜨리는 파괴력을 가지고 있다. 안드로몬은 사이보그 디지몬의 시작형으로서 개발되었고, 그 기술은 메탈그레이몬 이나 메탈콩알몬 으로 완성되었다. 시작형 디지몬이기 때문에 감정이나 의지를 갖고 있지 않고, 프로그램된 행동밖에 할 수 없다. 필살기는 가슴 해치에서 발사되는 소형의 「개틀링 미사일」과 암 부분에서 발사되는 에너지 형상의 칼날 「스파이럴 소드」."
+      },
+      "wikimon_url": "https://wikimon.net/Andromon"
+    },
+    {
+      "id": "mastertyrano",
+      "name": "Master Tyranomon",
+      "name_jp": "Master Tyranomon",
+      "name_ko": "마스터티라노몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4900",
+        "hp": "4200",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mastertyrano/frame1.gif",
+        "frame2": "sprites/mastertyrano/frame2.gif"
+      },
+      "artwork": "sprites/mastertyrano/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon that evolved from aTyranomonthat overcame many fierce battles. The scars covering its body act as proof of the numerous battles it has survived. It takes on a master-like role, coaching its Tyranomon followers and raising them to become full-fledged warriors. Its Special Move is razing the enemy with the high-temperature flames it breathes from its mouth (Master Fire).Digimon Reference Book⇨ Englishティラノモンが激戦を勝ち抜いて進化した恐竜型デジモン。体中のキズは数多くの戦いで勝ち残った証である。子分のティラノモンたちを一人前の戦士に育てるために修行させている、師匠のような存在。必殺技は、口から吐き出す高熱の炎で敵を焼きつくす『マスターファイアー』。デジモン図鑑",
+        "ko": "티라노몬 이 격전을 승리로 이겨낸 끝에 도달한 공룡형 디지몬. 온몸의 상처 [1] 는 수많은 격전에서 이겨왔다는 증거다. 제자인 티라노몬들을 한 명의 어엿한 전사로 키워내기 위해 수행시키고 있는, 스승과 같은 존재다. 필살기는 입에서 토해내는 고열의 불로 적을 태워버리는 「마스터 파이어」."
+      },
+      "wikimon_url": "https://wikimon.net/Master_Tyranomon"
+    },
+    {
+      "id": "destro",
+      "name": "Destromon",
+      "name_jp": "Destromon",
+      "name_ko": "디스트로몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5700",
+        "hp": "4300",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/destro/frame1.gif",
+        "frame2": "sprites/destro/frame2.gif"
+      },
+      "artwork": "sprites/destro/artwork.jpg",
+      "lore": {
+        "en": "A Perfect Digimon that took in the data of the most powerful battleship in the world. It boasts a size capable of transporting combat Digimon and the like, and once it reaches a strike point, it will join the battle with its overwhelming destructive power.Its armaments include the \"San Renshōhō\" on its arms, the \"Juggernaut Blast\", which is fired from its chest, and the \"Long-Range Buster Cannon\" on its back, all of which have high firepower, so not even dust will be left behind when attacked by Destromon.Digimon Reference Book⇨ English世界最強の戦艦とされるデータを取り込んだ完全体デジモン。戦闘用デジモンなどを輸送できる大きさを誇り、襲撃ポイントに到達すれば自らも圧倒的な破壊力で戦いに加わる。武装は腕の『3連装砲』、胸から放つ『ジャガーノートブラスト』　背中の『ロングレンジバスターキャノン』と高火力なものばかりで、デストロモンに攻められれば塵すら残らない。デジモン図鑑",
+        "ko": "세계 최강의 전함으로 여겨지는 데이터를 받아들인 완전체 디지몬. 전투용 디지몬 등을 수송할 수 있는 크기를 자랑하며, 습격 포인트에 도달하면 스스로도 압도적인 파괴력으로 싸움에 참가한다. 무장은 팔의 『3연장포』, 가슴에서 발사하는 『저거노트 블래스트』 등의 『롱 레인지 버스터 캐논』으로 고화력인 것만있으며, 디스트로몬에게 공격받으면 먼지조차 남지 않는다."
+      },
+      "wikimon_url": "https://wikimon.net/Destromon"
+    },
+    {
+      "id": "fenrilooga",
+      "name": "Fenriloogamon",
+      "name_jp": "Fenriloogamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6800",
+        "hp": "5500",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/fenrilooga/frame1.gif",
+        "frame2": "sprites/fenrilooga/frame2.gif"
+      },
+      "artwork": "sprites/fenrilooga/artwork.jpg",
+      "lore": {
+        "en": "Fenriloogamon is an imaginary Digimon born from the \"Daydream of aDigicore\". It is a form that had even the Digicore's own creativity miraculously released through theInterfaceon its brow, and evolved. Possibly because it naturally possessed the data of thewargfromreal-worldmythology within its Digicore, the form created by its Digicore is an \"Ultimate Demon Beast\", clad in silver armor and wielding an inexhaustible supply of magical power. The magical blue flames that envelop its whole body are kept under control at its own volition, and despite having an extremely high burning temperature, they normally flicker silently and beautifully. Its Special Moves are causing the blue flames that cover its body to explosively combust in an instant while howling, incinerating its surroundings (RagnarökHowling), and tearing the opponent to pieces with laser-like magical flames that spurt from its limbs (JötunheimrGale). In addition, it can also summon a duplicate of itself made of magical flames called \"Hróðvitnir\", and since the duplicate uses the same techniques as Fenriloogamon, those who face it will struggle considerably.Digimon Reference Book⇨ Englishフェンリルガモンとは、“デジコア（電脳核）の空想”が生み出した架空のデジモンである。額のインターフェースによってデジコア自身の創造力までもが奇跡的に解き放たれて進化した姿である。元々デジコア内に現実世界の神話に登場する魔狼のデータを持っていた為か、デジコアの創造した姿は、白銀の鎧をまとった無尽蔵の魔力を持つ“究極の魔獣”であった。全身に帯びた蒼い魔炎は自身の意思の制御下にあり、超々高温の燃焼温度ではあるが、平時には音もなく静かに美しく揺らめいている。必殺技は身にまとった蒼き炎を遠吠えとともに瞬時に爆発燃焼させ周囲を焼却する「ラグナロクハウリング」と四肢からレーザー状に噴出している魔炎で相手を切り裂く「ヨトゥンヘイムゲイル」。さらに「フローズヴィトニル」と呼ばれる魔炎の分身を召喚することもでき、この分身はフェンリルガモンと同じ技を扱えるため、相対するものは相当に苦戦することだろう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Fenriloogamon"
+    },
+    {
+      "id": "rasen",
+      "name": "Rasenmon",
+      "name_jp": "Rasenmon",
+      "name_ko": "라센몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6000",
+        "hp": "6000",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/rasen/frame1.gif",
+        "frame2": "sprites/rasen/frame2.gif"
+      },
+      "artwork": "sprites/rasen/artwork.jpg",
+      "lore": {
+        "en": "Rasenmon's true form, which it attained after accepting its negative emotions without fearing them and regaining the courage it needed to believe in itself. Having broken free ofthe negative emotions that shackled it down, it is now reborn into this new form and is able to completely control the power that drove it berserk in the past; its violent temperament has also faded, and it now sports a kind and gentle personality.In battle, it is capable of amassing even more power by absorbing the energy derived from its allies' emotions; however, it is only able to use this ability to carry out actions it believes are right.Its Special Moves are dishing out a powerful punch while spinning the blades on its arm (Gyro Smash), as well as spinning its blades at extremely high speed, creating tornadoes that strike the opponent (Qualialise Blast). Not only that, Rasenmon's \"Spiral Vanish\" move, in which it shoots out and fuses all of the spiral-shaped spines covering its body to form a gigantic drill which it uses to impale the opponent, is its trump card where it unleashes all of the emotion energy it has stored together with its drill to deliver a crushingly powerful blow.Digimon Reference Book⇨ English負の感情を恐れず受け入れることで、自分を信じる勇気を取り戻したラセンモンの真の姿。負の連鎖を断ち切り生まれ変わったこの姿は、暴走していた力を完全に制御できるようになり、凶暴な気性も落ち着き、心優しく穏やかな性格になっている。戦闘時においては、味方の感情をエネルギーとして取り込むことで更に力を蓄えることができ、ラセンモンは自身が正しいと思うことにのみその力を行使する。必殺技は腕のブレードを回転させながら強力なパンチを繰り出す「ジャイロスマッシュ」と、ブレードを更に超高速で回転させて起こす竜巻を敵にぶつける「クオリアライズブラスト」。また、射出した全身の螺旋棘を合体させた巨大ドリルで敵を貫く「スパイラルヴァニッシュ」は、蓄えた感情エネルギーをドリルと共に放出することで超強力な一撃を繰り出すラセンモンの切り札である。デジモン図鑑",
+        "ko": "부정적인 감정을 두려워하지 않고 받아들이는 것으로, 자신을 믿는 용기를 되찾은 라센몬의 진정한 모습. 부정의 연쇄를 끊고 거듭난 이 모습은 폭주하던 힘을 완전히 제어할 수 있게 되었고, 흉폭한 성격도 침착하고 상냥하고 온화한 성격이 되었다. 전투 시에는 아군의 감정을 에너지로 수용함으로써, 더욱 힘을 비축할 수 있고, 라센몬은 자신이 옳다고 생각한 것에만 그 힘을 행사한다. 필살기는 팔의 블레이드를 회전시키며 강력한 펀치를 날리는 『자이로 스매시』와, 블레이드를 더욱 초고속으로 회전시켜 일어나는 소용돌이를 적에게 부딪히는 『퀄리얼라이즈 블래스트』. 또한, 사출한 전신의 나선 가시를 합체시킨 거대 드릴로 적을 관통하는 『스파이럴 배니시』는 축적된 감정 에너지를 드릴과 함께 방출함으로써 초강력한 일격을 내보내는 라센몬의 비장의 패다."
+      },
+      "wikimon_url": "https://wikimon.net/Rasenmon"
+    },
+    {
+      "id": "rasen_f",
+      "name": "Rasenmon: Fury Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5800",
+        "hp": "5800",
+        "ap": "2000"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A ruthless, nine-tailed Ultimate Digimon that became unable to control its power of darkness when large amounts of negative emotion data flowed in from others while it was evolving from aPerfect Digimon. It is a destroyer that gave in to its rampaging power of darkness when it finished evolving, instinctively devastating its surroundings. It suffers from inner conflict stemming from its fear of and attempts to reject the swirling negative emotions inside of itself, which gave rise to its destructive impulses and subsequently its vicious personality.Its Special Moves are extending its large, spiral-shaped tails and skewering the opponent over and over again (Desperate Vortex), and pouncing on the opponent, devouring theirDigicoredirectly (Predator's Bite). In addition, it indiscriminately attacks by rapidly spinning the blades on its wrists, tearing apart everything in their surroundings while generating tornadoes (Spiral Hell).Digimon Reference Book⇨ English完全体デジモンが進化する時、他者からマイナスの感情データが大量に流れ込み闇の力を制御できなくなった九尾を持つ凶悪な究極体デジモン。進化が終わると同時に暴走した闇の力に身を任せ、衝動のままに周囲へ被害をまき散らす破壊者。凶暴な性格となったのは、自分の中に渦巻く負の感情を怖れ、拒絶する葛藤の苦しみが破壊衝動を生み出した結果である。必殺技は大きな螺旋状の尻尾を伸縮させ、何度も敵を串刺しにする「デスペレイトボルテックス」と、敵にのしかかり、直接相手のデジコアに食らいつく「プレデターズバイト」。そして、手首のブレードを高速回転させ、竜巻を起こしながら周囲一帯を斬り刻む無差別攻撃「スパイラル・ヘル」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rasenmon:_Fury_Mode"
+    },
+    {
+      "id": "hiandro",
+      "name": "Hi Andromon",
+      "name_jp": "Hi Andromon",
+      "name_ko": "하이안드로몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5100",
+        "hp": "5200",
+        "ap": "1850"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/hiandro/frame1.gif",
+        "frame2": "sprites/hiandro/frame2.gif"
+      },
+      "artwork": "sprites/hiandro/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Cyborg Digimon that was perfected by improving the incompleteAndromon. The percentage ofChrome Digizoidparts which compose its body has increased, and it is impossible to miss the extent of its gains in offensive and defensive power from this, compared to Andromon. Additionally, while the Bio-Synapse circuits which govern its thinking were incomplete when it was an Andromon, by adding Chrome Digizoid parts to them, it has become self-aware and thus capable of executing its objectives. Because it is both a Vaccine-species and a Cyborg, its attacks against Virus-types are not only scarily accurate but also intense. Its Special Move is taking the fission energy emanating from the blue neutron-control turbine on its right shoulder and the fusion energy emanating from the red atom-control turbine on its left shoulder, combining them at the tip of its hands, and then firing off a beam which annihilates the opponent (Atomic Ray).Digimon Reference Book⇨ English不完全であったアンドロモンを改良し完成させた究極体のサイボーグ型デジモン。ボディを構成するクロンデジゾイド・パーツの割合が多くなっており、その事からもアンドロモンとは比較にならないほどの攻撃力・防御力を得ていることが判別できる。またアンドロモンでは未完であった思考を司るバイオ・シナプス回路もクロンデジゾイド・パーツを追加する事により、自ら思考し、目的を遂行する事が可能になった。ワクチン種でサイボーグ型でもあるために、ウィルスタイプに対しての攻撃は、恐ろしいまでに正確かつ強烈である。必殺技は、右肩の青い中性子制御タービンから放出される中性子エネルギーと左肩の赤い原子制御タービンから放出される原子エネルギーを両手の先で融合させて、相手を消滅させる光線を打ち出す『アトミック・レイ』。デジモン図鑑",
+        "ko": "불완전했던 안드로몬 을 개량해 완성시킨 궁극체 사이보그형 디지몬. 몸을 구성하는 크롬디지조이드 부품의 비율이 늘어 안드로몬과는 비교 되지 않을 만큼의 공격력과 방어력을 얻었다. 또한 안드로몬 때 미완성이었던 바이오시냅스 회로도 크롬디지조이드 파츠를 추가하는 것으로 완성, 스스로 생각하고 목적을 수행하는 것이 가능하게 되었다. 백신종의 사이보그형이기 때문에 바이러스 유형 디지몬을 상대로 한 공격은 무서울 정도로 정확하고 강렬하다. 필살기는 오른쪽 어깨의 파란 중성자 제어 터빈에서 방출되는 중성자 에너지와 왼쪽 어깨의 빨간 원자 제어 터빈에서 방출되는 원자 에너지를 양손 끝으로 융합시켜 상대를 소멸시키는 광선을 내세우는 \"아토믹 레이\""
+      },
+      "wikimon_url": "https://wikimon.net/Hi_Andromon"
+    },
+    {
+      "id": "rusttyrano",
+      "name": "Rust Tyranomon",
+      "name_jp": "Rust Tyranomon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "5500",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/rusttyrano/frame1.gif",
+        "frame2": "sprites/rusttyrano/frame2.gif"
+      },
+      "artwork": "sprites/rusttyrano/artwork.jpg",
+      "lore": {
+        "en": "The Ultimate ofTyranomonwho has lived through the fierce, continuing battles that have lasted since the genesis of theDigital World, and evolved alongside it. Having endured many years in harsh environments asMetal Tyranomon, its whole cyborg body shows signs of rust. Its tactics are geared towards annihilation warfare, and it is capable of ravaging an entire enemy base by itself. Rust Tyranomon has the nature of a Digimon predator, gorging on hundreds of thousands of Digimon within a short period without leaving a trace. Its Special Moves are extending forth the battery on its back and firing its large-scale electromagnetic cannon (Terror's Cluster), and spewing deep scarlet flames, the same color as its body (Rust Breath). Its \"Rust Breath\" induces a rusting effect on whatever it touches. Even in close combat, it pins the opponent down with its power and destructive force, which are top-class among Cyborg Digimon.Digimon Reference Book⇨ Englishデジタルワールド創生から長きに渡る激戦を、進化とともに潜り抜けてきたティラノモンの究極体。メタルティラノモンから過酷な環境下を長年耐え、全身のサイボーグは赤錆となっている。戦術は殲滅戦に特化され、１体で敵の拠点もろとも薙ぎ払う。ラストティラノモンはデジモンを捕食する性質をもち、何百何千ものデジモンも僅かな時間で跡形もなく平らげてしまう。必殺技は、背中の砲台を前方に展開して大型な電磁砲を撃ちだす『テラーズクラスター』と、身体の色と同じ深緋の炎を吐き出す『ラストブレス』。『ラストブレス』は触れた先から錆にさせる効果を持つ。格闘においてもサイボーグ型デジモンでトップクラスのパワーと破壊力で相手をねじ伏せる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rust_Tyranomon"
+    },
+    {
+      "id": "ragna",
+      "name": "Ragnamon",
+      "name_jp": "Ragnamon",
+      "name_ko": "라그나몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5600",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ragna/frame1.gif",
+        "frame2": "sprites/ragna/frame2.gif"
+      },
+      "artwork": "sprites/ragna/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate that boasts the largest size among Digimon. Having taken in the data of an artificial satellite, it possesses a variety of satellite weapons that are enough to annihilate vast areas of ​​theDigital Worldfrom high above. However, it requires a large amount of resources to operate, necessitating the support of proficienthackers, so there are few records of it appearing on the battlefield.Its Special Moves are \"GimletGun\", in which it pierces with its tail, \"Spaser\", in which it fires an enormous laser from its head, \"Shuttle Scissors\", in which it seizes the enemy with its right arm and severs them, \"Satellite Buster\", in which it picks off distant enemies with the gun barrels on its shoulders, and \"RagnarökCannon\", which is fired from its chest, providing maximum offensive power. In addition, whenever it receives an attack from the enemy, it analyzes it, and is capable of unleashing that attack's power back at them.Digimon Reference Book⇨ Englishデジモンとして最大級の大きさを誇る究極体。人工衛星のデータを取り込み、はるか上空からデジタルワールドの広範囲を壊滅させるほどの多彩な衛星兵器を持つ。しかし活動するには大量のリソースを必要とし、優秀なハッカーたちの助力が不可欠であり、戦場に現れた記録は乏しい。必殺技は尻尾で貫く『ギムレットガン』、頭部から巨大なレーザーを撃つ『スペイザー』、右腕で敵を挟み切断する『シャトルシザーズ』、両肩の砲身から遥か遠い敵も狙い撃つ『サテライトバスター』、そして最大の攻撃力となる胸部から発射する『ラグナロク・キャノン』がある。さらに敵の攻撃を受けると解析し、その威力をそのまま放つことも可能だ。デジモン図鑑",
+        "ko": "디지몬으로서 최대급의 크기를 자랑하는 궁극체. 인공위성의 데이터를 받아들였기 때문에, 아득한 상공에서 디지털 월드의 광범위한 지역을 궤멸시킬 정도의 다채로운 위성 무기를 가진다. 그러나 활동하기 위해 대량의 자원을 필요로 하고 우수한 해커들의 조력이 필수적인 탓에 전장에 나타난 기록은 부족하다. 필살기는 꼬리로 관통하는 『김렛건』, 머리에서 거대한 레이저를 쏘는 『스페이저』, 오른팔에 적을 끼워 절단하는 『셔틀 시저즈』, 양 어깨 포신으로 매우 멀리 있는 적을 노리는 『새틀라이트 버스터』, 그리고 최대 공격력인 흉부에서 발사하는 『라그나로크 캐논』이 있다. 더 나아가 적의 공격을 받으면 그것을 해석해, 그 위력을 그대로 날릴 수도 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Ragnamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bow",
+      "to": "looga",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bow",
+      "to": "heriss",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bow",
+      "to": "bem",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 1 Cleared"
+      }
+    },
+    {
+      "from": "looga",
+      "to": "loogar",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "heriss",
+      "to": "loogar",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "looga",
+      "to": "fil",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "heriss",
+      "to": "fil",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "looga",
+      "to": "tyrano",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bem",
+      "to": "tyrano",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "heriss",
+      "to": "dame",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bem",
+      "to": "dame",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "looga",
+      "to": "snatch",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    },
+    {
+      "from": "bem",
+      "to": "snatch",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 4 Cleared"
+      }
+    },
+    {
+      "from": "loogar",
+      "to": "soloogar",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fil",
+      "to": "soloogar",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "soloogar",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "loogar",
+      "to": "stiffil",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "fil",
+      "to": "stiffil",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "loogar",
+      "to": "helloogar",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "helloogar",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "snatch",
+      "to": "helloogar",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "8+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "fil",
+      "to": "andro",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "dame",
+      "to": "andro",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,500+",
+        "Battles": "4+",
+        "Win Ratio": "30%+"
+      }
+    },
+    {
+      "from": "tyrano",
+      "to": "mastertyrano",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "snatch",
+      "to": "mastertyrano",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dame",
+      "to": "destro",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "snatch",
+      "to": "destro",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "soloogar",
+      "to": "fenrilooga",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "helloogar",
+      "to": "fenrilooga",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "soloogar",
+      "to": "rasen",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "stiffil",
+      "to": "rasen",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "stiffil",
+      "to": "rasen_f",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "helloogar",
+      "to": "rasen_f",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "andro",
+      "to": "hiandro",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "destro",
+      "to": "hiandro",
+      "conditions": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "andro",
+      "to": "rusttyrano",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "to": "rusttyrano",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "mastertyrano",
+      "to": "ragna",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "destro",
+      "to": "ragna",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "fusa",
+      "to": "bow",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

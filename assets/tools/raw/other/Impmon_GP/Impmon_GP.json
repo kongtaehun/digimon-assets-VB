@@ -1,0 +1,138 @@
+{
+  "id": "imp_gp",
+  "name": "Impmon GP",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_imp_gp.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_kii.gif",
+  "digimon": [
+    {
+      "id": "kii",
+      "name": "Kiimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kii.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kii.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kii.jpg"
+    },
+    {
+      "id": "yaa",
+      "name": "Yaamon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/yaa.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/yaa.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/yaa.jpg"
+    },
+    {
+      "id": "imp",
+      "name": "Impmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/imp.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/imp.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/imp.jpg"
+    },
+    {
+      "id": "wizar",
+      "name": "Wizarmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wizar.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wizar.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wizar.jpg"
+    },
+    {
+      "id": "baal",
+      "name": "Baalmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/baal.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/baal.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/baal.jpg"
+    },
+    {
+      "id": "beelzebu_2010",
+      "name": "Beelzebumon (2010)",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/beelzebu_2010.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/beelzebu_2010.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/beelzebu_2010.jpg"
+    },
+    {
+      "id": "beelzebu",
+      "name": "Beelzebumon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/beelzebu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/beelzebu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/beelzebu.jpg"
+    },
+    {
+      "id": "beelzebu_b",
+      "name": "Beelzebumon: Blast Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/beelzebu_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/beelzebu_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/beelzebu_b.jpg"
+    }
+  ],
+  "evolution_edges": []
+}

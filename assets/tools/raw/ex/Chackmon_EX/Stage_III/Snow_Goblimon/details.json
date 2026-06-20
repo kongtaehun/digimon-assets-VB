@@ -1,0 +1,42 @@
+{
+  "id": "snowgobli",
+  "name": "Snow Goblimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/snowgobli.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/snowgobli.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/snowgobli.jpg",
+  "appearances": [
+    {
+      "dim_id": "chack_ex",
+      "dim_name": "Chackmon EX",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Snow Goblimon",
+    "name_en": "SnowGoblimon",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "stats": {
+      "dp": "(★)",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

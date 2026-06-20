@@ -1,0 +1,94 @@
+{
+  "id": "jaegerdorulu",
+  "name": "Jaeger Dorulumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jaegerdorulu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jaegerdorulu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/jaegerdorulu.jpg",
+  "appearances": [
+    {
+      "dim_id": "who",
+      "dim_name": "Wolf Howl",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "garuru",
+        "drimoge",
+        "dorulu"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Jaeger Dorulumon",
+    "name_en": "JaegerDorulumon",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "30 (★7)",
+      "hp": "14",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "drimoge",
+        "name": "Drimogemon",
+        "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "dorulu",
+        "name": "Dorulumon",
+        "conditions": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "garuru",
+        "name": "Garurumon",
+        "conditions": "• Jogress with Virus Adult (TSH)• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "garuru_b",
+        "name": "Garurumon (Black) (WHo)",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "mercury",
+        "name": "Mercurymon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "omega_z",
+        "name": "Omegamon (Zwart) (TSH)",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "zdgaruru",
+        "name": "Z'D Garurumon",
+        "conditions": "• Jogress with Vaccine or Free Perfect (TSH)• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "metalgaruru_b",
+        "name": "Metal Garurumon (Black)",
+        "conditions": "• Jogress with Data Perfect (TSH)• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio (WHo)"
+      },
+      {
+        "id": "metalgaruru",
+        "name": "Metal Garurumon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "torta",
+  "name": "Tortamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/torta.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/torta.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/torta.jpg",
+  "appearances": [
+    {
+      "dim_id": "tdu",
+      "dim_name": "Titan of Dust",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "sunariza"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Tortamon",
+    "name_en": "Tortomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "5",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "sunariza",
+        "name": "Sunarizamon",
+        "conditions": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "gogma",
+        "name": "Gogmamon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "scorpio",
+        "name": "Scorpiomon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mummy",
+        "name": "Mummymon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "jyaga",
+        "name": "Jyagamon",
+        "conditions": "Jogress with Data Adult"
+      },
+      {
+        "id": "tricera",
+        "name": "Triceramon",
+        "conditions": "Jogress with Free Adult"
+      },
+      {
+        "id": "vulture",
+        "name": "Vulturemon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "omegaknight",
+  "name": "Omega Knight",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/omegaknight.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/omegaknight.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/omegaknight.jpg",
+  "appearances": [
+    {
+      "dim_id": "medarot",
+      "dim_name": "Medarot",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Omega Knight",
+    "name_en": "OmegaKnight",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "60 (★10)",
+      "hp": "15",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "greywars",
+        "name": "Grey Wars",
+        "conditions": "Jogress with Garuru Metal"
+      }
+    ],
+    "evolves_to": []
+  }
+}

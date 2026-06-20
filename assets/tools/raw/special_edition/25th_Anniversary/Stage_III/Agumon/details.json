@@ -1,0 +1,75 @@
+{
+  "id": "agu_d",
+  "name": "Agumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/agu_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/agu_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/agu.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Agumon",
+    "name_en": "Agumon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "3900",
+      "hp": "3200",
+      "ap": "1050"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "koro_d",
+        "name": "Koromon",
+        "conditions": "5+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "grey_d",
+        "name": "Greymon",
+        "conditions": "12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "tyrano_d",
+        "name": "Tyranomon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "devi_d",
+        "name": "Devimon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "mera_d",
+        "name": "Meramon",
+        "conditions": "5+ PP, 500+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "nume_d",
+        "name": "Numemon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

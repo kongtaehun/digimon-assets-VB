@@ -1,0 +1,619 @@
+{
+  "id": "ici",
+  "name": "Impulse City",
+  "release": "JP: Mar 2021 - Retail (Included with Vital Bracelet Digital Monster)EN: July 2022 - Retail (Included with Vital Hero Digimon Black as Pulse City)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_ici.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_doki.gif",
+  "digimon": [
+    {
+      "id": "doki",
+      "name": "Dokimon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/doki.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/doki.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/doki.jpg"
+    },
+    {
+      "id": "bibi",
+      "name": "Bibimon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bibi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bibi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bibi.jpg"
+    },
+    {
+      "id": "pulse",
+      "name": "Pulsemon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pulse.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pulse.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pulse.jpg"
+    },
+    {
+      "id": "bulk",
+      "name": "Bulkmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bulk.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bulk.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bulk.jpg"
+    },
+    {
+      "id": "exer",
+      "name": "Exermon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/exer.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/exer.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/exer.jpg"
+    },
+    {
+      "id": "runner",
+      "name": "Runnermon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/runner.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/runner.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/runner.jpg"
+    },
+    {
+      "id": "namake",
+      "name": "Namakemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/namake.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/namake.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/namake.jpg"
+    },
+    {
+      "id": "bout",
+      "name": "Boutmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/bout.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/bout.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/bout.jpg"
+    },
+    {
+      "id": "shoot",
+      "name": "Shootmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shoot.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shoot.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shoot.jpg"
+    },
+    {
+      "id": "dive",
+      "name": "Divemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dive.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dive.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dive.jpg"
+    },
+    {
+      "id": "tempo",
+      "name": "Tempomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tempo.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tempo.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tempo.jpg"
+    },
+    {
+      "id": "climb",
+      "name": "Climbmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/climb.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/climb.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/climb.jpg"
+    },
+    {
+      "id": "pist",
+      "name": "Pistmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pist.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pist.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pist.jpg"
+    },
+    {
+      "id": "kazuchi",
+      "name": "Kazuchimon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/kazuchi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/kazuchi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/kazuchi.jpg"
+    },
+    {
+      "id": "shiva",
+      "name": "Shivamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shiva.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shiva.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shiva.jpg"
+    },
+    {
+      "id": "achilles",
+      "name": "Achillesmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/achilles.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/achilles.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/achilles.jpg"
+    },
+    {
+      "id": "shroud",
+      "name": "Shroudmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shroud.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shroud.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shroud.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "pulse",
+      "from_name": "Pulsemon",
+      "to": "bulk",
+      "to_name": "Bulkmon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "1,200+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "from_name": "Pulsemon",
+      "to": "exer",
+      "to_name": "Exermon",
+      "requirements": {
+        "Trophies": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "from_name": "Pulsemon",
+      "to": "runner",
+      "to_name": "Runnermon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "800+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "from_name": "Pulsemon",
+      "to": "namake",
+      "to_name": "Namakemon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bulk",
+      "from_name": "Bulkmon",
+      "to": "bout",
+      "to_name": "Boutmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "runner",
+      "from_name": "Runnermon",
+      "to": "bout",
+      "to_name": "Boutmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "exer",
+      "from_name": "Exermon",
+      "to": "shoot",
+      "to_name": "Shootmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "namake",
+      "from_name": "Namakemon",
+      "to": "shoot",
+      "to_name": "Shootmon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "bulk",
+      "from_name": "Bulkmon",
+      "to": "dive",
+      "to_name": "Divemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "runner",
+      "from_name": "Runnermon",
+      "to": "dive",
+      "to_name": "Divemon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "exer",
+      "from_name": "Exermon",
+      "to": "tempo",
+      "to_name": "Tempomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "namake",
+      "from_name": "Namakemon",
+      "to": "tempo",
+      "to_name": "Tempomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bulk",
+      "from_name": "Bulkmon",
+      "to": "climb",
+      "to_name": "Climbmon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "namake",
+      "from_name": "Namakemon",
+      "to": "climb",
+      "to_name": "Climbmon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "exer",
+      "from_name": "Exermon",
+      "to": "pist",
+      "to_name": "Pistmon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "runner",
+      "from_name": "Runnermon",
+      "to": "pist",
+      "to_name": "Pistmon",
+      "requirements": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bout",
+      "from_name": "Boutmon",
+      "to": "kazuchi",
+      "to_name": "Kazuchimon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tempo",
+      "from_name": "Tempomon",
+      "to": "kazuchi",
+      "to_name": "Kazuchimon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "pist",
+      "from_name": "Pistmon",
+      "to": "kazuchi",
+      "to_name": "Kazuchimon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shoot",
+      "from_name": "Shootmon",
+      "to": "shiva",
+      "to_name": "Shivamon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dive",
+      "from_name": "Divemon",
+      "to": "shiva",
+      "to_name": "Shivamon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "climb",
+      "from_name": "Climbmon",
+      "to": "shiva",
+      "to_name": "Shivamon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shoot",
+      "from_name": "Shootmon",
+      "to": "achilles",
+      "to_name": "Achillesmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tempo",
+      "from_name": "Tempomon",
+      "to": "achilles",
+      "to_name": "Achillesmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pist",
+      "from_name": "Pistmon",
+      "to": "achilles",
+      "to_name": "Achillesmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bout",
+      "from_name": "Boutmon",
+      "to": "shroud",
+      "to_name": "Shroudmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dive",
+      "from_name": "Divemon",
+      "to": "shroud",
+      "to_name": "Shroudmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "climb",
+      "from_name": "Climbmon",
+      "to": "shroud",
+      "to_name": "Shroudmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

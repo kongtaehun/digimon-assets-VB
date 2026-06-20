@@ -1,0 +1,885 @@
+{
+  "schema_version": "1.0",
+  "id": "25th",
+  "name": "25th Anniversary",
+  "category": "special_edition",
+  "device": "VBBE",
+  "release": "JP: Nov 2022 - Retail (Also included with 25th Anniversary Set)• Clear Stage 3 of Adventure Mode to receive Dokimon in your Backup.",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_25th.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bota_d",
+      "name": "Botamon",
+      "name_jp": "Botamon",
+      "name_ko": "깜몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/bota_d/frame1.gif",
+        "frame2": "sprites/bota_d/frame2.gif"
+      },
+      "artwork": "sprites/bota_d/artwork.jpg",
+      "lore": {
+        "en": "A Digital Monster that was born just recently. On the surface of its slime-shaped body, it has grown thick, black fuzz. It is unable to battle as it has just been born, but it can produce bubble-like objects from its mouth to intimidate the enemy.Digimon Reference Book⇨ English生まれたばかりのデジタルモンスター。スライム状の体の表面には、黒い産毛がびっしり生えている。生まれたてなので戦うことはできないが、口から泡のようなものを出して敵を威嚇する。デジモン図鑑",
+        "ko": "태어난지 얼마 안 된 디지털 몬스터. 슬라임과 같은 몸 표면에는 새까만 솜털이 빽빽이 자라나 있다. 갓 태어나서 싸울 수는 없지만, 입에서 거품을 내뿜어 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Botamon"
+    },
+    {
+      "id": "doki_d",
+      "name": "Dokimon",
+      "name_jp": "Dokimon",
+      "name_ko": "도키몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/doki_d/frame1.gif",
+        "frame2": "sprites/doki_d/frame2.gif"
+      },
+      "artwork": "sprites/doki_d/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon that was born from human vital data. You can't tell from just its appearance, but when picked up, its whole body vibrates at a constant rhythm. The rhythm of these vibrations seems to reflect that of the heartbeat of the person who is holding it. When it is in danger, it threatens the enemy with static electricity emitted from the tip of its horn.Digimon Reference Book⇨ English人間のバイタルデータから生まれたスライム型のデジモン。見た目では分からないが、体を持ち上げると全身が一定のリズムで振動しているのが分かる。その振動のリズムは、持ち上げた者の鼓動の速さが反映されているらしい。身の危険を感じたときはツノの先端から静電気を発して敵を威嚇する。デジモン図鑑",
+        "ko": "인간의 바이탈 데이터로부터 태어난 슬라임형의 디지몬. 겉으로 봐서는 알 수 없지만 몸을 들어올리면 온몸이 일정한 리듬으로 진동하는 것을 알 수 있다. 그 진동의 리듬은, 들어올린 사람의 고동의 속도가 반영되는 것 같다. 신변의 위협을 느낄 때는 뿔 끝에서 정전기를 발하여 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Dokimon"
+    },
+    {
+      "id": "koro_d",
+      "name": "Koromon",
+      "name_jp": "Koromon",
+      "name_ko": "코로몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/koro_d/frame1.gif",
+        "frame2": "sprites/koro_d/frame2.gif"
+      },
+      "artwork": "sprites/koro_d/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon that shed the fuzz covering its surface, and whose body grew even bigger. Although it has become able to move around more actively, it is still unable to battle. It can produce bubbles from its mouth to intimidate opponents.Digimon Reference Book⇨ English表面を覆っていた産毛が抜け、体も一回り大きくなった小型デジモン。活発に動き回れるようになったが、まだ戦うことはできない。口から泡を出して敵を威嚇する。デジモン図鑑",
+        "ko": "표면을 덮고 있던 솜털이 빠지고 몸도 한층 더 커진 소형 디지몬 . 활발하게 돌아다닐 수 있게 됐지만 아직 싸우기엔 무리다. 입에서 거품을 뿜어내 적을 위협한다. 디지몬 대백과 깜몬 의 몸을 지키던 검은 솜털이 빠지고, 몸도 한 층 더 커진 소형 디지몬. 활기차고 활발하게 움직이지만, 배틀은 아직 이르다. 하지만, 자라서 싸울 수 있게 되는 것은 시간 문제다. 깜몬과 마찬가지로, 입에서 산성 거품을 뿜어내 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Koromon"
+    },
+    {
+      "id": "bibi_d",
+      "name": "Bibimon",
+      "name_jp": "Bibimon",
+      "name_ko": "비비몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "0",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/bibi_d/frame1.gif",
+        "frame2": "sprites/bibi_d/frame2.gif"
+      },
+      "artwork": "sprites/bibi_d/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromDokimon. It lacks composure, and is always moving around mischievously. However, because it is not used to dealing with four legs yet, it very often loses its balance in the middle of running and rolls over. When it comes to battle, it uses its \"Minimal Flash\", a static electricity-laced tackle, to fight bravely against the enemy, even though it is a Baby.Digimon Reference Book⇨ Englishドキモンが進化したレッサー型デジモン。落ち着きがなく、いつもやんちゃに動き回っている。しかしまだ四肢の扱いに慣れていないため、走っている最中にバランスを崩して転がっていくのが日常茶飯事だ。戦いになると、静電気を纏ったタックル『ミニマルフラッシュ』で幼年期ながらも勇敢に敵に立ち向かう。デジモン図鑑",
+        "ko": "도키몬 이 진화한 렛서형 디지몬. 침착하지 못해 항상 천방지축으로 돌아다니고 있다. 하지만 아직 사지를 다루는 데 익숙하지 않아 달리다 중심을 잃고 구르기 일쑤다. 싸움이 벌어지면 정전기를 두른 태클 '미니멀 플래쉬'로 유년기임에도 용감하게 적과 맞선다."
+      },
+      "wikimon_url": "https://wikimon.net/Bibimon"
+    },
+    {
+      "id": "agu_d",
+      "name": "Agumon",
+      "name_jp": "Agumon",
+      "name_ko": "아구몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "3900",
+        "hp": "3200",
+        "ap": "1050"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/agu_d/frame1.gif",
+        "frame2": "sprites/agu_d/frame2.gif"
+      },
+      "artwork": "sprites/agu_d/artwork.jpg",
+      "lore": {
+        "en": "A Reptile Digimon with an appearance resembling a small dinosaur, it has grown and become able to walk on two legs. Its strength is weak as it is still in the process of growing, but it has a fearless and rather ferocious personality. Hard, sharp claws grow from both its hands and feet, and their power is displayed in battle. It also foreshadows an evolution into a great and powerful Digimon. Its Special Move is spitting a fiery breath from its mouth to attack the opponent (Baby Flame).Digimon Reference Book⇨ English成長して二足歩行ができるようになった、小型の恐竜の様な姿をした爬虫類型デジモン。まだ成長途中なので力は弱いが、性格はかなり獰猛で恐いもの知らず。両手足には硬く鋭い爪が生えており、戦闘においても威力を発揮する。力ある偉大なデジモンへの進化を予測させる存在でもある。必殺技は口から火炎の息を吐き敵を攻撃する『ベビーフレイム』。デジモン図鑑",
+        "ko": "성장해 이족보행을 할 수 있게 된 공룡과 비슷한 모습을 한 파충류형 디지몬 . 비록 아직 성장 도중이라 힘은 약하지만 성격은 꽤 사납고 두려움을 모른다. 양손과 발에 단단하고 날카로운 손톱이 나있어 전투에서도 위력을 발휘한다. 강하고 위대한 디지몬 으로의 진화가 예측되는 존재이기도 하다. 필살기는 입에서 화염의 숨결을 내뱉어 적을 공격하는 \"베이비 플레임 [11] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Agumon"
+    },
+    {
+      "id": "beta_d",
+      "name": "Betamon",
+      "name_jp": "Betamon",
+      "name_ko": "베타몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "3900",
+        "hp": "3000",
+        "ap": "900"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/beta_d/frame1.gif",
+        "frame2": "sprites/beta_d/frame2.gif"
+      },
+      "artwork": "sprites/beta_d/artwork.jpg",
+      "lore": {
+        "en": "A quadrupedal Amphibian Digimon. Although Betamon has a gentle, docile personality, once it is angered, it emits its \"Dengeki Biririn\" from its body, generating more than 1 MV of electricity to strike the opponent.Digimon Reference Book⇨ English四足歩行をする両生類型デジモン。性格は温厚で、おとなしいデジモンだが、ひとたびベタモンを怒らせると体から１００万ボルト以上の電流を発し敵を攻撃する『電撃ビリリン』を放つ。デジモン図鑑",
+        "ko": "사족보행을 하는 양서류형 디지몬. 성격이 온화하고 얌전한 디지몬이지만 일단 화나게 하면 100만 볼트 이상의 전류를 발생시켜 적을 공격하는 \"전격 비리린\"을 일으킨다."
+      },
+      "wikimon_url": "https://wikimon.net/Betamon"
+    },
+    {
+      "id": "pulse_d",
+      "name": "Pulsemon",
+      "name_jp": "Pulsemon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "4800",
+        "hp": "2700",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/pulse_d/frame1.gif",
+        "frame2": "sprites/pulse_d/frame2.gif"
+      },
+      "artwork": "sprites/pulse_d/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved under the influence of pulse waveform data stored in hospitals and gyms. It has a lively personality that treats anyone without discrimination. Pulsemon's characteristic hair is linked to its emotions, and droops whenever it feels down. It is a cunning fighter who battles by capitalizing on its natural agility, and moving around in the shape of a lightning bolt.Its Special Moves are ramming into the enemy with all its might at lightning speed (Elec Rush), and discharging electricity generated within its body from its hair (Petit Impulse).In addition, many other Digimon like Pulsemon that are influenced by the vital data of others, improving their physical abilities and evolving, have been discovered.Digimon Reference Book⇨ English病院やジムに保存されている、心拍波形データの影響を受けて進化したデジモン。誰にでも分け隔てなく接する活発な性格をしている。特徴的な前髪はパルスモンの感情とリンクしており、元気がないとヘタレてしまう。持ち前の素早さを活かし、稲妻を描くように動き回って戦うトリッキーファイターだ。必殺技は電光石火の速度で敵に全力の体当たりをかます『エレキラッシュ』と、体内で生み出した電気を前髪から放つ『プチインパルス』。また、パルスモンのように他者のバイタルデータに影響を受けて、身体能力の向上や進化をするデジモンが他にも多く発見されている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pulsemon"
+    },
+    {
+      "id": "grey_d",
+      "name": "Greymon",
+      "name_jp": "Greymon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5100",
+        "hp": "3500",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grey_d/frame1.gif",
+        "frame2": "sprites/grey_d/frame2.gif"
+      },
+      "artwork": "sprites/grey_d/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon whose cranial skin has hardened so that it is covered in arhinoceros beetle-like shell. It is an extremely aggressive Digimon, with a body like a lethal weapon covered in sharp claws and gigantic horns. However, it is highly intelligent, and if you're able to tame it then there probably isn't any monster as strong. Its Special Move \"Mega Flame\" is spewing extremely high-temperature flames from its mouth and reducing everything to ashes.Digimon Reference Book⇨ English頭部の皮膚が硬化して甲虫のような殻に覆われた恐竜型デジモン。鋭い爪、巨大な角を持った全身凶器のような体で、非常に攻撃的なデジモンである。しかし、知性が高く手なづけることが出来れば恐らくこれほど強いモンスターはいない。必殺技の『メガフレイム』は口から超高熱火炎を吐き出し全てを焼き払う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Greymon"
+    },
+    {
+      "id": "airdra_d",
+      "name": "Airdramon",
+      "name_jp": "Airdramon",
+      "name_ko": "에어드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5500",
+        "hp": "3600",
+        "ap": "1160"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/airdra_d/frame1.gif",
+        "frame2": "sprites/airdra_d/frame2.gif"
+      },
+      "artwork": "sprites/airdra_d/artwork.jpg",
+      "lore": {
+        "en": "A Mythical Beast Digimon that grew gigantic wings. It's a highly valued monster due to it being said to have an existence close to that of a god. It specializes in mid-air attacks, its roar calls forth storms, and it causes giant tornadoes by flapping its wings. Its personality is considerably brutal, but it has great intelligence. However, being employed by an ordinary Tamer doesn't seem possible. Its Special Move is flapping its enormous wings to send out a sharp vacuum blade, (Spinning Needle).Digimon Reference Book⇨ English巨大な翼を生やした幻獣型デジモン。非常に貴重なモンスターで神に近い存在といわれている。空中からの攻撃を得意とし、その咆哮は嵐を呼び、翼を羽ばたかせることで巨大な竜巻を起こす。性格はかなり凶暴だが、高い知性を持っている。しかし、並みのテイマーでは使役することは、まず不可能であろう。必殺技は巨大な翼を羽ばたかせ、鋭利な真空刃を発生させる『スピニングニードル』。デジモン図鑑",
+        "ko": "거대한 날개를 가진 환수형 디지몬. 매우 귀중한 몬스터로 신에 가까운 존재라고 한다. 공중에서의 공격에 능숙하며 그 포효는 폭풍우 를 부르고, 날개를 홰치는 걸로 거대한 회오리를 일으킨다. 성격은 제법 흉포하지만 높은 지성을 가지고 있다. 허나, 보통의 테이머로선 사역하는 게 불가능하다. [3] 필살기는 거대한 날개를 퍼덕여 날카로운 진공 칼날을 발생시키는 『스피닝 니들』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Airdramon"
+    },
+    {
+      "id": "tyrano_d",
+      "name": "Tyranomon",
+      "name_jp": "Tyranomon",
+      "name_ko": "티라노몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4400",
+        "hp": "3700",
+        "ap": "1350"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/tyrano_d/frame1.gif",
+        "frame2": "sprites/tyrano_d/frame2.gif"
+      },
+      "artwork": "sprites/tyrano_d/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that resembles an ancient dinosaur that existed in the prehistoric world. It sweeps everything away with its two well-developed arms and its gigantic tail. It is extremely easy to tame due to its intelligence and docile personality. For that reason, it is highly valued by beginnerTamers, and is often raised with care. You could probably say that it is a representative figure of the most basic Digimon. Its Special Move is spewing out deep crimson flames the same color as its body (Fire Breath).Digimon Reference Book⇨ English有史以前の世界に存在した古代の恐竜のようなデジモン。発達した２本の腕と巨大な尾で全ての物をなぎ倒す。知性もあり、おとなしい性格のため、とても手なづけやすい。そのため、初級テイマーからは重宝がられ、だいじに育てられることが多い。もっとも基本的なデジモンの代表的存在と言えるだろう。必殺技は身体の色と同じ、深紅の炎を吐き出す『ファイアーブレス』。デジモン図鑑",
+        "ko": "역사가 생기기 이전에 존재한 고대의 공룡 과 같은 디지몬. 발달한 2개의 팔과 거대한 꼬리로 모든 물건을 박살낸다. 지성도 높고 성격도 온순해 길들이기 매우 쉬우므로 [4] 초보 테이머에게는 귀중한 보물같은 존재며, 소중하게 키워지는 경우가 많다. 무엇보다 기본적인 디지몬의 대표적 존재 라고 말할 수 있을 것이다. 필살기는 신체의 색과 같은 진홍의 화염을 토해내는 「파이어 브레스」. 파이어 브레스는 '불뿜기', 슬래시 네일은 '긁기'로 로컬라이징되었다. 참으로 직설적인 번역이 아닐 수 없다."
+      },
+      "wikimon_url": "https://wikimon.net/Tyranomon"
+    },
+    {
+      "id": "seadra_d",
+      "name": "Seadramon",
+      "name_jp": "Seadramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4700",
+        "hp": "4000",
+        "ap": "1260"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/seadra_d/frame1.gif",
+        "frame2": "sprites/seadra_d/frame2.gif"
+      },
+      "artwork": "sprites/seadra_d/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Digimon that has a long, serpentine body. Using its long body, it wreathes itself around approaching enemies and constricts them until they are suffocated. It did not have any intelligence to begin with, and it swims around theNet Ocean, wherever its instincts take it. Its Special Move is breathingabsolute zeroair out of its mouth, instantly freezing water and firing it at the opponent (Ice Arrow).Digimon Reference Book⇨ English大蛇のような長い体を持った水棲型デジモン。この長い体を使い、襲い来る敵に体を巻きつけ、敵が息絶えるまで締め上げる。元来、知性といものを持ち合わせておらず、本能の赴くままネットの海を泳ぎ回っている。必殺技は口から絶対零度の息をはきだし、水を瞬時に凍らせて敵に放つ『アイスアロー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Seadramon"
+    },
+    {
+      "id": "mera_d",
+      "name": "Meramon",
+      "name_jp": "Meramon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "3600",
+        "ap": "1260"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mera_d/frame1.gif",
+        "frame2": "sprites/mera_d/frame2.gif"
+      },
+      "artwork": "sprites/mera_d/artwork.jpg",
+      "lore": {
+        "en": "A Flame Digimon whose entire body is shrouded in crimson flames. As a Digimon generated from the defensive \"Firewall\" which prevents illegal entries from the Internet and the like, it possesses a violent temperament like the flames that envelop its body, and tries to incinerate everything it touches. Its fire power is stronger than those of the same species onFile Island, and because taming this Digimon is extremely difficult, even if it's tamed, there's no telling when it will bare its fangs. Its Special Move is flaring up both of its arms, and knocking away the opponent (Burning Fist).Digimon Reference Book⇨ English全身に紅蓮の炎を纏った火炎型デジモン。インターネットなどで不正な進入を防ぐための防御壁「ファイアーウォール」から発生したデジモンで、その身を包む炎のように激しい気性を持っており、触れるもの全てを焼き尽くそうとする。ファイル島の同種より火力が強く、このデジモンを手なづけることは非常に難しいため、手なづけたとしてもいつ牙を剥くかわからない。必殺技は両腕を燃え上がらせ、相手を殴りぬける『バーニングフィスト』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Meramon"
+    },
+    {
+      "id": "devi_d",
+      "name": "Devimon",
+      "name_jp": "Devimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5200",
+        "hp": "3200",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/devi_d/frame1.gif",
+        "frame2": "sprites/devi_d/frame2.gif"
+      },
+      "artwork": "sprites/devi_d/artwork.jpg",
+      "lore": {
+        "en": "A Fallen Angel Digimon whose body is clad in jet-black cloth. Although it was originally a shiningAngemon-speciesDigimon, by falling to theDark Area, which exists in a spatial distortion of theDigital World, it became a fallen angel. As proof of that, theMark of Evilsurfaced dramatically on its chest. It has a cunning and fiendish personality, but it also possesses an outstanding intellect. It is said that those who have stared into its two eyes, which shine a deep crimson, are mind-controlled and completely dominated by Devimon. Its Special Move \"Death Claw\" is extending both of its extensible arms, and enforcing its will on the opponent's body.Digimon Reference Book⇨ English漆黒の衣に身を包んだ堕天使型デジモン。元々は光り輝くエンジェモン系デジモンだったが、デジタルワールドの空間の歪に存在するダークエリアに堕ちたことにより堕天使となった。その証である悪のマークが胸に大きく浮かんでいる。狡猾で凶悪な性格だが、非常に優れた知性の持ち主でもある。深紅に輝く両眼に見つめられたものはマインドコントロールされ、デビモンに支配されてしまうと言われている。必殺技の『デスクロウ』は伸縮自在の両腕を伸ばし、相手の体を貫き通す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Devimon"
+    },
+    {
+      "id": "nume_d",
+      "name": "Numemon",
+      "name_jp": "Numemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4700",
+        "hp": "3400",
+        "ap": "1160"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/nume_d/frame1.gif",
+        "frame2": "sprites/nume_d/frame2.gif"
+      },
+      "artwork": "sprites/nume_d/artwork.jpg",
+      "lore": {
+        "en": "A Mollusk Digimon which possesses a slug-like body. It prefers dark, gloomy environments, and has neither offensive power nor intelligence. A Digimon becomes a Numemon if mistakes are made in raising it, but as a matter of fact, there appears to be somehidden secret...In order to defend itself against intruders, it uses a disgusting attack in which it throws its own poop.Digimon Reference Book⇨ Englishナメクジのような体を持った軟体型デジモン。暗くてジメジメした環境を好み、攻撃力も知性も無い。育て方を間違えるとヌメモンになってしまうが、実は隠された秘密があるらしい・・・。外敵から身を守るため、自分のウンチを投げつける最低の攻撃をする。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Numemon"
+    },
+    {
+      "id": "bulk_d",
+      "name": "Bulkmon",
+      "name_jp": "Bulkmon",
+      "name_ko": "벌크몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "3600",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/bulk_d/frame1.gif",
+        "frame2": "sprites/bulk_d/frame2.gif"
+      },
+      "artwork": "sprites/bulk_d/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved via the data of a body composition monitor​ that measures muscle mass. It has a bellicose personality, and the power brought about by its unnaturally well-developed upper body muscles is top-class even among Adult Digimon. Its reaction speed is extremely high despite its large size, and it overwhelms its enemies with its tremendous power and speed. It is a hard worker, always continuing its training when it is not eating or sleeping.Its Special Move is sending the enemy flying with a blow from its electricity-laced fist (Electrical Fist). To deal with opponents that refuse to come closer, it unleashes an electric attack by discharging the electrical energy stored in its horn (Thunder Dread).Digimon Reference Book⇨ English筋肉量を調べる体組成計のデータで進化したデジモン。好戦的な性格で、異常に発達した上半身の筋肉から生み出されるパワーは成熟期デジモンの中でもトップクラスだ。そして巨体ながら瞬発力も非常に高く、豪快なパワーとスピードで敵を圧倒する。食事と睡眠の時以外は常にトレーニングを続ける努力家。必殺技は電気を纏った拳で敵を吹き飛ばす『エレクトリカルフィスト』。近づいてこない相手にはツノに溜め込んだ電気エネルギーを放出する雷撃『サンダードレッド』で対応する。デジモン図鑑",
+        "ko": "근육량을 조사하는 체조성계의 데이터로 진화한 디지몬. 호전적인 성격이며, 과도하게 발달한 상반신의 근육에서 발산되는 파워는 성숙기 디지몬 중에서도 탑 클래스다. 그리고 거구이지만 순발력도 상당히 높아, 호쾌한 파워와 스피드로 적을 압도한다. 식사와 수면 때 이외에는 항상 트레이닝을 계속하는 노력가. 필살기는 전기를 두른 주먹으로 적을 날려버리는 '일렉트릭컬 피스트'. 접근해오지 않는 상대에게는 뿔에 모아둔 전기 에너지를 방출하는 뇌격 '썬더 드레드'로 대응한다."
+      },
+      "wikimon_url": "https://wikimon.net/Bulkmon"
+    },
+    {
+      "id": "metalgrey_vi_d",
+      "name": "Metal Greymon (Virus)",
+      "name_jp": "Metal Greymon (Virus)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5400",
+        "hp": "5100",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgrey_vi_d/frame1.gif",
+        "frame2": "sprites/metalgrey_vi_d/frame2.gif"
+      },
+      "artwork": "sprites/metalgrey_vi_d/artwork.jpg",
+      "lore": {
+        "en": "The strongest Cyborg Digimon, which has mechanized more than half of its body. Going through numerous battles, it was able to survive by mechanizing its body. In order to evolve to Metal Greymon, it must fight its way through and defeat the formidable opponents who come against it. Also, Metal Greymon's offensive power is said to equal that of a single nuclear warhead. It fires missiles from the hatch on part of its chest.Digimon Reference Book⇨ English体の半分以上が機械化されてしまったサイボーグ型の最強デジモン。数々の戦いをくぐり抜け、その体を機械化することによって生き長らえている。メタルグレイモンに進化するためには、襲い来る強敵を倒し勝ち抜かなければならない。また、メタルグレイモンの攻撃力は核弾頭１発分に匹敵するといわれている。胸の部分にあるハッチからミサイルを発射する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Greymon_(Virus)"
+    },
+    {
+      "id": "mame_d",
+      "name": "Mamemon",
+      "name_jp": "Mamemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5500",
+        "hp": "4400",
+        "ap": "1540"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/mame_d/frame1.gif",
+        "frame2": "sprites/mame_d/frame2.gif"
+      },
+      "artwork": "sprites/mame_d/artwork.jpg",
+      "lore": {
+        "en": "A Mutation Digimon that evolved in a harsh environment. Contrary to its cute appearance, it hides terrifying destructive power. Apart from just one other species of Digimon, it may be classed as the strongest. The huge hands on its small body are capable of turning into powerful bombs and detaching themselves. Its nickname is the \"Smiley Bomber\".Digimon Reference Book⇨ English過酷な環境の元で進化した突然変異型デジモン。見た目の可愛さとは裏腹に恐るべき破壊力を秘めている。たった１種のデジモンを除いて、恐らく最強の部類に入るだろう。小さな体についている巨大な手は、それ自体が強力な爆弾になっていて取り外しが可能。愛称は“スマイリーボマー”。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mamemon"
+    },
+    {
+      "id": "monzae_d",
+      "name": "Monzaemon",
+      "name_jp": "Monzaemon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "4500",
+        "ap": "1510"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/monzae_d/frame1.gif",
+        "frame2": "sprites/monzae_d/frame2.gif"
+      },
+      "artwork": "sprites/monzae_d/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that is completely shrouded in mystery. From its looks, it's an unmodified plush toy of a bear, so it's rumored that there issomeonewithin, who got in through where the zipper is attached on its back section. It wraps the opponent up in the love overflowing from this cute body (with scary eyes), and makes them feel happy. Its Special Move is its \"Lovely Attack\", in which it flings hearts.Digimon Reference Book⇨ Englishすべてが謎に包まれているデジモン。見た感じは、そのまま熊のぬいぐるみで、背中の部分にチャックが付いているところから、中に何者かが入っているという噂。この可愛らしい（目が恐い）体から溢れる愛で敵を包み込んで幸せな気持ちにしてくれる。必殺技はハートを飛ばす『ラブリーアタック』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Monzaemon"
+    },
+    {
+      "id": "bout_d",
+      "name": "Boutmon",
+      "name_jp": "Boutmon",
+      "name_ko": "바우트몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5230",
+        "hp": "4500",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/bout_d/frame1.gif",
+        "frame2": "sprites/bout_d/frame2.gif"
+      },
+      "artwork": "sprites/bout_d/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved from the data ofcombat sportssuch askarate. It is a courteous sportsman who has learned the rules of every type of martial arts, and values ​​fighting in the game format its opponent wants. Although Boutmon uses a wide variety of techniques, other than those from sports, non-existent techniques like those in fighting games also show up from time to time.Its Special Moves are landing anaxe kickinto the opponent's skull with lightning (Raigekishou), and firing oversized energy shots from its held-out palms (Budenhadan). In addition, it dishes out a series of kicking and punching techniques without giving the opponent a chance to strike back (Jinrai Kaitengeki).Digimon Reference Book⇨ English空手などの格闘競技のデータから進化したデジモン。あらゆる格闘技のルールがラーニングされており、相手が望む試合形式で戦うことを重んじる礼儀正しいスポーツマンだ。バウトモンが使う技もバラエティに富んでいるが、時々スポーツだけではなく格闘ゲームなどの実在しない技が飛び出すことがある。必殺技は雷と共にかかと落としを相手の脳天に入れる『雷撃踵（らいげきしょう）』、構えた両掌から特大のエネルギー弾を放つ『武電破弾（ぶでんはだん）』。そして、相手に反撃の隙を与えず蹴りやパンチの連続技を叩き込む『迅雷廻天戟（じんらいかいてんげき）』。デジモン図鑑",
+        "ko": "가라데 등의 격투 경기의 데이터로부터 진화한 디지몬. 모든 격투기의 룰이 러닝되어 있고, 상대가 원하는 경기 형식으로 싸우는 것을 중시하는 예의 바른 스포츠맨이다. 바우트몬이 사용하는 기술도 다양하지만, 때때로 스포츠뿐만 아니라 격투게임 등 실재하지 않는 기술이 튀어나올 때도 있다. 필살기는 번개와 함께 발뒤꿈치를 상대의 정수리에 내리꽂는 '뇌격종', 준비된 양 손바닥에서 특대의 에너지탄을 뿜어내는 '무전파탄'. 그리고 상대방에게 반격의 틈을 주지 않고 발차기나 펀치의 연속기로 공격하는 '신뢰회천극'."
+      },
+      "wikimon_url": "https://wikimon.net/Boutmon"
+    },
+    {
+      "id": "blitzgrey_d",
+      "name": "Blitz Greymon",
+      "name_jp": "Blitz Greymon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5900",
+        "hp": "5300",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/blitzgrey_d/frame1.gif",
+        "frame2": "sprites/blitzgrey_d/frame2.gif"
+      },
+      "artwork": "sprites/blitzgrey_d/artwork.jpg",
+      "lore": {
+        "en": "An ultimate form ofGreymon-speciesDigimon, it is a subspecies ofWar Greymonarmed with electric-powered weapons.It reinforces its heavyweight grappling with electricity, striking with the \"Plasma Stakes\" on both arms, which send electric current flowing into even the sturdiest of structures and destroying them from within.It is capable of rotating the \"Thunder Verniers\" on its back to face forward, from which it fires electricity, or using them while faced backwards to propel it forward.Not only that, it is capable of releasing plasma particles into its surroundings and using them to erect a barrier around it (Elec Guard).Digimon Reference Book⇨ Englishグレイモン系デジモンの究極形態であり、電流火器が備わったウォーグレイモンの亜種。どっしりとした格闘戦に電撃を加え、強固なものであっても両腕の『プラズマステーク』から電撃を流し込み内側から破壊する。背中の『サンダーバーニア』を前方に転回して雷を撃ち、背面へ放出すれば自身の推進力増量にも活用できる。さらにプラズマ粒子を周囲に展開しバリアを形成する『エレックガード』を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Blitz_Greymon"
+    },
+    {
+      "id": "banchomame_d",
+      "name": "Bancho Mamemon",
+      "name_jp": "Bancho Mamemon",
+      "name_ko": "반쵸콩알몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "4900",
+        "ap": "1900"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/banchomame_d/frame1.gif",
+        "frame2": "sprites/banchomame_d/frame2.gif"
+      },
+      "artwork": "sprites/banchomame_d/artwork.jpg",
+      "lore": {
+        "en": "One of the Digimon that have acquired the title of \"Bancho\", it fights strongly in spite of its small stature, and has a personality that sports a chivalrous spirit and deeply overflowing emotions. As it tries to rebel against the rules of theDigital World, it lives an independent life. It similarly extends a hand to those Digimon who feel ill at ease with and isolated from the world, and from living together they have formed a group called the \"Mame-mon Rengō\". However, continuing to betray the rules of the world is not an easy task for them, and although Bancho Mamemon has had to fight those Digimon who aim to usurp it as leader under the pretense of a rebirth of the group several times over, the collective power of theMame-mon Rengōhave made those usurpers withdraw. It is thought that it acquired the title of Bancho from being able to avoid enemies without losing its own family as well in all kinds of predicaments. As withBancho Leomon, it wears aGAKU-RANthat negates the impact of physical attacks, and this defensive effect is often used to protect its companions. Its Special Moves are using its favourite clubsOugon Batto, to beat enemies to a pulp (Golden Rush), and hammering out its brotherlyBlack Hickeysfrom theOugon Batto(Senbon Dokkān). Moreover, it has a Technique called \"Bukkomi Otokodama\", wherein it extends the prison chains sported on its entire body as it charges towards the enemy.Digimon Reference Book⇨ English小柄ながらにケンカが強く、男気溢れ情に厚い性格で、「バンチョー」の称号を持つデジモンの1体。デジタルワールドの規律に馴染めず反抗し、独立して生活している。 同じく世界から孤立し途方に暮れるデジモンに手を差し伸べ、生活を共にするうちに『豆門連合』と称される集団にまで拡大した。しかし世界の規律に背き続けることは容易ではなく、更生と称して管理に順ずるデジモンに幾度となく戦いを仕掛けられるが、豆門連合の総力をあげて退けてきた。どんな窮地であっても一人として仲間を失うことなく敵を退けてきたことが「バンチョー」の称号を与えられた由縁とされる。バンチョーレオモンと同じ物理攻撃の衝撃を防ぐ「ＧＡＫＵ−ＲＡＮ」を羽織っているが、その防御効果は仲間のために使われることがほとんどだ。必殺技は使い込んだ愛用の棍棒「黄金罰斗」（おうごんばっと）で敵をタコ殴りにする『護王流伝羅守』と、舎弟であるブラックヒッキーズを黄金罰斗で打ち出す『千本爆砕』。そして、体中から伸びる獄中の鎖を利用して突進する『特攻漢弾』という技がある。デジモン図鑑",
+        "ko": "작으면서 싸움을 잘하고 의협심 넘치며 정이 두터운 성격의 소유자이며 반쵸 칭호를 가진 디지몬중 1명. 디지털 월드의 규율을 따르지 않고 반항하며 독립적인 생활을 하고 있다. 또한, 마찬가지로 세계로부터 고립되어 망연자실해하는 디지몬들에게 손을 내밀어 생활을 함께 하다가 「두문연합」으로 일컬어지는 집단으로까지 확대되었다. 그러나 세계의 규율을 따르지 않는 일은 쉽지 않고, 갱생이라는 이름으로 통제하려 드는 디지몬들이 수도없이 싸움을 걸어대지만, 두문연합의 총력을 기울여 물리치며 왔다. 어떠한 궁지에 몰려도 연합의 한 사람으로서 동료를 잃지 않고 적을 물리쳐 온 것이 반쵸의 칭호가 주어진 이유이다. 물리 공격의 충격을 막는 가쿠란을 걸치고 있지만, 그 방어 효과는 동료를 위해 사용되는 것이 대부분이다. 필살기는 오래 애용해온 곤봉 「황금 배트」로 적을 마구 때리는 『골든 러시 (護王流伝羅守; ごーるでんらっしゅ)』와 아우인 블랙 힛키즈를 황금벌두로 날리는 『센본 콰광 (千本爆砕; せんぼんどっかーん)』다. 그리고 온몸에서 뻗은 옥중의 쇠사슬을 이용해 돌진하는 『특공 사나이탄 (特攻漢弾; ぶっこみおとこだま):』이라는 기술이 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Bancho_Mamemon"
+    },
+    {
+      "id": "shinmonzae_d",
+      "name": "Shin Monzaemon",
+      "name_jp": "Shin Monzaemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6500",
+        "hp": "5100",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/shinmonzae_d/frame1.gif",
+        "frame2": "sprites/shinmonzae_d/frame2.gif"
+      },
+      "artwork": "sprites/shinmonzae_d/artwork.jpg",
+      "lore": {
+        "en": "A Puppet Digimon that evolved as a result ofMonzaemontaking in nightmare-related analysis data. At first glance, it is shaped like a teddy bear, but it is actually a fluffy, amorphous Digimon with a mysterious nature, like a cross between slime and clouds. It is a moody Digimon that has a childish personality and does not act intelligently. It has a habit of liking and taking in simple and cute things, and chooses immature Digimon that are Child-level and below as its targets. On the other hand, since it considers Digimon that have gotten more mature to be \"repulsive beings with impurities mixed in with their data\", it hates even getting close to them. When it feeds, it extends its soft wings to envelop its targets. Because its whole body is made up of powerful energy, weak Digimon are said to completely lose consciousness just by touching it.Its Special Moves are sending countless parts of its body flying to steal the opponent's consciousness (Nightmare Rain), changing the shape of its right arm into a hammer and smashing the opponent with it (Fancy Fantasista), and piercing the opponent'sDigicorewith a laser fired from its left eye (Sweet Lovely Attack).Digimon Reference Book⇨ Englishもんざえモンが悪夢に関する解析データを取り込むことで進化したパペット型デジモン。一見してテディベアのような形状をとってはいるが、実際にはスライムと雲を合わせたような不思議な性質を持つ、フワフワとした不定形のデジモンだ。幼稚な性格で理知的な行動を取らない気分屋。シンプルで可愛らしいものを好んで取り込む習性があり、未成熟な成長期以下のデジモンをターゲットに選ぶ。逆に、成長が進んだデジモンは「データに不純物が混ざっている穢らわしい存在」と考えているため、近付くことすら嫌っている。食事をするときはフワフワとした翼を膨張させ標的を包み込む。体全体が強力なエネルギーで出来ているため、ひ弱なデジモンは触れられただけで意識を失ってしまうという。必殺技は体の一部を無数に飛ばして敵の意識を奪い取る『ナイトメアレイン』、右腕の形状をハンマーに変えて相手を叩きつぶす『ファンシーファンタジスタ』、そして左目から放つレーザーで敵のデジコアを貫く『スイートラブリーアタック』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shin_Monzaemon"
+    },
+    {
+      "id": "kazuchi_d",
+      "name": "Kazuchimon",
+      "name_jp": "Kazuchimon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6500",
+        "hp": "5000",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/kazuchi_d/frame1.gif",
+        "frame2": "sprites/kazuchi_d/frame2.gif"
+      },
+      "artwork": "sprites/kazuchi_d/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Digimon that evolved by tempering its body and soul to the limit through unimaginable training. To Kazuchimon, fighting is something it has devoted everything to, and is a sacred rite that must never be desecrated. It is a natural-born warrior who is so immersed in refining its tactics and strategies that it forgets to eat and sleep, and once in battle, it turns into a raging war god and exhibits the strength to take on a thousand warriors.Its Special Moves are cutting down the enemy with the lightning swords it holds bydual wieldingthem (Nitou Seirai), and erecting a barrier of lightning and forcing them into a one-on-one battle (Shidou Ittetsu). In addition, it makes sure to finish them off with its final secret technique \"Shinden Shouraikou\", where it condenses the electrical energy in its surroundings and fires an ultra-high density shot of lightning.Digimon Reference Book⇨ English想像を絶する修行で、肉体と精神を限界まで鍛え上げ進化した究極体デジモン。カヅチモンにとって戦いは全てを捧げるもので、決して汚してはならない聖なる儀式だ。寝食を忘れて戦法や戦略を錬り続けるほどのめり込む生粋の戦士であり、ひとたび戦となると荒ぶる戦神となって一騎当千の力を発揮する。必殺技は二刀流で構えた雷の刀で敵を斬り伏せる『二刀勢雷（にとうせいらい）』と、稲妻の結界を張って一対一の戦いを強制する『士道一徹（しどういってつ）』。そして、周囲の電気エネルギーを圧縮した超高密度の雷の弾を放つ最終奥義『神電召雷光（しんでんしょうらいこう）』で確実にとどめを刺す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kazuchimon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "bota_d",
+      "to": "koro_d",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "doki_d",
+      "to": "bibi_d",
+      "conditions": {
+        "text": "Stage 3 cleared, No requirements"
+      }
+    },
+    {
+      "from": "koro_d",
+      "to": "agu_d",
+      "conditions": {
+        "text": "5+ PP, 500+ Vital Values"
+      }
+    },
+    {
+      "from": "koro_d",
+      "to": "beta_d",
+      "conditions": {
+        "text": "Choose one:"
+      }
+    },
+    {
+      "from": "bibi_d",
+      "to": "pulse_d",
+      "conditions": {
+        "text": "Stage 3 cleared, No requirements"
+      }
+    },
+    {
+      "from": "agu_d",
+      "to": "grey_d",
+      "conditions": {
+        "text": "12+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    },
+    {
+      "from": "agu_d",
+      "to": "tyrano_d",
+      "conditions": {
+        "text": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "agu_d",
+      "to": "devi_d",
+      "conditions": {
+        "text": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "agu_d",
+      "to": "mera_d",
+      "conditions": {
+        "text": "5+ PP, 500+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "agu_d",
+      "to": "nume_d",
+      "conditions": {
+        "text": "Choose one:"
+      }
+    },
+    {
+      "from": "beta_d",
+      "to": "airdra_d",
+      "conditions": {
+        "text": "15+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    },
+    {
+      "from": "beta_d",
+      "to": "seadra_d",
+      "conditions": {
+        "text": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    },
+    {
+      "from": "beta_d",
+      "to": "devi_d",
+      "conditions": {
+        "text": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "beta_d",
+      "to": "mera_d",
+      "conditions": {
+        "text": "5+ PP, 500+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "beta_d",
+      "to": "nume_d",
+      "conditions": {
+        "text": "Choose one:"
+      }
+    },
+    {
+      "from": "pulse_d",
+      "to": "bulk_d",
+      "conditions": {
+        "text": "Stage 6 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    },
+    {
+      "from": "grey_d",
+      "to": "metalgrey_vi_d",
+      "conditions": {
+        "text": "12+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "airdra_d",
+      "to": "metalgrey_vi_d",
+      "conditions": {
+        "text": "12+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "tyrano_d",
+      "to": "mame_d",
+      "conditions": {
+        "text": "15+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "seadra_d",
+      "to": "mame_d",
+      "conditions": {
+        "text": "15+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "mera_d",
+      "to": "mame_d",
+      "conditions": {
+        "text": "15+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "devi_d",
+      "to": "metalgrey_vi_d",
+      "conditions": {
+        "text": "12+ PP, 2,500+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "nume_d",
+      "to": "monzae_d",
+      "conditions": {
+        "text": "15+ PP, 3,000+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "bulk_d",
+      "to": "bout_d",
+      "conditions": {
+        "text": "Stage 9 cleared, 12+ PP, 2,500+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_vi_d",
+      "to": "blitzgrey_d",
+      "conditions": {
+        "text": "15+ PP, 3,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "mame_d",
+      "to": "banchomame_d",
+      "conditions": {
+        "text": "15+ PP, 3,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "monzae_d",
+      "to": "shinmonzae_d",
+      "conditions": {
+        "text": "20+ PP, 4,000+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    },
+    {
+      "from": "bout_d",
+      "to": "kazuchi_d",
+      "conditions": {
+        "text": "Stage 12 cleared, 20+ PP, 3,500+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      }
+    }
+  ]
+}

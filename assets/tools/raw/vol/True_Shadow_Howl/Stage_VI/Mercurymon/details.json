@@ -1,0 +1,78 @@
+{
+  "id": "mercury",
+  "name": "Mercurymon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mercury.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mercury.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mercury.jpg",
+  "appearances": [
+    {
+      "dim_id": "tsh",
+      "dim_name": "True Shadow Howl",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "cerberu",
+        "panda",
+        "jaegerdorulu"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Mercurymon",
+    "name_en": "Merukimon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "60 (★10)",
+      "hp": "12",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "cerberu",
+        "name": "Cerberumon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "panda",
+        "name": "Pandamon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "jaegerdorulu",
+        "name": "Jaeger Dorulumon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "weregaruru_s",
+        "name": "Were Garurumon (Saggitarius Mode)",
+        "conditions": "Jogress with Virus Perfect (TSH)"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhinomon",
+        "conditions": "Jogress with Data Perfect (TSH)"
+      },
+      {
+        "id": "weregaruru_b",
+        "name": "Were Garurumon (Black)",
+        "conditions": "Jogress with Vaccine or Free Perfect (TSH)"
+      }
+    ],
+    "evolves_to": []
+  }
+}

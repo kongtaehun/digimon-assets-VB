@@ -1,0 +1,108 @@
+[*] Fetching https://humulos.com/digimon/vbdm/
+[*] Found 6 dim card(s)
+[*] Found 95 unique digimon — fetching details & assets...
+  [  1/95] Dokimon
+  [  2/95] Bibimon
+  [  3/95] Pulsemon
+  [  4/95] Bulkmon
+  [  5/95] Exermon
+  [  6/95] Runnermon
+  [  7/95] Namakemon
+  [  8/95] Boutmon
+  [  9/95] Shootmon
+  [ 10/95] Divemon
+  [ 11/95] Tempomon
+  [ 12/95] Climbmon
+  [ 13/95] Pistmon
+  [ 14/95] Kazuchimon
+  [ 15/95] Shivamon
+  [ 16/95] Achillesmon
+  [ 17/95] Shroudmon
+  [ 18/95] Chicomon
+  [ 19/95] Chibimon
+  [ 20/95] V-mon
+  [ 21/95] V-dramon
+  [ 22/95] XV-mon
+  [ 23/95] Fladramon
+  [ 24/95] Lighdramon
+  [ 25/95] Aero V-dramon
+  [ 26/95] Paildramon
+  [ 27/95] Sagittarimon
+  [ 28/95] Dinobeemon
+  [ 29/95] Gold V-dramon
+  [ 30/95] Digitamamon
+  [ 31/95] Ulforce V-dramon
+  [ 32/95] Imperialdramon: Dragon Mode
+  [ 33/95] Magnamon
+  [ 34/95] Imperialdramon: Fighter Mode
+  [ 35/95] Botamon
+  [ 36/95] Koromon
+  [ 37/95] Agumon
+  [ 38/95] Agumon (Black)
+  [ 39/95] Greymon
+  [ 40/95] Monochromon
+  [ 41/95] Greymon (Blue)
+  [ 42/95] Dark Tyranomon
+  [ 43/95] Metal Greymon (Vaccine)
+  [ 44/95] Vermillimon
+  [ 45/95] Skull Greymon
+  [ 46/95] Metal Greymon (Virus)
+  [ 47/95] War Greymon
+  [ 48/95] Victory Greymon
+  [ 49/95] Black War Greymon
+  [ 50/95] Punimon
+  [ 51/95] Tsunomon
+  [ 52/95] Gabumon
+  [ 53/95] Gabumon (Black)
+  [ 54/95] Garurumon
+  [ 55/95] Drimogemon
+  [ 56/95] Dorulumon
+  [ 57/95] Garurumon (Black)
+  [ 58/95] Were Garurumon
+  [ 59/95] Pandamon
+  [ 60/95] Jaeger Dorulumon
+  [ 61/95] Were Garurumon (Black)
+  [ 62/95] Metal Garurumon
+  [ 63/95] Z'd Garurumon
+  [ 64/95] Metal Garurumon (Black)
+  [ 65/95] Zurumon
+  [ 66/95] Pagumon
+  [ 67/95] Ghostmon
+  [ 68/95] Saberdramon
+  [ 69/95] Wizarmon
+  [ 70/95] Devimon
+  [ 71/95] Bakemon
+  [ 72/95] Baalmon
+  [ 73/95] Cyberdramon (2010)
+  [ 74/95] Pumpmon
+  [ 75/95] Vamdemon
+  [ 76/95] Jokermon
+  [ 77/95] Fantomon
+  [ 78/95] Noble Pumpmon
+  [ 79/95] Piemon
+  [ 80/95] Beelzebumon (2010)
+  [ 81/95] Neo Vamdemon
+  [ 82/95] Leafmon
+  [ 83/95] Minomon
+  [ 84/95] Wormmon
+  [ 85/95] Stingmon
+  [ 86/95] Shadramon
+  [ 87/95] Hudiemon
+  [ 88/95] Gokimon
+  [ 89/95] Jewelbeemon
+  [ 90/95] Kongoumon
+  [ 91/95] Pucchiemon
+  [ 92/95] Pucchiemon (Green)
+  [ 93/95] Bancho Stingmon
+  [ 94/95] Gran Kuwagamon
+  [ 95/95] Imperialdramon: Paladin Mode
+
+[✓] Output written to ./bundled/
+    data.json   — 6 dims, 95 digimon
+    6 dim folder(s)
+      Ancient_Warriors                 17 digimon  (34 frames + 17 artwork + 17 details.json)
+      Dinosaur_Roar                    15 digimon  (30 frames + 15 artwork + 15 details.json)
+      Dynasty_of_the_Evil              17 digimon  (34 frames + 17 artwork + 17 details.json)
+      Impulse_City                     17 digimon  (34 frames + 17 artwork + 17 details.json)
+      Primeval_Warriors                17 digimon  (34 frames + 17 artwork + 17 details.json)
+      Wolf_Howl                        15 digimon  (30 frames + 15 artwork + 15 details.json)

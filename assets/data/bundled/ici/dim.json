@@ -1,0 +1,949 @@
+{
+  "schema_version": "1.0",
+  "id": "ici",
+  "name": "Impulse City",
+  "category": "bundled",
+  "device": "VBDM",
+  "release": "JP: Mar 2021 - Retail (Included with Vital Bracelet Digital Monster)EN: July 2022 - Retail (Included with Vital Hero Digimon Black as Pulse City)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_ici.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "doki",
+      "name": "Dokimon",
+      "name_jp": "Dokimon",
+      "name_ko": "도키몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/doki/frame1.gif",
+        "frame2": "sprites/doki/frame2.gif"
+      },
+      "artwork": "sprites/doki/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon that was born from human vital data. You can't tell from just its appearance, but when picked up, its whole body vibrates at a constant rhythm. The rhythm of these vibrations seems to reflect that of the heartbeat of the person who is holding it. When it is in danger, it threatens the enemy with static electricity emitted from the tip of its horn.Digimon Reference Book⇨ English人間のバイタルデータから生まれたスライム型のデジモン。見た目では分からないが、体を持ち上げると全身が一定のリズムで振動しているのが分かる。その振動のリズムは、持ち上げた者の鼓動の速さが反映されているらしい。身の危険を感じたときはツノの先端から静電気を発して敵を威嚇する。デジモン図鑑",
+        "ko": "인간의 바이탈 데이터로부터 태어난 슬라임형의 디지몬. 겉으로 봐서는 알 수 없지만 몸을 들어올리면 온몸이 일정한 리듬으로 진동하는 것을 알 수 있다. 그 진동의 리듬은, 들어올린 사람의 고동의 속도가 반영되는 것 같다. 신변의 위협을 느낄 때는 뿔 끝에서 정전기를 발하여 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Dokimon"
+    },
+    {
+      "id": "bibi",
+      "name": "Bibimon",
+      "name_jp": "Bibimon",
+      "name_ko": "비비몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/bibi/frame1.gif",
+        "frame2": "sprites/bibi/frame2.gif"
+      },
+      "artwork": "sprites/bibi/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon that evolved fromDokimon. It lacks composure, and is always moving around mischievously. However, because it is not used to dealing with four legs yet, it very often loses its balance in the middle of running and rolls over. When it comes to battle, it uses its \"Minimal Flash\", a static electricity-laced tackle, to fight bravely against the enemy, even though it is a Baby.Digimon Reference Book⇨ Englishドキモンが進化したレッサー型デジモン。落ち着きがなく、いつもやんちゃに動き回っている。しかしまだ四肢の扱いに慣れていないため、走っている最中にバランスを崩して転がっていくのが日常茶飯事だ。戦いになると、静電気を纏ったタックル『ミニマルフラッシュ』で幼年期ながらも勇敢に敵に立ち向かう。デジモン図鑑",
+        "ko": "도키몬 이 진화한 렛서형 디지몬. 침착하지 못해 항상 천방지축으로 돌아다니고 있다. 하지만 아직 사지를 다루는 데 익숙하지 않아 달리다 중심을 잃고 구르기 일쑤다. 싸움이 벌어지면 정전기를 두른 태클 '미니멀 플래쉬'로 유년기임에도 용감하게 적과 맞선다."
+      },
+      "wikimon_url": "https://wikimon.net/Bibimon"
+    },
+    {
+      "id": "pulse",
+      "name": "Pulsemon",
+      "name_jp": "Pulsemon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/pulse/frame1.gif",
+        "frame2": "sprites/pulse/frame2.gif"
+      },
+      "artwork": "sprites/pulse/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved under the influence of pulse waveform data stored in hospitals and gyms. It has a lively personality that treats anyone without discrimination. Pulsemon's characteristic hair is linked to its emotions, and droops whenever it feels down. It is a cunning fighter who battles by capitalizing on its natural agility, and moving around in the shape of a lightning bolt.Its Special Moves are ramming into the enemy with all its might at lightning speed (Elec Rush), and discharging electricity generated within its body from its hair (Petit Impulse).In addition, many other Digimon like Pulsemon that are influenced by the vital data of others, improving their physical abilities and evolving, have been discovered.Digimon Reference Book⇨ English病院やジムに保存されている、心拍波形データの影響を受けて進化したデジモン。誰にでも分け隔てなく接する活発な性格をしている。特徴的な前髪はパルスモンの感情とリンクしており、元気がないとヘタレてしまう。持ち前の素早さを活かし、稲妻を描くように動き回って戦うトリッキーファイターだ。必殺技は電光石火の速度で敵に全力の体当たりをかます『エレキラッシュ』と、体内で生み出した電気を前髪から放つ『プチインパルス』。また、パルスモンのように他者のバイタルデータに影響を受けて、身体能力の向上や進化をするデジモンが他にも多く発見されている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pulsemon"
+    },
+    {
+      "id": "bulk",
+      "name": "Bulkmon",
+      "name_jp": "Bulkmon",
+      "name_ko": "벌크몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/bulk/frame1.gif",
+        "frame2": "sprites/bulk/frame2.gif"
+      },
+      "artwork": "sprites/bulk/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved via the data of a body composition monitor​ that measures muscle mass. It has a bellicose personality, and the power brought about by its unnaturally well-developed upper body muscles is top-class even among Adult Digimon. Its reaction speed is extremely high despite its large size, and it overwhelms its enemies with its tremendous power and speed. It is a hard worker, always continuing its training when it is not eating or sleeping.Its Special Move is sending the enemy flying with a blow from its electricity-laced fist (Electrical Fist). To deal with opponents that refuse to come closer, it unleashes an electric attack by discharging the electrical energy stored in its horn (Thunder Dread).Digimon Reference Book⇨ English筋肉量を調べる体組成計のデータで進化したデジモン。好戦的な性格で、異常に発達した上半身の筋肉から生み出されるパワーは成熟期デジモンの中でもトップクラスだ。そして巨体ながら瞬発力も非常に高く、豪快なパワーとスピードで敵を圧倒する。食事と睡眠の時以外は常にトレーニングを続ける努力家。必殺技は電気を纏った拳で敵を吹き飛ばす『エレクトリカルフィスト』。近づいてこない相手にはツノに溜め込んだ電気エネルギーを放出する雷撃『サンダードレッド』で対応する。デジモン図鑑",
+        "ko": "근육량을 조사하는 체조성계의 데이터로 진화한 디지몬. 호전적인 성격이며, 과도하게 발달한 상반신의 근육에서 발산되는 파워는 성숙기 디지몬 중에서도 탑 클래스다. 그리고 거구이지만 순발력도 상당히 높아, 호쾌한 파워와 스피드로 적을 압도한다. 식사와 수면 때 이외에는 항상 트레이닝을 계속하는 노력가. 필살기는 전기를 두른 주먹으로 적을 날려버리는 '일렉트릭컬 피스트'. 접근해오지 않는 상대에게는 뿔에 모아둔 전기 에너지를 방출하는 뇌격 '썬더 드레드'로 대응한다."
+      },
+      "wikimon_url": "https://wikimon.net/Bulkmon"
+    },
+    {
+      "id": "exer",
+      "name": "Exermon",
+      "name_jp": "Exermon",
+      "name_ko": "엑서몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/exer/frame1.gif",
+        "frame2": "sprites/exer/frame2.gif"
+      },
+      "artwork": "sprites/exer/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved fromyogalesson data. It mainly lives in high mountainous regions, and fights using its own style oftaijutsu, which incorporates unique movements similar to those of a mollusk. It has an excellent sense of balance in that it supports its own weight with the stinger on its rump, and itscorealways remains stable regardless of what unnatural pose it takes. It absorbs sunlight through its antennae, and converts it into electrical energy within its body.When it comes to battle, it confuses intruders with its telepathic ability \"Insec Mind\", which manifests using its antennae as a medium. Its Special Move is touching the opponent with its palms, which act aspositiveandnegativeelectrodes, delivering an electric shock (Defibrilla-shock).Digimon Reference Book⇨ Englishヨガの教則データから進化したデジモン。主に高山地帯に棲息し、軟体動物のような独特の動きを取り入れた我流の体術で戦う。お尻の針で自重を支える優れたバランス感覚の持ち主であり、どんな無理な体勢でも決して体幹がブレない。触覚から太陽光を吸収し、体内で電気エネルギーに変換する。戦闘となった時には、触覚を媒体として発現するテレパス能力『インセクマインド』で外敵を混乱させる。必殺技はプラスとマイナスの電極の役割を果たす両掌で相手に触れ、電気ショックを与える『デフィブレイショック』。デジモン図鑑",
+        "ko": "요가 교본의 데이터에서 진화한 디지몬. 주로 고산지대에 서식하며, 연체동물같은 독특한 움직임을 도입한 자기류 체술로 싸운다. 엉덩이의 침으로 몸무게를 지탱하는 뛰어난 균형감각의 소유자이며, 어떤 무리한 자세라도 결코 자세가 어긋나지 않는다. 촉각으로부터 태양광을 흡수해, 체내에서 전기 에너지로 변환한다. 전투시에는, 촉각을 매체로써 발현하는 텔레파시 능력 『인섹 마인드』로 외적을 혼란시킨다. 필살기는 플러스와 마이너스 전극의 역할을 하는 앙손으로 상대를 만져, 전기충격을 가하는 『디피브레이쇼크』."
+      },
+      "wikimon_url": "https://wikimon.net/Exermon"
+    },
+    {
+      "id": "runner",
+      "name": "Runnermon",
+      "name_jp": "Runnermon",
+      "name_ko": "런너몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/runner/frame1.gif",
+        "frame2": "sprites/runner/frame2.gif"
+      },
+      "artwork": "sprites/runner/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon that evolved via the data from a treadmill. It is capable of running without any loss in speed even through areas with poor footing such as mountainous areas or swamplands. However, rather than its speed or ability to cover distances, its stamina deserves special mention; it is able to continue running for long periods while maintaining its top speed the entire time.Its Special Moves are charging at the enemy at super speed from their blind spot (Lightning Rush), and shooting energy blades from its tail that slice enemies apart (Heartbeat Impulse).Digimon Reference Book⇨ Englishランニングマシーンのデータで進化した獣型デジモン。山岳地帯や沼地など足場の悪いところでもスピードを落とすことなく走り抜けることが出来る。しかし、特筆すべきは走破能力や速度よりもそのスタミナだ。ほぼ休息をとることなく、トップスピードを維持したまま長く走り続けることが出来る。必殺技は超スピードで敵の死角から電光石火の突進をお見舞いする『ライトニングラッシュ』と、尻尾からエネルギー刃を飛ばし敵を切り裂く『ハートビートインパルス』。デジモン図鑑",
+        "ko": "러닝머신 의 데이터로 진화한 짐승형 디지몬. 산악지형이나 늪지대 등 발판이 나쁜 곳에서도 스피드를 늦추는 일 없이 계속 달릴 수 있다. 그러나, 주목할 점은 달리기 능력이나 속도보다도 그 지구력이다. 거의 휴식을 취하는 일 없이, 최고속도를 유지한 채 오래 달릴 수 있다. 필살기는 초스피드로 적의 사각에서 전광석화의 돌진을 먹이는 『라이트닝 대시』와, 꼬리에서 에너지 칼날을 날려 적을 베어가르는『하트비트 임펄스』."
+      },
+      "wikimon_url": "https://wikimon.net/Runnermon"
+    },
+    {
+      "id": "namake",
+      "name": "Namakemon",
+      "name_jp": "Namakemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/namake/frame1.gif",
+        "frame2": "sprites/namake/frame2.gif"
+      },
+      "artwork": "sprites/namake/artwork.jpg",
+      "lore": {
+        "en": "A Puppet Digimon that has ended up only finding joy in life from eating and sleeping. Its dislike of strenuous exercise has even erased its combat instincts as a Digimon, and it has come to live in elevated areas such as on treetops so that no one can approach it. Because both of its arms are often being used to grasp onto tree branches, it is also able to use its long, well-developed tongue skilfully as a third arm.Should enemies draw near, it will throw its own poop (Unchi Nage) to drive them away. While it also has a close-range skill where it uses its tongue, which secretes a numbing venom, to lick (Paralyze Lick), it rarely ever gets the chance to use it.Digimon Reference Book⇨ English食べることと寝ることだけが生きる喜びになってしまったパペット型デジモン。行きすぎた運動嫌いはデジモンの闘争本能すら消し去り、誰にも近づかれないように木の上など高所で生活するようになった。木の枝に両腕で掴まることが多いため、発達した長い舌は第三の腕のように器用に扱うことが出来る。敵が近づくとウンチをなげる『ウンチ投げ』で撃退する。痺れ毒を分泌する舌で舐める『パラライズリック』という近距離技も持っているが、使う機会はほとんどない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Namakemon"
+    },
+    {
+      "id": "bout",
+      "name": "Boutmon",
+      "name_jp": "Boutmon",
+      "name_ko": "바우트몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/bout/frame1.gif",
+        "frame2": "sprites/bout/frame2.gif"
+      },
+      "artwork": "sprites/bout/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved from the data ofcombat sportssuch askarate. It is a courteous sportsman who has learned the rules of every type of martial arts, and values ​​fighting in the game format its opponent wants. Although Boutmon uses a wide variety of techniques, other than those from sports, non-existent techniques like those in fighting games also show up from time to time.Its Special Moves are landing anaxe kickinto the opponent's skull with lightning (Raigekishou), and firing oversized energy shots from its held-out palms (Budenhadan). In addition, it dishes out a series of kicking and punching techniques without giving the opponent a chance to strike back (Jinrai Kaitengeki).Digimon Reference Book⇨ English空手などの格闘競技のデータから進化したデジモン。あらゆる格闘技のルールがラーニングされており、相手が望む試合形式で戦うことを重んじる礼儀正しいスポーツマンだ。バウトモンが使う技もバラエティに富んでいるが、時々スポーツだけではなく格闘ゲームなどの実在しない技が飛び出すことがある。必殺技は雷と共にかかと落としを相手の脳天に入れる『雷撃踵（らいげきしょう）』、構えた両掌から特大のエネルギー弾を放つ『武電破弾（ぶでんはだん）』。そして、相手に反撃の隙を与えず蹴りやパンチの連続技を叩き込む『迅雷廻天戟（じんらいかいてんげき）』。デジモン図鑑",
+        "ko": "가라데 등의 격투 경기의 데이터로부터 진화한 디지몬. 모든 격투기의 룰이 러닝되어 있고, 상대가 원하는 경기 형식으로 싸우는 것을 중시하는 예의 바른 스포츠맨이다. 바우트몬이 사용하는 기술도 다양하지만, 때때로 스포츠뿐만 아니라 격투게임 등 실재하지 않는 기술이 튀어나올 때도 있다. 필살기는 번개와 함께 발뒤꿈치를 상대의 정수리에 내리꽂는 '뇌격종', 준비된 양 손바닥에서 특대의 에너지탄을 뿜어내는 '무전파탄'. 그리고 상대방에게 반격의 틈을 주지 않고 발차기나 펀치의 연속기로 공격하는 '신뢰회천극'."
+      },
+      "wikimon_url": "https://wikimon.net/Boutmon"
+    },
+    {
+      "id": "shoot",
+      "name": "Shootmon",
+      "name_jp": "Shootmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/shoot/frame1.gif",
+        "frame2": "sprites/shoot/frame2.gif"
+      },
+      "artwork": "sprites/shoot/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon that evolved via the data of various ball games from around the world. With a cannon in one hand capable of shooting all kinds of balls, it plans to popularize ball games throughout theDigital World. Shootmon is nicknamed the \"Laughing Oni Coach\" by Digimon that fear it because it approaches them with a smiling face that never changes whether it is angry or happy.Its Special Moves are shooting balls from its cannon at speeds exceeding 300 km/h (Cannonball Shooter), and charging into the enemy by capitalizing on its elastic, spring-like legs (Wild Pitch). Also, Digimon who suffer its \"Round Jail\", where it turns anything it touches into a ball without wasting its breath, are mercilessly shot out of its cannon.Digimon Reference Book⇨ English世界中の様々な球技のデータで進化したマシーン型デジモン。あらゆる種類のボールを射出可能なキャノン砲を片手に、デジタルワールド中に球技を普及させようと目論んでいる。怒ろうが喜ぼうが変わらない笑顔で迫ってくるため、シュートモンを恐れるデジモン達からついたあだ名が「笑う鬼コーチ」。必殺技はキャノン砲から時速300kmを超える速度でボールを放つ『キャノンボールシューター』、スプリングのような伸縮自在の脚を活かし敵に突進する『ワイルドピッチ』。また、触れた物を問答無用でボール状にする『ラウンドジェイル』を喰らったデジモンは、容赦なくキャノン砲で撃ち出されてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shootmon"
+    },
+    {
+      "id": "dive",
+      "name": "Divemon",
+      "name_jp": "Divemon",
+      "name_ko": "다이브몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/dive/frame1.gif",
+        "frame2": "sprites/dive/frame2.gif"
+      },
+      "artwork": "sprites/dive/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved via data studying theswimming stylesof top swimmers. Although it has a merman-like appearance, it is capable of moving bipedally on land. Its swimming speed is top-class even among Aquatic Digimon, and its four eyes never lose sight of its underwater prey. Contrary to its ferocious appearance, it has afair playspirit that pursues beautiful swimming.Its Special Moves are slashing the enemy with the sharp fins all over its body (Fillet Blade), and hurling pressurized water like a blade (Ripple Edge). Its \"Liquid Veil\", which is invoked when Divemon is active on land, envelops it in water armor and enhances its physical ability. As a result, even in places without water, it is able to exhibit the same strength as when it is underwater.Digimon Reference Book⇨ Englishトップ水泳選手の泳ぎ方を研究したデータによって進化したデジモン。人魚のような姿をしているが、陸上においては二足歩行での活動が可能。泳ぎの速度は水棲型デジモンの中でもトップクラスで、四つの眼球は水中の獲物を決して見逃さない。凶暴な見た目とは裏腹に美しい泳ぎを追求するフェアプレイ精神の持ち主だ。必殺技は全身の鋭いヒレで敵を斬る『フィレットブレード』と、圧縮した水を刃物のようにして飛ばす『リップルエッジ』。ダイブモンが陸上で活動する際に発動する『リキッドヴェール』は、水の鎧を纏い身体能力を強化する。これにより、水のない場所でも水中にいるときと同等の強さを発揮できる。デジモン図鑑",
+        "ko": "탑 수영선수의 수영법을 연구한 데이터로 인해 진화한 디지몬. 인어 같은 모습을 하고 있으나 육상에 있을 때는 이족 보행으로 활동하는 것이 가능하다. 수영 속도는 수서형 디지몬 중에서도 탑 클래스며 네 개의 안구는 물속의 사냥감을 절대로 놓치지 않는다. 흉폭한 겉모습과는 달리 아름다운 수영을 추구하는 페어 플레이 정신의 소유주다 필살기는 전신의 날카로운 지느러미로 적을 베는 '필레 블레이드'와 압축된 물을 칼날처럼 만들어 날리는 '립플 엣지'. 다이브몬은 육상에서 활동할 때 '리퀴드 베일'을 발동해 물의 갑옷을 둘러 신체 능력을 강화한다. 이를 통해 물이 없는 곳에서도 물 속에 있을 때와 동등한 힘을 발휘할 수 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Divemon"
+    },
+    {
+      "id": "tempo",
+      "name": "Tempomon",
+      "name_jp": "Tempomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/tempo/frame1.gif",
+        "frame2": "sprites/tempo/frame2.gif"
+      },
+      "artwork": "sprites/tempo/artwork.jpg",
+      "lore": {
+        "en": "A Bird Man Digimon that evolved viadance musicdata. It is a natural-born dancer who always performs to the rhythm and unleashes itstaijutsuwhile dancing, even in battle. It is a performer who dances to things ranging from cheerful music to mellow, moody songs, and whenever its headphones come off or the music stops, it gets into a bad mood and starts acting violently.It has mastered \"Rhythmic Arts\", dancekenpōwhich incorporatescapoeiraand martial arts. Its Special Moves are blowing the enemy away with a very loud beat emitted from the speaker in its abdomen (Howling Blast), and creating tornadoes and roaring sounds with its skillfulfootwork(Upbeat Twister).Digimon Reference Book⇨ Englishダンスミュージックのデータによって進化した鳥人型デジモン。常にリズムを取りながら行動し、戦闘時も踊りながら体術を繰り出す生粋のダンサー。陽気な音楽からしっとりとしたムーディな曲まで踊りこなすパフォーマーで、ヘッドホンが外れたり音楽が止まってしまうと機嫌を悪くして暴れ出してしまう。カポエラやマーシャルアーツを取り入れたダンス拳法『リズミック・アーツ』を使いこなす。必殺技は腹部のスピーカーから流す大音量のビートで敵を吹っ飛ばす『ハウリングブラスト』と、巧みな足裁きで轟音と竜巻を引き起こす『アップビートツイスター』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tempomon"
+    },
+    {
+      "id": "climb",
+      "name": "Climbmon",
+      "name_jp": "Climbmon",
+      "name_ko": "클라이몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/climb/frame1.gif",
+        "frame2": "sprites/climb/frame2.gif"
+      },
+      "artwork": "sprites/climb/artwork.jpg",
+      "lore": {
+        "en": "An Insect Digimon that evolved viaboulderingcourse data. The pickaxes on its arms are used not only for piercing things such as cliffs, but also for tapping and driving thekunai-shapedpitonsit carries in the underside of its wings into sturdy rocks. Skillfully using its pickaxes and pitons, it clings onto any dangerous spot, and moves quickly and brilliantly like a ninja.It specializes in ambush tactics where it creeps up stealthily on the enemy using its mimicry technique \"Giton Isolation\", in which it blends itself into its surroundings. Its Special Moves are a long-range attack in which it throws its pitons (Crack Haken), and spreading out its pickaxe arms and tearing the enemy to pieces while spinning (Dynamic Scyther).Digimon Reference Book⇨ Englishボルダリングのコースデータによって進化した昆虫型デジモン。腕に付いたツルハシは崖などに突き刺すだけではなく、羽裏に隠し持ったクナイ状のハーケンを叩いて固い岩に打ち込むためにも使える。ハーケンとツルハシを巧みに使い、どんな悪所にも張り付き、忍者のように素早く華麗に移動する。体を周囲に溶け込ませる擬態技『擬遁アイソレーション（ぎとんあいそれーしょん）』で、音もなく敵に忍び寄る奇襲戦法を得意とする。必殺技はハーケンを投げる遠距離攻撃『クラックハーケン』と、ツルハシの付いた腕を広げ回転しながら敵を斬り裂く『ダイナミックサイファー』。デジモン図鑑",
+        "ko": "볼더링 [1] 코스 데이터에 의해 진화한 곤충형 디지몬. 팔에 달린 곡괭이는 절벽같은 곳에 꽂을 때 말고도 날개 뒷면에 숨긴 쿠나이 모양의 하켄을 두드려 단단한 바위에 박을 때도 쓸 수 있다. 하켄과 곡괭이를 능숙하게 사용해, 아무리 위험한 곳이라도, 닌자처럼 재빠르고 화려하게 이동한다. 주위에 녹아드는 의태기 \"의둔 아이솔레이션\"으로 소리 없이 적에게 다가가는 기습전법을 자랑한다. 필살기는 하켄을 던지는 원거리 공격 \"크랙 하켄\"과 곡괭이가 달린 팔을 벌려 회전하면서 적을 베는 \"다이내믹 사이퍼\"."
+      },
+      "wikimon_url": "https://wikimon.net/Climbmon"
+    },
+    {
+      "id": "pist",
+      "name": "Pistmon",
+      "name_jp": "Pistmon",
+      "name_ko": "피스트몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/pist/frame1.gif",
+        "frame2": "sprites/pist/frame2.gif"
+      },
+      "artwork": "sprites/pist/artwork.jpg",
+      "lore": {
+        "en": "A Plant Digimon that evolved via a training program used byroad racers. Its bicycle-like wheels and body are fully integrated with each other, and it has a remarkable sense of balance that allows it to stand still even when it is not running. Its thorny vines, which act as tires, are capable of changing shape, allowing it to run across even rough roads speedily without going flat.Its Special Moves are shooting thorns from its handle (Bramble Shot), and expelling highly toxic spores from the protrusions on its back (Crimson Spores). In addition, it mows down enemies in one go with its enlarged wheels (KillingCadence).Digimon Reference Book⇨ Englishロードレーサーが使う訓練用プログラムにより進化した植物型デジモン。自転車のような車輪部と肉体が完全に同化しており、走っていない状態でも静止できる驚異のバランス感覚を有している。タイヤの役割を果たす棘の生えた蔓（つる）は変形が可能で、パンクすることなく悪路もスピーディーに走破する。必殺技はハンドルから棘を発射する『ブランブルショット』、背中の突起から強い毒性を持つ胞子を噴出する『クリムゾンスポアーズ』。そして、巨大化した車輪で敵をまとめてなぎ倒す『キリングケイデンス』。デジモン図鑑",
+        "ko": "로드 레이서가 사용하는 훈련용 프로그램에 의해 진화한 식물형 디지몬. 자전거와 같은 바퀴 부분이 육체와 완전히 동화되어 있으며 달리지 않은 상태에서도 정지할 수 있는 경이로운 밸런스 감각을 갖고 있다. 타이어의 역할을 완수하는 가시가 난 덩굴은 변형이 가능하고, 펑크 나는 일 없이 험한 길도 스피디하게 주파한다. 필살기는 핸들로부터 가시를 발사하는 「브램블 샷」, 등의 돌기에서 강한 독성을 가지는 포자를 분출하는 「크림슨 스포어즈」. 그리고, 거대화한 바퀴로 적을 모아서 쓰러뜨리는 「킬링 케이던스」."
+      },
+      "wikimon_url": "https://wikimon.net/Pistmon"
+    },
+    {
+      "id": "kazuchi",
+      "name": "Kazuchimon",
+      "name_jp": "Kazuchimon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/kazuchi/frame1.gif",
+        "frame2": "sprites/kazuchi/frame2.gif"
+      },
+      "artwork": "sprites/kazuchi/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Digimon that evolved by tempering its body and soul to the limit through unimaginable training. To Kazuchimon, fighting is something it has devoted everything to, and is a sacred rite that must never be desecrated. It is a natural-born warrior who is so immersed in refining its tactics and strategies that it forgets to eat and sleep, and once in battle, it turns into a raging war god and exhibits the strength to take on a thousand warriors.Its Special Moves are cutting down the enemy with the lightning swords it holds bydual wieldingthem (Nitou Seirai), and erecting a barrier of lightning and forcing them into a one-on-one battle (Shidou Ittetsu). In addition, it makes sure to finish them off with its final secret technique \"Shinden Shouraikou\", where it condenses the electrical energy in its surroundings and fires an ultra-high density shot of lightning.Digimon Reference Book⇨ English想像を絶する修行で、肉体と精神を限界まで鍛え上げ進化した究極体デジモン。カヅチモンにとって戦いは全てを捧げるもので、決して汚してはならない聖なる儀式だ。寝食を忘れて戦法や戦略を錬り続けるほどのめり込む生粋の戦士であり、ひとたび戦となると荒ぶる戦神となって一騎当千の力を発揮する。必殺技は二刀流で構えた雷の刀で敵を斬り伏せる『二刀勢雷（にとうせいらい）』と、稲妻の結界を張って一対一の戦いを強制する『士道一徹（しどういってつ）』。そして、周囲の電気エネルギーを圧縮した超高密度の雷の弾を放つ最終奥義『神電召雷光（しんでんしょうらいこう）』で確実にとどめを刺す。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kazuchimon"
+    },
+    {
+      "id": "shiva",
+      "name": "Shivamon",
+      "name_jp": "Shivamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/shiva/frame1.gif",
+        "frame2": "sprites/shiva/frame2.gif"
+      },
+      "artwork": "sprites/shiva/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Digimon that evolved by achievingenlightenmentthroughyoga. It is a pursuer of peace that possesses both a gentle heart and the rigor of trying to guide others. It shows its violent disposition to those who lack decorum or disturb the peace, and annihilates them without mercy. The energy concealed within its body is as powerful as nuclear fuel, and it is a god of destruction that pulverizes everything when push comes to shove.Its Special Moves are firing unparalleled, orb-shaped light energy from its palms (Kūṭastha Kiraṇa), and hurling the rings on its arms, whose shape it can change at will, to blow the enemy away (KamalaKarma). Also, its \"SamādhiŚānti\", a rainbow-colored barrier it covers itself with in its yoga poses, does not let most attacks pass through, and this barrier can only be penetrated by those who have acquired strength through the power of yoga, like Shivamon.Digimon Reference Book⇨ Englishヨガにより悟りを開き進化した究極体デジモン。穏やかな心と他者を導かんとする厳しさを持ち合わせる和の探求者。礼節を欠く者や和を乱す者には激しい気性を露わにし、容赦なく消滅させてしまう。体内に秘めたエネルギーは核燃料にも匹敵するほどのパワーがあり、いざとなれば全てを粉砕する破壊神だ。必殺技は球状にした強力無比な光エネルギーを掌から放つ『クータスタ・キラナ』、自在に変形する腕のリングを飛ばし敵を吹き飛ばす『カマラ・カルマ』。また、ヨガのポーズで纏う虹色のバリア『サマディ・シャンティ』はほとんどの攻撃を通さず、シーヴァモン同様にヨガのパワーによって力を得た者でしかこのバリアは突破できない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shivamon"
+    },
+    {
+      "id": "achilles",
+      "name": "Achillesmon",
+      "name_jp": "Achillesmon",
+      "name_ko": "아킬레우스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/achilles/frame1.gif",
+        "frame2": "sprites/achilles/frame2.gif"
+      },
+      "artwork": "sprites/achilles/artwork.jpg",
+      "lore": {
+        "en": "An Ultimate Digimon that evolved by becoming adept in every kind of sport from all times and places, and mastering them. It possesses heart, technique, and physique, and is a true seeker that is always training, and never boasts about its tenacious power. Its extreme physical ability has noweaknesses, and so it achieves victory without leaving any openings, not only in sports, but also in battle.The shields on its feet act as boosters, and are widely used for things such as its \"Anemodarmenos\", where it confuses the enemy with afterimages caused by its high-speed movement, and \"Asteroeidis\", a kicking technique that it dishes out using its swift speed. Its Special Move is throwing its divine spear and ensuring that it pierces the enemy'sDigicore(Lónkhē Adistakto).Digimon Reference Book⇨ English古今東西のあらゆる競技に精通し、極めることで進化した究極体デジモン。心技体すべてが備わっており、強靱な力に驕ることなく、常にトレーニングを欠かさない真の求道者だ。度を超えた身体能力に弱点はなく、スポーツのみならず戦いにおいても一分の隙も見せずに勝利する。脚部に備わった盾はブースターの役割を果たしており、高速移動による残像で敵を攪乱する『アネモダルメノス』や、神速で叩き込む蹴り技『アステロイディス』など広く活用されている。必殺技は神槍を投擲して敵のデジコアを確実に貫く『ロンヒ・アディスタクト』。デジモン図鑑",
+        "ko": "동서고금의 모든 경기에 정통하고, 궁극적으로 진화한 궁극체 디지몬. 심기체가 모두 갖춰져 있어 강인한 힘에 교만하지 않고 늘 훈련을 거르지 않는 진정한 구도자다. 지나친 신체능력에 약점이 없어 스포츠뿐만 아니라 싸움에서도 한 치의 빈틈도 보이지 않고 승리한다. 다리에 달린 방패는 부스터 역할을 하며 고속 이동에 따른 잔상으로 적을 교란하는 \"아네모다르메노스\"나 신속으로 내리치는 발차기 \"아스테로이디스\" 등 널리 활용하고 있다. 필살기는 신창을 투척해 적의 디지코어를 확실히 꿰뚫는 \"론히 아디스탁토\"."
+      },
+      "wikimon_url": "https://wikimon.net/Achillesmon"
+    },
+    {
+      "id": "shroud",
+      "name": "Shroudmon",
+      "name_jp": "Shroudmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "16",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/shroud/frame1.gif",
+        "frame2": "sprites/shroud/frame2.gif"
+      },
+      "artwork": "sprites/shroud/artwork.jpg",
+      "lore": {
+        "en": "A Demon Man Digimon that evolved when a certain Digimon tempered its body beyond its limit during unimaginable training. As a result of it just fighting repeatedly like anAsura, it came to be known as the \"Fierce God\". Its mind is already broken, and it has even forgotten the reason why it sought strength. It is a genuine combat enthusiast who loves fist fighting, and forces its defeated opponents to get back up.Its Special Moves are using its iron fists, shrouded in an ominous aura, to dish out a combo attack too quick for the eye to see (Kishungouken), and reducing its surroundings to ashes with aroundhouse kickcovered in flames (Gokuen Hakaishū). Its \"Garaien Saiha\", in which it fires black flaming energy shots from its held-out palms, boasts the single greatest firepower generated by a Digimon.Digimon Reference Book⇨ Englishとあるデジモンが想像を絶する修行の中で、限界を超えて肉体を鍛え抜き進化した魔人型デジモン。修羅の如く戦いだけを繰り返した結果「鬼神」と呼ばれるようになった。精神は既に破綻し、強さを求めた理由すら忘却している。拳での殴り合いを好み、倒れた相手に立ち上がるのを強制する真性の戦闘狂だ。必殺技は禍々しいオーラを纏った鉄拳で目にも留まらぬ連撃を叩き込む『鬼瞬轟拳（きしゅんごうけん）』と、炎を纏った回し蹴りで周囲を消し炭にする『獄炎破回蹴（ごくえんはかいしゅう）』。構えた両掌から黒い炎のエネルギー弾を放つ『喰雷炎砕破（がらいえんさいは）』は、デジモンが出せる最高峰の単体火力を誇る。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shroudmon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "pulse",
+      "to": "bulk",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "1,200+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "to": "exer",
+      "conditions": {
+        "Trophies": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "to": "runner",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "800+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "pulse",
+      "to": "namake",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "bout",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "runner",
+      "to": "bout",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "exer",
+      "to": "shoot",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "namake",
+      "to": "shoot",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "dive",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "runner",
+      "to": "dive",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "exer",
+      "to": "tempo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "namake",
+      "to": "tempo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "climb",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "namake",
+      "to": "climb",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "exer",
+      "to": "pist",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "runner",
+      "to": "pist",
+      "conditions": {
+        "Trophies": "6+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bout",
+      "to": "kazuchi",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tempo",
+      "to": "kazuchi",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "pist",
+      "to": "kazuchi",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shoot",
+      "to": "shiva",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dive",
+      "to": "shiva",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "climb",
+      "to": "shiva",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shoot",
+      "to": "achilles",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tempo",
+      "to": "achilles",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "pist",
+      "to": "achilles",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "bout",
+      "to": "shroud",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dive",
+      "to": "shroud",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "climb",
+      "to": "shroud",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "doki",
+      "to": "bibi",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "bibi",
+      "to": "pulse",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "tempo",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "bulk",
+      "to": "pist",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "exer",
+      "to": "bout",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "exer",
+      "to": "climb",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "runner",
+      "to": "shoot",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "runner",
+      "to": "tempo",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "namake",
+      "to": "bout",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "namake",
+      "to": "dive",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "bout",
+      "to": "shiva",
+      "conditions": {
+        "text": "Jogress with Data or Virus Perfect"
+      }
+    },
+    {
+      "from": "bout",
+      "to": "achilles",
+      "conditions": {
+        "text": "Jogress with Free Perfect"
+      }
+    },
+    {
+      "from": "shoot",
+      "to": "kazuchi",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "shoot",
+      "to": "shroud",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "dive",
+      "to": "kazuchi",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "dive",
+      "to": "achilles",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "tempo",
+      "to": "shiva",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "tempo",
+      "to": "shroud",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "climb",
+      "to": "kazuchi",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "climb",
+      "to": "achilles",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "pist",
+      "to": "shiva",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Perfect"
+      }
+    },
+    {
+      "from": "pist",
+      "to": "shroud",
+      "conditions": {
+        "text": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    }
+  ]
+}

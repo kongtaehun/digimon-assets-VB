@@ -1,0 +1,718 @@
+{
+  "id": "dbl",
+  "name": "Draconic Blaze",
+  "release": "JP: Apr 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_dbl.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbbe/digitama_be_dbl.gif",
+  "digimon": [
+    {
+      "id": "petit",
+      "name": "Petitmon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/petit.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/petit.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/petit.jpg"
+    },
+    {
+      "id": "babyd",
+      "name": "Babydmon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/babyd.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/babyd.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/babyd.jpg"
+    },
+    {
+      "id": "agu_2006",
+      "name": "Agumon (2006)",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4500",
+        "hp": "3300",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/agu_2006.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/agu_2006.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/agu_2006.jpg"
+    },
+    {
+      "id": "draco",
+      "name": "Dracomon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "3000",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/draco.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/draco.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/draco.jpg"
+    },
+    {
+      "id": "hack",
+      "name": "Hackmon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "2950",
+        "ap": "1000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/hack.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/hack.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/hack.jpg"
+    },
+    {
+      "id": "gumdra",
+      "name": "Gumdramon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "3000",
+        "ap": "950"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/gumdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/gumdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gumdra.jpg"
+    },
+    {
+      "id": "geogrey",
+      "name": "Geo Greymon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "3800",
+        "hp": "3600",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/geogrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/geogrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/geogrey.jpg"
+    },
+    {
+      "id": "coredra_b",
+      "name": "Coredramon (Blue)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "3300",
+        "ap": "1100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/coredra_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/coredra_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/coredra_b.jpg"
+    },
+    {
+      "id": "baohack",
+      "name": "Bao Hackmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5600",
+        "hp": "3500",
+        "ap": "1300"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/baohack.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/baohack.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/baohack.jpg"
+    },
+    {
+      "id": "coredra_g",
+      "name": "Coredramon (Green)",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "3500",
+        "hp": "3600",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/coredra_g.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/coredra_g.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/coredra_g.jpg"
+    },
+    {
+      "id": "arresterdra",
+      "name": "Arresterdramon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "3600",
+        "ap": "1250"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/arresterdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/arresterdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/arresterdra.jpg"
+    },
+    {
+      "id": "rizegrey",
+      "name": "Rize Greymon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4000",
+        "hp": "4600",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/rizegrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/rizegrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/rizegrey.jpg"
+    },
+    {
+      "id": "wingdra",
+      "name": "Wingdramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4000",
+        "ap": "1500"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/wingdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/wingdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/wingdra.jpg"
+    },
+    {
+      "id": "saviorhack",
+      "name": "Savior Hackmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "4600",
+        "ap": "1600"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/saviorhack.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/saviorhack.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/saviorhack.jpg"
+    },
+    {
+      "id": "groundra",
+      "name": "Groundramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "3800",
+        "hp": "4600",
+        "ap": "1580"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/groundra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/groundra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/groundra.jpg"
+    },
+    {
+      "id": "arresterdra_s",
+      "name": "Arresterdramon: Superior Mode",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6100",
+        "hp": "4400",
+        "ap": "1550"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/arresterdra_s.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/arresterdra_s.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/arresterdra_s.jpg"
+    },
+    {
+      "id": "shinegrey",
+      "name": "Shine Greymon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4500",
+        "hp": "6000",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shinegrey.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shinegrey.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shinegrey.jpg"
+    },
+    {
+      "id": "slayerdra",
+      "name": "Slayerdramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6300",
+        "hp": "4800",
+        "ap": "1950"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/slayerdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/slayerdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/slayerdra.jpg"
+    },
+    {
+      "id": "jes",
+      "name": "Jesmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "5500",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/jes.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/jes.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/jes.jpg"
+    },
+    {
+      "id": "breakdra",
+      "name": "Breakdramon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4000",
+        "hp": "6000",
+        "ap": "1980"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/breakdra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/breakdra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/breakdra.jpg"
+    },
+    {
+      "id": "shinegrey_b",
+      "name": "Shine Greymon: Burst Mode",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "6100",
+        "ap": "2100"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shinegrey_b.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shinegrey_b.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shinegrey_b.jpg"
+    },
+    {
+      "id": "magnakid",
+      "name": "Magna Kidmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6300",
+        "hp": "5800",
+        "ap": "2000"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/magnakid.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/magnakid.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/magnakid.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "babyd",
+      "from_name": "Babydmon",
+      "to": "agu_2006",
+      "to_name": "Agumon (2006)",
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "babyd",
+      "from_name": "Babydmon",
+      "to": "draco",
+      "to_name": "Dracomon",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "babyd",
+      "from_name": "Babydmon",
+      "to": "hack",
+      "to_name": "Hackmon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "babyd",
+      "from_name": "Babydmon",
+      "to": "gumdra",
+      "to_name": "Gumdramon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    },
+    {
+      "from": "draco",
+      "from_name": "Dracomon",
+      "to": "geogrey",
+      "to_name": "Geo Greymon",
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "draco",
+      "from_name": "Dracomon",
+      "to": "coredra_b",
+      "to_name": "Coredramon (Blue)",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hack",
+      "from_name": "Hackmon",
+      "to": "coredra_b",
+      "to_name": "Coredramon (Blue)",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hack",
+      "from_name": "Hackmon",
+      "to": "baohack",
+      "to_name": "Bao Hackmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gumdra",
+      "from_name": "Gumdramon",
+      "to": "baohack",
+      "to_name": "Bao Hackmon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "draco",
+      "from_name": "Dracomon",
+      "to": "coredra_g",
+      "to_name": "Coredramon (Green)",
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hack",
+      "from_name": "Hackmon",
+      "to": "arresterdra",
+      "to_name": "Arresterdramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 5 Cleared"
+      }
+    },
+    {
+      "from": "gumdra",
+      "from_name": "Gumdramon",
+      "to": "arresterdra",
+      "to_name": "Arresterdramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 5 Cleared"
+      }
+    },
+    {
+      "from": "geogrey",
+      "from_name": "Geo Greymon",
+      "to": "rizegrey",
+      "to_name": "Rize Greymon",
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "geogrey",
+      "from_name": "Geo Greymon",
+      "to": "wingdra",
+      "to_name": "Wingdramon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baohack",
+      "from_name": "Bao Hackmon",
+      "to": "saviorhack",
+      "to_name": "Savior Hackmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "arresterdra",
+      "from_name": "Arresterdramon",
+      "to": "saviorhack",
+      "to_name": "Savior Hackmon",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baohack",
+      "from_name": "Bao Hackmon",
+      "to": "groundra",
+      "to_name": "Groundramon",
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "baohack",
+      "from_name": "Bao Hackmon",
+      "to": "arresterdra_s",
+      "to_name": "Arresterdramon: Superior Mode",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "arresterdra",
+      "from_name": "Arresterdramon",
+      "to": "arresterdra_s",
+      "to_name": "Arresterdramon: Superior Mode",
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "rizegrey",
+      "from_name": "Rize Greymon",
+      "to": "shinegrey",
+      "to_name": "Shine Greymon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wingdra",
+      "from_name": "Wingdramon",
+      "to": "shinegrey",
+      "to_name": "Shine Greymon",
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rizegrey",
+      "from_name": "Rize Greymon",
+      "to": "slayerdra",
+      "to_name": "Slayerdramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "wingdra",
+      "from_name": "Wingdramon",
+      "to": "slayerdra",
+      "to_name": "Slayerdramon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "saviorhack",
+      "from_name": "Savior Hackmon",
+      "to": "jes",
+      "to_name": "Jesmon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "from_name": "Groundramon",
+      "to": "jes",
+      "to_name": "Jesmon",
+      "requirements": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "saviorhack",
+      "from_name": "Savior Hackmon",
+      "to": "breakdra",
+      "to_name": "Breakdramon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "from_name": "Groundramon",
+      "to": "breakdra",
+      "to_name": "Breakdramon",
+      "requirements": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rizegrey",
+      "from_name": "Rize Greymon",
+      "to": "shinegrey_b",
+      "to_name": "Shine Greymon: Burst Mode",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "saviorhack",
+      "from_name": "Savior Hackmon",
+      "to": "magnakid",
+      "to_name": "Magna Kidmon",
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    }
+  ]
+}

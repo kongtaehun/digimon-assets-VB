@@ -1,0 +1,42 @@
+{
+  "id": "rhinokabuteri",
+  "name": "Rhino Kabuterimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/rhinokabuteri.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/rhinokabuteri.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/rhinokabuteri.jpg",
+  "appearances": [
+    {
+      "dim_id": "blitz_ex",
+      "dim_name": "Blitzmon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Rhino Kabuterimon",
+    "name_en": "RhinoKabuterimon",
+    "attribute": "Free",
+    "stage_text": "Stage V (Perfect)",
+    "stats": {
+      "dp": "40 (★)",
+      "hp": "8",
+      "ap": "5"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

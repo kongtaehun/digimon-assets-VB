@@ -1,0 +1,78 @@
+{
+  "id": "imperialdra_f",
+  "name": "Imperialdramon: Fighter Mode",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/imperialdra_f.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/imperialdra_f.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/imperialdra_f.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dinobee"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "mummy",
+        "chimaira"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Imperialdramon: Fighter Mode",
+    "name_en": "Imperialdramon: Fighter Mode",
+    "attribute": "Free",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "5800",
+      "ap": "2000"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "Stage 10 cleared, 20+ PP, 3,500+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "dinobee",
+        "name": "Dinobeemon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "mummy",
+        "name": "Mummymon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "chimaira",
+        "name": "Chimairamon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

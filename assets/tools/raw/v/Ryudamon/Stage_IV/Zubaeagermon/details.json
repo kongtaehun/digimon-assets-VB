@@ -1,0 +1,77 @@
+{
+  "id": "zubaeager",
+  "name": "Zubaeagermon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zubaeager.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zubaeager.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/zubaeager.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "zuba"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Zubaeagermon",
+    "name_en": "ZubaEagermon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "dp": "25 (★5)",
+      "hp": "5",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "zuba",
+        "name": "Zubamon",
+        "conditions": "10+ Trophies, 1300+ Vital Values, 8+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "dura",
+        "name": "Duramon",
+        "conditions": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "asura",
+        "name": "Asuramon",
+        "conditions": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "oboro",
+        "name": "Oboromon",
+        "conditions": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "Jogress with Data or Free Adult"
+      },
+      {
+        "id": "gyuki",
+        "name": "Gyukimon",
+        "conditions": "Jogress with Virus Adult"
+      }
+    ]
+  }
+}

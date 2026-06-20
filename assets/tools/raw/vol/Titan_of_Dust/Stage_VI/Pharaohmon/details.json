@@ -1,0 +1,78 @@
+{
+  "id": "pharaoh",
+  "name": "Pharaohmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pharaoh.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pharaoh.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pharaoh.jpg",
+  "appearances": [
+    {
+      "dim_id": "tdu",
+      "dim_name": "Titan of Dust",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "tricera",
+        "vulture",
+        "mummy"
+      ],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Pharaohmon",
+    "name_en": "Pharaohmon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "12",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "tricera",
+        "name": "Triceramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "vulture",
+        "name": "Vulturemon",
+        "conditions": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio• Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "mummy",
+        "name": "Mummymon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "gogma",
+        "name": "Gogmamon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "jyaga",
+        "name": "Jyagamon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "scorpio",
+        "name": "Scorpiomon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

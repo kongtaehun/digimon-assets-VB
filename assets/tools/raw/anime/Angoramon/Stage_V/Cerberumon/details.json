@@ -1,0 +1,79 @@
+{
+  "id": "cerberu",
+  "name": "Cerberumon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/cerberu.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/cerberu.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/cerberu.jpg",
+  "appearances": [
+    {
+      "dim_id": "angora",
+      "dim_name": "Angoramon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "symbareangora",
+        "siesa",
+        "dog"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Cerberumon",
+    "name_en": "Cerberumon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "5700",
+      "hp": "4500",
+      "ap": "1500"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "symbareangora",
+        "name": "Symbare Angoramon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "siesa",
+        "name": "Siesamon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "dog",
+        "name": "Dogmon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "diarbbit",
+        "name": "Diarbbitmon",
+        "conditions": "30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "mars",
+        "name": "Marsmon",
+        "conditions": "25+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "granddracu",
+        "name": "Grand Dracumon",
+        "conditions": "20+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ]
+  }
+}

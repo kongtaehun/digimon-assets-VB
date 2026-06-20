@@ -1,0 +1,1000 @@
+{
+  "schema_version": "1.0",
+  "id": "pwa",
+  "name": "Primeval Warriors",
+  "category": "bundled",
+  "device": "VBDM",
+  "release": "JP: Mar 2022 - Premium Bandai (DiM Card Holster Vol.02)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_pwa.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "leaf",
+      "name": "Leafmon",
+      "name_jp": "Leafmon",
+      "name_ko": "잎새몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/leaf/frame1.gif",
+        "frame2": "sprites/leaf/frame2.gif"
+      },
+      "artwork": "sprites/leaf/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon which has a breath of fresh greens (a tiny leaf) on its tail. It has many of the elements of a plant and the composition of its body includeschlorophyll, so itphotosynthesizesto grow. It possesses a leaf-shaped tail, and the leaf protects it from intense sunlight or when it is raining. Due to its pure nature, it doesn't distrust others even if they are frightening. However, it is just a little bit shy. As it was just born it is unable to battle, but its innocent spirit, overflowing with vitality, can make the surrounding people remember pure feelings that were forgotten, wrapping them in a calm air. However, if one tries to mess with it too much, it will spit acidic bubbles to intimidate them.Digimon Reference Book⇨ English尻尾部に新緑の息吹（小さな葉っぱ）を持ったスライム型デジモン。植物の要素を多く持ち体成分には葉緑素を含んでいて、光合成をして成長している。葉っぱ状の尻尾を持ち日差しが強いときや、雨の時はその葉っぱでしのいでいる。純真無垢な性格で相手が怖いとか、疑うことなどはしない。しかし、ちょっぴり恥ずかしがり屋だ。生まれたてで戦うことは出来ないが、生命力あふれる初々しい心は忘れかけていた純粋な気持ちを思い出させ、周りの人々を穏やかな空気で包み込む。しかし、ちょっかいを出しすぎると、酸性の泡を吐いて威嚇してくるぞ。デジモン図鑑",
+        "ko": "꼬리 부분에 신록의 숨결(작은 잎)을 가진 슬라임형 디지몬. 식물의 요소를 많이 가지고 있는 몸성분에는 엽록소가 포함되어 광합성을 해 성장하고 있다. 나뭇잎 모양의 꼬리를 가지고 있으며 햇볕이 강한 때나 비가 올 때는 그 잎으로 견뎌내고 있다. 순진무구한 성격으로 상대를 무서워하거나, 의심하거나 하지 않는다. 그러나 조금 부끄럼쟁이이다. 갓 태어나서 싸울 수는 없지만, 생명력 넘치는 풋풋한 마음은 잊고 있었던 순수한 마음을 생각나게 해 주위 사람들을 온화한 공기로 감싼다. 그러나 지나친 참견을 하면 산성 거품을 토해 위협해 올 것이다."
+      },
+      "wikimon_url": "https://wikimon.net/Leafmon"
+    },
+    {
+      "id": "mino",
+      "name": "Minomon",
+      "name_jp": "Minomon",
+      "name_ko": "데롱몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/mino/frame1.gif",
+        "frame2": "sprites/mino/frame2.gif"
+      },
+      "artwork": "sprites/mino/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that is an evolution ofLeafmon, and went into a tough outer shell. On days with good weather, or when it's in a good mood, it sticks its face out of its shell and vegetates. It hangs onto high places with the ivy (hair?) growing from its head, and moves by hanging onto large Digimon, but if it's over a short distance, it is also able to move by floating through the air. Due to its vegetative personality, it has a fault of not easily showing its emotions on its face. Also, as solitude is its \"specialty\", it has the inner fortitude to not be discouraged even if it gets worried and anxious. Its Special Move is throwing a hard, pine cone-shaped substance (Pinecone).Digimon Reference Book⇨ English硬い外郭の殻に入った、リーフモンの進化系デジモン。天気の良い日や、機嫌の良いときは殻から顔を出して、ボーっとしている。頭から生えた蔦（毛髪？）で高いところにぶら下がったり、大型デジモンにぶら下がっては移動しているが、短距離なら空中を浮遊して移動することができる。ボーっとした性格で、喜怒哀楽がなかなか顔に出ないのが欠点。また、孤独が“得意”で不安になったり心配ごとがあってもへこたれない芯の強さがある。必殺技は松毬状の硬い物質を投げつける『パインコーン』。デジモン図鑑",
+        "ko": "딱딱한 외곽의 껍질에 들어가 있는 잎새몬 의 진화계 디지몬. 맑은 날이나 기분이 좋을 때에는 밖으로 얼굴을 내밀고, 멍하니 있는다. 머리에서 돋아 난 덩굴(모발?)로 높은 곳에 매달리거나 대형 디지몬에 매달려 이동하지만 단거리라면 공중을 부유해서 이동할 수 있다. 멍한 성격으로, 희노애락이 좀처럼 얼굴에 나오지 않는 것이 단점. 하지만 고독이 \"특기\"라 불안하고 걱정거리가 있어도 풀이 죽지않는 강한 마음을 가지고 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Minomon"
+    },
+    {
+      "id": "worm",
+      "name": "Wormmon",
+      "name_jp": "Wormmon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/worm/frame1.gif",
+        "frame2": "sprites/worm/frame2.gif"
+      },
+      "artwork": "sprites/worm/artwork.jpg",
+      "lore": {
+        "en": "A Larva Digimon with a timid, cowardly personality. Just likeV-monand the others, it's a descendant of an ancient species, so it is able to perform special Armor evolutions, but since Wormmon is powerless when by itself, it can't possibly match up to larger Digimon. However, by Armor evolving with the power of theDigimentals, it is able to manifest unbelievable power. It is also said that, just as a fragile larva matures into a powerfulimago, Wormmon too will one day evolve into an Adult overflowing with power. It is unmistakably a Digimon that holds hidden potential for the future. Its Special Moves are spitting out the threads of a tough, adhesive net, completely restricting the opponent's movements (Nebaneba Net), and spitting out stiff threads that are as thin as a silk thread but as pointed and sharp as a needle (Silk Thread).Digimon Reference Book⇨ English気弱で臆病な性格の幼虫型デジモン。ブイモン等と同じ古代種族の末裔で、特殊なアーマー進化をすることができるが、単体でのワームモンは非力で、大型のデジモンには到底かなわない。しかし、デジメンタルの力でアーマー進化することで、信じられないようなパワーを発揮することができる。また、脆弱な幼虫が力強い成虫に成長するように、ワームモンもいつの日かパワー溢れる成熟期へと進化すると言われている。まさに未来への可能性を秘めているデジモンなのである。必殺技は粘着力の強い網状の糸を吐出し相手の動きを封じこめてしまう「ネバネバネット」と、絹糸のように細いが先端が尖った針の様に硬質な糸を吐出す『シルクスレッド』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wormmon"
+    },
+    {
+      "id": "sting",
+      "name": "Stingmon",
+      "name_jp": "Stingmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/sting/frame1.gif",
+        "frame2": "sprites/sting/frame2.gif"
+      },
+      "artwork": "sprites/sting/artwork.jpg",
+      "lore": {
+        "en": "An extremely unusual Insect Digimon with a humanoid form. It possesses nimble movements and a tough exoskeleton, defining traits of Insect Digimon. It excels in its abilities as an assassin, aiming for the opponent's vitals with its nimble movements and keen judgment, and specializes in attacks that silence the opponent with a single blow. It is highly intelligent and has great composure, along with a cool disposition. Its Special Move is a terrifying technique in which it skewers the opponent with the Spikes on both of its arms (Spiking Finish).Digimon Reference Book⇨ English人型の形態を持つ、非常に珍しい昆虫型デジモン。昆虫型デジモン特有の硬い外骨格と素早い動きをもっている。暗殺者としての能力に長けており、俊敏な身のこなしと的確な判断力で敵の急所を狙い、一撃で敵を沈黙させる攻撃を得意とする。いたって冷静で知性は高く、クールな性格の持ち主だ。必殺技は両腕のスパイクで敵を串刺しにする恐ろしい技『スパイキングフィニッシュ』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Stingmon"
+    },
+    {
+      "id": "shadra",
+      "name": "Shadramon",
+      "name_jp": "Shadramon",
+      "name_ko": "샤드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/shadra/frame1.gif",
+        "frame2": "sprites/shadra/frame2.gif"
+      },
+      "artwork": "sprites/shadra/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Insect Digimon that evolved through the power of the \"Digimental of Courage\". To be precise, it took the form of an insect-humanoid, but its sinister appearance and viciousness is the result of an unfortunate adverse reaction to the \"Digimental of Courage\". It manipulates flames similarly toFladramonand their combat ability is more or less on par, but it is otherwise a wicked being who is the exact opposite of Fladramon, just like light and darkness. Its Special Move is a red hot blaze emitted from both hands (Flare Buster).Digimon Reference Book⇨ English“勇気のデジメンタル”のパワーによって進化したアーマー体の昆虫型デジモン。正確には昆虫人間型の姿をしているが、その姿は凶々しく“勇気のデジメンタル”が逆作用してしまい凶悪になってしまった。フレイドラモンのように炎を操り、格闘能力もほぼ互角だが、光と闇のように正反対の邪悪な存在である。必殺技は両腕から放射する灼熱の火炎『フレアバスター』。デジモン図鑑",
+        "ko": "\"용기의 디지멘탈\"의 파워에 의해서 진화한 아머체의 곤충형 디지몬. 정확하게는 곤충 인간형의 모습을 하고 있지만, 그 흉한 모습은 \"용기의 디지멘탈\"이 역작용해버린 것으로 흉악하게 되어버렸다. 화염드라몬 과 같이 불길을 조종해 격투 능력도 거의 호각이지만 빛과 어둠과 같이 정반대인 사악한 존재이다. 필살기는 두 팔에서 작열의 불꽃을 방사하는 \"플레어 버스터\"."
+      },
+      "wikimon_url": "https://wikimon.net/Shadramon"
+    },
+    {
+      "id": "hudie",
+      "name": "Hudiemon",
+      "name_jp": "Hudiemon",
+      "name_ko": "후디에몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/hudie/frame1.gif",
+        "frame2": "sprites/hudie/frame2.gif"
+      },
+      "artwork": "sprites/hudie/artwork.jpg",
+      "lore": {
+        "en": "A humanoid Insect Digimon with the wings of a butterfly. It is cautious at first, but once it gets to know someone, it will reveal its cheerful, innocent countenance. It travels all over theDigital Worldwhile dancing gracefully in well-lit places. It is said to be like a backup of the Digital World, accessing records throughout the world and storing vast amounts of record data within itself. Even if a strange phenomenon occurs in the Digital World and records and memories are lost, the lost data will be restored if Hudiemon is around.Its Special Moves are soaring into the air and dishing out a flying kick (Flying Kick), and flapping its wings to stir up a gust that spreads itsscales(Infinity Dream). While it is capable of poisoning or paralyzing the enemy when using \"Infinity Dream\" on them, its main function is to ease the pain of its wounded allies and make them feel better.Digimon Reference Book⇨ English人型の形態で蝶の羽を持つ昆虫型のデジモン。最初の内は警戒心をもたれるが、仲良くなると明るくとぼけた表情を見せてくれる。光の射す場所を優雅に舞いながらデジタルワールド各地を渡っている。デジタルワールドのバックアップ的存在と言われ、世界中の記録にアクセスし膨大な記録データを自身に保存している。もしもデジタルワールドに異変が訪れ記録や記憶が失われたとしても、フーディエモンがいれば失われたデータは復元されるという。必殺技は、大きく飛翔し飛び蹴りする『フライングキック』、さらに羽を羽ばたき風に乗せる鱗粉『インフィニティドリーム』がある。『インフィニティドリーム』を敵に使うと毒や痺れなどを起こさせるが、主な使い方はケガをした味方の痛みを和らげたり、気分を優れさせることである。デジモン図鑑",
+        "ko": "인간의 형태에 나비의 날개를 가진 곤충형 디지몬. 처음 한동안은 경계심을 보이지만 친해지면 밝고 얼빠진 표정을 보여준다. 빛이 비추는 장소에서 우아하게 춤추며 디지털 월드의 각 지역을 돌아다니고 있다. 디지털 월드의 백업적 존재로 일컬어지며 전세계의 기록에 접속해 자신에게 방대한 기록 데이터를 보존시키고 있다. 혹시라도 디지털 월드에 이변이 생겨 기록이나 기억이 지워지게 되어도 후디에몬이 있다면 잃어버린 데이터는 복원된다고 한다. 필살기는 힘껏 날아오른 뒤 발차기를 날리는 『플라잉 킥』과 날개를 펄럭여 생기는 바람에 인분을 실어날리는 『인피니티 드림』이 있다. 『인피니티 드림』은 적에게 사용하면 독이나 마비를 일으키지만 주된 사용방법은 상처를 입은 동료의 통증을 완화하거나 기분을 편안하게 만드는 것이다. 디지몬 스토리 사이버 슬루스 해커스 메모리 도감 인간의 형태에 나비의 날개를 가진 곤충형 디지몬. 처음 한동안은 경계심을 보이지만 친해지면 밝고 얼빠진 표정을 보여준다. 빛이 비추는 장소에서 우아하게 춤추며 노래를 부르는 것을 좋아하며 그 노랫소리는 영원한 보물이라고 한다. 필살기는 힘껏 날아오른 뒤 발차기를 날리는 『플라잉 킥』과 날개를 펄럭여 생기는 바람에 인분을 실어날리는 『인피니티 드림』이 있다. 『인피니티 드림』은 적에게 사용하면 독이나 마비를 일으키지만 주된 사용방법은 상처를 입은 동료의 통증을 완화하거나 기분을 편안하게 만드는 것이다."
+      },
+      "wikimon_url": "https://wikimon.net/Hudiemon"
+    },
+    {
+      "id": "goki",
+      "name": "Gokimon",
+      "name_jp": "Gokimon",
+      "name_ko": "고키몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/goki/frame1.gif",
+        "frame2": "sprites/goki/frame2.gif"
+      },
+      "artwork": "sprites/goki/artwork.jpg",
+      "lore": {
+        "en": "Its black-lustered body is exactly like the very cockroach that everyone hates. It moves around stealthily and nimbly, and runs away even faster. Although you can hardly expect it to have offensive or defensive ability, it shines best when it comes to a protracted war due to its immeasurable stamina. Its Special Move is scattering trash (Dream Dust).Digimon Reference Book⇨ English黒光りしたその体は誰もが嫌がるゴキブリそのもの。人目を盗み、すばしっこく動き回り、逃げ足は更に速い。攻撃力・防御力はほとんど期待できないが、その計り知れない生命力のため、持久戦になると本領を発揮する。必殺技はゴミを撒き散らす『ドリームダスト』デジモン図鑑",
+        "ko": "검게 빛나는 그 몸은 누구나 싫어하는 바퀴벌레 그 자체. 남의 눈을 속이고 재빠르게 돌아다니고, 도망가기는 더욱 빠르다. 공격력・방어력은 거의 기대할 수 없지만, 그 헤아릴 수 없는 생명력 때문에 장기전이 되면 본 실력을 발휘한다. 필살기는 쓰레기를 흩뿌리는 『드림 더스트 [1] 』."
+      },
+      "wikimon_url": "https://wikimon.net/Gokimon"
+    },
+    {
+      "id": "jewelbee",
+      "name": "Jewelbeemon",
+      "name_jp": "Jewelbeemon",
+      "name_ko": "주엘비몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/jewelbee/frame1.gif",
+        "frame2": "sprites/jewelbee/frame2.gif"
+      },
+      "artwork": "sprites/jewelbee/artwork.jpg",
+      "lore": {
+        "en": "Ajewel beetle-like Insect Digimon that emits a rainbow-colored radiance. Its prism-like armor, whichchanges color with the viewing angle, is not only sturdy but also has the effect of dazzling the enemy's eyes. It is an expert in combat, and prefers beautiful battles. Its Special Move is swinging the spear it holds in its right hand at thespeed of light, generating a shock wave (Spike Buster).Digimon Reference Book⇨ English玉虫のような虹色の輝きを放つ昆虫型デジモン。見る角度で色がかわるプリズムのようなヨロイは、頑丈なだけでなく敵の目をくらませる効果もある。格闘のエキスパートで、美しい戦いを好む。必殺技は、右手に持つ槍を光の速さで振るい、衝撃波を起こす『スパイクバスター』デジモン図鑑",
+        "ko": "비단벌레처럼 무지개색 빛을 내는 곤충형 디지몬. 보는 각도에 따라 색이 바뀌는 프리즘 같은 갑옷은 튼튼할 뿐만 아니라 적의 눈을 멀게 만드는 효과도 있다. 격투 전문가로 아름다운 싸움을 좋아한다. 필살기는 오른손에 든 창을 빛의 속도로 돌려서 충격파를 일으키는 스파이크 버스터."
+      },
+      "wikimon_url": "https://wikimon.net/Jewelbeemon"
+    },
+    {
+      "id": "paildra",
+      "name": "Paildramon",
+      "name_jp": "Paildramon",
+      "name_ko": "파일드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/paildra/frame1.gif",
+        "frame2": "sprites/paildra/frame2.gif"
+      },
+      "artwork": "sprites/paildra/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man Digimon whichJogress-evolved fromXV-monandStingmon. It has distinctively retained the components of its Dragon type base, and has acquired the power possessed by Dragons and impregnable defensive ability with the shell possessed by Insects. Even more than its power, it finishes off enemies with its keen movements. With deep, unquestioning loyalty, it is even willing to lay down it's life for its master. Its Signature Move is unleashing a rush with the Spikes extending from the shells on both of its arms (Esgrima). Its Special Move is an energy wave fired from the two organic cannons that are extended from its waist (Desperado Blaster).Digimon Reference Book⇨ Englishエクスブイモンとスティングモンがジョグレスして進化した竜人型デジモン。竜型をベースにその要素を色濃く残しており、竜の持つパワーと昆虫の持つ甲殻で鉄壁の防御能力を身につけている。パワーもさることながら、俊敏な動きで敵にとどめを刺す。忠誠心が強く、主人のためには命を落とすこともいとわない。得意技は両腕の甲から伸びるスパイクでラッシュを繰り出す『エスグリーマ』。必殺技は腰から伸びている２本の生体砲から放たれるエネルギー波『デスペラードブラスター』。デジモン図鑑",
+        "ko": "엑스브이몬 과 스팅몬 이 조그레스 진화 한 용인형 디지몬. 용형이 기반으로 그 요소를 짙게 남기고 있으며 [1] 용이 가진 파워와 곤충이 가진 갑각으로 철벽 방어능력을 갖췄다. 파워는 물론 민첩한 움직임으로 적을 두렵게 한다. 충성심이 강해 주인을 위해 목숨을 잃는 일도 마다하지 않는다. 특기는 양팔의 갑옷에서부터 나오는 스파이크로 러시를 계속하는 \"에스그리마\". [2] [3] 필살기는 허리에서 나온 두 개의 생체포에서 발사하는 에너지파 \"데스페라도 블래스터\" [4] ."
+      },
+      "wikimon_url": "https://wikimon.net/Paildramon"
+    },
+    {
+      "id": "dinobee",
+      "name": "Dinobeemon",
+      "name_jp": "Dinobeemon",
+      "name_ko": "다이노몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/dinobee/frame1.gif",
+        "frame2": "sprites/dinobee/frame2.gif"
+      },
+      "artwork": "sprites/dinobee/artwork.jpg",
+      "lore": {
+        "en": "A Mutation Digimon whichJogress-evolved fromStingmonandXV-mon. Achimeraof a dragon and an insect, this Digimon possesses the nameTerrible Bee. It is hard to classify its species as either a Dragon type or an Insect type, but its Insect nature is especially pronounced. It flies through the sky with its four wings and accurately perceives the opponent with the compound eyes on its head, enabling it to choke the life out of its opponent without fail. Also, Dinobeemon possesses a considerably ferocious personality. Its Special Move is theDance of Hellin which its nimble movements leave behind afterimages while it chops up the opponent (Hell Masquerade).Digimon Reference Book⇨ Englishスティングモンとエクスブイモンがジョグレスして進化した突然変異型デジモン。竜と昆虫のキメラ（合成獣）であり、“恐ろしい蜂”の名をもつ。竜型とも昆虫型とも区別しにくい種であるが、昆虫の性質が色濃く出ている。４枚の羽で上空を飛び、頭部の複眼で敵を的確に捉え、確実に敵の息の根を止める。また、ディノビーモンはかなり凶暴な性格の持ち主である。必殺技は素早い動きで残像を残しながら敵を切り刻む“地獄の舞踏”『ヘルマスカレード』。デジモン図鑑",
+        "ko": "스팅몬 과 엑스브이몬 이 조그레스 진화 한 돌연변이형 디지몬. [1] 용 과 곤충 의 키메라 (합성짐승)이며 “무서운 벌 ”의 이름을 가지는 디지몬. [2] 용형과도 곤충형과도 구별하기 어려운 종이지만 곤충의 성질이 현저하게 나와 있다. 4매의 날개로 상공을 날아 머리 부분의 복안으로 적을 정확하게 파악해 확실히 적의 숨통을 끊는다. 또, 다이노몬은 꽤 흉포한 성격의 소유자이다. 필살기는 재빠른 움직임으로 잔상을 남기며 적을 잘게 쪼개는 \"지옥의 무도\" 『헬 마스커레이드』."
+      },
+      "wikimon_url": "https://wikimon.net/Dinobeemon"
+    },
+    {
+      "id": "kongou",
+      "name": "Kongoumon",
+      "name_jp": "Kongoumon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★6)",
+        "hp": "12",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/kongou/frame1.gif",
+        "frame2": "sprites/kongou/frame2.gif"
+      },
+      "artwork": "sprites/kongou/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Insect Digimon that evolved through the power of the \"Digimental of Miracles\". It is a heavyweight Power Fighter with a metal body that shines gold all over. It brings about miracles with its \"Vajra\", the sacred weapons it holds in its six hands, and is well-versed in all divine works. It is said that Kongoumon has been an agent ofGodon earth since ancient times, separate from Angel Digimon. Its Special Move is an intense barraginghariteunleashed from its six arms (Teppou).Digimon Reference Book⇨ English“奇跡のデジメンタル”のパワーによって進化したアーマー体の昆虫型デジモン。全身が黄金色に輝くメタルボディーで、重量級のパワーファイターである。６本の手に持つ聖なる武器“ヴァジュラ”で奇跡を起こし、あらゆる神事に精通している。古来より、コンゴウモンは天使型デジモンとは別の、神の地上代行者と言われている。必殺技は６本の腕から繰り出される、強烈な連射張り手『鉄砲（テッポウ）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kongoumon"
+    },
+    {
+      "id": "pucchie",
+      "name": "Pucchiemon",
+      "name_jp": "Pucchiemon",
+      "name_ko": "푸치몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★6)",
+        "hp": "7",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/pucchie/frame1.gif",
+        "frame2": "sprites/pucchie/frame2.gif"
+      },
+      "artwork": "sprites/pucchie/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Fairy Digimon which evolved through the power of the \"Digimental of Kindness\". Owning a whimsical personality, it loves to have its head stroked and to share secrets with others, and can be found singing songs when in a good mood. However, it hates having its tail touched, and it will fall into a foul mood and refuse to listen to you if you keep trying. Its power isn't strong, but it has the strange ability to becalm its opponents. Furthermore,Pucchiemon of a green colorare known to exist, but their numbers are very low, so their presence is considered to be quite valuable. Its Special Move releases a soft light that causes a loss of fighting spirit and soothes the hearts of its enemies (Heartner Beam).Digimon Reference Book⇨ English“優しさのデジメンタル”のパワーによって進化した、アーマー体の妖精型デジモン。気まぐれな性格の持ち主で、頭を撫でられたり、内緒話をするのが大好きで、機嫌が良いときはよく歌を歌っている。しかし、尻尾を触られるのが大嫌いで、無理やり触ろうとすると機嫌を損ねて言うことを聞かなくなってしまう。力は強くないが、相手を和ませる不思議な能力を持っている。また、プッチーモンには緑色をした種が存在するが、その固体数はとても少なくかなり貴重な存在である。必殺技は相手の心を和ませて戦意を喪失させる柔らかな光線『ハートナービーム』。デジモン図鑑",
+        "ko": "\"친절의 디지멘탈\"의 파워에 의해 진화한 아머체 의 요정 형 디지몬. 변덕스러운 성격으로 머리를 쓰다듬어지는 것이나 비밀 얘기를 하는 것을 매우 좋아하며, 기분이 좋을 땐 노래 를 부르기도 한다. 하지만 꼬리를 만져지는 것을 매우 싫어해, 무리해서라도 만지려 들면 기분이 돌변해 말을 듣지 않게 되어버린다. 힘은 그리 강하지 않지만, 상대와 친해지는 불가사의 한 능력을 갖고 있다. 또 푸치몬에겐 녹색 아종이 존재하는데, 그 개체수가 매우 적어 귀중한 존재라고 한다. 필살기는 상대의 마음을 열어 전의를 상실시키는 부드러운 광선 \"하트너 빔 [3] \"."
+      },
+      "wikimon_url": "https://wikimon.net/Pucchiemon"
+    },
+    {
+      "id": "pucchie_g",
+      "name": "Pucchiemon (Green)",
+      "name_jp": "Pucchiemon (Green)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★6)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/pucchie_g/frame1.gif",
+        "frame2": "sprites/pucchie_g/frame2.gif"
+      },
+      "artwork": "sprites/pucchie_g/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Fairy Digimon which evolved through the power of the \"Digimental of Kindness\". Owning a whimsical personality, it loves to have its head stroked and to share secrets with others, and can be found singing songs when in a good mood. However, it hates having its tail touched, and it will fall into a foul mood and refuse to listen to you if you keep trying. Its power isn't strong, but it has the strange ability to becalm its opponents. Furthermore, the number of individuals of this green species is very low, and their presence is considered valuable. Its Special Move releases a soft light that causes a loss of fighting spirit and soothes the hearts of its enemies (Heartner Beam).Digimon Reference Book⇨ English“優しさのデジメンタル”のパワーによって進化した、アーマー体の妖精型デジモン。気まぐれな性格の持ち主で、頭を撫でられたり、内緒話をするのが大好きで、機嫌が良いときはよく歌を歌っている。しかし、尻尾を触られるのが大嫌いで、無理やり触ろうとすると機嫌を損ねて言うことを聞かなくなってしまう。力は強くないが、相手を和ませる不思議な能力を持っている。また、この緑色をした種の固体数はとても少なく、かなり貴重な存在である。必殺技は相手の心を和ませて戦意を喪失させる柔らかな光線『ハートナービーム』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pucchiemon_(Green)"
+    },
+    {
+      "id": "banchosting",
+      "name": "Bancho Stingmon",
+      "name_jp": "Bancho Stingmon",
+      "name_ko": "반쵸스팅몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/banchosting/frame1.gif",
+        "frame2": "sprites/banchosting/frame2.gif"
+      },
+      "artwork": "sprites/banchosting/artwork.jpg",
+      "lore": {
+        "en": "An Insect Digimon that is full of pride and lives by constantly overpowering those around it.It prioritizes its own pride out of everything else, and its high-ranking pride is said to be first-rate among all of the Digimon. If someone says or does something that damages its pride even the slightest bit, it will never forgive them, regardless of who the opponent is. It is said that it acquired the title of \"Bancho\" through its uncompromising pride. Its symbolicGakuranwas minutely sewn with the shells of various insects, giving it a very firm structure.Its Special Moves are skewering the enemy with the drills on both of its arms (Bloody Finish), releasingKiraichūthat self-destruct on enemies (Bakuraiten), and shattering the enemy's face with a headbutt (Redbutt).Digimon Reference Book⇨ English自尊心に溢れ、常に周囲を威圧して生きる昆虫型デジモン。全てにおいて自身のプライドが優先され、プライドの高さは全デジモンの中で一番といわれる。少しでもプライドに傷をつけるような言動があれば、相手が誰であろうとも容赦しない。一切の妥協を許さぬプライドにより「バンチョー」の称号を獲得したとされる。その象徴たるガクランは様々な虫の甲殻で綿密に編まれており、非常に硬い作りになっている。必殺技は、両腕のドリルで敵を串刺しにする「ブラッディーフィニッシュ」、機雷虫を放ち敵と自爆させる「爆雷天」、敵の顔面を頭突きで破壊する「レッドバット」。デジモン図鑑",
+        "ko": "자존심이 넘치고 항상 주변을 위압하며 사는 곤충형 디지몬. 다른 것보다 자기 자존심이 우선이며, 그 자존심은 모든 디지몬 중 으뜸이라고 한다. 조금이라도 자부심에 상처를 내는 듯한 언행을 보이면 상대가 누구든 용서하지 않는다. 일체의 타협을 불허하는 자존심에 의해 반쵸의 칭호를 획득했다. 그 상징인 가쿠란은 다양한 벌레의 껍질로 면밀히 짜여져 있어서 매우 단단하다. 필살기는 양팔의 드릴로 적을 찔러 죽이는 블러디 피니쉬와 기뢰충을 날려 적에게 자폭시키는 벌레폭탄 인 폭뢰천(爆雷天), 강력한 박치기로 적의 안면을 파괴하는 레드버트."
+      },
+      "wikimon_url": "https://wikimon.net/Bancho_Stingmon"
+    },
+    {
+      "id": "grankuwaga",
+      "name": "Gran Kuwagamon",
+      "name_jp": "Gran Kuwagamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grankuwaga/frame1.gif",
+        "frame2": "sprites/grankuwaga/frame2.gif"
+      },
+      "artwork": "sprites/grankuwaga/artwork.jpg",
+      "lore": {
+        "en": "The ultimate form ofKuwagamon-speciesDigimon. It is an especially evil being among Insect Digimon, and if you happen to stumble across Gran Kuwagamon within the Digital World, you won't be able to do anything but curse yourself. Because it inhabits the depths of the Digital World's forests, and is only active at night, it is called the \"Demon of the Deep Forest\". Also, its greatest rival isHerakle Kabuterimon, and the battle between these two continues without ever ending. Its Special Move is cutting through all of the surrounding space (Dimension Scissor).Digimon Reference Book⇨ Englishクワガーモン系デジモンの究極形態。昆虫型デジモンの中でもとりわけ邪悪な存在であり、デジタルワールドでグランクワガーモンに出会ってしまった場合は、自らを呪うしかない。普段はデジタルワールドの森林の奥深くに生息しており、夜間しか活動しないため“深き森の悪魔”と呼ばれている。また、ヘラクルカブテリモンの最大のライバルであり、この両者の間にはいつ果てるともない戦いが続いている。必殺技は周囲の空間ごと切り裂いてしまう『ディメンションシザー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gran_Kuwagamon"
+    },
+    {
+      "id": "imperialdra_d",
+      "name": "Imperialdramon: Dragon Mode",
+      "name_jp": "",
+      "name_ko": "황제드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "An ultimate Ancient Dragon Digimon that existed in ancient times. There is a clear distinction between it and other Digimon in terms of existence or ability. Also, Imperialdramon is called theDragon Mode, but there seems to exist a \"Fighter Mode\" that is able to liberate all of its power. However, it is said that that form has never been seen. Due to its immense power, controlling it is next to impossible, and depending on how it is raised, it may become a savior or a god of destruction. Its Special Move is firing super-massivedark matter, swallowing everything in a dark space (Mega Death). This technique is a terrifying ability that completely annihilates everything within a radius of a few hundred meters around the impact-point of the dark matter.Digimon Reference Book⇨ English古代に存在した究極の古代竜型デジモン。他のデジモンとは存在や能力の面で一線を画している。またインペリアルドラモンは竜形態（ドラゴンモード）と呼ばれているが、全てのパワーを開放することができる“竜人形態”（ファイターモード）が存在するらしい。しかし、その姿を見たものはいないと言われている。強大なパワーのため、制御するのは至難の技であり、扱い方によっては救世主にも破壊神にもなってしまう。必殺技は超質量の暗黒物質を発射し、全てを暗黒空間に呑み込んでしまう『メガデス』。この技は暗黒物質の着弾点から半径数百メートルの全ての物を完全に消滅させてしまう恐ろしい技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Imperialdramon:_Dragon_Mode"
+    },
+    {
+      "id": "imperialdra_p",
+      "name": "Imperialdramon: Paladin Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "12",
+        "ap": "9"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A form of the Ancient Dragon Warrior DigimonImperialdramon: Fighter Modethat acquired the power of the holy knightOmegamon, powering up and changing form into a legendary holy knight (Paladin Mode). As the final, strongest form ofImperialdramonthat was told of since ancient times, it descended in a time of great disruption in the ancient Digital World, and rescued the world from complete collapse. However, all of the details of that era are a mystery, and if research into Digimon and the Digital World progresses, it is likely that they will eventually be clarified. Its Special Move is cutting the opponent in two with a single stroke of its ultimate \"Omega Blade\" sword, resetting and clearing their configuration data.Digimon Reference Book⇨ English古代竜戦士型デジモンのインペリアルドラモン：ファイターモードが、聖騎士オメガモンのパワーを得て、パワーアップし伝説の聖騎士（パラディンモード）へと形態を変化させた姿。これが古より伝わるインペリアルドラモンの最終最強形態で、古代デジタルワールドの大破壊の時に降臨し、世界を完全な崩壊から救った。しかし、その頃の詳細なことは一切謎であり、いずれデジモンやデジタルワールドの研究が進めば解明されるであろう。必殺技は究極剣『オメガブレード』で敵を一刀両断し、構成データを初期化して無にしてしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Imperialdramon:_Paladin_Mode"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "worm",
+      "to": "sting",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "worm",
+      "to": "shadra",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "worm",
+      "to": "hudie",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "worm",
+      "to": "goki",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "jewelbee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hudie",
+      "to": "jewelbee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "paildra",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "paildra",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "xv",
+      "to": "dinobee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lighdra",
+      "to": "dinobee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "shadra",
+      "to": "kongou",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "goki",
+      "to": "kongou",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "shadra",
+      "to": "pucchie",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "goki",
+      "to": "pucchie",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "pucchie_g",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hudie",
+      "to": "pucchie_g",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "banchosting",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "kongou",
+      "to": "banchosting",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "grankuwaga",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "kongou",
+      "to": "grankuwaga",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "aerovdra",
+      "to": "imperialdra_d",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "imperialdra_d",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "imperialdra_d",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "imperialdra_p",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "imperialdra_p",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "pucchie",
+      "to": "imperialdra_p",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "leaf",
+      "to": "mino",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "mino",
+      "to": "worm",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "paildra",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "dinobee",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "kongou",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "sting",
+      "to": "pucchie",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "shadra",
+      "to": "dinobee",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "shadra",
+      "to": "jewelbee",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "shadra",
+      "to": "paildra",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "shadra",
+      "to": "pucchie_g",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "hudie",
+      "to": "paildra",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "hudie",
+      "to": "dinobee",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "hudie",
+      "to": "kongou",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "hudie",
+      "to": "pucchie",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "goki",
+      "to": "dinobee",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "goki",
+      "to": "jewelbee",
+      "conditions": {
+        "text": "Jogress with Vaccine Adult"
+      }
+    },
+    {
+      "from": "goki",
+      "to": "paildra",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "goki",
+      "to": "pucchie_g",
+      "conditions": {
+        "text": "Jogress with Free Adult"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "Jogress with Virus Perfect"
+      }
+    },
+    {
+      "from": "jewelbee",
+      "to": "imperialdra_p",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Data or Free Perfect"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "grankuwaga",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "paildra",
+      "to": "banchosting",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "grankuwaga",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "dinobee",
+      "to": "banchosting",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "kongou",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "kongou",
+      "to": "imperialdra_p",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "pucchie",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "pucchie",
+      "to": "banchosting",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "pucchie",
+      "to": "grankuwaga",
+      "conditions": {
+        "text": "Jogress with Data Perfect"
+      }
+    },
+    {
+      "from": "pucchie_g",
+      "to": "grankuwaga",
+      "conditions": {
+        "text": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "pucchie_g",
+      "to": "banchosting",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "pucchie_g",
+      "to": "imperialdra_d",
+      "conditions": {
+        "text": "Jogress with Vaccine or Virus Perfect"
+      }
+    },
+    {
+      "from": "pucchie_g",
+      "to": "imperialdra_p",
+      "conditions": {
+        "text": "Stage 15 Cleared, Jogress with Data Perfect"
+      }
+    }
+  ]
+}

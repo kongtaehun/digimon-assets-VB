@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "id": "rena_gp",
+  "name": "Renamon GP",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Aug 2021 - Premium Bandai (Distributed via gambling)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_rena_gp.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "rele",
+      "name": "Relemon",
+      "name_jp": "Relemon",
+      "name_ko": "레레몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/rele/frame1.gif",
+        "frame2": "sprites/rele/frame2.gif"
+      },
+      "artwork": "sprites/rele/artwork.jpg",
+      "lore": {
+        "en": "A mysterious Digimon that is said to only be born on moonlit nights. It is said that Relemon born specifically on the night of the full moon receive its magical power, and as they grow, are able to use greater and more wondrous abilities than other Digimon. Because it is nocturnal, it seldom appears before people and has a shy personality. It is not able to attack, but it can transform into anything to defend itself, if it is close to the size of its body. However, it can still be found because it can never conceal its tail.Digimon Reference Book⇨ English月夜の晩にしか生まれないと言われる神秘的なデジモン。特に満月の晩に生まれたレレモンは満月の魔力を受け、他のデジモンよりも能力が高く不思議な術が使えるデジモンに成長すると言われている。夜行性で、めったに人の前には姿を現さない恥ずかしがりやな性格。攻撃はできないが、体のサイズに近いものなら、何にでも変化して身を守ることができる。しかし、いつも尻尾だけは隠せずに見つかってしまう。デジモン図鑑",
+        "ko": "달밤의 밤에만 태어난다고 하는 신비로운 디지몬. 특히 보름달의 밤에 태어난 레레몬은 보름달의 마력을 받아 다른 디지몬보다 능력이 높고 불가사의한 술법을 쓸 수 있는 디지몬으로 성장한다고 전해진다. 야행성으로 좀처럼 사람 앞에 모습을 드러내지 않는 부끄럼많은 성격. 공격은 아니지만 몸 사이즈와 비슷한 것이라면 무엇으로든 변신해 몸을 지킬 수 있다. 하지만 언제나 꼬리만은 숨기지 못해 들키고 만다."
+      },
+      "wikimon_url": "https://wikimon.net/Relemon"
+    },
+    {
+      "id": "poko",
+      "name": "Pokomon",
+      "name_jp": "Pokomon",
+      "name_ko": "포코몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/poko/frame1.gif",
+        "frame2": "sprites/poko/frame2.gif"
+      },
+      "artwork": "sprites/poko/artwork.jpg",
+      "lore": {
+        "en": "A nocturnal Baby Digimon that evolved fromRelemon. Due to it only acting in the evening and on moonlit nights, it is said that its existence is close to an illusion. For that reason, it confers a kind of status among Tamers to raise a Pokomon. It will grow into an extremely heartening Digimon depending on how it was raised. It always acts to avoid public notice, and although it is difficult to capture Pokomon, who is swift and speedy despite its appearance, it will show up without thinking if you set out its favorite food of fried tofu. Its Special Move is changing into a stone that spouts a toxic gas (Sesshou-seki).Digimon Reference Book⇨ Englishレレモンが進化した、夜行性の幼年期デジモン。夜でも月夜の晩にしか行動しないことから、その存在は幻に近いと言われている。そのためテイマーの中ではポコモンを育てることが一種のステータスになっている。育て方によっては非常に心強いデジモンに成長する。常に人目に付かないように行動し、見た目に反してスピードも速くポコモンを捕えることは難しいが、大好物の油揚げを出されると思わず姿を現してしまう。必殺技は石に変化して毒のガスを噴出す『殺生石』。デジモン図鑑",
+        "ko": "레레몬 이 진화한 야행성 유년기 디지몬. 밤이라도 달밤에만 행동하는 탓에 그 존재는 환상에 가깝다고 알려져 있다. 그 때문에 테이머 사이에서는 포코몬을 기르는 것이 일종의 스테이터스가 되어있다. 기르는 방법에 따라 매우 든든한 디지몬으로 성장한다. 항상 남의 눈에 띄지 않게 행동하며 겉보기와 달리 스피드가 빨라 포코몬을 잡는 것은 어렵지만 가장 좋아하는 유부를 내놓으면 무심코 모습을 나타내고 만다. 필살기는 돌로 변화해 독가스를 내뿜는 ‘살생석’."
+      },
+      "wikimon_url": "https://wikimon.net/Pokomon"
+    },
+    {
+      "id": "rena",
+      "name": "Renamon",
+      "name_jp": "Renamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/rena/frame1.gif",
+        "frame2": "sprites/rena/frame2.gif"
+      },
+      "artwork": "sprites/rena/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon with the appearance of a golden Fox. The relationship Renamon has with humans is directly apparent; it is said that depending on how it was raised during its time as a Baby, it can evolve into a Renamon of particularly high intelligence. It is always calm, cool, and collected, as well as disciplined enough not to lose that composure in any situation. Its slender, tall appearance stands out when compared with other Child levels, and rather than emphasising on power in battle, it instead makes sport of the enemy with various techniques that utilise its speed. Its Signature Move is a transformation art in which it copies the opponent's appearance and re-covers itself in that texture (Kohenkyo). Its Special Move is throwing sharpened leaves at the opponent (Koyousetsu).Digimon Reference Book⇨ English金色狐の姿をした獣人型デジモン。レナモンは人間との関係がストレートに現れるデジモンで、幼年期の頃の育て方によっては、特に知能が高いレナモンに進化できると言われている。常に冷静沈着で、あらゆる状況下でもその冷静さを失わないほど訓練されている。細身で長身の姿は他の成長期と比べても抜きに出ており、パワーバトルと言うよりは、スピードを利用した多彩な術で敵を翻弄する。得意技は相手の姿をコピーして自身のテクスチャを張り替える変化の術『狐変虚（こへんきょ）』。必殺技は鋭利な木葉を敵に投げる『狐葉楔（こようせつ）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Renamon"
+    },
+    {
+      "id": "kyubi",
+      "name": "Kyubimon",
+      "name_jp": "Kyubimon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/kyubi/frame1.gif",
+        "frame2": "sprites/kyubi/frame2.gif"
+      },
+      "artwork": "sprites/kyubi/artwork.jpg",
+      "lore": {
+        "en": "A Bewitching Beast Digimon in the shape of a giant fox with nine tails. Although it is feared as a bewitching beast that brings about destruction and ruin, in ancient times, it was revered as a messenger that appeared in times of peace. It is said that even amongRenamon, only those with the most outstanding abilities and who have amassed the most experience can evolve into Kyubimon. While its attack power isn't actually high, it in turn specializes in magical techniques that utilize its tremendous spiritual strength. It is said to even be able to sprint across the sky with its four feet blazing with blue flames. Its Signature Move is causingonibito manifest, and manipulating them according to its will (Onibidama). Its Special Move is creating a burning dragon out of blue flames from its tails and incinerating the enemy (Koenryū).Digimon Reference Book⇨ English九本の尻尾をはやした巨大な狐の姿をした妖獣型デジモン。破滅と崩壊をもたらす妖獣と恐れられているが、古の時代では平和の世に現れる使者として崇められていた。レナモンの中でも特に能力が高く、多くの経験を積んだものがキュウビモンに進化できると言われている。攻撃力そのものは強くないが、強大な精神力を持っており“術系”の技を得意としている。青く燃え盛る四肢で天をも駆けると言われている。得意技は鬼火を出現させ意のままに操る『鬼火玉』。必殺技は尻尾から燃え盛る青炎の龍を出現させ敵を焼き尽くす『狐炎龍』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kyubimon"
+    },
+    {
+      "id": "tao",
+      "name": "Taomon",
+      "name_jp": "Taomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/tao/frame1.gif",
+        "frame2": "sprites/tao/frame2.gif"
+      },
+      "artwork": "sprites/tao/artwork.jpg",
+      "lore": {
+        "en": "Versed inOnmyoudou, it is anonmyoujiDigimon that freely uses every technique in battle. Its faculty with magic is particularly high, and attacks with talismans and spells are its forte. Also, it is a master of concealed weapons, and hides various weapons up its sleeves. It doesn't talk very much due to its extreme reticence, and it is a being that lives and lurks within the darkness. Also, it is able to turn its talismans intoshikigamiand command them. Its Signature Move is wreathing its talismans around the opponent's body, then detonating them (Kofūsatsu). Its Special Move \"Bonhitsusen\" is chanting an incantation while painting theSanskritcharacter\"Hūṃ\" in the air with its gigantic brush, then hurling it at the opponent. An opponent that is hit withBonhitsusengets caught in a gigantic explosion and is annihilated.It shouts\"Bon-Hitsu-Sen\"as it paints the Sanskrit character.Digimon Reference Book⇨ English陰陽道に精通し、あらゆる技を駆使して戦う陰陽師デジモン。特に呪術の能力が高く、霊符や呪文の攻撃が得意。また暗器の達人でもあり、様々な武器を袖の下に隠し持っている。非常に寡黙で多くは語ることはなく闇に潜み闇に生きる存在である。また、霊符を式神（しきがみ）に変え使役することもできる。得意技は霊符を敵の体に巻きつけて爆発させる『狐封札（こふうさつ）』。必殺技の『梵筆閃（ぼんひつせん）』は巨大な筆で呪文を唱えながら梵字の「ウーン」を空中に描き敵に飛ばす。梵筆閃を受けた敵は大爆発を起こし消滅する。※「梵・筆・閃」の掛け声と共に梵字を描きます。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Taomon"
+    },
+    {
+      "id": "sakuya",
+      "name": "Sakuyamon",
+      "name_jp": "Sakuyamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/sakuya/frame1.gif",
+        "frame2": "sprites/sakuya/frame2.gif"
+      },
+      "artwork": "sprites/sakuya/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that holds the role of amiko, acting as an agent ofGod's will. LikeTaomon, it freely usesOnmyoudoutechniques in battle, and has the ability to employ God Beast-species Digimon. It always carries four pipes on the belt around its waist, within which lurk fourkuda-gitsune. It is able to use these kuda-gitsune for everything from attacking to gathering information. Just likeHoly Angemon'sPriest Mode, it is able to change into aMiko Modewhich administers Shinto rituals. Its Signature Move is attacking the opponent with the four kuda-gitsune carried on its waist (Izuna). The four kuda-gitsune possess the attributes of \"Fire\", \"Water\", \"Wind\", and \"Thunder\", respectively. Its Special Move is striking the ground with its \"KongouShakujou\", spreading a purifying barrier that exorcises evil spirits (Kongoukai Mandara).Digimon Reference Book⇨ English神の意志を代行する巫女の役割を持ったデジモン。タオモン同様、陰陽道の技を駆使して戦い、神獣系のデジモンを使役する能力を持つ。腰のベルトには常に４本の筒を携え、中には４匹の管狐（くだぎつね）が潜んでいる。この管狐を使役し攻撃や情報の収集など、あらゆることに利用することができる。ホーリーエンジェモンの神官形態と同じように神事を司る巫女形態になることもできる。得意技は腰に携えた４匹の管狐で敵を攻撃する『飯綱（いづな）』。この４匹の管狐はそれぞれ「火」「水」「風」「雷」の属性を持っている。必殺技は「金剛錫杖（こんごうしゃくじょう）」を地に打ち付けて邪気を払う浄化結界を張る『金剛界曼荼羅（こんごうかいまんだら）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sakuyamon"
+    },
+    {
+      "id": "kuzuha",
+      "name": "Kuzuhamon",
+      "name_jp": "Kuzuhamon",
+      "name_ko": "쿠즈하몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★8)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/kuzuha/frame1.gif",
+        "frame2": "sprites/kuzuha/frame2.gif"
+      },
+      "artwork": "sprites/kuzuha/artwork.jpg",
+      "lore": {
+        "en": "A God Man Digimon that is said to be a Fox-species Digimon that lived long, and transformed to take on a humanoid form. It is said that only those among them of a high level are able to evolve toSakuyamon, and they normally just evolve to Kuzuhamon. It is versed in ancient magic likeShinto,Onmyoudou, andShugendou. A singlekuda-gitsunelurks within the pipe it carries on the belt around its waist, and it is able to employ this kuda-gitsune to use it for things like attacking and gathering information. Its Signature Move is attacking the opponent with the kuda-gitsune carried on its waist (Ura Izuna). Its Special Move is spreading a purifying barrier with its \"Shakujou\" that exorcises evil spirits (Taizoukai Mandara).Digimon Reference Book⇨ English狐系デジモンが長く生き、変化して人型の姿なったと言われる神人型のデジモン。サクヤモンはその中でも高レベルのものだけが進化できると言われており、通常はクズハモンに進化する。神道、陰陽道、修験道などの古代魔法に精通している。腰のベルトの筒の中には管狐（くだぎつね）が１匹だけ潜んでいて、この管狐を使役し攻撃や情報の収集などに利用することができる。得意技は腰に携えた管狐で敵を攻撃する『裏飯綱（うらいづな）』。必殺技は「錫杖」で邪気を払う浄化結界を張る『胎蔵界曼荼羅（たいぞうかいまんだら）』。デジモン図鑑",
+        "ko": "여우계 디지몬이 오랫동안 살아 변화해 사람의 모습이 되었다 전해지는 신인형 디지몬. 샤크라몬 은 그 중에서도 고위의 개체만이 진화할 수 있다고 말해지며 보통은 쿠즈하몬으로 진화한다. [1] 신도, 음양도, 수험도 등의 고대 마법에 정통하다. 벨트의 통 안에는 관호(대롱여우)가 한 마리밖에 없고 [2] 이 관호를 사역해 공격이나 정보 수집 등에 이용할 수 있다. 특기는 허리의 관호로 적을 공격하는 \"리번강(裏飯綱/우라이즈나)\". 필살기는 \"석장\"으로 사기(邪気)를 제거하는 정화 결계를 치는 \"태장계만다라(胎蔵界曼荼/타이죠우카이 만다라)\". [3]"
+      },
+      "wikimon_url": "https://wikimon.net/Kuzuhamon"
+    },
+    {
+      "id": "sakuya_m",
+      "name": "Sakuyamon: Miko Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A formSakuyamontakes when it performs Shinto rituals and listens toGod's will. It seldom fights inMiko Mode, but has strengthened its ability to exorcise evil spirits.Digimon Reference Book⇨ Englishサクヤモンが神事の奉仕をおこない神の意志を聞くときの姿。巫女形態で戦うことは少ないが、邪気をはらう力が強くなっている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Sakuyamon:_Miko_Mode"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "rele",
+      "to": "poko",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "poko",
+      "to": "rena",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "rena",
+      "to": "kyubi",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "kyubi",
+      "to": "tao",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "sakuya",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "kuzuha",
+      "conditions": {
+        "text": "• 10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio• Jogress with Vaccine Perfect"
+      }
+    },
+    {
+      "from": "tao",
+      "to": "sakuya_m",
+      "conditions": {
+        "text": "• 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Free Perfect"
+      }
+    }
+  ]
+}

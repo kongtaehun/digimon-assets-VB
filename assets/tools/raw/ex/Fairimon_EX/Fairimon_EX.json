@@ -1,0 +1,282 @@
+{
+  "id": "fairi_ex",
+  "name": "Fairimon EX",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Flame)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_fairi_ex.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_fairi.gif",
+  "digimon": [
+    {
+      "id": "yura",
+      "name": "Yuramon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/yura.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/yura.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/yura.jpg"
+    },
+    {
+      "id": "tane",
+      "name": "Tanemon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tane.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tane.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tane.jpg"
+    },
+    {
+      "id": "tinker",
+      "name": "Tinkermon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tinker.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tinker.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tinker.jpg"
+    },
+    {
+      "id": "pomu",
+      "name": "Pomumon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pomu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pomu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pomu.jpg"
+    },
+    {
+      "id": "fairi",
+      "name": "Fairimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/fairi.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/fairi.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/fairi.jpg"
+    },
+    {
+      "id": "cockatri",
+      "name": "Cockatrimon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/cockatri.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/cockatri.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/cockatri.jpg"
+    },
+    {
+      "id": "arbor",
+      "name": "Arbormon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/arbor.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/arbor.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/arbor.jpg"
+    },
+    {
+      "id": "zassou",
+      "name": "Zassoumon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zassou.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zassou.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zassou.jpg"
+    },
+    {
+      "id": "jetsilphy",
+      "name": "Jet Silphymon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jetsilphy.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jetsilphy.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/jetsilphy.jpg"
+    },
+    {
+      "id": "shutu",
+      "name": "Shutumon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shutu.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shutu.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/shutu.jpg"
+    },
+    {
+      "id": "petaldra",
+      "name": "Petaldramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/petaldra.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/petaldra.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/petaldra.jpg"
+    },
+    {
+      "id": "peacock",
+      "name": "Peacockmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/peacock.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/peacock.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/peacock.jpg"
+    },
+    {
+      "id": "zamiel",
+      "name": "Zamielmon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zamiel.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zamiel.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/zamiel.jpg"
+    },
+    {
+      "id": "ancientiris",
+      "name": "Ancient Irismon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "10",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientiris.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientiris.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ancientiris.jpg"
+    },
+    {
+      "id": "lotus",
+      "name": "Lotusmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "45 (★)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lotus.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lotus.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lotus.jpg"
+    },
+    {
+      "id": "ancienttroia",
+      "name": "Ancient Troiamon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "16",
+        "ap": "6"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancienttroia.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancienttroia.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ancienttroia.jpg"
+    },
+    {
+      "id": "lordknight",
+      "name": "Lord Knightmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/lordknight.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/lordknight.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/lordknight.jpg"
+    }
+  ],
+  "evolution_edges": []
+}

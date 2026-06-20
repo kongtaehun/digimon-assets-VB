@@ -1,0 +1,50 @@
+{
+  "id": "koro_d",
+  "name": "Koromon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/koro_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/koro_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/koro.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Koromon",
+    "name_en": "Koromon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "",
+    "stats": {
+      "bp": "0",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "activity_type": "",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [
+      {
+        "id": "bota_d",
+        "name": "Botamon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "agu_d",
+        "name": "Agumon",
+        "conditions": "5+ PP, 500+ Vital Values"
+      },
+      {
+        "id": "beta_d",
+        "name": "Betamon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

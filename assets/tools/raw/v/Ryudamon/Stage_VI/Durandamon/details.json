@@ -1,0 +1,78 @@
+{
+  "id": "duranda",
+  "name": "Durandamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/duranda.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/duranda.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/duranda.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dura",
+        "asura"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Durandamon",
+    "name_en": "Durandamon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "10",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "dura",
+        "name": "Duramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "asura",
+        "name": "Asuramon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "Jogress with Data, Virus or Free Perfect"
+      },
+      {
+        "id": "gyuki",
+        "name": "Gyukimon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      },
+      {
+        "id": "oboro",
+        "name": "Oboromon",
+        "conditions": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ragnalord",
+        "name": "Ragna Lordmon",
+        "conditions": "Jogress with Bryweludramon (Espi)"
+      }
+    ]
+  }
+}

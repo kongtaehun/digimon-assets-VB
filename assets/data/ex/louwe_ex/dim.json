@@ -1,0 +1,511 @@
+{
+  "schema_version": "1.0",
+  "id": "louwe_ex",
+  "name": "Louwemon EX",
+  "category": "ex",
+  "device": "VBDM",
+  "release": "JP: Sep 2022 - Premium Bandai (Set EX3 Spirit Light)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_louwe_ex.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "popo",
+      "name": "Popomon",
+      "name_jp": "Popomon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/popo/frame1.gif",
+        "frame2": "sprites/popo/frame2.gif"
+      },
+      "artwork": "sprites/popo/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon that looks like a species of plant. It skillfully uses its tail, which looks like a leaf, and it moves by jumping little by little. Because it has a very timid personality, it will immediately flee if any strangers approach, but it is said that once it gives its trust to someone, it will be attached to them for life. While escaping the opponent it uses its \"Hair Mist\", scattering the hairs of its coat to create a distraction.Digimon Reference Book⇨ English植物の種のように見えるスライム型デジモン。葉のように見える尻尾を上手に使い、小刻みにジャンプして移動する。非常に臆病な性格のため、見知らぬものが近づくとすぐに逃げ出してしまうが、一度心を許すと一生涯懐いてくれると言われている。体の毛をばら撒いて目くらましを行う『ヘアミスト』を敵から逃げる際に使用する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Popomon"
+    },
+    {
+      "id": "fri",
+      "name": "Frimon",
+      "name_jp": "Frimon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/fri/frame1.gif",
+        "frame2": "sprites/fri/frame2.gif"
+      },
+      "artwork": "sprites/fri/artwork.jpg",
+      "lore": {
+        "en": "A Lesser Digimon possessing a frill on its neck. Its frill was made from a hardened portion of its hairs, and by covering its body with the frill when danger approaches, it can be used as \"Armor\" to protect its body. Since it is extremely full of curiosity, it has a habit of responding to anything that moves, but because it also responds to its own tail, it chases after it, and is often observed spinning in place. Increasing the centrifugal force in its long tail (Shippo Binta) is a power in itself, and it occasionally seems that even a Child Digimon will instantly faint if it is hit cleanly.Digimon Reference Book⇨ English首にフリルを持つレッサー型デジモン。フリルは毛の一部が硬質化して出来ており、危険が迫った際には体を覆うことで、体を護る「鎧」として使用している。好奇心が非常に旺盛で、動くものすべてに反応してしまう習性を持つが、自身の尻尾にも反応してしまうため、尻尾を追いかけて、その場でくるくる回っている姿を目撃されることが多い。長い尻尾に遠心力を加えた『シッポビンタ』はそれなりの威力があり、成長期デジモンでもクリーンヒットされると一瞬昏倒することがあるらしい。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Frimon"
+    },
+    {
+      "id": "lioll",
+      "name": "Liollmon",
+      "name_jp": "Liollmon",
+      "name_ko": "레오르몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/lioll/frame1.gif",
+        "frame2": "sprites/lioll/frame2.gif"
+      },
+      "artwork": "sprites/lioll/artwork.jpg",
+      "lore": {
+        "en": "A Holy Beast Digimon with a golden coat. There seem to be very few surviving individuals, so its existence was not confirmed until recently. It is a Digimon with very intenseterritoriality, so it doesn't show mercy to those who enter its territory, even if they are the same species of Digimon. It is said that when it is on alert, the hair on its head becomes tinged with static electricity, producing a threatening sound. Its Special Moves are cutting the opponent to pieces with its sharp claws (Lio Claw), and aiming at the opponent's vitals with its fangs (Critical Bite). Although \"Critical Bite\" has the explosive power to take down even Adult Digimon in a single blow, its success rate is low.Digimon Reference Book⇨ English黄金色の体毛を持つ聖獣型デジモン。生存個体が非常に少ないらしく、近年まで存在が確認されていなかった。ナワバリ意識が非常に強いデジモンで、同種のデジモンであったとしても自分のテリトリーに進入したものには容赦しない。頭の毛は警戒時に静電気を帯び、威嚇の音を出すという。必殺技は鋭い爪で敵を切り裂く『レオクロー』とキバで敵の急所を狙う『クリティカルバイト』。『クリティカルバイト』は成熟期のデジモンですら一撃で沈める爆発力を持つが、成功率は低い。デジモン図鑑",
+        "ko": "황금빛의 체모를 가지는 성수형 디지몬. 생존 개체가 매우 적은 것 같아서, 최근까지 존재가 확인되지 않았다. 구역 의식이 매우 강한 디지몬으로, 동종의 디지몬이라고 해도 자신의 구역에 들어오는 것은 용서하지 않는다. 머리의 털은 경계시에 정전기를 띄어 위협의 소리를 낸다고 한다. 필살기는 날카로운 발톱으로 할퀴는 \"레오 클로\"와 어금니로 적의 급소를 노리는 \"크리티컬 바이트\". \"크리티컬 바이트\"는 성숙기 도 단숨에 쓰러트리는 폭발력을 가졌지만, 성공률은 낮다."
+      },
+      "wikimon_url": "https://wikimon.net/Liollmon"
+    },
+    {
+      "id": "gazi",
+      "name": "Gazimon",
+      "name_jp": "Gazimon",
+      "name_ko": "가지몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/gazi/frame1.gif",
+        "frame2": "sprites/gazi/frame2.gif"
+      },
+      "artwork": "sprites/gazi/artwork.jpg",
+      "lore": {
+        "en": "A Mammal Digimon with large, sharp claws. It is bipedal, which is rare amongst Mammal types; it is likely that as it continued to use its forelegs like arms, it evolved to grow claws on its forelegs, therefore resulting in its bipedalism. It has an extremely aggressive temperament despite its small size, and it never warms up to humans. Although the claws on its forelegs are very effective at attacking, they are also surprisingly suited to digging holes, which it always does as it enjoys watching other Digimon fall into its pitfalls due to its mischievous personality. Its Special Move is breathing poisonous gas (Paralyze Breath).Digimon Reference Book⇨ English鋭くて大きな爪を生やしている哺乳類型デジモン。哺乳類型では珍しく２足歩行をするタイプで、恐らく前足を腕のように使用するうちに前足の爪が進化し、２足歩行をするようになったのだろう。小型のデジモンではあるが非常に気性が荒く、決して人間にはなつこうとしない。前足の爪は攻撃する際にも非常に有利だが、以外にも穴掘りに向いており、いつも落とし穴を掘っては、他のデジモンが穴に落ちるのを楽しんでいるイジワルな性格。必殺技はガス状の毒息を吐き出す『パラライズブレス』デジモン図鑑",
+        "ko": "날카로운 손톱을 가진 포유류형 디지몬. 포유류형으로는 드물게 2족 보행을 하는 타입으로, 아마도 앞발을 팔처럼 사용하는 중에 앞발의 손톱이 진화해 2족 보행을 하게 됐을 것이다. 소형 디지몬이지만 천성이 심하게 난폭하고, 절대로 인간을 따르지 않는다. 앞발의 손톱은 공격할 때에 유리하지만, 그 외에 구멍을 팔 때도 사용한다. 심술궂은 성격이라 함정을 파놓고 다른 디지몬이 떨어지는 것을 즐긴다. 필살기는 신경을 마비시키는 독숨을 내밷는 \"페럴라이즈 브레스\"다."
+      },
+      "wikimon_url": "https://wikimon.net/Gazimon"
+    },
+    {
+      "id": "louwe",
+      "name": "Louwemon",
+      "name_jp": "Louwemon",
+      "name_ko": "레베몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "25 (★)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/louwe/frame1.gif",
+        "frame2": "sprites/louwe/frame2.gif"
+      },
+      "artwork": "sprites/louwe/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that truly inherited the \"Spirit of Darkness\" of the legendaryTen Warriors. The \"Spirit of Darkness\" was changed into itsDuskmonform due toCherubimon's spell, but Löwemon is its true form released from this magical power. This form is by no means a baleful one, and is called the battling \"Valiant Jet-black Warrior\" that becomes the shadow of the other Ten Warriors. Even on its own, its power is comparable to \"Fusion-species\" likeAldamon, and it is said that it conceals its power that puts the others to shame within the \"Neebelnge Ring\" placed on its right index finger. As a master of spearmanship, it is an \"Executor of Darkness\" that pierces evil with the \"Danzai no Yari\", and purifies it with the \"Shokuzai no Tate\". Its Special Moves are blasting the opponent with an intense spear attack (Ewig Schlaf), and firing a golden energy wave from the lion on its chest (Endlich Meteor).Digimon Reference Book⇨ English伝説の十闘士“闇のスピリット”を真に受け継ぐデジモン。“闇のスピリット”はケルビモンの呪いによりダスクモンの姿へと変えられていたが、レーベモンはこの魔力から解き放たれた真の姿である。その姿は決して凶々しいものではなく、他の十闘士の影となり戦う“勇敢なる漆黒の闘士”と呼ばれている。その力は単体でもアルダモン等の“融合種”にも匹敵し、他を圧倒するパワーは右手の人差し指にはめている「ニーベンルゲンリング」に秘められていると言う。槍術の使い手で「断罪の槍」で悪を貫き、「贖罪の盾」で浄化する“闇の執行人”である。必殺技は強烈な槍撃で敵を爆砕する『エーヴィッヒ・シュラーフ』と、胸部の獅子から黄金のエネルギー波を放つ『エントリヒ・メテオール』。デジモン図鑑",
+        "ko": "전설의 10투사 의 어둠의 스피릿을 진정으로 받아들인 디지몬. 케루비몬 의 저주에 의해 더스크몬 의 모습으로 바뀌었으나, 레베몬은 그 마력으로부터 해방된 진정한 모습이다. 그 모습은 결코 흉한 모습이 아니며, 다른 10투사의 그림자가 되어 싸우는 용감한 칠흑의 투사 라고 불리고 있다. 그 힘은 휴먼 스피릿 만으로도 아루다몬 같은 융합종에도 필적 해, 타인을 압도하는 파워는 오른손의 집게 손가락에 있는 니벨룽겐 링 에 감추어져 있다고 한다. 창술을 사용하며 단죄의 창 으로 악을 베고, 속죄의 방패 로 정화하는 어둠의 집행인이다. 필살기는 강렬한 창격으로 적을 폭쇄하는 \"에비히 슐라프\" [2] 와 흉부의 사자 얼굴에서 황금의 에너지파를 발사하는 「엔트리히 메테오르 [3] 」."
+      },
+      "wikimon_url": "https://wikimon.net/Louwemon"
+    },
+    {
+      "id": "lia",
+      "name": "Liamon",
+      "name_jp": "Liamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/lia/frame1.gif",
+        "frame2": "sprites/lia/frame2.gif"
+      },
+      "artwork": "sprites/lia/artwork.jpg",
+      "lore": {
+        "en": "A Holy Beast Digimon that exudes the style of a \"King\", even though it is only an Adult. It is said to be a Digimon that evolved fromLiollmon, but there are even fewer surviving individuals than those of Liollmon, so its existence is becoming an \"illusion\". It tends to prefer capturing prey that is stronger than itself, and it has often been observed commencing an attack against an Ultimate Digimon without even flinching. Its Special Moves are charging and then releasing electricity generated in its mane (Thunder of King), and reliably aiming at the opponent's vitals with its fangs (Critical Strike).Digimon Reference Book⇨ English成熟期にしてすでに「王」の風格を漂わせる聖獣型デジモン。レオルモンからの進化デジモンであるといわれているが、レオルモン以上に生存個体が少なく、「幻」の存在となっている。自分より強い獲物を好んで捕らえる傾向があり、究極体デジモンにですらひるまず攻撃を仕掛けるところをたびたび目撃されている。必殺技はタテガミに発生した電気を貯めて放出する『サンダーオブキング』とキバで敵の急所を確実に狙う『クリティカルストライク』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Liamon"
+    },
+    {
+      "id": "dusk",
+      "name": "Duskmon",
+      "name_jp": "Duskmon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "20 (★)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/dusk/frame1.gif",
+        "frame2": "sprites/dusk/frame2.gif"
+      },
+      "artwork": "sprites/dusk/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Darkness which bears the might of one of the legendaryTen Warriors. The regret of various extinct species of Digimon and the \"Forbidden Data\" on theNettransformed into intense dark energy, and coalesced into Duskmon. The dark energy exists in order to oppose the light of holy beings, and the one who possesses power over Light is the flip side of the same coin. It has a thoroughly evil personality, so it is both callous and cruel. It is the possessor of demon lord-like dignity that is overflowing with perfectionism and confidence. It is invincible in battle when wielding its swords, and does not hesitate with its inhuman attacks. Its Special Moves are making the eyes all over its body shine and placing the opponent under hypnosis (Geist Abend), and absorbing the opponent's power with its two demonic \"Blut Evolution\" swords and making it its own (Eroberung). By the way, due to the ability of the three heads and seven eyes on its armor to act on their own as if they were separate creatures, true evil is sealed in them.Digimon Reference Book⇨ English伝説の十闘士の力を宿した、闇の能力を持つデジモン。絶滅した様々な種のデジモンの無念やネット上の「フォービドゥンデータ」が強烈な闇のエネルギーと化し、ダスクモンに凝固している。闇のエネルギーは聖なる存在の光と対を為す存在であり、光の力を持つものとは表裏一体である。性格は徹底した悪で、非情にして冷酷。完璧主義で自信に満ちあふれた魔王的な貫禄の持ち主。剣を使った戦闘は無敵なうえ、非道な攻撃にも躊躇が無い。必殺技は身体の各部にある目玉を光らせて相手を催眠状態にする『ガイストアーベント』と、二振りの妖刀“ブルートエボルツィオン”で相手の力を吸収して自分の物にする『エアオーベルング』。実は鎧の三つの首と七つの目玉のみの別の生物としても行動可能で、真の邪悪さは、そちらに封じられている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Duskmon"
+    },
+    {
+      "id": "madleo",
+      "name": "Mad Leomon",
+      "name_jp": "Mad Leomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "15 (★)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/madleo/frame1.gif",
+        "frame2": "sprites/madleo/frame2.gif"
+      },
+      "artwork": "sprites/madleo/artwork.jpg",
+      "lore": {
+        "en": "Aberserkerwho lost its intelligence and enhanced its combat instinct.Although it was originally aLion Digimon, it heaped modification upon modification and arrived at its current appearance. In the process, its consciousness vanished, and it became nothing more than a puppet that defeats those standing before it, as it is commanded. Because it doesn't act or think according to its natural instincts, it exhibits headlong assaults, heedless even of any traps or gadgets.Although it is fundamentally high-powered, its patterns are meager, with nothing but primitive attacks such as hitting and kicking. Nevertheless, caution is necessary, because its sharp claws bear a deadly poison which can cause anything to rot away. Only one of its attack patterns bears any resemblance to a Special Move, where it fires its \"Spirit\" in the shape of a lion's face (Jūoudaken). The lion-faced spirit that is fired bites the flesh off of those standing in its way as it flies through them.Digimon Reference Book⇨ English知能を失い闘争本能を高めた狂戦士。もともとは獅子型のデジモンだったが、改造に改造を重ねて今の姿に至った。その過程で意識は消失し、命ぜられるままに目の前に立つ者を倒す操り人形となってしまった。本能のままに行動し考えるということをしないため、罠や仕掛けがあってもお構いなしに突撃してしまう猛進を見せる。基本的には高パワーであるが、殴る・蹴るといった原始的な攻撃ばかりでパターンは少ない。ただ、その鋭い爪には猛毒が含まれており、あらゆるものを腐らせてしまうので注意が必要だ。唯一、必殺技らしいといえば獅子の顔の形をした『気』を放つ「獣王堕拳」である。放たれた獅子の顔の気は立ち塞がるものを食いちぎりながら飛んでゆく。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mad_Leomon"
+    },
+    {
+      "id": "raihi",
+      "name": "Raihimon",
+      "name_jp": "Raihimon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "40 (★)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/raihi/frame1.gif",
+        "frame2": "sprites/raihi/frame2.gif"
+      },
+      "artwork": "sprites/raihi/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Darkness that has transcended legend by inheriting all the might of one of the legendaryTen Warriorsand acquiring unknown abilities. There are none who have seen this hero, and due to the fact that it doesn't leave behind so much as evidence of the opponents it has confronted, it is called the \"Guardian Emperor of Darkness\". Its Special Moves are disabling all of the laws of physics in the surrounding region and bringing down the opponent (Schwarz Lehrsatz), and an attack fired from the eyes of the lion on its head (Rot Kreuz).Digimon Reference Book⇨ English伝説の十闘士の力の全てを受け継ぎ、未知の能力を得ることで伝説を超えた闇の能力を持つデジモン。 その勇士を目にした者はおらず、対峙した敵の証言すら残されていないことから、“闇の守護帝”と呼ばれている。必殺技は周囲一帯から一切の物理法則をも無力化して敵をしとめる『シュバルツ・レールザッツ（黒定理）』と、頭部の獅子の目より放たれる『ロート・クロイツ（赤十字架）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Raihimon"
+    },
+    {
+      "id": "kaiserleo",
+      "name": "Kaiser Leomon",
+      "name_jp": "Kaiser Leomon",
+      "name_ko": "카이저레오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "35 (★)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/kaiserleo/frame1.gif",
+        "frame2": "sprites/kaiserleo/frame2.gif"
+      },
+      "artwork": "sprites/kaiserleo/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that truly inherited the \"Spirit of Darkness\" of the legendaryTen Warriors. As withDuskmon, the \"Spirit of Darkness\" was changed into itsVelgrmonform due toCherubimon's spell, but Kaiser Leomon is its true form released from this magical power. It is called the \"Jet-black Lion\", and its body is covered in a unique metal which shines jet-black and is called \"Obsidian Digizoid\", a kind ofChrome Digizoid. For that reason, not only is its defensive ability high, but its body armor has a keen sharpness. It is said that after Kaiser Leomon runs through, everything will be cut to pieces by the first gust of that black wind. Its Special Moves are firing a black spirit shot (Schwarz Donner), and pulverizing the opponent with its whole body clad in a black aura (Schwarz König).Digimon Reference Book⇨ English伝説の十闘士“闇のスピリット”を真に受け継ぐデジモン。ダスクモン同様、“闇のスピリット”はケルビモンの呪いによりベルグモンの姿へと変えられていたが、カイザーレオモンはこの魔力から解き放たれた真の姿である。“漆黒の獅子”と呼ばれ、そのボディはクロンデジゾイドの一種で、漆黒に輝く「オブシダンデジゾイド」と呼ばれる特殊な金属で覆われている。そのため、防御能力が高いだけでなく、装甲自体が鋭利な鋭さを持っている。カイザーレオモンが駆け抜けた後は、一陣の黒い風により、全てが切り裂かれると言われている。必殺技は黒色の気弾を放つ『シュヴァルツ・ドンナー』と、全身に纏った黒のオーラで敵を撃砕する『シュヴァルツ・ケーニッヒ』。デジモン図鑑",
+        "ko": "전설의 10투사의 어둠의 스피릿을 진정으로 받아들인 디지몬. 더스크몬 처럼 케루비몬의 저주 때문에 베르그몬 으로 바뀌었으나, 카이저레오몬은 이 마력이 풀린 진정한 모습이다. 「칠흑 사자」 로 불리는 그 몸은 크롬디지조이드 의 일종으로, 칠흑으로 빛나는 옵시디언 [4] 디지조이드 라고 불리는 특수한 금속으로 덮여 있다. 그 때문에 방어 능력이 높을 뿐만 아니라, 장갑 자체가 예리한 날카로움을 가지고 있다. 카이저레오몬이 앞질러간 뒤는, 한 차례 검은 바람에 모든 것이 찢긴디고 한다. 필살기는 검은색 기 총알을 발사하는 슈바르츠 도너 [5] 와, 전신에 감긴 검은 아우라로 적을 격쇄하는 슈바르츠 쾨니히 [6] ."
+      },
+      "wikimon_url": "https://wikimon.net/Kaiser_Leomon"
+    },
+    {
+      "id": "loaderlio",
+      "name": "Loader Leomon",
+      "name_jp": "Loader Liomon",
+      "name_ko": "로더레오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/loaderlio/frame1.gif",
+        "frame2": "sprites/loaderlio/frame2.gif"
+      },
+      "artwork": "sprites/loaderlio/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon that was produced whenCADdata for construction machinery leaked onto its server, then fused with the configuration data of a Beast Digimon. Its mane has become apneumatic drill, and it works primarily in tunnel construction and in theChrondigizoitmines. The Chrondigizoit mines are often surrounded by a solid layer of bedrock, so it boasts both power and stamina, as well as top-class performance among Machine Digimon. There are many Loader Leomon with a stubborn personality due to their pride in their work, but there are many people with the viewpoint that states, \"Loader Leomon is just quarrelsome.\" It seems that one mine, which had the best deposits in the world, was blown away by a fight between Loader Leomon. Its Special Moves are an attack produced by the extremely high-speed rotation of its mane (Boring Storm), and striking with the iron sphere on its tail (Loader Morning Star).Digimon Reference Book⇨ English建設機械のＣＡＤデータがサーバー上に漏洩し、獣型デジモンの構成データと融合して生まれたマシーン型デジモン。タテガミが削岩機になっており、主にトンネル工事やクロンデジゾイト鉱山にて作業を行っている。クロンデジゾイトの鉱山は固い岩盤層に囲まれていることが多く、パワー・持久力ともにマシーン型デジモンの中ではトップクラスの性能を誇る。職人気質で頑固な性格のものが多く、ローダーレオモン＝喧嘩っ早い、という見方をされていることが多い。ローダーレオモン同士の喧嘩で埋蔵量世界一の鉱山がひとつ消し飛んだこともあるらしい。必殺技はタテガミの超高速回転によって生み出される『ボーリンストーム』と尻尾の鉄球を叩きつける『ローダーモーニングスター』。デジモン図鑑",
+        "ko": "건설 기계 CAD 데이터가 서버에 유출되어 짐승형 디지몬의 구성 데이터와 융합하여 탄생한 머신형 디지몬. 갈기가 착암기 로 이뤄졌으며 주로 터널 공사와 크롬디지조이트 광산에서 작업을 벌이고 있다. 크롬디지조이트 광산은 단단한 암반층에 둘러싸인 일이 많아 파워와 지구력이 머신형 디지몬 중에서 최고 수준의 성능을 자랑한다. 장인 기질에 완고한 성격의 개체가 많아, 로더레오몬=싸움꾼으로 여겨지는 경우가 많다고 한다. 로더레오몬 간의 싸움에서 매장량 세계 제일의 광산이 하나 날아간 적도 있다고 한다. 필살기는 갈기의 초고속회전에 의해 발생되는 \"보링 스톰\"과 꼬리의 철구로 때리는 \"로더 모닝스타\"."
+      },
+      "wikimon_url": "https://wikimon.net/Loader_Leomon"
+    },
+    {
+      "id": "velgr",
+      "name": "Velgrmon",
+      "name_jp": "Velgrmon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/velgr/frame1.gif",
+        "frame2": "sprites/velgr/frame2.gif"
+      },
+      "artwork": "sprites/velgr/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that possesses power over Darkness which bears the might of one of the legendaryTen Warriors. It has the appearance of a monstrous, colossal bird, and due to its baleful appearance and nature it is called the \"Corpse Swallower\". It transforms fromDuskmoninto fine particles, then comes flying out of a sky shrouded by the massive black fog they became. The intensely proud Duskmon hates transforming into the ugly, irrational Velgrmon, so it doesn't show its Velgrmon appearance unless under extreme circumstances. In normal battles, its main tools of combat are its claws which have a tendency to blind the opponent, and its fangs which can crunch even metal. Its Special Moves are flapping its wings with all its power, blowing away the opponent and all of the space around them to another dimension (Zone Deleter), and changing the opponent's nature to darkness and manipulating them to its heart's content (Master of Darkness).Digimon Reference Book⇨ English伝説の十闘士の力を宿した、闇の能力を持つデジモン。超巨大な怪鳥の姿をしており、その凶々しい姿や性質から「死者を飲み込むもの」と呼ばれている。ダスクモンが細かな粒子へと変化し、それが大量の黒い霧となって覆った空から飛来する。プライドの高いダスクモンは醜悪で理性的ではないベルグモンに変わることを嫌っていて、よほどのことが無い限りベルグモンの姿を見せない。通常戦闘においては敵を盲目にする性質のある爪と、金属も噛み砕く牙が主戦武器。必殺技は最大パワーの羽ばたきで、空間ごと敵を異空間に消し飛ばす『ゾーンデリーター』と、敵の性質を闇に変えて自分の思うままに操る『マスターオブダークネス』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Velgrmon"
+    },
+    {
+      "id": "skullsata",
+      "name": "Skull Satamon",
+      "name_jp": "Skull Satamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "30 (★)",
+        "hp": "7",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/skullsata/frame1.gif",
+        "frame2": "sprites/skullsata/frame2.gif"
+      },
+      "artwork": "sprites/skullsata/artwork.jpg",
+      "lore": {
+        "en": "The ruined, remnant form of what was once a Fallen Angel Digimon that fell into theDark Area, pursuing strength and destruction. However, its wickedness was refined even more, so that its dark powers are unfathomable. ItsDigicore, concentrated with mighty powers of darkness, is the characteristic of Demon-species Digimon called the \"Darkcore\". Its Special Move \"Nail Bone\" is a terrifying technique which fires a powerful light from the jewel at the end of its staff, which disrupts and obliterates the opponent's data.Digimon Reference Book⇨ English強さと破壊を追い求め、ダークエリアに堕ちた堕天使型デジモンの成れの果ての姿。しかし、より悪として洗練されており、その暗黒パワーは計り知れないものがある。強大な暗黒パワーが凝縮されたデジコアは悪魔系デジモン特有の「ダークコア」と呼ばれている。必殺技はの「ネイルボーン」は杖の先についた宝玉から放たれる強力な光で、デジモンのデータに異常を起こし破壊してしまう恐ろしい技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Skull_Satamon"
+    },
+    {
+      "id": "luce_f",
+      "name": "Lucemon: Falldown Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "",
+      "stats": {
+        "dp": "70 (★)",
+        "hp": "14",
+        "ap": "9"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "The strongest of the \"Seven Great Demon Lords\", it is an ultimate Demon Lord Digimon which possesses both the divine and the diabolic. It instigated a rebellion in the far-flung past, and so it was sealed in theDark Areaalong with many other Demon Lord Digimon. Its power exceeds that of Ultimates, and is said to rival that of the existence called \"God\" as well. It has a contradictory existence, in that one side of it loves all things, as God does, while the other is trying to destroy the whole world, as the Devil does. Hence, once it destroys this world, it intends to create a fresh new world. Its Special Moves are \"Paradise Lost\", a destructive technique where, after launching the opponent high into the sky with a wild dance of blows, it holds their limbs fixed as it drives them back into the ground, and producing a three-dimensionalmagic circleas a glowing orb of holiness and evilness, within which it confines the opponent (Dead or Alive). When shut within this magic circle, it is a 50/50 decision whether the opponent is either completely annihilated or suffers great damage.Digimon Reference Book⇨ English聖と魔を併せ持つ究極の魔王型デジモンで“七大魔王デジモン”最強の存在。超古代に反逆戦争を起こし、多くの魔王型デジモンと共にダークエリアに封印されていた。その力は他の究極体をも超え、“神”と呼ばれる存在に匹敵すると言われている。全てのものを慈しむ神のような一面も持ちながら、この世界全体を破壊せんとする悪魔の様な相反する存在である。そのためこの世界を一度破壊し、新たなる新世界を創造することを目論んでいた。必殺技は打撃の乱舞で敵を空高く舞い上げたあとに、敵の四肢を固定して地面に叩きつける破壊技『パラダイスロスト』と、聖と魔の光球で立体魔方陣を作り出し敵を封じ込める『デッド・オア・アライブ』。この魔方陣に閉じ込められると完全に消滅するか、大ダメージを負うか1/2で決まってしまう。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lucemon:_Falldown_Mode"
+    },
+    {
+      "id": "death",
+      "name": "Deathmon",
+      "name_jp": "Deathmon",
+      "name_ko": "데스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "50 (★)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/death/frame1.gif",
+        "frame2": "sprites/death/frame2.gif"
+      },
+      "artwork": "sprites/death/artwork.jpg",
+      "lore": {
+        "en": "LikeDemon, it was originally a high-ranking Angel Digimon, but it fell to theDark Areaand is now one of the Demon Lord Digimon. Despite being a Demon Lord Digimon, it differs from other Fallen Angel and Devil Digimon in that it does not dedicate itself to performing evil deeds, but instead it simply maintains a neutral position as a silent observer. However, it is a terrifying Digimon, and it is told that when the impending final battle arrives, its whitened appearance will change to jet-black darkness, and it will transform into a god of destruction. Its Special Moves are an arrow of death fired from theevil eyeson its hands (Death Arrow), and a destructive beam fired when the eye in its head shines deep crimson (Explosion Eye).Deathmon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Mr. Ino Takahiro fromYamagata prefecture.Digimon Reference Book⇨ English元々はデーモンと同じく高位天使型デジモンだったが、ダークエリアに堕とされた魔王型デジモンの１人。魔王型デジモンといっても、他の堕天使型デジモンや悪魔型デジモンと違い、悪行の限りを尽くすのではなく、あくまでも中立の立場を守り静観している。しかし、来るべき決戦のときにその白い姿を漆黒の闇色に変え、破壊神に変貌すると伝えられている恐ろしいデジモンである。必殺技は両手の邪眼から発射される死の矢『デスアロー』と、頭部の単眼が深紅に輝いたときに発射される破壊光線『エクスプロージョンアイ』。※デスモンは「デジモンウェブドット絵コンテスト」で山形県「猪野貴裕さん」のデジモンが入賞し採用されたものです。デジモン図鑑",
+        "ko": "원래는 마왕몬 과 마찬가지로 고위 천사형 디지몬이었지만, 다크 에리어로 떨어진 마왕형 디지몬 중 1인. 마왕형 디지몬이라고 해도, 다른 타천사형 디지몬이나 악마형 디지몬과 달리, 온갖 악행을 다하는 것이 아니라, 어디까지나 중립의 입장을 지키며 관망하고 있다. 그러나, 다가올 결전의 때에 그 흰 모습을 칠흑의 어두운 색으로 바꾸어, [A] 파괴신 으로 변모한다고 전해지는 무서운 디지몬이다. 필살기는 양손의 사안으로부터 발사되는 죽음의 화살 \"데스 애로우\"와, 머리 부분의 외눈이 진홍색 빛을 발할 때 발사되는 파괴 광선 \"익스플로전 아이\". 디지털 몬스터 카드 게임 Bo-299: 새하얀 몸이 검게 변할 때, 파괴신으로의 변모가 시작된다...! Bo-832: 선악을 응시하며 파괴신의 단면을 보여주는 암흑의 사수! Bo-244: 다크에리어에 빠졌던 과거를 지닌 마왕형 디지몬 Bo-480: 선과 악을 초월하여 세계를 주시하는 죽음의 시선! 디지털 월드 연구백서 디지몬 대도감 다크 에어리어에 떨어진 마왕형 디지몬. 마왕몬과 같은 레벨의 높은 천사형 디지몬이었다고 한다. 다른 타천사형이나 악마형 디지몬과 달리 싸움에는 참가하지 않지만 결전이 임박하면 파괴신으로 모습을 바꾼다고 전해진다. 필살기는 양손의 사안에서 발사하는 죽음의 화살 데스 애로우. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Deathmon"
+    },
+    {
+      "id": "dinotiger",
+      "name": "Dinotigermon",
+      "name_jp": "Dinotigermon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "",
+      "stats": {
+        "dp": "45 (★)",
+        "hp": "12",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
+      },
+      "sprites": {
+        "frame1": "sprites/dinotiger/frame1.gif",
+        "frame2": "sprites/dinotiger/frame2.gif"
+      },
+      "artwork": "sprites/dinotiger/artwork.jpg",
+      "lore": {
+        "en": "Injured Digimon have become its prey. It is an Ancient Beast Digimon which took in the metal elements of the earth, super-hardened its whole body, and evolved from one of the fewSaber Leomonwhich have repeated and survived endless battles, where theweak are food for the strong. Its movements are not swift compared to Saber Leomon, but it possesses almost twice as much tough flesh and physical strength, and with its big, sharp, sword-like fangs, it forcibly brings down even Digimon larger than itself and which possess thick skin or armor. Other Digimon fear Dinotigermon, who possesses daring and wild predatory instinct, and do not approach. Its Special Moves are pinning down the enemy, then stabbing and tearing through them with its fangs (Ground Fang), and swinging down its fangs from an elevation, instantly cutting them to pieces (Highland Fang).Digimon Reference Book⇨ English傷を負ったデジモンは餌食となる。弱肉強食の果てしない戦いを繰り返し、生き残ったサーベルレオモンの一部だけが、大地のメタル成分を取り込み、全身を超硬質化させて進化した古代獣型デジモン。サーベルレオモンに比べて動きは速くはないが、２倍近い大きさの強靭な肉体と筋力を持ち、剣のような大きく鋭い牙で、自分よりも大型で厚い皮膚や装甲を持つデジモンでさえ強引に仕留めてしまう。その勇猛で野性的な捕食本能をもつディノタイガモンを他のデジモンは恐れ、近づくことはない。必殺技は敵を押え付けて、牙で突き刺し引き裂く『グラウンドファング』と、高所から牙を振り下ろし瞬時に切り裂く『ハイランドファング』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Dinotigermon"
+    },
+    {
+      "id": "ancientsphinx",
+      "name": "Ancient Sphinxmon",
+      "name_jp": "Ancient Sphinxmon",
+      "name_ko": "에이션트스핑크스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientsphinx/frame1.gif",
+        "frame2": "sprites/ancientsphinx/frame2.gif"
+      },
+      "artwork": "sprites/ancientsphinx/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"Darkness\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is set at the opposite extreme toAncient Garurumonas a being born from darkness. It rules over the destruction and annihilation of all existing or living things, and is feared as the \"Deadly Dark Beast\". Ancient Sphinxmon's abilities were later passed on to the \"Mythical Beast\" and \"Demon Beast Digimon\". Its Special Moves are a laser beam fired with a roar (Dark Blast), and the ultimate annihilation technique which completely envelops the opponent in the darkness of death (Necro Eclipse).Digimon Reference Book⇨ English“闇”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、闇より生まれし存在としてエンシェントガルルモンとは両極に位置する。形あるものや生あるものの破壊と消滅を司り、「死を招く闇の獣」として恐れられた。エンシェントスフィンクモンの能力は、その後“幻獣型デジモン”や“魔獣型デジモン”等へ引き継がれていった。必殺技は咆哮と共に発する破壊光線『ダークブラスト』と、敵を死の闇に包み込んでしまう究極の消滅技『ネクロエクリプス』。デジモン図鑑",
+        "ko": "\"어둠\"의 속성을 가진, 고대 디지털 월드를 구한 전설의 10투사 중 하나인 디지몬. 아득히 고대에 존재한 첫 궁극체이며, 어둠에서 태어난 존재로서 에인션트가루몬과는 양극에 위치한다. 형태가 있는 것이나 생명이 있는 것의 파괴와 소멸을 맡아, 죽음을 부르는 어둠의 짐승으로서 두려움을 받았다. 에인션트 스핑크스 몬의 능력은, 그 후 환수형 디지몬이나 마수형 디지몬등에 계승되었다. 필살기는 포효와 동시에 쏘는 파괴 광선 『다크 블래스트』와 적을 죽음의 어둠으로 휘감는 궁극의 소멸 기술 『네크로 이클립스 [1] 』다. 빛의 속성을 가진 에인션트가루루몬과는 상극이었지만 전우로서 정이 있었던 모양이며 루체몬의 수하들과 전투 중 부상이 겹쳐 죽었다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Sphinxmon"
+    }
+  ],
+  "evolutions": []
+}

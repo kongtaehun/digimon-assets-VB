@@ -1,0 +1,75 @@
+{
+  "id": "zanba",
+  "name": "Zanbamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/zanba.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/zanba.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/zanba.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "dura",
+        "hisyaryu",
+        "asura",
+        "gyuki",
+        "oboro"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Zanbamon",
+    "name_en": "Zanbamon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "45 (★8)",
+      "hp": "10",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "dura",
+        "name": "Duramon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "hisyaryu",
+        "name": "Hisyaryumon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "asura",
+        "name": "Asuramon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "gyuki",
+        "name": "Gyukimon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "oboro",
+        "name": "Oboromon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

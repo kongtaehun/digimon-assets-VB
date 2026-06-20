@@ -1,0 +1,1069 @@
+{
+  "schema_version": "1.0",
+  "id": "rbe",
+  "name": "Rampage of the Beast",
+  "category": "special_edition",
+  "device": "VBBE",
+  "release": "JP: Apr 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_rbe.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "bota",
+      "name": "Botamon",
+      "name_jp": "Botamon",
+      "name_ko": "깜몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/bota/frame1.gif",
+        "frame2": "sprites/bota/frame2.gif"
+      },
+      "artwork": "sprites/bota/artwork.jpg",
+      "lore": {
+        "en": "A Digital Monster that was born just recently. On the surface of its slime-shaped body, it has grown thick, black fuzz. It is unable to battle as it has just been born, but it can produce bubble-like objects from its mouth to intimidate the enemy.Digimon Reference Book⇨ English生まれたばかりのデジタルモンスター。スライム状の体の表面には、黒い産毛がびっしり生えている。生まれたてなので戦うことはできないが、口から泡のようなものを出して敵を威嚇する。デジモン図鑑",
+        "ko": "태어난지 얼마 안 된 디지털 몬스터. 슬라임과 같은 몸 표면에는 새까만 솜털이 빽빽이 자라나 있다. 갓 태어나서 싸울 수는 없지만, 입에서 거품을 내뿜어 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Botamon"
+    },
+    {
+      "id": "wanya",
+      "name": "Wanyamon",
+      "name_jp": "Wanyamon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/wanya/frame1.gif",
+        "frame2": "sprites/wanya/frame2.gif"
+      },
+      "artwork": "sprites/wanya/artwork.jpg",
+      "lore": {
+        "en": "A Digimon fused from the data of small, pet animals like dogs and cats. Because its unexpected movements are also quick, caution is necessary so that it doesn't get away, but it becomes very emotionally attached if shown affection like a pet. Its Special Move is suddenly biting, after appearing amply charming (Smile Fang).Digimon Reference Book⇨ Englishイヌやネコなどのペット系小動物のデータが融合しているデジモン。意外と動きが速いので逃げないように注意が必要であるが、ペットのようにかわいがるととても懐く。必殺技は、愛嬌たっぷりの姿から急に噛み付く『スマイルファング』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wanyamon"
+    },
+    {
+      "id": "gao",
+      "name": "Gaomon",
+      "name_jp": "Gaomon",
+      "name_ko": "가오몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "2850",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gao/frame1.gif",
+        "frame2": "sprites/gao/frame2.gif"
+      },
+      "artwork": "sprites/gao/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon that is thought to be a subspecies of the sharp-clawedGazimon-species. With its keen movements, it specializes in \"Hit and Away\" attacks. The gloves on its hands appear to be protecting its claws until they are fully grown. Its Special Moves are utilising its powerful legs and rolling into the opponent's chest (Rolling Upper), and its \"Double Backhand\" that it unleashes while spinning. Also, it can move nimbly to unleash a high-speed barrage of punches (Gao Rush).Digimon Reference Book⇨ English鋭い爪を生やしたガジモン系の亜種と考えられている獣形デジモン。俊敏な動きでヒットアンドウェイの攻撃を得意とする。両手のグローブは爪が成長するまで保護しているらしい。必殺技は、強靭な脚力を生かし、敵の懐に転がり込んで放つ『ローリングアッパー』と、回転しながら放つ『ダブルバックハンド』。また、素早く動いて高速連打パンチを放つ『ガオラッシュ』をもつ。デジモン図鑑",
+        "ko": "날카로운 발톱을 가진 가지몬 의 아종 으로 추정되는 수형 디지몬. 민첩한 움직임으로 히트&어웨이방식의 공격을 자랑으로 여긴다. 양손의 권투글러브 는 발톱이 성장할 때까지 보호하기 위해 있는 듯 하며, 일반적인 권투글러브와는 살짝 다르게 3지장갑형태인게 특징. 필살기는 강인한 각력을 살려 적의 품에 굴러들어오듯이 사용하는「롤링 어퍼」 [1] 와 회전하면서 주먹을 휘둘러 공격하는 「더블 백핸드」 [2] . 또, 재빠르게 움직여 고속 연타 펀치를 발하는 「가오 러쉬」 [3] 를 가지고 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Gaomon"
+    },
+    {
+      "id": "corona",
+      "name": "Coronamon",
+      "name_jp": "Coronamon",
+      "name_ko": "코로나몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4400",
+        "hp": "3100",
+        "ap": "1050"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/corona/frame1.gif",
+        "frame2": "sprites/corona/frame2.gif"
+      },
+      "artwork": "sprites/corona/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon born from fusing with solar observation data. It has a strong sense of justice and a pure, innocent personality. Its Special Moves are releasing continuous punches with its fists heated by the power of flame (Corona-knuckle), and concentrating the power of flame in its brow while exhausting all of its body's stamina, then firing it at the opponent as a flaming shot (Corona Flame). Also, it can either defend itself or ram the opponent while its body is clad in flames (Petit Prominence).Digimon Reference Book⇨ English太陽の観測データと融合して生まれた獣型デジモン。正義感が強く純真で無邪気な性格をしている。必殺技は、炎の力で熱くなった拳で連続パンチを放つ『コロナックル』と、全身の体力を消耗しつつも、炎の力を額に集中させて敵に放つ火炎弾『コロナフレイム』。また、体全体に炎をまとい、防御または体当たりする『プチプロミネンス』。デジモン図鑑",
+        "ko": "태양 관측 데이터와 융합해 태어난 짐승형 디지몬. 정의감이 강하며 순수무구한 성격이다. 필살기는, 불꽃의 힘으로 뜨거워진 주먹으로 연속 펀치를 날리는 \"코로너클\"과, 전신의 체력을 소모해 모은 불꽃의 힘을 이마에 집중시켜 적에게 발사하는 \"코로나 플레임\". 한편, 전신에 불꽃을 둘러 방어 또는 몸통박치기로 쓰는 \"쁘띠 프로미넨스\"가 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Coronamon"
+    },
+    {
+      "id": "luna",
+      "name": "Lunamon",
+      "name_jp": "Lunamon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "2900",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/luna/frame1.gif",
+        "frame2": "sprites/luna/frame2.gif"
+      },
+      "artwork": "sprites/luna/artwork.jpg",
+      "lore": {
+        "en": "A Mammal Digimon which has an appearance like a rabbit, born from the fusion of moon-watching data. With its large ears, it is able to recognize sounds from any distance, and despite its timidity, it develops attachments easily and can't stand being alone. Its Special Moves are scratching with claws that are lovely at first glance, but are filled with dark power (Luna Claw), and concentrating power in its forehead antenna, then firing a beautiful water orb at the opponent (Tear Shoot). Also, it is able to twirl its ears, swallowing up the opponent in the vortex of bubbles generated (Lop-ear Ripple).Digimon Reference Book⇨ English月の観測データと融合して生まれた、うさぎのような姿をした哺乳類型デジモン。大きな耳でどんな遠くの音も聞き分ける事ができ、臆病だが、なつきやすく寂しがり屋。必殺技は、一見可愛らしいが、闇の力が込められた爪で引っかく『ルナクロー』と、力を額の触角に集中し、綺麗な水球を敵に放つ『ティアーシュート』。また、耳をくるくると回し、発生させたシャボンの渦で敵を巻き込む『ロップイヤーリップル』を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Lunamon"
+    },
+    {
+      "id": "phasco",
+      "name": "Phascomon",
+      "name_jp": "Phascomon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "4100",
+        "hp": "3800",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/phasco/frame1.gif",
+        "frame2": "sprites/phasco/frame2.gif"
+      },
+      "artwork": "sprites/phasco/artwork.jpg",
+      "lore": {
+        "en": "A Demon Beast Digimon which inhabits the dark \"Evil Forest\" that is spread vast across theDark Area. It always curls up in a treetop and sleeps often. At a glance, it seems like it's harmless, but it is a fully-fledged Demon Digimon, and there have been many injuries reported from it leaping from the treetop and attacking people as soon as they let their guard down. Its Special Moves are sleep wave emitted from its sleepy-looking eyes (Evil Snore), and sharp claws containing paralyzing venom (Eucalyptus Claw).Digimon Reference Book⇨ Englishダークエリアに広大に広がる黒い森「エビルフォレスト」に生息している魔獣型デジモン。常に木の上で丸くなって寝ていることが多い。一見害のないように見えるがれっきとした悪魔デジモンであり、気を許したとたんに木の上から飛び掛り襲われる被害が多く報告されている。必殺技は、その眠そうな瞳から発する睡眠波動『エビルスノア』と麻痺毒が含まれる鋭い爪『ユーカリクロー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Phascomon"
+    },
+    {
+      "id": "gaoga",
+      "name": "Gaogamon",
+      "name_jp": "Gaogamon",
+      "name_ko": "가오가몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6500",
+        "hp": "3400",
+        "ap": "1200"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gaoga/frame1.gif",
+        "frame2": "sprites/gaoga/frame2.gif"
+      },
+      "artwork": "sprites/gaoga/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon that resulted asGaomon's physique grew larger, and its claws that were once protected by gloves have grown fully. Although it is aquadruped, its powerful legs also allow it to stand up to attack like a bear. Its Special Moves are approaching the opponent at a speed faster than the eye can see and unleashing its \"Dash Double Claw\", and biting the opponent with its sturdy teeth, not letting go until they collapse (Gaoga Hound). It can also release a powerful vortex of wind from its mouth in one breath (Spiral Blow).Digimon Reference Book⇨ Englishガオモンの体格が大きくなり、グローブで保護していた爪がしっかりと成長した獣型デジモン。四足ではあるが、脚力は強靭で熊のように立ち上がり攻撃することもできる。必殺技は、敵に見えないスピードで接近して放つ『ダッシュダブルクロー』と、強靭な歯で噛み付き、相手が倒れるまで決して離さない『ガオガハウンド』。また、口から渦巻状の強力な風を一気に放つ『スパイラルブロー』をもつ。デジモン図鑑",
+        "ko": "가오몬의 체격이 커져, 글로브로 보호하고 있던 발톱이 제대로 성장한 짐승형 디지몬. 4족 보행이지만, 각력은 강력하고 곰과 같이 일어서서 공격할 수도 있다. 필살기는 적에 보이지 않는 속도로 접근하고 공격하는 「대쉬 더블 클로」 [1] 와 강인한 이빨로 물고 상대가 쓰러질 때까지 결코 놓지 않는 「가오가 하운드」. 또 입에서 소용돌이 모양의 강력한 바람을 단숨에 날리는 「스파이럴 블로」 [2] 도 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Gaogamon"
+    },
+    {
+      "id": "fira",
+      "name": "Firamon",
+      "name_jp": "Firamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5000",
+        "hp": "3700",
+        "ap": "1310"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/fira/frame1.gif",
+        "frame2": "sprites/fira/frame2.gif"
+      },
+      "artwork": "sprites/fira/artwork.jpg",
+      "lore": {
+        "en": "A Beast Digimon with the alias \"Sky-soaring Lion\". It guards a certain ruins site located in theDigital World, and is also a caring leader-figure. Its Special Moves are cloaking its entire body in flames and attacking by diving down from the air (Flame Dive), as well as tearing the enemy apart with its powerful, flame-covered front limbs (Fira Claw). Not only that, it is also capable of concentrating all of its energy into its forehead, and firing a flaming bomb (Fira Bomb).Digimon Reference Book⇨ English“空を翔る獅子”と異名をもつ獣型デジモン。デジタルワールドのとある遺跡を守護しており、面倒見の良いリーダー的な存在でもある。必殺技は、全身に炎をまとい、上空より急降下突撃をする『フレイムダイブ』と、炎をまとった強靭な前足で敵を引き裂く『ファイラクロー』。また、額に全身の力を集中させた火炎爆弾『ファイラボム』を放つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Firamon"
+    },
+    {
+      "id": "lekis",
+      "name": "Lekismon",
+      "name_jp": "Lekismon",
+      "name_ko": "레키스몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "3600",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/lekis/frame1.gif",
+        "frame2": "sprites/lekis/frame2.gif"
+      },
+      "artwork": "sprites/lekis/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon that has gained astounding jumping ability, and uses its swift movements to toy with its enemies. Although its personality is as wavering as the phases of the moon, its appearance exudes a somewhat mystical air. Its Special Moves are creating hypnotic water bubbles from the \"Moon Gloves\" worn on its hands, and throwing them to lull the enemy to sleep (Moon Night Bomb), as well as pulling beautiful arrows of ice from the protrusions on its back and firing them (Tear Arrow). It also displays great strength with its \"Moon Night Kick\", where it leaps high into the air and performs a diving kick.Digimon Reference Book⇨ English驚異的なジャンプ力を身に付け、素早い動きで敵を翻弄する獣人型デジモン。月の満ち欠けのように、つかみどころのない性格をしてるが、その佇まいはどこか神秘的である。必殺技は、両手の“ムーングローブ”から発生させた催眠効果のある水の泡を投げつけ、敵を眠らせる『ムーンナイトボム』と、背中の突起から美しい氷の矢を引き抜きいて放つ『ティアーアロー』。また、空高く跳躍し、急降下キックを繰り出す『ムーンナイトキック』も強力である。デジモン図鑑",
+        "ko": "경이로운 점프력을 지니고 있으며 재빠른 움직임으로 적을 농락하는 수인형 디지몬. 달이 차고 기우는 것처럼 종잡을 수 없는 성격이지만 그 모습이 어딘가 신비롭다. 필살기는 양손의 \"문 글로브\"에서 최면 효과가 있는 물거품을 만든 후 던져 적을 잠재우는 『문 나이트 봄』과 등의 돌기에서 아름다운 얼음 화살을 뽑아 쏘는 『티어 애로』다. 또한, 하늘 높이 도약해 급하강하며 발차기를 날리는 『문 나이트 킥』도 강력하다."
+      },
+      "wikimon_url": "https://wikimon.net/Lekismon"
+    },
+    {
+      "id": "leo",
+      "name": "Leomon",
+      "name_jp": "Leomon",
+      "name_ko": "레오몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "5000",
+        "hp": "3300",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/leo/frame1.gif",
+        "frame2": "sprites/leo/frame2.gif"
+      },
+      "artwork": "sprites/leo/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon which is called the \"King of Beasts\", as well as the \"Noble Hero\". While most Digimon are savage, it possesses a strong purpose and a heart of justice, and has defeated a great number of fiendish Digimon. Also, it is a rival to the \"Digimon Hunter\"Orgemon, who runs the whole gamut of destruction. Its tough flesh, tempered well by daily training, can endure any attack, and it chokes the life out of the opponent with its ultimate secret technique, its Special Move \"Jūouken\". It carries a sentient magical sword named \"Shishiou-maru\" on its waist.Digimon Reference Book⇨ English百獣の王、気高き勇者とも呼ばれる獣人型デジモン。狂暴なデジモン達が多い中、強い意思と正義の心を持っており、数多くの凶悪なデジモンを倒してきた。また、破壊の限りを尽くす“デジモンハンター”のオーガモンとはライバルである。日々の鍛錬で鍛え上げられた強靭な肉体はあらゆる攻撃に耐え、必殺技の究極奥義『獣王拳』で敵の息の根を止めてしまう。「獅子王丸」という意思を持った妖刀を腰に携えている。デジモン図鑑",
+        "ko": "백수의 왕, 고상한 용사라 불리는 수인형 디지몬. 광포한 디지몬들이 많은 가운데 강한 의지와 정의의 마음을 가지고 있으며, 수 많은 흉악한 디지몬을 쓰러뜨려왔다. 또한 파괴에 온 힘을 쏟는 \"디지몬 헌터\" 우가몬 과는 라이벌이다. 나날이 단련된 강인한 육체는 모든 공격을 견디고, 필살기인 궁극오의 \"수왕권(獣王拳) [2] \"으로 적의 숨통을 끊어 버린다. 또한 의사를 가진 요도 \"사자왕환(獅子王丸) [3] \"을 허리에 차고 있으며 이걸 사용하기도 한다."
+      },
+      "wikimon_url": "https://wikimon.net/Leomon"
+    },
+    {
+      "id": "madleo",
+      "name": "Mad Leomon",
+      "name_jp": "Mad Leomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "5500",
+        "hp": "3400",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/madleo/frame1.gif",
+        "frame2": "sprites/madleo/frame2.gif"
+      },
+      "artwork": "sprites/madleo/artwork.jpg",
+      "lore": {
+        "en": "Aberserkerwho lost its intelligence and enhanced its combat instinct.Although it was originally aLion Digimon, it heaped modification upon modification and arrived at its current appearance. In the process, its consciousness vanished, and it became nothing more than a puppet that defeats those standing before it, as it is commanded. Because it doesn't act or think according to its natural instincts, it exhibits headlong assaults, heedless even of any traps or gadgets.Although it is fundamentally high-powered, its patterns are meager, with nothing but primitive attacks such as hitting and kicking. Nevertheless, caution is necessary, because its sharp claws bear a deadly poison which can cause anything to rot away. Only one of its attack patterns bears any resemblance to a Special Move, where it fires its \"Spirit\" in the shape of a lion's face (Jūoudaken). The lion-faced spirit that is fired bites the flesh off of those standing in its way as it flies through them.Digimon Reference Book⇨ English知能を失い闘争本能を高めた狂戦士。もともとは獅子型のデジモンだったが、改造に改造を重ねて今の姿に至った。その過程で意識は消失し、命ぜられるままに目の前に立つ者を倒す操り人形となってしまった。本能のままに行動し考えるということをしないため、罠や仕掛けがあってもお構いなしに突撃してしまう猛進を見せる。基本的には高パワーであるが、殴る・蹴るといった原始的な攻撃ばかりでパターンは少ない。ただ、その鋭い爪には猛毒が含まれており、あらゆるものを腐らせてしまうので注意が必要だ。唯一、必殺技らしいといえば獅子の顔の形をした『気』を放つ「獣王堕拳」である。放たれた獅子の顔の気は立ち塞がるものを食いちぎりながら飛んでゆく。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mad_Leomon"
+    },
+    {
+      "id": "machgaoga",
+      "name": "Mach Gaogamon",
+      "name_jp": "Mach Gaogamon",
+      "name_ko": "마하가오가몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "8000",
+        "hp": "3100",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/machgaoga/frame1.gif",
+        "frame2": "sprites/machgaoga/frame2.gif"
+      },
+      "artwork": "sprites/machgaoga/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that carries rocket engines with enormous propulsive power on its back. Although its flight duration is limited, it momentarily exploits its maximum thrust, and is most skilled in \"Hit and Away\". Its Special Moves are circling the opponent with maximum thrust and unleashing an extremely high-speed barrage (Gaoga Tornado), and a blow of its fist boasting supreme impact strength (Winning Knuckle). Also, it can attack with the ultrasonic waves released in a single howl (Howling Cannon).Digimon Reference Book⇨ English莫大な推進力をもつロケットエンジンを背負うサイボーグ型デジモン。滞空時間は短いが、瞬間の最大推力を生かし、ヒットアンドウェイを最も得意としている。必殺技は、最大推力で敵を包囲し超高速連打を放つ『ガオガトルネード』と、超打撃力を誇る拳の一撃『ウィニングナックル』。また、咆哮を一気に放つ超音波攻撃『ハウリングキャノン』をもつ。デジモン図鑑",
+        "ko": "막대한 추진력을 가지는 로켓 엔진을 짊어지는 사이보그형 디지몬. 양팔엔 금속 건틀릿 장갑을 착용하고 있으며 다리 부분도 기계형이고 꼬리가 없는 대신 파란 벨트같은 것이 매달려있다. 체공시간은 짧지만, 순간의 최대 추진력을 살려 Hit and Away 방식으로 전투하는 것을 가장 자랑으로 여기고 있다. 필살기술은 최대 추진력으로 적을 포위해 초고속 연타를 날리는 가오가토네이도 와 초타격력을 자랑하는 건틀릿 주먹의 일격 위닝너클 , 또, 사납게 울부짖는 하울링 캐논 을 가진다. 근거리와 원거리를 다 커버하는 점이 강점이지만 애니메이션에서는 약하게 나온다."
+      },
+      "wikimon_url": "https://wikimon.net/Mach_Gaogamon"
+    },
+    {
+      "id": "flare",
+      "name": "Flaremon",
+      "name_jp": "Flaremon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "4400",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/flare/frame1.gif",
+        "frame2": "sprites/flare/frame2.gif"
+      },
+      "artwork": "sprites/flare/artwork.jpg",
+      "lore": {
+        "en": "Although its regal mane and imposing manner may be intimidating at first glance, this strong-willed Beast Man Digimon will brave any hardship for the sake of its comrades. Its Special Moves are concentrating flames and the spirit of a lion into its fist, and firing it as an energy wave in the shape of a lion (Gurenjūouha), as well as dishing out a mad flurry of grappling moves using its blazing punches and kicks to strike the enemy repeatedly (Kurenai Shishi no Mai). Not only that, it is able to unleash from its mouth together with a roar a purifying shockwave that burns everything down, disintegrating the enemy's data (Seisei no Houkou).Digimon Reference Book⇨ English威風堂々としたたてがみとその存在感により一見怖そうだが、仲間の為にはどんな困難にも立ち向かう心の強さを持った獣人型デジモン。必殺技は、拳に獅子の闘気と火炎を集中させて、獅子を象ったエネルギー波を放つ『紅蓮獣王波（ぐれんじゅうおうは）』と、炎をまとわせた拳と蹴りを、高速連続で敵に叩き込む格闘乱舞『紅・獅子之舞（くれない・ししのまい）』。また、全てを燃やす火炎によって浄化力を込めた衝撃波を、咆哮と共に口部から放ち、敵をデータ分解させる『清々之咆哮（せいせいのほうこう）』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Flaremon"
+    },
+    {
+      "id": "cresce",
+      "name": "Crescemon",
+      "name_jp": "Crescemon",
+      "name_ko": "크레세몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "7500",
+        "hp": "4400",
+        "ap": "1450"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/cresce/frame1.gif",
+        "frame2": "sprites/cresce/frame2.gif"
+      },
+      "artwork": "sprites/cresce/artwork.jpg",
+      "lore": {
+        "en": "A Demon Man Digimon with a flexible body, allowing it to perform nimble movements as it attacks its enemies. It excels in battling elegantly, and its power is said to double when it is exposed to moonlight. Its Special Move is entrancing the enemy with its dance-like steps, after which it closes the distance and slashes with the weapons,Nova Luna, that it wields in both hands (Lunatic Dance). It is also capable of combining its twoNova Lunaweapons to transform it into a bowgun. It can use its weapon when in this form to perform two techniques: firing an arrow of ice (Ice Archery), and firing an arrow made from dark energy (Dark Archery).Digimon Reference Book⇨ English体が柔軟で、しなやかな動きで敵を討つ魔人型デジモン。流麗な戦闘を得意とし、月の光を受けるとその力は倍増すると言われている。必殺技は、舞うようなステップで敵を幻惑し、間合いを詰め、両手に持った武器“ノワ・ルーナ（羅：新月）”を使った斬撃『ルナティックダンス』。また、“ノワ・ルーナ”は１つに組み合わせることでボウガンのような形態に変化する。この状態から氷の矢を放つ『アイスアーチェリー』と、闇エネルギーの矢を放つ『ダークアーチェリー』の２つの技を繰り出すことができる。デジモン図鑑",
+        "ko": "몸이 유연해서 탄력 있는 움직임으로 적을 공격하는 마인형 디지몬. 유려한 전투에 능하며 달빛을 받으면 그 힘은 배로 증가한다고 한다. 필살기는 춤추는 듯한 발놀림으로 적을 현혹해 간격을 좁힌 후, 양손에 든 무기 \"노바 루나 [1] \"를 사용해 베는 『루나틱 댄스』다. 또한 \"노와 루나\"는 1개로 조합하면 보우건처럼 형태가 변화한다. 이 형태에서 얼음 화살을 쏘는 『아이스 아처리』와 어둠의 에너지 화살을 쏘는 『다크 아처리』 기술을 사용할 수 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Crescemon"
+    },
+    {
+      "id": "grappuleo",
+      "name": "Grappu Leomon",
+      "name_jp": "Grappu Leomon",
+      "name_ko": "아이언레오몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "4300",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grappuleo/frame1.gif",
+        "frame2": "sprites/grappuleo/frame2.gif"
+      },
+      "artwork": "sprites/grappuleo/artwork.jpg",
+      "lore": {
+        "en": "A Grappling-species Beast Man Digimon that took in the data of various fighting games, using their original secrets to crush the opponent. Although it rapidly spins the turbines on both of its arms and feet to unleash ever-changing techniques, the turbines rotate by being blown into all at once by the fighting spirit emitted by itsDigicore, and can't run on mediocre emotional strength. Grappu Leomon inherited the data of the \"King of Beasts\",Leomon, and so that strong will to justice rapidly spins the turbines to their extremes. Its Special Moves are rapidly spinning the turbines on its arms to their highest limit, then driving forward a blow heavy enough to distort gravity (Shishi Jūhazan), and rotating its whole body for the ultimate barrage of roundhouse kicks (Senpū Turbine Geri).Digimon Reference Book⇨ English様々な格闘ゲームのデータを取り込み、オリジナルの奥義をもって敵を打ち砕く、格闘系獣人型デジモン。両腕・両足のタービンを高速回転させて変幻自在の技を繰り出すが、タービンはデジコア（電脳核）から発する気合を一気に吹き付けることで回転させており、並大抵の精神力では続かない。“百獣の王”レオモンのデータを受け継ぐグラップレオモンだからこそ、その正義への強い意思がタービンを究極にまで高速回転させている。必殺技は腕のタービンを極限にまで高速回転させて、重力を捻じ曲げるほどの重い一撃を打ち込む『獅子獣波斬』と、全身を回転させて回し蹴りの究極連打『旋風タービン蹴り』。デジモン図鑑",
+        "ko": "다양한 격투 게임의 데이터를 넣어 오리지널 오의로 적을 쳐부수는 격투계 수인형 디지몬. 두 팔과 두 발의 터빈을 고속회전시켜 변환자재의 기술을 내보낸다. 터빈은 디지코어에서 나오는 기합을 단숨에 분사해 회전시키며, 보통의 정신력으론 버티지 못한다. \"백수의 왕\" 레오몬의 데이터를 계승하는 아이언레오몬이기에 정의에 대한 강한 의지로 터빈을 극한까지 고속회전시키고 있다. 필살기는 팔의 터빈을 극한까지 고속회전시켜 중력을 휘게만드는 무거운 일격을 때려넣는 \"사자수파참\"과 전신을 회전시키며 돌려차기의 궁극연타 \"선풍 터빈 킥\"."
+      },
+      "wikimon_url": "https://wikimon.net/Grappu_Leomon"
+    },
+    {
+      "id": "asta",
+      "name": "Astamon",
+      "name_jp": "Astamon",
+      "name_ko": "알라우몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4100",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/asta/frame1.gif",
+        "frame2": "sprites/asta/frame2.gif"
+      },
+      "artwork": "sprites/asta/artwork.jpg",
+      "lore": {
+        "en": "Though it is a Perfect, it possesses power surpassing that of an Ultimate, and is a Prince of theDark Areawhich governs a legion of Demon Digimon. It shows cruelty to its enemies and kindness to its friends, and because of that charisma it is expected to gain a considerable number of followers among Demon Digimon. The bullets fired from its prided machine gun, \"Oro Salmón\", possess their own will, and will definitely chase the opponent to the \"end of hell\". Its Special Moves are firing every single one ofOro Salmón's bullets (Hellfire), and a kick which unleashes all of its own pent-up darkQi(Maverick).Digimon Reference Book⇨ English完全体でありながら、究極体を凌駕する力を持ち、悪魔デジモンの軍団を束ねるダークエリアの貴公子である。敵に対する残虐性と味方に対する慈愛を持ち合わせており、そのカリスマ性から従う悪魔デジモンはかなりの数に登ると見られる。自慢のマシンガン「オーロサルモン」から放たれる弾丸は意思をもっており、まさに「地獄の果て」まで敵を追尾する。必殺技は、「オーロサルモン」の弾丸を全て撃ち尽くす『ヘルファイア』と、自身の暗黒の気を貯めて放つキック『マーヴェリック』。デジモン図鑑",
+        "ko": "팔몬 과 같은 진화를 이룬 식물형 디지몬. 점심에는 머리와 팔의 꽃을 피워 광합성을 하는 듯 하다. 머리의 꽃에서 나는 냄새는 바로 팔몬에게 받은 것으로, 여전히 강렬하고 지독하다. 필살기는 손에서 뻗은 손톱으로 적을 휘감아 혼란스럽게 하는 『네메시스 아이비』."
+      },
+      "wikimon_url": "https://wikimon.net/Astamon"
+    },
+    {
+      "id": "miragegaoga",
+      "name": "Mirage Gaogamon",
+      "name_jp": "Mirage Gaogamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6000",
+        "hp": "4150",
+        "ap": "2050"
+      },
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/miragegaoga/frame1.gif",
+        "frame2": "sprites/miragegaoga/frame2.gif"
+      },
+      "artwork": "sprites/miragegaoga/artwork.jpg",
+      "lore": {
+        "en": "A Beast Knight Digimon whose whole body is clad inChrome Digizoidarmor. As a result of moving at incomparable speeds, the opponent is deceived when it witnesses it as a phenomenon similar to a mirage. Its Special Moves are firing crescent moon-shaped shock waves from its hands (Double Crescent Mirage), and a superdreadnought-class strike in which it concentrates its body's energy, then fires it from the mouth on its chest. (Full Moon Blaster). Also, it can run through like a hurricane, instantly cutting the opponent to pieces (Gale Claw).Digimon Reference Book⇨ English全身がクロンデジゾイドの鎧で覆われた獣騎士型デジモン。桁違いの速度で移動するため、敵はまるで蜃気楼のような現象を目にする。必殺技は、両手から放つ三日月型の衝撃波『ダブルクレセントミラージュ』と、全身のエネルギーを溜めて、胸の口部から放つ超弩級の一撃『フルムーンブラスター』。また、疾風のごとく駆け抜け、敵を一瞬で切り裂く『ゲイルクロー』をもつ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mirage_Gaogamon"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollomon",
+      "name_jp": "Apollomon",
+      "name_ko": "아폴로몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "5800",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/apollo/frame1.gif",
+        "frame2": "sprites/apollo/frame2.gif"
+      },
+      "artwork": "sprites/apollo/artwork.jpg",
+      "lore": {
+        "en": "A God Man Digimon that is one of theOlympos XII, it conceals solar-class flame energy. This energy has the terrifying power to smelt all substances, and its almost heartless fervor and pride are barely restrained. Its Special Moves are firing the scorching solar orb generated from the sphere of flame on its back (Solblaster), and a one-hit knockout fist filled with its hidden power (PhoebusBlow). Also, it can continuously fire red hot arrows from the shining jewels on its hands (Arrow of Apollo).Digimon Reference Book⇨ Englishオリンポス十二神族の１体で、太陽級の火炎エネルギーを秘めた神人型デジモン。その力は、あらゆる物質を溶かし浄化する恐るべき力であり、非情なまでの熱い血潮とプライドで辛うじて抑制している。必殺技は、背中の火炎球より灼熱の太陽球を発生させて放つ『ソルブラスター』と、秘めたる力を込めた一撃必殺の拳『フォイボス・ブロウ』。また、両手の光玉から灼熱の矢を連続して放つ『アロー・オブ・アポロ』をもつ。デジモン図鑑",
+        "ko": "올림푸스 12신 족의 하나로, 태양급의 화염 에너지를 품은 신인형 디지몬. 그 힘으로 어떤 물질이라도 녹여 정화하는 두려울 정도의 능력을 지니며, 비정할 정도의 혈기와 프라이드는 억제하기 매우 힘들다. 필살기는, 등 뒤의 화염구에서 작열하는 태양구를 발생시켜 쏘아 내는 \"솔블래스터\"와, 품은 힘을 모은 일격필살의 주먹 \"포이보스 [1] 블로\". 또, 양손의 광구에서 작열하는 화살을 연사하는 \"애로우 오브 아폴로\"도 쓸 수 있다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Apollomon"
+    },
+    {
+      "id": "diana",
+      "name": "Dianamon",
+      "name_jp": "Dianamon",
+      "name_ko": "디아나몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "6400",
+        "hp": "5800",
+        "ap": "1800"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/diana/frame1.gif",
+        "frame2": "sprites/diana/frame2.gif"
+      },
+      "artwork": "sprites/diana/artwork.jpg",
+      "lore": {
+        "en": "One of theOlympos XII, this God Man Digimon presides over water and ice, and is able to fight even when its surroundings are atabsolute zero. Just as the moon has two sides (light and dark), its personality is of a two-sided nature, and its beauty conceals terrifying power. Its Special Moves are conjuring an illusion using the mysterious power of the moon, and cutting down those it's deemed as enemies in an instant (Crescent Harken), and pulling out a sleek, sharp, long and dazzling arrow of ice from the protuberances on its back, then firing it (Arrow of Artemis). It also uses \"Goodnight Moon\", bathing the opponent in moonlight emitted from the \"Goodnight Sisters\" on both of its legs to lure the opponent into sleep.Digimon Reference Book⇨ Englishオリンポス十二神族の１体で、水と氷を司り、絶対零度の状況下でも戦闘可能な神人型デジモン。月の表裏（光と闇）のように二面性をもった性格で、美しくも恐るべき力を秘めている。必殺技は、月の神秘の力で幻覚を魅せ、己の敵と判断すれば即時斬り裂く『クレセントハーケン』と、背中の突起から、細く鋭く長大な、眩いばかりの氷の矢を引き抜いて放つ『アロー・オブ・アルテミス』。また、両足“グッドナイトシスターズ”から月の光を放ち、浴びた相手を睡眠に誘う『グッドナイト・ムーン』をもつ。デジモン図鑑",
+        "ko": "올림포스 12신 중 하나로 물과 얼음을 관장하며, 절대영도 의 상황에서도 전투할 수 있는 신인형 디지몬. 달의 양면(빛과 어둠)처럼 이면성을 지닌 성격으로 아름답지만 무서운 힘을 지녔다. 필살기는 달의 신비로운 힘으로 환각을 보게 한 후, 자신의 적이라고 판단되면 즉시 난도질하는 『크레센트 하켄』과 등에 있는 돌기에서 가늘고 날카로우며 장대한, 그리고 눈부실 정도의 얼음 화살을 뽑아 쏘는 『애로우 ･ 오브 ･ 아르테미스』다. 또한, 양다리의 \"굿나잇 시스터스\"에서 달빛을 발사하고 잔뜩 뒤집어쓴 상대를 잠재우는 『굿나이트 ･ 문』을 지니고 있다. [1]"
+      },
+      "wikimon_url": "https://wikimon.net/Dianamon"
+    },
+    {
+      "id": "heavyleo",
+      "name": "Heavy Leomon",
+      "name_jp": "Heavy Leomon",
+      "name_ko": "헤비레오몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "3200",
+        "hp": "6100",
+        "ap": "2050"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/heavyleo/frame1.gif",
+        "frame2": "sprites/heavyleo/frame2.gif"
+      },
+      "artwork": "sprites/heavyleo/artwork.jpg",
+      "lore": {
+        "en": "A Machine Digimon with the heaviest build, rare even among the variousLeomonfamilies. Its power is the greatest among Machine-types thanks to its charging power, so it is difficult to stop Heavy Leomon from charging head-on. The source of Heavy Leomon's charging power is its passionate fighting spirit, and its strength doubles the more its fighting spirit burns. In addition, unlike a weapon made solely for fighting, it has a kind heart in that it also carries out rescue operations, so if there is a Digimon that needs help, it will firstly rush over to them, and then remove any obstacles using its prided power.While it is brimming with passionate fighting spirit in battle, it analyzes the opponent and acts with composure. It shoots at long range, firing abarragewith the \"Barrage Sweeper\"autocannondeployed from its left shoulder, and skillfully uses its \"Resting Burner\", a mid-range attack where it expels ultra-high temperature flames from the lion armor on its chest, and \"Sonic Excavator\", a very-close range technique where it impales the enemy by launching itsPile Bunkerwhile charging with its fighting spirit at its maximum, for different proposes, and achieves victory steadily with tactics that leave no openings regardless of long, mid, or close-range combat.Digimon Reference Book⇨ English数あるレオモン族の中でも希少な最重量の巨体を持つマシーン型デジモン。突進力によるパワーはマシーン型の中でも随一で、真正面からヘヴィーレオモンの突進を受け止めることは難しい。突進力の源は熱き闘気であり、闘気が燃えあがるほどにヘヴィーレオモンの強さは倍増していく。また、戦うだけの兵器とは違い、救助活動も行う優しい心の持ち主であり、助けを求めるデジモンがいれば、真っ先に駆けつけ自慢のパワーで障害を取り除く。戦いにおいては熱き闘気を滾らせつつも、相手を分析し冷静に立ち回る。左肩から展開した機関砲『バレッジスイーパー』で弾幕を放ち遠方射撃を行い、胸の獅子鎧から超高温の炎を吐き出す中距離攻撃『レスティングバーナー』、そして闘気MAXで突進するとともにパイルバンカーを打ちだし敵を貫く超近距離技『ソニックエクスカベーター』を巧みに使い分け、遠・中・近距離のどの戦闘においても隙の無い戦術で堅実に勝利を手にする。デジモン図鑑",
+        "ko": "수많은 레오몬 종족 중에서도 희소한 초중량의 거대한 몸을 가진 머신형 디지몬. 돌진력에 의한 파워는 머신형 중에서도 제일이며, 정면에서 헤비레오몬의 돌진을 막아내는 것은 어렵다. 돌진력의 근원은 뜨거운 투기이며 투기가 불타오를수록 헤비레오몬의 강함은 배로 증가한다. 또한 그저 싸우기만 할 뿐인 병기와는 달리 구조활동도 하는 상냥한 마음의 소유자이기에 도움을 청하는 디지몬이 있으면 제일 먼저 달려나가 특기인 파워로 장해가 되는 것을 제거한다. 싸울때는 뜨거운 투기를 다루면서도 상대를 분석해 냉정히 맞선다. 왼쪽 어깨에서 전개되는 [1] 기관포 「배러지 스위퍼」로 탄막을 펼쳐 원호사격을 하며, 가슴의 사자 갑옷에서 초고온의 화염을 토해내는 중거리 공격「레스팅 버너」, 그리고 투기 MAX 상태에서 돌진하는 것과 동시에 파일벙커를 찔러넣어 상대를 꿰뚫는 초 근거리 공격 「소닉 엑스커베이터」를 상황에 맞춰 능숙하게 사용하여 원, 중, 근거리, 어떤 전투에 있어서도 빈틈없는 전술로 건실하게 승리를 손에 넣는다."
+      },
+      "wikimon_url": "https://wikimon.net/Heavy_Leomon"
+    },
+    {
+      "id": "miragegaoga_b",
+      "name": "Mirage Gaogamon: Burst Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "bp": "6800",
+        "hp": "5800",
+        "ap": "2100"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "AMirage Gaogamonthat has temporarily reached the limits of its abilities through Burst Evolution, it is a unique form which wears a weapon and an aura of planetary-class high-energy. Its Special Moves are striking the the opponent with a sphere of light containing planetary-class energy (Full Moon Meteor Impact), and putting its body and soul into releasing the energy hidden within its weapon (Final Mirage Burst). Also, it can carve the enemy to pieces with its crescent moon-shaped energy halberd (Luna Haken Slasher).Digimon Reference Book⇨ Englishミラージュガオガモンがバースト進化で一時的に限界能力を発動し、惑星級の高エネルギーの武器とオーラをまとった特殊な姿である。必殺技は、惑星級のエネルギーを持つ光球を敵に叩きつける『フルムーンメテオインパクト』と、全身全霊を込めて武器に秘められたエネルギーを解き放つ『ファイナルミラージュバースト』。また、三日月型のエネルギー薙刀で斬り裂く『ルナハーケンスラッシャー』をもつ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Mirage_Gaogamon:_Burst_Mode"
+    },
+    {
+      "id": "belphe_r",
+      "name": "Belphemon: Rage Mode",
+      "name_jp": "",
+      "name_ko": "벨페몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "bp": "5600",
+        "hp": "6000",
+        "ap": "2100"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "It is said thatBelphemonawakens from its eternal slumber once in a thousand years, and regains its natural shape. When Belphemon awakens from its slumber it changes into an incarnation of rage, and anything that enters its field of vision becomes a target for destruction. It is said that just by suffering Belphemon: Rage Mode's roar, Perfect Digimon and below will have their data disintegrated and die instantly, and not even Ultimate Digimon can escape unharmed. Its Special Moves are black flames cast from the chains coiled around its body (Lampranthus), and a slash attack which is unleashed from its claws, clad in the flames of hell (Gift of Darkness). In addition, the data of Digimon consigned to oblivion by the Digimon crowned as theSeven Great Demon Lordsis not reincarnated, but is sent to the center of theDark Area, and becomes the flesh and blood of the Demon Lords.Digimon Reference Book⇨ Englishベルフェモンは千年に１度の周期で永き眠りから覚め、本来の姿を取り戻すという。眠りから覚めたベルフェモンは怒りの権化と化し、視界に入るもの全てが破壊の対象となる。ベルフェモン：レイジモードの咆哮を受けただけで、完全体以下のデジモンはデータ分解し即死するといわれており、究極体デジモンといえども無傷ではいられない。必殺技は、体に巻きついた鎖から発する黒い炎『ランプランツス』と、地獄の炎をまとった爪から繰り出される斬撃『ギフトオブダークネス』。なお、七大魔王を冠するデジモンに葬られたデジモンのデータは輪廻転生することなく、ダークエリアの中心へと送り込まれ、魔王たちの血肉となる。デジモン図鑑",
+        "ko": "다크 에리어의 최심부에 봉인되고 있다고 하는 마왕 디지몬. 너무 강대한 힘을 가져서 디지털 월드의 시스템에 의해 데이터가 슬립 상태로 되어 있다고 하나, 진위는 확실치 않다. 깊은 잠에 들기 위해 스스로 공격을 계속 내보내는 것은 할 수 없지만, 숨소리만으로 디지몬에 데미지를 주는 것이 가능하기 때문에 벨페몬 슬립 모드의 수면 상태에서 덮치는 것은 쉽지 않을 것이다. 필살기는 편한 숨소리로부터 발동하는 이터널 나이트메어와, 몸에 감아 붙은 쇠사슬로부터 발하는 검은 불길 램프란투스. 수면 부족인 사람에게는 이터널 나이트메어를 강력 추천하는데, 영원한 잠을 약속해 줄 것이다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Belphemon:_Rage_Mode"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "wanya",
+      "to": "gao",
+      "conditions": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wanya",
+      "to": "corona",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wanya",
+      "to": "luna",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "wanya",
+      "to": "phasco",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 3 Cleared"
+      }
+    },
+    {
+      "from": "gao",
+      "to": "gaoga",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "corona",
+      "to": "gaoga",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "luna",
+      "to": "gaoga",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "corona",
+      "to": "fira",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gao",
+      "to": "fira",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gao",
+      "to": "lekis",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "luna",
+      "to": "lekis",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "corona",
+      "to": "leo",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "phasco",
+      "to": "leo",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "luna",
+      "to": "madleo",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "phasco",
+      "to": "madleo",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 6 Cleared"
+      }
+    },
+    {
+      "from": "gaoga",
+      "to": "machgaoga",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fira",
+      "to": "machgaoga",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lekis",
+      "to": "machgaoga",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "fira",
+      "to": "flare",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "leo",
+      "to": "flare",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gaoga",
+      "to": "cresce",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "lekis",
+      "to": "cresce",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gaoga",
+      "to": "grappuleo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "leo",
+      "to": "grappuleo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "madleo",
+      "to": "grappuleo",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "leo",
+      "to": "asta",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "madleo",
+      "to": "asta",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "12+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 9 Cleared"
+      }
+    },
+    {
+      "from": "machgaoga",
+      "to": "miragegaoga",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "miragegaoga",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "miragegaoga",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "apollo",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "to": "apollo",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "machgaoga",
+      "to": "diana",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "diana",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "flare",
+      "to": "heavyleo",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grappuleo",
+      "to": "heavyleo",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "asta",
+      "to": "heavyleo",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "machgaoga",
+      "to": "miragegaoga_b",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "cresce",
+      "to": "belphe_r",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "asta",
+      "to": "belphe_r",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "bota",
+      "to": "wanya",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

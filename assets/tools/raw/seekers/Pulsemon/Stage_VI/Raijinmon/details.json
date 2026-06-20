@@ -1,0 +1,83 @@
+{
+  "id": "raijin",
+  "name": "Raijinmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/raijin.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/raijin.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/raijin.jpg",
+  "appearances": [
+    {
+      "dim_id": "pulse",
+      "dim_name": "Pulsemon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "giro"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "kyuki"
+      ],
+      "requirements": {
+        "PP": "25+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from_digimon": [
+        "metallifekuwaga"
+      ],
+      "requirements": {
+        "PP": "15+",
+        "Vital Values": "1,500+",
+        "Battles": "15+",
+        "Win Ratio": "40%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Raijinmon",
+    "name_en": "Raijinmon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "5200",
+      "ap": "1850"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "giro",
+        "name": "Giromon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "kyuki",
+        "name": "Kyukimon",
+        "conditions": "25+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "metallifekuwaga",
+        "name": "Metallife Kuwagamon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 15+ Battles, 40%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

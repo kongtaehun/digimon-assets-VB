@@ -1,0 +1,872 @@
+{
+  "schema_version": "1.0",
+  "id": "espi",
+  "name": "Espimon",
+  "category": "v",
+  "device": "VBDM",
+  "release": "JP: Aug 2022 - Retail (Set -V3-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_espi.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "cotsuco",
+      "name": "Cotsucomon",
+      "name_jp": "Cotsucomon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/cotsuco/frame1.gif",
+        "frame2": "sprites/cotsuco/frame2.gif"
+      },
+      "artwork": "sprites/cotsuco/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that was born already wearing a leather hat. It looks stronger than the average Baby level due to its equipment, but because it is made of a soft material, it barely offers any defensive protection. It is extremely vigilant, and will retreat into its hat at the slightest provocation. Its Special Move is poking at the opponent with the brim of its hat (Kottsun).Digimon Reference Book⇨ English皮製の帽子を被って生まれたデジモン。並の幼年期に比べると防具があることから強そうに見えるが、柔らかめな素材のため防御力はそれほどない。性格は警戒心が強く、すぐに帽子の中に潜んでしまう。必殺技は帽子のつばで相手を小突く『コッツン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Cotsucomon"
+    },
+    {
+      "id": "kakkin",
+      "name": "Kakkinmon",
+      "name_jp": "Kakkinmon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "(★)",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/kakkin/frame1.gif",
+        "frame2": "sprites/kakkin/frame2.gif"
+      },
+      "artwork": "sprites/kakkin/artwork.jpg",
+      "lore": {
+        "en": "A Digimon whose hat has become a copper shield, with its personality turning rougher as well. It is less vigilant than before due to its equipment becoming sturdier, adopting a fearless, forward-charging personality. However, because its shield is still only made of copper, it will land itself in trouble if it gets too aggressive. Its Special Move is striking at the opponent with the sharp corners of its shield (Kankan).Digimon Reference Book⇨ English帽子が銅製の盾になり渋さも増したデジモン。身を守るものが強固になったことで警戒心は薄れ、臆することなく突っかかる性格に変化した。しかしまだまだ銅製の盾であるため突っかかりが過ぎると痛い目を見てしまう。必殺技は盾の鋭利な部分で相手を突く『カンカン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Kakkinmon"
+    },
+    {
+      "id": "ludo",
+      "name": "Ludomon",
+      "name_jp": "Ludomon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/ludo/frame1.gif",
+        "frame2": "sprites/ludo/frame2.gif"
+      },
+      "artwork": "sprites/ludo/artwork.jpg",
+      "lore": {
+        "en": "One of the 'Legend-Arms', who are capable of transforming themselves into weapons. It is the only one among the 'Legend-Arms' capable of transforming itself into a shield. It wields sturdy, steel shields on its head and on both arms, protecting it from attacks coming from any direction. As a Digimon made with protection in mind, there have been records of it protecting areas being targeted by theD-Brigade.Its Special Move is using theWall Rakeit wields on both arms to attack and defend. Not only that, Ludomon is also able to exhibit its defensive abilities at their maximum strength while it is transformed into a shield.Digimon Reference Book⇨ English自身を武器に変えることができる「Legend-Arms」の１体。「Legend-Arms」の中では唯一盾に自身を変える。頭と両手に固い鋼の盾を持ち、どこから攻撃を受けても身を守ることができる。防衛を目的としているデジモンで、「D-ブリガード」に狙われたエリアを守り切ったと記録が残っている。必殺技は防御と攻撃を担う両手の『ウォルレーキ』。さらにルドモン自身が盾の姿となった時に防御力は最大限に発揮される。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Ludomon"
+    },
+    {
+      "id": "espi",
+      "name": "Espimon",
+      "name_jp": "Espimon",
+      "name_ko": "에스피몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/espi/frame1.gif",
+        "frame2": "sprites/espi/frame2.gif"
+      },
+      "artwork": "sprites/espi/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that immediately flies in to investigate whenever it catches wind of gossip or suspicion circulating in theDigital World. It will boldly go undercover in order to find out the truth, even in places inhabited by dangerous Digimon. When it toggles its eyes toSearch Mode, it is able to clearly see objects several kilometers away. Also, it activates its \"Divanish\", which applies anoptical camouflageto its body, by pressing the switch on its abdomen, and blends in with its surroundings, allowing it to perform reconnaissance without being discovered. Its Signature Move is the self-propulsive, timed \"MotBomb\", which it uses according to the situation, such as attacking the enemy or making a decoy. Rumor has it that theCrack Teammeasures their cracking ability by controlling Espimon, but it is unclear whether this is true or not.Digimon Reference Book⇨ Englishデジタルワールドに流れる噂話や疑惑をキャッチすると、すぐさま調査に飛んでいくサイボーグ型デジモン。たとえ危険なデジモンが生息している場所でも真相を掴むために果敢に潜入する。眼をサーチモードに切り替えると数キロメートル先の物体もしっかり視認できる。また腹部のスイッチを押すことで体に光学迷彩を施す『ダイバニッシュ』を発動し、風景と同化することで発見されずに偵察を行うことができる。得意技は、自走する時限式爆弾『モットボム』で、敵を攻撃したり、囮にするなど状況に合わせて使用する。噂では、あるクラックチームがエスピモンのコントロールを通してクラッキング技量を測ると言われているが真偽のほどは不明である。デジモン図鑑",
+        "ko": "디지털 월드 에 떠도는 소문이나 의혹을 캐치하면, 곧바로 조사하러 날아가는 사이보그형 디지몬. 비록 위험한 디지몬이 서식하고 있는 곳이라도 진상을 파악하기 위해 과감히 잠입한다. 눈을 '서치 모드'로 전환하면 수 km 앞의 물체도 확실히 눈으로 확인할 수 있다. 또, 복부의 스위치를 누름으로써 몸에 광학위장 을 입히는 \"다이배니쉬\"를 발동하여, 풍경과 동화됨으로써 발견되지 않고 정찰을 할 수 있다. 특기는 자력으로 움직이는 시한 폭탄 \" 모트 봄\"으로 적을 공격하거나, 미끼로 하는 등 상황에 맞게 사용한다. 소문으로는, 크랙 팀 이 에스피몬의 컨트롤을 통해 크래킹 기량을 측정하는 것으로 알려져있으나 진위 여부는 불분명하다."
+      },
+      "wikimon_url": "https://wikimon.net/Espimon"
+    },
+    {
+      "id": "tialudo",
+      "name": "Tia Ludomon",
+      "name_jp": "Tia Ludomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/tialudo/frame1.gif",
+        "frame2": "sprites/tialudo/frame2.gif"
+      },
+      "artwork": "sprites/tialudo/artwork.jpg",
+      "lore": {
+        "en": "The evolved form ofLudomon, it has grown even more durable and attained outstanding speed. It dashes at high speed across battlefields, rescuing straggling Digimon who are no longer able to fight. It is capable of transforming itself into a shield to be wielded to aid in escaping the battlefield, protecting its wielder from any attack that comes their way. Tia Ludomon's shields have magical properties that allow it to erect barriers of ice, which freeze and nullify opponent attacks.Its Special Moves are throwing the shields on its arms (Frisbicker), and charging at high speed and attacking with its claws (Assault Claw).Digimon Reference Book⇨ Englishルドモンがさらに頑丈になり、優れた俊足を得て進化した姿。高速で突っ走り、戦地に取り残された戦うことのできないデジモンの救助を行う。戦地から離脱するために自身を盾に変えて持たせることで、どんな攻撃が向かってきても保護対象を守り抜く。ティアルドモンの盾には氷の結界を張ることができる魔法の盾となっており、敵からの攻撃を凍らせて無力化する。必殺技は、腕のシールドを投擲する『フリスビッカー』、高速移動から爪で攻撃を加える『アサルトクロー』を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tia_Ludomon"
+    },
+    {
+      "id": "hoverespi",
+      "name": "Hover Espimon",
+      "name_jp": "Hover Espimon",
+      "name_ko": "호버에스피몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/hoverespi/frame1.gif",
+        "frame2": "sprites/hoverespi/frame2.gif"
+      },
+      "artwork": "sprites/hoverespi/artwork.jpg",
+      "lore": {
+        "en": "Having succeeded in multiple investigations,Espimonhas become highly mobilized so that it can obtain more accurate information. It can now navigate over long distances, fly, and dive, and its field of activity extends to the depths of the \"Net Ocean\" and altitudes of up to 20,000m, making it possible for it to investigate hidden Digimon. Its \"Divanish\"optical camouflagehas also been updated. It masks the sounds it makes along with its appearance, and is capable of infiltrating or causing a disturbance without being noticed, even when maneuvering at high speeds. Thanks to theVR Goggleson its brow, the target's movements several seconds into the future are predictively displayed, allowing it to act with precision.Its Special Moves include \"Stamper Missile\", in which it fires missiles from its two rear launchers, \"Breast Cannon\", in which it shoots thevulcancannons on its breast, and \"Doronger\", in which it spreads a smokescreen from both its hands to hide its allies; it has prepared techniques suited forreconnaissance-in-force. Also, it is rumored to be used by theCrack Teamfor intelligence operations in various locations.Digimon Reference Book⇨ English多数の調査を成功させたエスピモンがより精度の高い情報を得るために高機動化。長距離の航行、飛行、潜行が可能となり、行動範囲は「ネットの海」の深部や高度20,000ｍまでにも及び、隠匿されたデジモンも調査可能となった。光学迷彩『ダイバニッシュ』もアップデート。姿と共に音も消し、高速機動時でも気付かれずに潜入や攪乱が可能。額のVRゴーグルにより、数秒先のターゲットの動きが予測表示され的確に行動できる。必殺技は、後部2基のランチャーからミサイルを発射する『スタンパーミサイル』をはじめ、胸からバルカン砲を撃つ『ブレストキャノン』、さらに両手から煙幕を張って味方も隠す『ドロンガー』など、強行偵察向きの技を揃える。また、クラックチームによって各地の諜報作戦に用いられていると噂されている。デジモン図鑑",
+        "ko": "다수의 조사를 성공시킨 에스피몬 이 보다 정밀도가 높은 정보를 얻기 위해서 고기동화. 장거리 항행, 비행, 잠행이 가능해져, 행동 범위는 '넷의 바다'의 심부나 고도 20,000m까지에 이르며, 은닉된 디지몬도 조사가 가능해졌다. 광학위장 \"다이배니쉬\"도 업데이트. 모습과 함께 소리도 지워, 고속 기동 시에도 들키지 않고 잠입이나 교란이 가능. 이마의 ' VR 고글 '을 통해, 수 초 앞의 타겟의 움직임이 예측 표시되어 적확하게 [1] 행동할 수 있다. 필살기는 후방 2기의 런처로부터 미사일을 발사하는 \"스탬퍼 미사일\"을 비롯해, 가슴에서 벌컨포 를 쏘는 \"브레스트 캐논\", 그리고 양손으로 연막을 치고 아군도 가리는 \"도론거 [2] \" 등, 강행정찰용 기술을 갖췄다. 또, 크랙 팀 에 의해 각지의 첩보작전에 이용되고 있는 것으로 알려져있다."
+      },
+      "wikimon_url": "https://wikimon.net/Hover_Espimon"
+    },
+    {
+      "id": "reppa",
+      "name": "Reppamon",
+      "name_jp": "Reppamon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/reppa/frame1.gif",
+        "frame2": "sprites/reppa/frame2.gif"
+      },
+      "artwork": "sprites/reppa/artwork.jpg",
+      "lore": {
+        "en": "Akamaitachi-like Digimon whose tail has become a blade. There is a will in the blade on its tail, and it has become possible for it to cope even with attacks that surprise it from behind. However, it isn't suited for mutual communication, and it has been seen quarreling with its tail in the middle of battle. It prefers to fight within forests, and it skillfully employs its claws and tail to easily climb trees, so close attention is necessary when fighting Reppamon in the forest. Its Special Moves are striking during a forward somersault (Kurukuru Rekkūzan), and wildly ripping apart the opponent with its sharp claws (Jūga Rangeki). Also, when it shakes its tail, it releases its \"Shinkū Kamaitachi\", a blade of wind that can't be seen by the eye, so it is a Digimon that you can't drop your guard around.Digimon Reference Book⇨ English尻尾が刃になっている鎌鼬（カマイタチ）の様なデジモン。尻尾の刃自身に意思があり、背後からの不意をついた攻撃にも対処できるようになっている。しかし意思の疎通が合わず戦いの最中に尻尾とケンカをしている姿も目撃されている。森の中での戦闘を好み、爪と尻尾を上手く使い木々を軽々と駆け登るため、森の中でレッパモンと戦うのは細心の注意が必要とされる。必殺技は、前転しながら突撃する『駆駆裂空斬（くるくるれっくうざん）』と、鋭い爪で相手を乱れ裂く『獣牙乱撃（じゅうがらんげき）』。また、尻尾を振った時には、目には見えない風の刃『真空カマイタチ』を放つので油断できないデジモンである。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Reppamon"
+    },
+    {
+      "id": "blacktail_u",
+      "name": "Black Tailmon Uver.",
+      "name_jp": "",
+      "name_ko": "블랙가트몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A form thatBlack Tailmontransformed into by absorbing large amounts ofcourier servicedata that flowed into theDigital Worldin recent years. Its mean personality has completely gone, and it delivers ordered packages with full dedication, whatever the day. It is often seen delivering things while clinging to the back ofPistmon, who it is on good terms with. The delivery bag on its back is capable of keeping anything warm or cool in optimal condition, and since it can only be opened and closed by Black Tailmon, it is safe even for confidential data.It eliminates Digimon that get in the way of its deliveries with its Signature Move \"Neko Punch\", or \"Bakōnya\", in which it hits them with the corner of its delivery bag that it swings down. Even if it deals a great amount of damage to the enemy with \"Bakōnya\", its delivery bag is so durable that its contents will remain completely intact.Digimon Reference Book⇨ Englishデジタルワールドに近年大量に流れ込んできた宅配便のデータをブラックテイルモンが吸収したことで変化した姿。意地の悪い性格はまったく無くなり、頼まれた配達物をどんな日でも献身的にしっかりお届けする。仲が良いピストモンの背中に掴まって配達している様子もよく見かけられている。背中の配達バッグは保温保冷なんでも最適な状態を保つことができ、またブラックテイルモンにしか開閉できないため機密データでも安心だ。配達の邪魔をするデジモンには得意技の『ネコパンチ』や、振り下ろした配達バッグの角でぶつける『バコーニャ』で排除する。『バコーニャ』で敵に大ダメージを与えても配達バッグは中身も無傷でとても丈夫だ。デジモン図鑑",
+        "ko": "새까만 털이 인상적인 바이러스종의 가트몬 . 완전한 악의 아이로 불길하게 어둠을 떠돌아다니며 살고 있다. 가트몬의 변종인 블랙가트몬이 태어나는 것은 매우 드물고, 그 개체 수는 매우 적다고 알려져 있으며, 성격은 심술맞으며 자존심이 세고 약한자를 괴롭히는걸 좋아하는 곤란한 디지몬이다. 기본적으로는 타락천사형의 디지몬으로 진화하는 암흑계 디지몬. 필살기는 가트몬과 같은 \"고양이 펀치\". 2."
+      },
+      "wikimon_url": "https://wikimon.net/Black_Tailmon_Uver."
+    },
+    {
+      "id": "raijiludo",
+      "name": "Raiji Ludomon",
+      "name_jp": "Raiji Ludomon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/raijiludo/frame1.gif",
+        "frame2": "sprites/raijiludo/frame2.gif"
+      },
+      "artwork": "sprites/raijiludo/artwork.jpg",
+      "lore": {
+        "en": "The evolved form ofTia Ludomon, it has been further mechanised and attained the ability to fly. By sacrificing its agility, it gained durability that allows it to withstand even an attack from an Ultimate level head-on. The shields attached to its shoulders and arms automatically put up an electric barrier which cannot be seen, causing enemies to be confused as to why their attacks are not working. Not only that, it is also able to increase the area covered by its barrier in exchange for being unable to move, allowing it to protect entire regions to a certain extent.Its Special Moves are generating electricity at high output from its head and using it to strike the enemy (Lightning Buster), and firing its (Rocket Messer) from both arms.Digimon Reference Book⇨ English機械化の要素が強まり飛行能力を手にしたティアルドモンの進化系。俊敏さは犠牲になったものの、究極体からの攻撃を一辺に受けても耐えきるほどの強固さを誇る。肩と腕に装着した盾で電気を帯びたバリアが自動展開される。そのバリアは視認することができず、敵はなぜ攻撃が効かないのか困惑する。また身動きは取れなくなるがバリアを広範囲に広げ、ある程度の地域をまるごと守ることもできる。必殺技は、頭から放つ高出力電撃を敵に叩き込む『ライトニングバスター』、両腕を射出する『ロケットメッサー』を持つ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Raiji_Ludomon"
+    },
+    {
+      "id": "digitama",
+      "name": "Digitamamon",
+      "name_jp": "Digitamamon",
+      "name_ko": "디지타몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/digitama/frame1.gif",
+        "frame2": "sprites/digitama/frame2.gif"
+      },
+      "artwork": "sprites/digitama/artwork.jpg",
+      "lore": {
+        "en": "The ultimate Digimon which has the appearance of a \"Digitama\", the beginning and end of all Digimon. It is said that Digitamamon, who is at the apex of evolution, will not evolve from normal Digimon, and will never evolve unless it fuses with data from another dimension. It is covered in an egg-shaped exoskeleton that renders all attacks meaningless. Its Special Moves are destroying the enemy's spirit (Enigma) and an orb of darkness (Nightmare Syndrome). All Digimon who suffer these attacks have their vital functions brought to a halt.Digimon Reference Book⇨ Englishすべてのデジモンの始まりであり、終わりである“デジタマ”の姿をした究極のデジモン。進化の頂点にいるこのデジタマモンは通常のデジモンからは進化することは無く、別次元のデータと融合しないと決して進化することは無いと言われている。タマゴのような形をした外骨格に覆われており、この外骨格の前には全ての攻撃が無意味と化す。必殺技は敵の精神を破壊してしまう『エニグマ』と暗黒の球体『ナイトメアシンドローム』。これらの攻撃を受けると、すべてのデジモンは生命活動を停止してしまう。デジモン図鑑",
+        "ko": "모든 디지몬의 시작이자 끝인 \" 디지타마 \"의 모습을 한 궁극의 디지몬 . 진화의 정점 에 있는 이 디지타몬은 통상의 디지몬에서는 진화하는 일은 없고, 다른 차원의 데이터와 융합하지 않으면 결코 진화하는 일은 없다고 알려져 있다. 달걀처럼 생긴 외골격으로 덮여 있어 이 외골격 앞에는 모든 공격이 무의미해진다. 필살기는 적의 정신을 파괴해 버리는 ‘에니그마 [7] ’와 암흑의 구체 ‘나이트메어 신드롬 [8] ’. 이 공격들을 받는 모든 디지몬은 생명활동을 정지해 버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Digitamamon"
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolomon",
+      "name_jp": "Piccolomon",
+      "name_ko": "피콜몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "6",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/piccolo/frame1.gif",
+        "frame2": "sprites/piccolo/frame2.gif"
+      },
+      "artwork": "sprites/piccolo/artwork.jpg",
+      "lore": {
+        "en": "A Fairy Digimon that is fluent in magic. It can recite the advanced programming language of another dimension, allowing it to create miracles that seem like magic. This mysterious Digimon is able to pop up in any place, time, and space; despite its small size, it can seal away the enemy's abilities with its own special ability, and then pulverize the opponent with a mighty blow. With its mischief-loving personality, it enjoys making computers run wild with its cherished spear, \"Fairy Tale\", that it always holds in its hands (although it has no ill intent). Its Special Move is a super-powerful bomb packed with computer viruses (Bit Bomb). Despite its appearance, it uses terrifying attacks.Digimon Reference Book⇨ English魔法を操る妖精デジモン。別次元の高度なプログラム言語を唱え、魔法の様な奇蹟を起こす事ができる。この不思議なデジモンはあらゆる場所、時間、空間に出現することができ、体は小さいが、その特殊な能力で敵の能力を封じ込め、強力な一撃で相手を粉砕する。いたずらが大好きな性格で、いつも手に持っている愛用の槍「フェアリーテイル」でコンピュータを暴走させて楽しんでいる（本人に悪気は無い）。必殺技はコンピュータウィルスを凝縮させた超強力な爆弾『ビットボム』。見かけによらず、恐ろしい攻撃をする。デジモン図鑑",
+        "ko": "마법 을 사용하는 요정형 디지몬. 다른 차원의 고도의 프로그램 언어를 읊어 마법같은 기적을 일으킬 수 있다. 이 불가사의한 디지몬은 모든 장소, 시간, 공간에 출현할 수 있고 몸은 작지만 그 특수한 능력으로 적의 능력을 봉쇄한 뒤 강력한 일격으로 상대를 분쇄한다. 장난을 좋아하는 성격이라 항상 손에 들고 다니면서 애용하는 창인 '페어리 테일'로 컴퓨터를 폭주시켜 즐거워한다. 물론 본인에게 악의는 없다. 필살기는 컴퓨터 바이러스를 응축시킨 초강력 폭탄 \"비트 봄\" [1] . 겉보기완 달리 무시무시한 공격을 해댄다."
+      },
+      "wikimon_url": "https://wikimon.net/Piccolomon"
+    },
+    {
+      "id": "rarerare",
+      "name": "Rare Raremon",
+      "name_jp": "Rare Raremon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/rarerare/frame1.gif",
+        "frame2": "sprites/rarerare/frame2.gif"
+      },
+      "artwork": "sprites/rarerare/artwork.jpg",
+      "lore": {
+        "en": "The Perfect form ofRaremon, who survived the progressive decay of its body through further mechanization, and took on a bizarre appearance. Its body repeatedly breaks down and reconstitutes itself, and eyes and mouths keep emerging and decaying. The foul stench it gives off from its entire body has increased so much that even Ultimates have difficulty approaching it. Because it consumes energy to keep its body intact, it supplies itself with energy by dissolving enemies with its \"Digest\", in which it swallows them whole via the mouth on its head. In addition, it spews toxic \"Decayson\" gas from the many mouths that have formed, and enemies that inhale it will die instantly.Digimon Reference Book⇨ English進行する体の腐食をさらなる機械化で生命を留め、異様な姿となったレアモンの完全体。体が崩壊と形成を繰り返し、目や口が生まれては朽ちていく。全身からの悪臭はさらに増し、究極体でも近寄りがたいほどだ。体の維持にエネルギーを使うため、頭の口から敵を丸飲みする『ダイジェス』で敵を溶解しエネルギーを補う。さらに、形成したいくつもの口から毒ガス『ディケイズン』を吐き、吸い込んだ敵は一瞬にして絶命する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rare_Raremon"
+    },
+    {
+      "id": "manticore",
+      "name": "Manticoremon",
+      "name_jp": "Manticoremon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/manticore/frame1.gif",
+        "frame2": "sprites/manticore/frame2.gif"
+      },
+      "artwork": "sprites/manticore/artwork.jpg",
+      "lore": {
+        "en": "A ferocious Demon Beast Digimon that prefers theDigicoresof Virus Digimon. It is employed by Angel-species Digimon, who noticed its fixation on fiendish viruses. It lacks intelligence and reason, and its sole raison d'être is simply to crave for and consume the data of others.Its Special Moves are firing energy shots from the three mouths on its head and arms (Trinity Gospel), and skewering the enemy with its three tails and injecting a strong acid into their body (Acid Injection). There are times when even the Angel-species Digimon that employed Manticoremon are unable to control it due to the extreme brutality it displays during battle.Digimon Reference Book⇨ Englishウィルス種デジモンのデジコアが好物という獰猛な魔獣型デジモン。その悪魔的ともいえるウィルスへの執着に目を付けられ、天使系デジモンに使役されている。知性や理性といったものはなく、他者のデータを貪り喰らうことだけが、ただ一つの存在理由だ。必殺技は頭部と両腕にある計３つの口から放つエネルギー弾「トリニティゴスペル」と、３つの尻尾で敵を串刺しにし強酸を体内に流し込む「アシッドインジェクション」。戦闘中に見せるあまりの凶暴さに、使役する側の天使系デジモンでも手に負えないことがある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Manticoremon"
+    },
+    {
+      "id": "bryweludra",
+      "name": "Bryweludramon",
+      "name_jp": "Bryweludramon",
+      "name_ko": "브리웨루드라몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "15",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/bryweludra/frame1.gif",
+        "frame2": "sprites/bryweludra/frame2.gif"
+      },
+      "artwork": "sprites/bryweludra/artwork.jpg",
+      "lore": {
+        "en": "An UltimateLegend-Armsshield Digimon, virtually all of its body is comprised of shields and has taken the form of a dragon. By attaining the data of \"Legendary Shields\" from mythology and video games, it evolved to become a shield with absolute hardness that cannot be scratched by any attack. While appearance-wise it seems to be made fromRed Digizoid, the extent of its hardness cannot be analyzed. Bryweludramon has two standaloneAIunits, \"Gause\" and \"Fay\", which allow it to see in all directions. \"Gause\" and \"Fay\" also possess barriers made from flames, and are able to extend the range of their barriers to cover even Bryweludramon. Because \"Gause\" and \"Fay\" are capable of acting independently of Bryweludramon no matter how far they are separated, it is said that they are even capable of covering the entire world with their barriers. Although Bryweludramon may be the strongest shield, it seems that its barriers have been broken and bested by its nemesis,Durandamon.Its Special Moves are unleashing a blaze from its flaming wings (Guren Storm), and detaching its wings to put up a barrier of flame while charging towards the enemy (Blast Smash). Transformation is the most valuable asset of a Legend-Arms; should one wield Bryweludramon while it is transformed into a shield, no enemy would be willing to keep up their assault.Digimon Reference Book⇨ Englishほぼ身体が盾で形成され、ドラゴンの姿となった「Legend-Arms」盾デジモンの究極体。神話やゲームからなる『伝説の盾』のデータを得て、どんな攻撃をも傷がつかない最強硬度の盾に進化している。見た目はレッドデジゾイド製に見えるが、その硬質は解析不能である。ブリウエルドラモンには「ゴース」と「フェイ」という２体の自立型ＡＩが全方位の視覚を担っている。この「ゴース」「フェイ」も炎のバリアを持ち、バリアの範囲はブリウエルドラモンまで拡げることができる。「ゴース」「フェイ」はどこまで遠くても活動ができるため、世界全てをバリアで包むことも可能と言われる。最強の盾であるブリウエルドラモンだが、宿敵デュランダモンにバリアを打ち破られ圧倒されたことがあるらしい。必殺技は、炎の翼から烈火を放つ『グレンストーム』と、翼を分離し炎のバリアを展開しながら敵に突撃する『ブラストスマッシュ』がある。「Legend-Arms」の真価である盾に変わったブリウエルドラモンを持てば、どんな敵も攻撃を諦めるという。デジモン図鑑",
+        "ko": "신체 대부분이 방패로 형성되고, 드래곤의 모습이 된 「 Legend-Arms 」 방패 디지몬의 궁극체. 신화와 게임에서 나오는 『전설의 방패』의 데이터를 얻어, 어떤 공격에도 흠집 하나 나지 않는 최강 경도의 방패로 진화했다. 겉보기엔 레드디지조이드 재질로 보이지만, 그 경질은 해석불능이다. 「고오스」와 「페이」라는 2체의 자립형 AI가 전방위의 시각을 담당하고 있다. 이 「고오스」와 「페이」도 불꽃의 베리어를 지녀, 베리어의 범위는 브리웨루도라몬까지 펼칠 수 있다. 「고오스」와 「페이」는 어디까지고 떨어져 있더라도 활동이 가능하여, 세계 전부를 베리어로 감싸는 것도 가능하다 전해진다. 최강의 방패인 브리웨루드라몬이지만, 숙적인 듀란다몬 에게 베리어가 격파당해 압도당한 적이 있는 듯 하다. 필살기는 불꽃의 날개에서 열화를 방출하는 『그렌 스톰』과, 날개를 분리하여 불꽃의 베리어를 전개한 채 적에게 돌격하는 『블래스트 스매시』가 있다. 「Legend-Arms」의 진가인 방패로 변화한 브리웨루드라몬만 들고 있다면, 어떤 적이라도 공격을 단념하고 만다."
+      },
+      "wikimon_url": "https://wikimon.net/Bryweludramon"
+    },
+    {
+      "id": "death_b",
+      "name": "Deathmon (Black)",
+      "name_jp": "Deathmon (Black)",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/death_b/frame1.gif",
+        "frame2": "sprites/death_b/frame2.gif"
+      },
+      "artwork": "sprites/death_b/artwork.jpg",
+      "lore": {
+        "en": "LikeDemonit was originally a high-ranking Angel Digimon, but it fell to theDark Areaand is now one of the Demon Lord Digimon. Even though it is a Demon Lord Digimon, it is different from other Fallen Angel and Devil Digimon in that it does not run the whole gamut of wickedness, but instead does its utmost to carefully maintain a position of neutrality. However, it is a terrifying Digimon, and it is told that at the time of the approaching final battle, that whitened appearance will change to jet-black darkness, and it will transform into a god of destruction. Its Special Moves are an arrow of death fired from theevil eyeson its hands (Death Arrow), and a laser beam fired when the eye in its head shines deep crimson (Explosion Eye).Deathmon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Mr. Takahiro Ino fromYamagata prefecture.Digimon Reference Book⇨ English元々はデーモンと同じく高位天使型デジモンだったが、ダークエリアに堕とされた魔王型デジモンの１人。魔王型デジモンといっても、他の堕天使型デジモンや悪魔型デジモンと違い、悪行の限りを尽くすのではなく、あくまでも中立の立場を守り静観している。しかし、来るべき決戦のときにその白い姿を漆黒の闇色に変え、破壊神に変貌すると伝えられている恐ろしいデジモンである。必殺技は両手の邪眼から発射される死の矢『デスアロー』と、頭部の単眼が深紅に輝いたときに発射される破壊光線『エクスプロージョンアイ』。※デスモンは「デジモンウェブドット絵コンテスト」で山形県「猪野貴裕」さんのデジモンが入賞し採用されたものです。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Deathmon_(Black)"
+    },
+    {
+      "id": "devitama",
+      "name": "Devitamamon",
+      "name_jp": "Devitamamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "10",
+        "ap": "8"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/devitama/frame1.gif",
+        "frame2": "sprites/devitama/frame2.gif"
+      },
+      "artwork": "sprites/devitama/artwork.jpg",
+      "lore": {
+        "en": "A Mutation-type Ultimate Digimon that is said to haveDark EvolvedfromDigitamamon. Although defining \"Evil\" in theDigital Worldis very difficult, Devitamamon is a being like \"Pandora's box\", filled with all the evils of this world. It turns everything it sees and touches into an object of its hatred, and recites and masters magic through a lost, ancienthigh-level programming language. As for its magic effects, they are used for nothing but \"Destruction\". Its Special Move is spewing a dark gas that deprives the opponent of their sight, gnaws away at their spirit, and then digitally decomposes them from the surface of their body (Black Death Cloud).It was adopted from a winning Digimon entry in the \"Bandai-Town FAX Service Digimon Illustration Contest\" which belonged to Mr. Kazuma Kanai fromSaitama prefecture.Digimon Reference Book⇨ Englishデジタマモンが暗黒進化したと言われる突然変異型の究極体デジモン。デジタルワールドにおける“邪悪”の定義は、非常に難しいものがあるが、このデビタマモンはこの世界の邪悪の全てを詰め込んだ「パンドラの箱」のような存在である。見るもの触れるもの全てを憎悪の対象とし、失われた古代の高等プログラム言語による魔法を詠唱し使いこなす。その魔法効果は「破壊」以外に使われることはない。必殺技は、相手の視界を奪い精神を蝕み、そして体表面からデジタル分解していく暗黒のガスを吐く『ブラックデスクラウド』。 ※バンダイタウンFAXサービスデジモンイラストコンテストで埼玉県の「金井一真」さんのデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Devitamamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "kakkin",
+      "to": "ludo",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "kakkin",
+      "to": "espi",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ludo",
+      "to": "tialudo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "espi",
+      "to": "hoverespi",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ludo",
+      "to": "reppa",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "espi",
+      "to": "reppa",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ludo",
+      "to": "blacktail_u",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "espi",
+      "to": "blacktail_u",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tialudo",
+      "to": "raijiludo",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "raijiludo",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "to": "digitama",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "to": "piccolo",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tialudo",
+      "to": "rarerare",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "rarerare",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "tialudo",
+      "to": "manticore",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "to": "manticore",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "manticore",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "raijiludo",
+      "to": "bryweludra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "piccolo",
+      "to": "bryweludra",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "death_b",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rarerare",
+      "to": "death_b",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "manticore",
+      "to": "death_b",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "raijiludo",
+      "to": "devitama",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "devitama",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "piccolo",
+      "to": "devitama",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rarerare",
+      "to": "devitama",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "manticore",
+      "to": "devitama",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "cotsuco",
+      "to": "kakkin",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "tialudo",
+      "to": "digitama",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "tialudo",
+      "to": "piccolo",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "to": "raijiludo",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "hoverespi",
+      "to": "rarerare",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "piccolo",
+      "conditions": {
+        "text": "Jogress with Data or Free Adult"
+      }
+    },
+    {
+      "from": "reppa",
+      "to": "digitama",
+      "conditions": {
+        "text": "Jogress with Virus Adult"
+      }
+    },
+    {
+      "from": "raijiludo",
+      "to": "death_b",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "blacktail_u",
+      "to": "raijiludo",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "bryweludra",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "blacktail_u",
+      "to": "digitama",
+      "conditions": {
+        "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "piccolo",
+      "to": "death_b",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "blacktail_u",
+      "to": "piccolo",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "rarerare",
+      "to": "bryweludra",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    },
+    {
+      "from": "blacktail_u",
+      "to": "rarerare",
+      "conditions": {
+        "text": "Jogress with Vaccine or Free Adult"
+      }
+    },
+    {
+      "from": "manticore",
+      "to": "bryweludra",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    },
+    {
+      "from": "blacktail_u",
+      "to": "manticore",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    }
+  ]
+}

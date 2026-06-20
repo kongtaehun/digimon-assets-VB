@@ -1,0 +1,63 @@
+{
+  "id": "spino",
+  "name": "Spinomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/spino.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/spino.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/spino.jpg",
+  "appearances": [
+    {
+      "dim_id": "gamma",
+      "dim_name": "Gammamon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "canoweiss",
+        "ghilliedhu",
+        "bomber"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Spinomon",
+    "name_en": "Spinomon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "6450",
+      "hp": "4900",
+      "ap": "1850"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "canoweiss",
+        "name": "Canoweissmon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "ghilliedhu",
+        "name": "Ghilliedhumon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "bomber",
+        "name": "Bombermon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

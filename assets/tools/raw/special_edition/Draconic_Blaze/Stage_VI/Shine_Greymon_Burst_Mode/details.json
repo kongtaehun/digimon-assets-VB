@@ -1,0 +1,52 @@
+{
+  "id": "shinegrey_b",
+  "name": "Shine Greymon: Burst Mode",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shinegrey_b.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shinegrey_b.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shinegrey_b.jpg",
+  "appearances": [
+    {
+      "dim_id": "dbl",
+      "dim_name": "Draconic Blaze",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "rizegrey"
+      ],
+      "requirements": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 11 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shine Greymon: Burst Mode",
+    "name_en": "ShineGreymon: Burst Mode",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "bp": "6000",
+      "hp": "6100",
+      "ap": "2100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "rizegrey",
+        "name": "Rize Greymon",
+        "conditions": "Stage 11 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}

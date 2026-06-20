@@ -1,0 +1,60 @@
+{
+  "id": "neferti",
+  "name": "Nefertimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/neferti.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/neferti.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/neferti.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Nefertimon",
+    "name_en": "Nefertimon",
+    "attribute": "Free",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Active",
+    "stats": {
+      "bp": "5700",
+      "hp": "3400",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "tail_c",
+        "name": "Tailmon (Child)",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "chimaira",
+        "name": "Chimairamon",
+        "conditions": "Stage 8 cleared, 12+ PP, 3,000+ Vital Values, 15+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "angewo",
+        "name": "Angewomon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

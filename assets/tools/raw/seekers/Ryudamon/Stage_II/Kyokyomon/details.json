@@ -1,0 +1,50 @@
+{
+  "id": "kyokyo",
+  "name": "Kyokyomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/kyokyo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/kyokyo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/kyokyo.jpg",
+  "appearances": [
+    {
+      "dim_id": "ryuda",
+      "dim_name": "Ryudamon",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Kyokyomon",
+    "name_en": "Kyokyomon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [
+      {
+        "id": "fufu",
+        "name": "Fufumon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ryuda",
+        "name": "Ryudamon",
+        "conditions": "5+ PP, 1,000+ Vital Values"
+      },
+      {
+        "id": "commandra",
+        "name": "Commandramon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

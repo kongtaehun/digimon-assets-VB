@@ -1,0 +1,67 @@
+{
+  "id": "hack",
+  "name": "Hackmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/hack.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/hack.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/hack.jpg",
+  "appearances": [
+    {
+      "dim_id": "dbl",
+      "dim_name": "Draconic Blaze",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "babyd"
+      ],
+      "requirements": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Hackmon",
+    "name_en": "Huckmon",
+    "attribute": "Data",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "5200",
+      "hp": "2950",
+      "ap": "1000"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "babyd",
+        "name": "Babydmon",
+        "conditions": "5+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "arresterdra",
+        "name": "Arresterdramon",
+        "conditions": "Stage 5 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "baohack",
+        "name": "Bao Hackmon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "coredra_b",
+        "name": "Coredramon (Blue)",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    ]
+  }
+}

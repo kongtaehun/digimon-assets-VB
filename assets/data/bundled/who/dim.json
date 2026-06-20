@@ -1,0 +1,783 @@
+{
+  "schema_version": "1.0",
+  "id": "who",
+  "name": "Wolf Howl",
+  "category": "bundled",
+  "device": "VBDM",
+  "release": "EN: July 2022 - Retail (Included with Vital Hero Digimon Blue)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_who.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "puni",
+      "name": "Punimon",
+      "name_jp": "Punimon",
+      "name_ko": "푸니몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/puni/frame1.gif",
+        "frame2": "sprites/puni/frame2.gif"
+      },
+      "artwork": "sprites/puni/artwork.jpg",
+      "lore": {
+        "en": "A new kind of newborn Digimon. Its gelatinous red body is squishy, and there are three feeler-like things growing on its head. It is unable to battle, but it can produce resilient, acidic bubbles to intimidate its opponents.Digimon Reference Book⇨ English生まれたての新種デジモン。ゲル状の赤い体はプニプニしていて、頭部には３つの触手のようなものが生えている。戦うことができず、酸性の強い泡をだして敵を威嚇する。デジモン図鑑",
+        "ko": "갓 태어난 신종 디지몬. 젤 과 같은 붉은 몸은 말랑말랑하고, 머리 부분에는 3개의 촉수와 같은 것이 나 있다. 싸우지 못하고, 산성의 강한 거품을 입으로 토해내 적을 위협한다."
+      },
+      "wikimon_url": "https://wikimon.net/Punimon"
+    },
+    {
+      "id": "tuno",
+      "name": "Tsunomon",
+      "name_jp": "Tunomon",
+      "name_ko": "뿔몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/tuno/frame1.gif",
+        "frame2": "sprites/tuno/frame2.gif"
+      },
+      "artwork": "sprites/tuno/artwork.jpg",
+      "lore": {
+        "en": "A tiny Digimon that hardened one of the feelers it had on its head asPunimon. It has evolved in a more animal-like direction from Punimon, and is covered in tufty body hair. It is still at the peak of playfulness, and it has a prank-loving personality, but its combat instinct has not awakened.Digimon Reference Book⇨ Englishプニモンの頭部の触手の１つが硬化した小型デジモン。プニモンから、より動物的進化をとげ、フサフサな体毛に覆われている。まだまだ遊びたい盛りで、いたずら好きな性格だが、闘争本能は目覚めていない。デジモン図鑑",
+        "ko": "푸니몬 의 머리에 난 촉수 중 하나가 단단해진 소형 디지몬. 푸니몬에서 보다 동물적 진화를 하여, 몸이 복슬복슬한 털에 싸여있다. 아직 잔뜩 놀고 싶어하는 성격이며, 장난꾸러기 같은 성격이지만, 전투 본능은 각성 되지 않았다."
+      },
+      "wikimon_url": "https://wikimon.net/Tsunomon"
+    },
+    {
+      "id": "gabu",
+      "name": "Gabumon",
+      "name_jp": "Gabumon",
+      "name_ko": "파피몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gabu/frame1.gif",
+        "frame2": "sprites/gabu/frame2.gif"
+      },
+      "artwork": "sprites/gabu/artwork.jpg",
+      "lore": {
+        "en": "Although it is covered by a fur pelt, it is clearly a Reptile Digimon. Due to its extremely timid and shy personality, it always gathers up the data thatGarurumonleaves behind and shapes it into a fur pelt to wear. That fur pelt of Garurumon, who is feared by other Digimon, thus plays a role in safeguarding and protecting Gabumon. When it is wearing the fur pelt, its personality does a complete 180° shift. Its Special Move is \"Petit Fire\".Digimon Reference Book⇨ English毛皮を被っているが、れっきとした爬虫類型デジモン。とても臆病で恥ずかしがりやな性格でいつもガルルモンが残していったデータをかき集めて毛皮状にしてかぶっている。他のデジモンから恐れられているガルルモンの毛皮をかぶっているため、身を守るための保護の役目もしている。毛皮をかぶると性格が１８０°変わってしまう。必殺技は『プチファイアー』。デジモン図鑑",
+        "ko": "모피를 감싸고 있지만 [10] , 엄연한 파충류형 디지몬. 굉장히 겁이 많고 부끄럼쟁이인 성격인 탓에 항상 가루몬 이 남긴 데이터를 모아 모피옷으로 만들어 입고 있다. 가루몬은 다른 디지몬들이 두려워하는 디지몬이기에, 몸을 지키는 보호의 역할도 하고있다. 모피를 쓰면 성격이 180도 변한다. 필살기는 쁘티 파이어. 디지몬 대도감 뿔몬 의 뿔 부분을 남겨 진화한 파충류형 디지몬. 부끄럼을 많이 타기 때문에 다른 디지몬에게 두려움을 받고 있는 가루몬이 남긴 데이터를 모아서 모피로 만들어 쓰고 있다. 그 모피를 쓰면 성격이 180도 변해서 강한 모습을 보인다. 필살기는 작은 불덩어리를 뿜어내는 '쁘띠 파이어'. 설정화"
+      },
+      "wikimon_url": "https://wikimon.net/Gabumon"
+    },
+    {
+      "id": "gabu_b",
+      "name": "Gabumon (Black)",
+      "name_jp": "Gabumon (Black)",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gabu_b/frame1.gif",
+        "frame2": "sprites/gabu_b/frame2.gif"
+      },
+      "artwork": "sprites/gabu_b/artwork.jpg",
+      "lore": {
+        "en": "A Gabumon who evolved to a Virus-species. The fur pelt it wears was made by gathering up the data of aviral Garurumon. Although it is violent, it turns cowardly and timid when its pelt is removed, just like theVaccine-species, and its true face is still a secret. Its Special Move is spitting out a small fireball (Petit Fire).Digimon Reference Book⇨ Englishウィルス種に進化したガブモン。かぶっている毛皮はウィルス種のガルルモンのデータを集めてつくったようだ。暴れん坊だが、毛皮をぬぐと内気で臆病になるところはワクチン種と同じで、素顔はやはり秘密。必殺技は小さな火の玉を吐き出す『プチファイアー』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gabumon_(Black)"
+    },
+    {
+      "id": "garuru",
+      "name": "Garurumon",
+      "name_jp": "Garurumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/garuru/frame1.gif",
+        "frame2": "sprites/garuru/frame2.gif"
+      },
+      "artwork": "sprites/garuru/artwork.jpg",
+      "lore": {
+        "en": "Covered in blue, white, and silver-colored fur, it is a Beast Digimon with an appearance resembling a wolf. That fur is as hard as \"Mithril\", which is said to be a legendary rare metal, and since the blades growing from the tips of its shoulders have sharp edges, anything that touches them is cut to pieces. As it possesses a furious combat instinct and muscles honed in freezing lands, as well as carnivore-like agility and the accuracy to reliably bring down its targets, it is a being feared by other Digimon. However, it is extremely intelligent, and it faithfully obeys those whom it recognizes as its master or leader. Its Special Move is blue, high-temperature flames spewed from its mouth (Fox Fire).Digimon Reference Book⇨ English青白銀色の毛皮に体を覆われた、狼のような姿をした獣型デジモン。その体毛は伝説のレアメタルと言われている「ミスリル」のように硬く、肩口から伸びているブレードは鋭い切れ味を持っており、触れるものを寸断してしまう。極寒の地で鍛えられた筋肉と激しい闘争本能を持ち、肉食獣のような敏捷性と標的を確実に仕留める正確さを持っており、他のデジモンからは恐れられている存在。しかし、知性が非常に高く、主人やリーダーと認めた者に対しては忠実に従う。必殺技は口から吐き出す高熱の青い炎『フォックスファイアー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Garurumon"
+    },
+    {
+      "id": "drimoge",
+      "name": "Drimogemon",
+      "name_jp": "Drimogemon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/drimoge/frame1.gif",
+        "frame2": "sprites/drimoge/frame2.gif"
+      },
+      "artwork": "sprites/drimoge/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that moves underground at high speeds with the gigantic drill attached to its snout. It is an extremely rare Digimon to come across because it is always digging deep underground. Although it has a meek, shy personality, it is fairly mischievous, and sometimes it takes the favoritebonesthatGarurumonhas buried underground and hides them in different locations. Its Special Moves are attacking the enemy with its gigantic drill (Drill Spin), and throwing the bone it stole from Garurumon (Crusher Bone).Digimon Reference Book⇨ English鼻先についた巨大なドリルで地中を高速に移動するデジモン。常に地中深くに潜っているため出会えることは非常に希なデジモンだ。おとなしく、恥ずかしがりやな性格だが、結構いたずら好きで、ガルルモンが地中に隠している好物の骨を別の所に隠してしまうこともある。必殺技は巨大なドリルで敵を攻撃する『ドリルスピン』と、ガルルモンから盗んだ骨を投げる『クラッシャーボーン』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Drimogemon"
+    },
+    {
+      "id": "dorulu",
+      "name": "Dorulumon",
+      "name_jp": "Dorulumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/dorulu/frame1.gif",
+        "frame2": "sprites/dorulu/frame2.gif"
+      },
+      "artwork": "sprites/dorulu/artwork.jpg",
+      "lore": {
+        "en": "A faithful Beast Digimon with a chivalrous spirit. It usually sticks to rocky, mountainous areas, and often acts alone without flocking with others.The drill on its head is a hardened portion of its hairs, and its \"Drill Buster\", which rapidly spins the drill and then shoots it, boasts unerring accuracy. It specializes in using \"Hit and Away\" tactics as its strategy, where it runs around while on land at high speed to confuse the opponent before inflicting a single blow.Its \"Dorulu Tornado\", which enlarges the drill on its tail and then raises a tornado, is a threat not only in ground combat but also to aerial Digimon, and since Dorulumon can cope against both ground-based and aerial enemies, it can certainly be said to be anall-rounderwarrior. Furthermore, its \"Drill Blader\", a risky move in which it rides the drill of its tail and spins itself, striking the opponent with its body, doesn't stop until it pulverizes the opponent.Also, Dorulumon is able to fire its \"Dorulu Cannon\" in collaboration with another Digimon by changing into its \"Bombardment Mode\".Digimon Reference Book⇨ English義侠心に厚い獣型デジモン。主に岩だらけの山岳地で、群れることなく単体で行動する事が多い。頭のドリルは頭髪の一部が硬質化したもので、高速回転させて撃ち出す「ドリルバスター」は百発百中の精度を誇る。地上を高速で走り回って敵を攪乱し一撃を与えるヒット・アンド・アウェイ戦法を得意の戦術としている。地上戦だけでなく、尻尾のドリルを巨大化させて竜巻を起こす「ドルルトルネード」は空を飛ぶデジモンにも脅威となり、対地対空を問わず対応できるドルルモンは正にオールラウンダーの戦士と言える。　さらに、尻尾のドリルに乗って自ら回転して突撃する捨て身の大技「ドリルブレーダー」は敵を粉砕するまで止まることはない。また、ドルルモンは『砲撃形態』になることで他のデジモンと協力してドルルキャノンを発射することができる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Dorulumon"
+    },
+    {
+      "id": "garuru_b",
+      "name": "Garurumon (Black)",
+      "name_jp": "Garurumon (Black)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/garuru_b/frame1.gif",
+        "frame2": "sprites/garuru_b/frame2.gif"
+      },
+      "artwork": "sprites/garuru_b/artwork.jpg",
+      "lore": {
+        "en": "A Virus attributeGarurumon. The blades extending from its shoulders are so sharp that they slice apart anything they touch. It loves collecting bones and burying them in the ground, though there appear to have been cases of these bones being quietly stolen away by prank-lovingDrimogemon. Its Special Move is breathing blue, high-temperature flames from its mouth (Foxfire).Digimon Reference Book⇨ Englishウィルス種のガルルモン。肩から伸びているブレードは、触れるものは全てを切り裂くほど強烈。ホネを集めるのが好きで地中に埋めているが、イタズラ好きのドリモゲモンにコッソリ持って行かれることもあるらしい。必殺技は、口から吐く高熱の青い炎『フォックスファイアー』デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Garurumon_(Black)"
+    },
+    {
+      "id": "weregaruru",
+      "name": "Were Garurumon",
+      "name_jp": "Were Garurumon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/weregaruru/frame1.gif",
+        "frame2": "sprites/weregaruru/frame2.gif"
+      },
+      "artwork": "sprites/weregaruru/artwork.jpg",
+      "lore": {
+        "en": "A Beast Man Digimon that evolved fromGarurumonand gained the ability to walk on two legs. Its speed dropped as a result of turning bipedal, but it became a Commando Type Digimon with stronger offensive and defensive power, as well as developed a tactical nature. Its kicking techniques, which it unleashes using the leg strength it retained from when it was a Garurumon, are quite strong, and its jumping ability contends for first or second place among Digimon. Also, it is fiercely loyal and has a reliable nature, faithfully executing any task ordered by its master. Its Special Move is cutting the opponent to pieces with the sharp claws on both of its hands (Kaiser Nail).Digimon Reference Book⇨ Englishガルルモンが進化して二足歩行が出来るようになった獣人型デジモン。二足歩行になることでスピードは失ってしまったが、より強い攻撃力と防御力、さらに戦術性を身につけたコマンドータイプのデジモンでもある。ガルルモン譲りの脚力から繰り出されるキック技は強烈で、ジャンプ力もデジモンの中では１・２を争うほど。また、信義にあつく、主人の命令ならば任務を忠実に遂行する頼もしい性格。必殺技は両腕の鋭い鍵爪で相手を切り裂く『カイザーネイル』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Were_Garurumon"
+    },
+    {
+      "id": "panda",
+      "name": "Pandamon",
+      "name_jp": "Pandamon",
+      "name_ko": "팬더몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "12",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/panda/frame1.gif",
+        "frame2": "sprites/panda/frame2.gif"
+      },
+      "artwork": "sprites/panda/artwork.jpg",
+      "lore": {
+        "en": "A Puppet Digimon with the appearance of a panda. With its lack of expression and emotion, and blunt personality, it has no charm at all. Although it considers itself a lone wolf, it is thought that it is secretly jealous of the popularMonzaemondue to its similar appearance. However, since it is surprisingly powerful, meddlesome opponents will have the tables turned against them. Its population is small, so it is rarely seen. Its Special Move is attacking with the claws hidden within its paws (Animal Nail).Pandamon was adopted from a winning Digimon entry in the \"Digimon Web Dot-art Contest\" which belonged to Mr. Taiichirou Azuma fromMiyagi prefecture.Digimon Reference Book⇨ Englishパンダの姿をしたパペット型デジモン。無表情、無関心でぶっきらぼうな性格で、全然可愛げが無い。自分は一匹狼だと思っているが、同じ姿形で人気者の、もんざえモンが密かに羨ましいと思っている。しかし、以外に実力の持ち主で、ちょっかいを出してくる相手は返り討ちにしてしまう。個体数が少なく、見かけることも稀である。必殺技は手の内側に隠れている爪で攻撃する『アニマルネイル』。※パンダモンは「デジモンウェブドット絵コンテスト」で宮城県の「東泰一郎さん」のデジモンが入賞し、採用されたものです。デジモン図鑑",
+        "ko": "판다 모습을 한 퍼펫형 디지몬. 무표정, 무관심, 무뚝뚝한 성격으로 전혀 귀염성이 없다. 자신을 고독한 존재라고 생각하지만 같은 모습이면서 인기가 많은 퍼펫몬 을 몰래 부러워한다. 하지만 의외로 실력자이기에 쓸데없이 싸움을 거는 상대에게는 되갚아준다. 개체 수가 적어 좀처럼 볼 수 없다. 필살기는 손 안쪽에 숨겨진 손톱으로 공격하는 『애니멀 네일』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Pandamon"
+    },
+    {
+      "id": "jaegerdorulu",
+      "name": "Jaeger Dorulumon",
+      "name_jp": "Jaeger Dorulumon",
+      "name_ko": "예거도루루몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★7)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/jaegerdorulu/frame1.gif",
+        "frame2": "sprites/jaegerdorulu/frame2.gif"
+      },
+      "artwork": "sprites/jaegerdorulu/artwork.jpg",
+      "lore": {
+        "en": "An evolution ofDorulumonthat became able to walk on two legs. It has taken the appearance of a knight equipped with the gigantic, drill-shaped spear \"Sturm Stinger\" and its slash-and-defend dual-use \"Zasshu Shield\". Its ability for single-point penetration is the best, and because of this distinctive characteristic, it leads single-unit charges on its enemies to break open escape routes for those behind it to follow.Its Special Moves are piercing any enemy with theSturm Stinger(Weiß Spirale), and tearing them to pieces with theZasshu Shield(Schwarz Nagel).Digimon Reference Book⇨ English２足歩行が可能になったドルルモンの進化系。巨大なドリル状のスピア“シュツルムスティンガー”と、斬撃と防御を両用する “ザッシュシールド”を装備した騎士の姿となった。一点突破の威力は随一であり、その持ち味より単機吶喊（とっかん）し後続の仲間が続くための活路を貫き開く。必殺技はシュツルムスティンガーでどんな敵をも突き破る『ヴァイスシュピラーレ』と、ザッシュシールドで切り裂く『シュバルツナーゲル』。デジモン図鑑",
+        "ko": "이족보행이 가능하게 된 도루루몬 의 진화 계열 디지몬. 거대한 드릴 모양의 창 \"스투룸 스팅거\"와 참격과 방어용으로 사용하는 \"잣슈 실드\"를 장착한 기사의 모습이 되었다. 한 곳을 돌파하는 위력은 최고를 자랑하며, 이러한 특징을 살려 혼자 함성을 지르면서 뒤를 따르는 동료가 계속 나아갈 수 있도록 활로를 개척한다. 필살기는 스투룸 스팅거로 어떠한 적도 돌파하는 『바이스 슈피라레』와 잣슈 실드로 난도질하는 『슈발츠 나겔』이다."
+      },
+      "wikimon_url": "https://wikimon.net/Jaeger_Dorulumon"
+    },
+    {
+      "id": "weregaruru_b",
+      "name": "Were Garurumon (Black)",
+      "name_jp": "Were Garurumon (Black)",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/weregaruru_b/frame1.gif",
+        "frame2": "sprites/weregaruru_b/frame2.gif"
+      },
+      "artwork": "sprites/weregaruru_b/artwork.jpg",
+      "lore": {
+        "en": "A Digimon that evolved from a Virus attributeGarurumon. Its speed has fallen due to becoming bipedal, but it makes up for that with a powerful, newly-attained technique which utilizes both of its arms. Its Special Move is tearing the opponent apart with the sharp claws on its hands (Kaiser Nail).Digimon Reference Book⇨ Englishウィルス種のガルルモンから進化したデジモン。２本足になりスピードは落ちたが、その分強い攻撃力で両腕を使った技を身につけた。必殺技は、両腕のカギヅメで敵を切りさく「カイザーネイル」。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Were_Garurumon_(Black)"
+    },
+    {
+      "id": "metalgaruru",
+      "name": "Metal Garurumon",
+      "name_jp": "Metal Garurumon",
+      "name_ko": "메탈가루몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgaruru/frame1.gif",
+        "frame2": "sprites/metalgaruru/frame2.gif"
+      },
+      "artwork": "sprites/metalgaruru/artwork.jpg",
+      "lore": {
+        "en": "The final form ofGarurumon, powered up by metallizing almost its entire body. Not only has it retained its natural keenness when it underwent metallization, but it can also pulverize the opponent with the countless weapons concealed throughout its body. It radiates invisible lasers from the fourLaser Sightson the tip of its nose, and because it is able to analyze the targets before it using all of its sensors, such asinfrared raysandX-rays, it is impossible to escape Metal Garurumon even when among the darkness outside of its field of vision. Also, it can release beam-shaped wings from the arms extending from its back, allowing it to fly about theNet Spaceat extremely high speed. Its Special Move is spewing cold air atabsolute zerothat completely freezes everything (CocytusBreath). Anyone that suffers this attack has their vital functions instantly brought to a halt. In addition, it wipes out the opponent with its \"GaruruTomahawk\", in which it launches a gigantic missile called aFreeze Bomberfrom its chest, and \"Grace Cross Freezer\", in which it fires its weapons all at once.Digimon Reference Book⇨ Englishほぼ全身をメタル化することでパワーアップした、ガルルモンの最終形態。メタル化をしても持ち前の俊敏さは失っておらず、全身に隠されている無数の武器で敵を粉砕する。鼻先にある４つのレーザーサイトからは不可視のレーザーを照射しており、赤外線、Ｘ線などあらゆるセンサーを使って前方の対象物を分析することができるため、視界の届かない暗闇のなかでもメタルガルルモンから逃げることは不可能である。また、背部から伸びたアームからビーム状のウィングを放出して超高速でネット空間を飛び回ることができる。必殺技は全ての物を氷結させてしまう絶対零度の冷気を吐き出す『コキュートスブレス』。この攻撃を受けたものは瞬時に生命活動を停止してしまう。また胸部からフリーズボンバーと呼ばれる巨大なミサイルを発射する『ガルルトマホーク』、そしてメタルガルルモンの持つ武器を一斉発射する『グレイスクロスフリーザー』で敵を一掃する。デジモン図鑑",
+        "ko": "전신의 대부분을 메탈화 한 것으로 파워업한 가루몬의 최종형태. 메탈화하기 전에 가지고 있던 준민(俊敏)함을 잃지 않고 전신에 숨겨져 있는 수많은 무기로 적을 분쇄한다. 코끝에 있는 4개의 레이저사이트에서 불가시의 레이저를 조사하고, 적외선, X선등 모든 센서를 사용해 전방의 대상물을 분석할 수 있어서, 시야가 닿지 않는 어두운 곳에서도 메탈가루몬에게서 도망치는 것은 불가능하다. 또, 등뒤에 뻗어있는 암으로부터 빔 형상의 윙을 방출해 초고속으로 넷 공간을 날아다니는 것이 가능하다. 필살기는 모든 물체를 빙결시켜버리는 절대 영도의 냉기를 토하는 『코퀴토스 [3] 브레스 [4] 』. 이 공격을 받은 자는 순식간에 생명활동이 정지한다. 또 복부에서 프리즈 봄버라고 불리는 거대한 미사일을 발사하는 『가루루 토마호크 [5] 』, 메탈가루몬이 가진 무기를 일제히 발사하는 『그레이스 크로스 프리저 [6] 』로 적을 쓸어버린다. 디지몬 펜들럼 가루몬이 전신을 메탈화해서 파워업했다!! 날렵함이 건재한데다 빠른 속도로 하늘을 날 수도 있게 되었다. 절대 영도의 냉기 공격 \"코퀴토스 브레스\"는 공격당한 상대의 전신을 얼려버리는 무서운 기술이다!! 디지몬 배틀 크로니클 가루몬이 전신을 메탈화한 모습. 매우 빠르게 하늘을 날 수도 있다. 전신에 무기가 있고 코끝의 레이저 사이트로 어둠속에서도 적을 찾을 수 있다. 디지몬 월드 리디지타이즈 거의 전신을 메탈화함으로써 파워업, 전신에 숨겨져 있는 무수한 무기로 적을 분쇄한다. 디지몬 어드벤처 psp 거의 전신을 메탈화함으로써 파워업한 가루몬의 최종형태. 메탈화를 해도 타고난 민첩성은 잃지 않고, 전신에 숨겨져 있는 무수한 무기로 적을 분쇄한다. 코끝에 있는 4개의 레이저 사이트로 시야가 닿지 않는 어둠 속에서도 적을 찾을 수 있다. 또 등에 있는 빔 형태의 날개를 뻗어 초고속으로 넷 공간을 날아다닐 수 있다. 디지몬 스토리 선버스트·문라이트 몸을 메탈화하면서 날렵함을 잃지 않고 파워업한 가루몬계 디지몬의 궁극체 사이보그 보디에는 수 많은 무기들이 숨겨져 있고 코끝의 '레이저 사이트'로 목표를 록온한다 등쪽의 암으로부터 빔 형상의 윙을 꺼내 초고속으로 날아다닐 수도 있다 디지털 몬스터 카드 게임 St-242 - 코끝의 레이저 사이트로 어둠을 간파하고 정밀한 포격을 행한다! St-559 - 레이저 사이트로 정밀 추적! 푸른빛의 실버 울프!! Bo-109 - 온몸에 숨겨져 있는 수많은 무기! Bo-192 - 일격필살, 얼음 발사!! Bo-265 - 전신의 무기화! 파워 공격으로 주위를 화염과 얼음의 세계로 만든다!! Bo-663 - 빛의 날개로 빙점 이하의 궤적을 그리는 선명하고 강렬한 고독한 늑대! Bo-1105 - 초고속으로 탄막을 휘감는 강철의 푸른 괴수! Bo-5j - 전신 곳곳에 장착된 화기와 얼어붙는 빙결 브레스가 필살무기! Bo-18v - 마침내 오메가몬으로 진화하는 능력을 얻은 \"불\"과 \"얼음\", 역전의 궁극체 콤비! Re-48 - 희망의 화살로 이루어진 기적의 궁극체! Re-06t - 레이저 사이트로 숨은 적도 폭격 필중 배틀터미널 DM02-036 - 『코퀴토스 브레스』는 모든 것을 빙결시키는 절대영도의 냉기 DM02-142 - 『코퀴토스 브레스』는 모든 것을 빙결시키는 절대영도의 냉기 초디지카대전 D3D3-52 - 전신을 메탈화해 튼튼한 장갑과 전신에 탑재된 무수한 무기를 자랑하는 사이보그형 디지몬. D4-55 - 코끝에는 레이저 사이트가 탑재되어 있어 어둠 속에서도 상대의 위치를 정확히 파악할 수 있다. DM4-04 - 필살기인 코퀴토스 브레스는 입에서 절대 영도의 냉기를 내뿜어 모든 물체를 동결시켜 버린다. D7-50 - 피노키몬 이 준 디지메모리에 봉인되어 있던 디지몬. 코퀴토스 브레스로 탱크몬 군단을 전멸시켰다. D5-CP6 - 희망의 문장의 화살을 받아 워가루몬이 진화한 모습. 파트너인 이시다 야마토와 단단한 우정으로 이어져 있다. 디지몬 진트릭스 1-025 - 전신을 메탈화해 속도를 잃지 않고 중화기 장비를 갖춘 가루몬계의 최종 형태. 코끝의 레이저 사이트로 적을 감지해 초고속 비행으로 공격한다. 어플리 몬스터즈 카드 게임 BT3-34 - 고감도 탐지와 중화기를 탑재한 강철짐승. 데이터 카드다스 어플리 몬스터즈 3-050 - 파피몬이 워프 진화한 궁극체의 사이보그형 디지몬. 어둠에 숨은 적들도 코끝의 4개의 레이저 사이트로 정확히 포착해 놓치지 않는다. 4-009 - 궁극체의 사이보그형 디지몬. 전신을 생체금속 크롬디지조이드 메탈 [7] 로 기계화하고 미사일이나 기관총을 구사해 싸운다. 배틀스피리츠 CB02-X03 - 거의 전신을 메탈화함으로써 파워업한 가루몬의 최종 형태 SD45-010 - 필살기는 모든 사물을 결빙시켜버리는 절대 영도의 냉기를 내뿜는 '코퀴토스 브레스'. 이 공격을 받은 자는 순식간에 생명활동을 정지해버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Garurumon"
+    },
+    {
+      "id": "zdgaruru",
+      "name": "Z'd Garurumon",
+      "name_jp": "Z'd Garurumon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/zdgaruru/frame1.gif",
+        "frame2": "sprites/zdgaruru/frame2.gif"
+      },
+      "artwork": "sprites/zdgaruru/artwork.jpg",
+      "lore": {
+        "en": "A subspecies ofMetal Garurumon, the final form ofGarurumon, it is the ultimate beast tank Digimon equipped with the ultimate superdreadnought-class weapon, \"Z'd Hou\". Z'd Garurumon's weapons and ammunition are equipped throughout its body, so its physical strength isn't consumed, and it can sustain a rain of bullets for a long duration. The fourLaser Sightson its snout have been improved for its ammunition, and are now capable oflockingonto hundreds of objects. Its Special Move is mowing down the opponent by simultaneously firing its ultimate weaponZ'd Houalongside all of the other weapons throughout its body (Fullmetal Blaze). Also, it can spray explosive energy from its mouth (Blowback Breath). In addition, Z'd Garurumon possesses an evolutionary code that differs from Digimon that were naturally born in the Digital World, and it is thought that it is a Digimon that evolved from aDigitamathat was produced due to artificial data intervention.Digimon Reference Book⇨ Englishガルルモンの最終形態、メタルガルルモンの亜種であり、超弩級の最終兵器『ズィード砲』を搭載する究極の獣戦車デジモンである。全身に装備している武器は全て実弾であり、ズィードガルルモンの体力を消費すること無く長時間にわたり実弾の豪雨を降らす。鼻先にある４つのレーザーサイトは実弾用に改良され、数百もの対象物をロックオンすることが可能である。必殺技は、最終兵器『ズィード砲』並びに全身の武器を一斉掃射する『フルメタルブレイズ』。また、発射エネルギーを口部から噴射する『ブローバックブレス』をもつ。なお、ズィードガルルモンはデジタルワールド上で自然発生したデジモンとは異なる進化コードを持っており、人為的なデータ介入によって生まれたデジタマから進化したデジモンであると見られている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Z'd_Garurumon"
+    },
+    {
+      "id": "metalgaruru_b",
+      "name": "Metal Garurumon (Black)",
+      "name_jp": "Metal Garurumon (Black)",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★8)",
+        "hp": "14",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/metalgaruru_b/frame1.gif",
+        "frame2": "sprites/metalgaruru_b/frame2.gif"
+      },
+      "artwork": "sprites/metalgaruru_b/artwork.jpg",
+      "lore": {
+        "en": "A Virus-typeMetal Garurumonequipped with cold-based weapons all over its body. It has a fearsome personality, in that once theLaser Sightson its snout lock onto its prey, it will pursue them relentlessly and bombard them with missiles regardless of whether they are friend or foe. Its Special Move is cold air that freezes everything in an instant (Cocytus Breath). In addition, it wipes out the opponent with its \"GaruruTomahawk\", in which it launches a gigantic missile called theFreeze Bomberfrom its chest, and \"Grace Cross Freezer\", in which it fires its weapons all at once.Digimon Reference Book⇨ English体中に冷気系の兵器を装備したウィルス種のメタルガルルモン。鼻先の「レーザーサイト」で獲物をキャッチすると、敵味方に関わらずしつこく追い回して、ミサイルを撃ち込む恐ろしい性格だ。必殺技は、すべてのものが一瞬で凍りつく冷気『コキュートスブレス』。また胸部からフリーズボンバーと呼ばれる巨大なミサイルを発射する『ガルルトマホーク』、そしてメタルガルルモンの持つ武器を一斉発射する『グレイスクロスフリーザー』で敵を一掃する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metal_Garurumon_(Black)"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "tuno",
+      "to": "gabu",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "1,200+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tuno",
+      "to": "gabu_b",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gabu",
+      "to": "garuru",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gabu",
+      "to": "drimoge",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gabu",
+      "to": "dorulu",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "weregaruru",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dorulu",
+      "to": "weregaruru",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "panda",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "drimoge",
+      "to": "panda",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dorulu",
+      "to": "panda",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "jaegerdorulu",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "drimoge",
+      "to": "jaegerdorulu",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dorulu",
+      "to": "jaegerdorulu",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "drimoge",
+      "to": "weregaruru_b",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "weregaruru",
+      "to": "metalgaruru",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "panda",
+      "to": "metalgaruru",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "weregaruru",
+      "to": "zdgaruru",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "panda",
+      "to": "zdgaruru",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jaegerdorulu",
+      "to": "zdgaruru",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jaegerdorulu",
+      "to": "metalgaruru_b",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "puni",
+      "to": "tuno",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "gabu_b",
+      "to": "garuru_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 900+ Vital Values, 5+ Battles (TSH)• 5+ Trophies, 1,200+ Vital Values, 8+ Battles (SHo)• 10+ Trophies, 1,300+ Vital Values, 8+ Battles (WHo)"
+      }
+    },
+    {
+      "from": "gabu_b",
+      "to": "garuru",
+      "conditions": {
+        "text": "10+ Trophies, 1,300+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "gabu_b",
+      "to": "dorulu",
+      "conditions": {
+        "text": "• 5+ Trophies, 600+ Vital Values, 3+ Battles (TSH)• 8+ Trophies, 900+ Vital Values, 5+ Battles (WHo)"
+      }
+    },
+    {
+      "from": "gabu_b",
+      "to": "drimoge",
+      "conditions": {
+        "text": "• 0-4 Trophies (TSH)• 0-599 Vital Values (TSH)• 0-2 Battles (TSH)• 0-7 Trophies (WHo)• 0-899 Vital Values (WHo)• 0-4 Battles (WHo)"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "weregaruru_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• Jogress with Data, Virus or Free Adult (WHo)"
+      }
+    },
+    {
+      "from": "drimoge",
+      "to": "weregaruru",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Adult"
+      }
+    },
+    {
+      "from": "dorulu",
+      "to": "weregaruru_b",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Adult"
+      }
+    },
+    {
+      "from": "garuru_b",
+      "to": "panda",
+      "conditions": {
+        "text": "• 10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• Jogress with Data Adult (TSH)• 8+ Trophies, 2,000+ Vital Values, 8+ Battles, 50%+ Win Ratio (WHo)"
+      }
+    },
+    {
+      "from": "garuru_b",
+      "to": "weregaruru_b",
+      "conditions": {
+        "text": "• 8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio (TSH)• Jogress with Free Adult (TSH)• 12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio (SHo/WHo)"
+      }
+    },
+    {
+      "from": "garuru_b",
+      "to": "jaegerdorulu",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "garuru_b",
+      "to": "weregaruru",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    },
+    {
+      "from": "weregaruru",
+      "to": "metalgaruru_b",
+      "conditions": {
+        "text": "Jogress with Data, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "panda",
+      "to": "metalgaruru_b",
+      "conditions": {
+        "text": "• Jogress with Vaccine or Free Perfect (TSH)• Jogress with Vaccine, Virus or Free Perfect (WHo)"
+      }
+    },
+    {
+      "from": "jaegerdorulu",
+      "to": "metalgaruru",
+      "conditions": {
+        "text": "Jogress with Vaccine, Data or Free Perfect"
+      }
+    },
+    {
+      "from": "weregaruru_b",
+      "to": "metalgaruru_b",
+      "conditions": {
+        "text": "• 15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio (TSH/WHo)• 20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio (SHo)"
+      }
+    },
+    {
+      "from": "weregaruru_b",
+      "to": "zdgaruru",
+      "conditions": {
+        "text": "• Jogress with Data Perfect (TSH)• Jogress with Vaccine, Data or Free Perfect (WHo)"
+      }
+    },
+    {
+      "from": "weregaruru_b",
+      "to": "metalgaruru",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    }
+  ]
+}

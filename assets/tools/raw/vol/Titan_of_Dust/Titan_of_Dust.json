@@ -1,0 +1,619 @@
+{
+  "id": "tdu",
+  "name": "Titan of Dust",
+  "release": "JP: Jun 2021 - Retail (Set Vol.02)EN: Jul 2022 - Retail (Set Vol.02)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_tdu.png",
+  "digitama_url": "https://humulos.com/digimon/images/dot/vbdm/digitama_suna.gif",
+  "digimon": [
+    {
+      "id": "suna",
+      "name": "Sunamon",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/suna.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/suna.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/suna.jpg"
+    },
+    {
+      "id": "goro",
+      "name": "Goromon",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/goro.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/goro.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/goro.jpg"
+    },
+    {
+      "id": "sunariza",
+      "name": "Sunarizamon",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/sunariza.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/sunariza.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/sunariza.jpg"
+    },
+    {
+      "id": "torta",
+      "name": "Tortamon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/torta.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/torta.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/torta.jpg"
+    },
+    {
+      "id": "toge",
+      "name": "Togemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/toge.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/toge.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/toge.jpg"
+    },
+    {
+      "id": "gole",
+      "name": "Golemon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gole.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gole.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gole.jpg"
+    },
+    {
+      "id": "dig",
+      "name": "Digmon",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "2"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dig.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dig.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dig.jpg"
+    },
+    {
+      "id": "gogma",
+      "name": "Gogmamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "14",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/gogma.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/gogma.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/gogma.jpg"
+    },
+    {
+      "id": "jyaga",
+      "name": "Jyagamon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/jyaga.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/jyaga.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/jyaga.jpg"
+    },
+    {
+      "id": "tricera",
+      "name": "Triceramon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/tricera.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/tricera.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/tricera.jpg"
+    },
+    {
+      "id": "scorpio",
+      "name": "Scorpiomon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/scorpio.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/scorpio.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/scorpio.jpg"
+    },
+    {
+      "id": "vulture",
+      "name": "Vulturemon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/vulture.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/vulture.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/vulture.jpg"
+    },
+    {
+      "id": "mummy",
+      "name": "Mummymon",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "9",
+        "ap": "4"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/mummy.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/mummy.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/mummy.jpg"
+    },
+    {
+      "id": "blast",
+      "name": "Blastmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "45 (★9)",
+        "hp": "18",
+        "ap": "7"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/blast.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/blast.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/blast.jpg"
+    },
+    {
+      "id": "dinorex",
+      "name": "Dinorexmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★8)",
+        "hp": "14",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/dinorex.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/dinorex.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/dinorex.jpg"
+    },
+    {
+      "id": "pharaoh",
+      "name": "Pharaohmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/pharaoh.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/pharaoh.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/pharaoh.jpg"
+    },
+    {
+      "id": "ancientsphinx",
+      "name": "Ancient Sphinxmon",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "70 (★10)",
+        "hp": "12",
+        "ap": "8"
+      },
+      "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/ancientsphinx.gif",
+      "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/ancientsphinx.gif",
+      "artwork_url": "https://humulos.com/digimon/images/art/ancientsphinx.jpg"
+    }
+  ],
+  "evolution_edges": [
+    {
+      "from": "sunariza",
+      "from_name": "Sunarizamon",
+      "to": "torta",
+      "to_name": "Tortamon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sunariza",
+      "from_name": "Sunarizamon",
+      "to": "toge",
+      "to_name": "Togemon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sunariza",
+      "from_name": "Sunarizamon",
+      "to": "gole",
+      "to_name": "Golemon",
+      "requirements": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "sunariza",
+      "from_name": "Sunarizamon",
+      "to": "dig",
+      "to_name": "Digmon",
+      "requirements": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "torta",
+      "from_name": "Tortamon",
+      "to": "gogma",
+      "to_name": "Gogmamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "gole",
+      "from_name": "Golemon",
+      "to": "gogma",
+      "to_name": "Gogmamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "toge",
+      "from_name": "Togemon",
+      "to": "jyaga",
+      "to_name": "Jyagamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "dig",
+      "from_name": "Digmon",
+      "to": "jyaga",
+      "to_name": "Jyagamon",
+      "requirements": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "toge",
+      "from_name": "Togemon",
+      "to": "tricera",
+      "to_name": "Triceramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gole",
+      "from_name": "Golemon",
+      "to": "tricera",
+      "to_name": "Triceramon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "torta",
+      "from_name": "Tortamon",
+      "to": "scorpio",
+      "to_name": "Scorpiomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dig",
+      "from_name": "Digmon",
+      "to": "scorpio",
+      "to_name": "Scorpiomon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "toge",
+      "from_name": "Togemon",
+      "to": "vulture",
+      "to_name": "Vulturemon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gole",
+      "from_name": "Golemon",
+      "to": "vulture",
+      "to_name": "Vulturemon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "torta",
+      "from_name": "Tortamon",
+      "to": "mummy",
+      "to_name": "Mummymon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "dig",
+      "from_name": "Digmon",
+      "to": "mummy",
+      "to_name": "Mummymon",
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gogma",
+      "from_name": "Gogmamon",
+      "to": "blast",
+      "to_name": "Blastmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "jyaga",
+      "from_name": "Jyagamon",
+      "to": "blast",
+      "to_name": "Blastmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "scorpio",
+      "from_name": "Scorpiomon",
+      "to": "blast",
+      "to_name": "Blastmon",
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "gogma",
+      "from_name": "Gogmamon",
+      "to": "dinorex",
+      "to_name": "Dinorexmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tricera",
+      "from_name": "Triceramon",
+      "to": "dinorex",
+      "to_name": "Dinorexmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vulture",
+      "from_name": "Vulturemon",
+      "to": "dinorex",
+      "to_name": "Dinorexmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "tricera",
+      "from_name": "Triceramon",
+      "to": "pharaoh",
+      "to_name": "Pharaohmon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "vulture",
+      "from_name": "Vulturemon",
+      "to": "pharaoh",
+      "to_name": "Pharaohmon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "from_name": "Mummymon",
+      "to": "pharaoh",
+      "to_name": "Pharaohmon",
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "jyaga",
+      "from_name": "Jyagamon",
+      "to": "ancientsphinx",
+      "to_name": "Ancient Sphinxmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "scorpio",
+      "from_name": "Scorpiomon",
+      "to": "ancientsphinx",
+      "to_name": "Ancient Sphinxmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "mummy",
+      "from_name": "Mummymon",
+      "to": "ancientsphinx",
+      "to_name": "Ancient Sphinxmon",
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ]
+}

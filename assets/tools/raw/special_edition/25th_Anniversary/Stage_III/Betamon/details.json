@@ -1,0 +1,75 @@
+{
+  "id": "beta_d",
+  "name": "Betamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/beta_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/beta_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/beta.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Betamon",
+    "name_en": "Betamon",
+    "attribute": "Virus",
+    "stage_text": "Stage III (Child)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "3900",
+      "hp": "3000",
+      "ap": "900"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "koro_d",
+        "name": "Koromon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "airdra_d",
+        "name": "Airdramon",
+        "conditions": "15+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "seadra_d",
+        "name": "Seadramon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      },
+      {
+        "id": "devi_d",
+        "name": "Devimon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "mera_d",
+        "name": "Meramon",
+        "conditions": "5+ PP, 500+ Vital Values, 3+ Battles"
+      },
+      {
+        "id": "nume_d",
+        "name": "Numemon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

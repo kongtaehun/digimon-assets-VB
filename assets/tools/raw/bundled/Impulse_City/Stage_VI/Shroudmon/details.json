@@ -1,0 +1,78 @@
+{
+  "id": "shroud",
+  "name": "Shroudmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/shroud.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/shroud.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shroud.jpg",
+  "appearances": [
+    {
+      "dim_id": "ici",
+      "dim_name": "Impulse City",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "bout",
+        "dive",
+        "climb"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shroudmon",
+    "name_en": "Shroudmon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "dp": "60 (★10)",
+      "hp": "16",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "bout",
+        "name": "Boutmon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "dive",
+        "name": "Divemon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "climb",
+        "name": "Climbmon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "shoot",
+        "name": "Shootmon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "tempo",
+        "name": "Tempomon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "pist",
+        "name": "Pistmon",
+        "conditions": "Stage 15 cleared, Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

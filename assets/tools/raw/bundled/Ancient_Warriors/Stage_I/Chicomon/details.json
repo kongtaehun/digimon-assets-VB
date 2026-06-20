@@ -1,0 +1,39 @@
+{
+  "id": "chico",
+  "name": "Chicomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/chico.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/chico.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/chico.jpg",
+  "appearances": [
+    {
+      "dim_id": "awa",
+      "dim_name": "Ancient Warriors",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Chicomon",
+    "name_en": "Chibomon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "0 (★)",
+      "hp": "0",
+      "ap": "0"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn NA"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "chibi",
+        "name": "Chibimon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

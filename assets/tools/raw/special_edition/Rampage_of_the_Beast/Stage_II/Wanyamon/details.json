@@ -1,0 +1,60 @@
+{
+  "id": "wanya",
+  "name": "Wanyamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/wanya.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/wanya.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/wanya.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "II"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Wanyamon",
+    "name_en": "Wanyamon",
+    "attribute": "Free",
+    "stage_text": "Stage II (Baby II)",
+    "activity": "",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [
+      {
+        "id": "bota",
+        "name": "Botamon",
+        "conditions": "No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "phasco",
+        "name": "Phascomon",
+        "conditions": "Stage 3 cleared, 5+ PP, 1,000+ Vital Values"
+      },
+      {
+        "id": "corona",
+        "name": "Coronamon",
+        "conditions": "5+ PP, 500+ Vital Values"
+      },
+      {
+        "id": "gao",
+        "name": "Gaomon",
+        "conditions": "3+ PP, 500+ Vital Values"
+      },
+      {
+        "id": "luna",
+        "name": "Lunamon",
+        "conditions": "Choose one:"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "mastertyrano",
+  "name": "Master Tyranomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/mastertyrano.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/mastertyrano.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/mastertyrano.jpg",
+  "appearances": [
+    {
+      "dim_id": "looga",
+      "dim_name": "Loogamon",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "tyrano",
+        "snatch"
+      ],
+      "requirements": {
+        "PP": "10+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Master Tyranomon",
+    "name_en": "MasterTyrannomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "4900",
+      "hp": "4200",
+      "ap": "1500"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "tyrano",
+        "name": "Tyranomon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "snatch",
+        "name": "Snatchmon",
+        "conditions": "10+ PP, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "ragna",
+        "name": "Ragnamon",
+        "conditions": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "rusttyrano",
+        "name": "Rust Tyranomon",
+        "conditions": "30+ PP, 3,000+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

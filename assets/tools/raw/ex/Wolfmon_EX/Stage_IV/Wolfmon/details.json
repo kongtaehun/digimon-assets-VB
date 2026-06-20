@@ -1,0 +1,42 @@
+{
+  "id": "wolf",
+  "name": "Wolfmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/wolf.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/wolf.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/wolf.jpg",
+  "appearances": [
+    {
+      "dim_id": "wolf_ex",
+      "dim_name": "Wolfmon EX",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Wolfmon",
+    "name_en": "Lobomon",
+    "attribute": "Free",
+    "stage_text": "Stage IV (Adult)",
+    "stats": {
+      "dp": "25 (★)",
+      "hp": "5",
+      "ap": "3"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

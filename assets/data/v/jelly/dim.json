@@ -1,0 +1,662 @@
+{
+  "schema_version": "1.0",
+  "id": "jelly",
+  "name": "Jellymon",
+  "category": "v",
+  "device": "VBDM",
+  "release": "JP: Dec 2021 - Retail (Set -V2-)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_jelly.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "puyo",
+      "name": "Puyomon",
+      "name_jp": "Puyomon",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/puyo/frame1.gif",
+        "frame2": "sprites/puyo/frame2.gif"
+      },
+      "artwork": "sprites/puyo/artwork.jpg",
+      "lore": {
+        "en": "A soft and sticky Slime Digimon that was discovered in the \"Net Ocean\". Its single, lens-like eye lacks emotional expression, so you can't tell what it's thinking, but it drifts through the sky or the sea, trying to stick to objects and other Digimon with its tentacles. Once it sticks onto something, it will emit tingling static electricity (Pachipachi Gas), but this seems to be a form of communication unique to Puyomon rather than an attack. When multiple Puyomon stick to each other, their \"Pachipachi Gas\" becomes more powerful, making it difficult to approach the surrounding area.Digimon Reference Book⇨ English「ネットの海」で発見された粘着性があり柔らかいスライム型デジモン。レンズのような一つ目は感情表現に乏しく何を考えているかは感じとれないが、空や海の中をふらふらと漂いモノやデジモンに触手でくっつこうとする。くっつくとピリっとした静電気『パチパチガス』を放ってくるが、攻撃しているわけではなく、プヨモンならではのコミュニケーションのようだ。プヨモン同士がくっつくと互いの『パチパチガス』が威力を増し、その周囲には近寄れなくなる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Puyomon"
+    },
+    {
+      "id": "puyoyo",
+      "name": "Puyoyomon",
+      "name_jp": "Puyoyomon",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/puyoyo/frame1.gif",
+        "frame2": "sprites/puyoyo/frame2.gif"
+      },
+      "artwork": "sprites/puyoyo/artwork.jpg",
+      "lore": {
+        "en": "Puyomonevolved by taking in jellyfish data. It grew several tentacles by copying the biological features of jellyfish. As you can tell from its round eyes that are brimming with curiosity, it has grown its own preferences, and once it sticks to something that it likes, it will not let go. Conversely, when it is something that it dislikes, it sends out a bursting streak of electricity (Zone Pachipachi), and never lets anything get near it. Even if it likes sticking to something, it will lose interest after a while and detach from it, and has a moody personality where it floats lightly in search of exciting things that suit its taste.Digimon Reference Book⇨ Englishクラゲのデータを取り込んだプヨモンが進化。クラゲの生体的な特徴をコピーして触手が複数生えた。好奇心をたたえたつぶらな瞳からも分かるように、好き嫌いの感情が芽生え 、好むモノにくっつくと離れなくなる。逆に嫌いと感じたモノには弾ける電撃帯『ゾーンパチパチ』を放ち、絶対に近づかせようとしない。好んでくっついていても、しばらくすると飽きて離れ、また好みに合う刺激的なモノを探してふわふわと漂っていく気分屋な性格である。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Puyoyomon"
+    },
+    {
+      "id": "jelly",
+      "name": "Jellymon",
+      "name_jp": "Jellymon",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/jelly/frame1.gif",
+        "frame2": "sprites/jelly/frame2.gif"
+      },
+      "artwork": "sprites/jelly/artwork.jpg",
+      "lore": {
+        "en": "A Mollusk Digimon with a squishy head like a jellyfish. Its whole body is flexible, which allows it to retract its body into its head, and it usually lives with just its head showing. While it is in this form, it is light enough to fly just by being blown by the wind. It prefers beautiful environments and acts, and once it sees foul behavior, it will free its body in anger and turn into itsBattle Mode.Its Signature Moves are the paralyzing attack \"Bibi Thunder\", in which it discharges static electricity from the tips of its tentacles, \"Volt Knuckle\", a punching technique in which it electrifies its fists, and \"Spiral Kick\", where it kicks the enemy into the air while performing a somersault.Digimon Reference Book⇨ Englishクラゲのようなプニプニとした頭を持つ軟体型デジモン。全身が柔軟で体を頭の中に収納することもでき、通常は頭だけの状態で生活している。頭だけの時は風に吹かれただけでも飛ぶほどの軽さ。キレイな環境や行為を好み、汚れた行いを見ると怒りで体を出して戦闘モードになる。触手の先から静電気を飛ばす麻痺攻撃の『ビビサンダー』、拳に電撃をまとうパンチ技『ボルトナックル』、宙返りしながら敵を蹴り上げる『スパイラルキック』が得意技だ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Jellymon"
+    },
+    {
+      "id": "ruka",
+      "name": "Rukamon",
+      "name_jp": "Rukamon",
+      "name_ko": "루카몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/ruka/frame1.gif",
+        "frame2": "sprites/ruka/frame2.gif"
+      },
+      "artwork": "sprites/ruka/artwork.jpg",
+      "lore": {
+        "en": "A unique Aquatic Mammal Digimon that came about when a peculiar signal originating within software for researching interspecies communication transformed into a Digimon. Due to its movement range being limited to the sea, it became able to move about the sea at high speed. As expected from its appearance, it possesses advanced intelligence, but its form of thought is too complex for a normal person to understand. Although it is a species that doesn't like useless battles, it won't go easy against an opponent that comes and challenges it. Its Special Move is emitting the ultrasonic waves that it uses to communicate from its mouth, just at maximum power (Shaking Pulse).Digimon Reference Book⇨ English異種族間の会話を研究するソフト中に発生した独特の信号がデジモン化した、特異な存在の水棲哺乳類型デジモン。行動範囲を海中に限定したことにより、高速での海中移動が可能になった。外見から予想される通り、高度な知能を持っているが、思考形態が複雑すぎ常人には理解しがたい。無益な戦闘を好まない種だが、挑んでくる相手に対しては容赦しない。必殺技は通信手段として口から発する超音波を、最高出力にして発する『シェイキングパルス』である。デジモン図鑑",
+        "ko": "다른 종족과의 대화를 연구하는 소프트웨어중에 발생한 독특한 신호가, 디지몬화한, 특이한 존재의 수생포유류형 디지몬. 행동 범위를 바닷속으로 한정화한 것에 비해, 고속으로 수중 이동이 가능하게 되었다. 외관으로부터 예상되는 대로, 고도의 지능을 가지고 있지만, 사고 형태가 너무 복잡해 보통 사람으로서는 이해하기가 어렵다. 무익한 전투는 좋아하지 않지만, 도전해 오는 상대에 대해서는 용서하지 않는다. 필살기는 통신 수단으로서 입에서 초음파를 최고 출력으로 해서 발사하는 \"쉐이킹 펄스\"이다."
+      },
+      "wikimon_url": "https://wikimon.net/Rukamon"
+    },
+    {
+      "id": "teslajelly",
+      "name": "Tesla Jellymon",
+      "name_jp": "Tesla Jellymon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "4",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/teslajelly/frame1.gif",
+        "frame2": "sprites/teslajelly/frame2.gif"
+      },
+      "artwork": "sprites/teslajelly/artwork.jpg",
+      "lore": {
+        "en": "The Adult form ofJellymonthat has grown by absorbing data from combat sports likesteel cage death matcheswhile in search of stimulation and pleasure. Its electric shock techniques have been further enhanced, and there are even more techniques adapted from things such as karate and professional wrestling in the fighting it unleashes. It easily dodges the enemy's attacks by capitalizing on the softness of its body.Its Special Move is sending an electric shock stored in its palms through the enemy's vitals (Physalist). In addition, it has \"Punischöne\", in which it shocks and punishes the enemy in a stimulating manner with the high-voltage belts that extend from its body, and \"Vorsprite\", in which it electrifies its body and rams into them while spinning.Digimon Reference Book⇨ Englishジェリーモンが刺激と快感を求めて、金網デスマッチなどの格闘技のデータを吸収して成長した成熟期の姿。電撃技がさらに強化され、繰り出す格闘には空手やプロレスなどから応用した技がさらに多くなった。体の柔らかさを活かして敵の攻撃も軽々といなす。必殺技は、手のひらに溜めた電撃『フィサリスト』を急所に打ち込む。さらに、身体から伸ばした高電圧の帯で敵をビリビリ刺激的にお仕置きする『パニッシューネ』、電撃を体に纏い回転しながら体当たりする『ボルスプライト』がある。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tesla_Jellymon"
+    },
+    {
+      "id": "geso",
+      "name": "Gesomon",
+      "name_jp": "Gesomon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Lazy",
+      "stats": {
+        "dp": "15 (★3)",
+        "hp": "4",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 5"
+      },
+      "sprites": {
+        "frame1": "sprites/geso/frame1.gif",
+        "frame2": "sprites/geso/frame2.gif"
+      },
+      "artwork": "sprites/geso/artwork.jpg",
+      "lore": {
+        "en": "A Digimon which has the shape of a squid and inhabits the depths of theNet Ocean. Although it is feared as the \"White Demon of the Depths\", it is highly intelligent and will not harm Digimon outside of its territory. However, if they seem to cross into its territory even for a moment, it will attack them like a fierce, raging god. Its attack style specializes in \"Hit and Away\", in which it inflicts a single blow as it withdraws from the spot. Its Special Moves are a barrage of attacks that capitalizes on its many legs (Devil Bashing), and powerful squid ink that will completely numb the opponent's vision for a long time if they get hit by it (Deadly Shade).Digimon Reference Book⇨ Englishネットの深海に棲むイカの形態をしたデジモン。「深海の白い悪魔」として恐れられているが、知性は高く自分のテリトリーの外にいるデジモンにまで危害を加えることはしない。しかし、いったんテリトリーを侵犯されるようなことがあれば、怒り狂う鬼神のごとく襲いかかる。攻撃のスタイルは一撃を加えると共に、その場から離脱するヒット＆アウェイを得意としている。必殺技はたくさんの脚を生かした連打攻撃『デビルバッシング』と、食らうと長時間視覚がマヒしてしまう強力なイカ墨『デッドリーシェード』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Gesomon"
+    },
+    {
+      "id": "manbo",
+      "name": "Manbomon",
+      "name_jp": "Manbomon",
+      "name_ko": "맘보몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/manbo/frame1.gif",
+        "frame2": "sprites/manbo/frame2.gif"
+      },
+      "artwork": "sprites/manbo/artwork.jpg",
+      "lore": {
+        "en": "An Armor-level Mutation Digimon that evolved through the power of the \"Digimental of Light\". It is an extremely rare Digimon that is seldom seen even in theNet Ocean. It usually moves about by drifting with the current near the water surface, but when battling an enemy, it moves at an astonishing speed using the propeller on its tail fin. It is said that the patterns on the surface of its body carry meaning, and that these patterns differ from individual to individual, but whether or not this is true cannot be ascertained due to how few sightings of it there are. Not only that, it is a precious species that produces antibodies againstcomputer viruseswithin its body. Its Special Moves are spewing out a large amount of \"mini Manbomon-shaped bubbles\" from its mouth (Balloon Mine) and continuously pummeling the opponent with the gloves on both of its hands without distraction (Global Glove).Digimon Reference Book⇨ English“光のデジメンタル”のパワーによって進化したアーマー体の突然変異型デジモン。ネットの海でもめったに見かけることのない、非常に稀少なデジモン。通常、海面近くを流れに身をまかせながら移動しているが、敵と戦うときは尾ひれについたスクリューで驚くべき速さで移動する。体表面の紋様は、意味があるとも、また１匹ずつ異なるともいわれているが、目撃例も少ないためその真偽は定かではない。また、コンピュータウィルスに対する抗体を体内で生成する貴重な種族である。必殺技は、口から大量の\"子マンボモン型泡\"を吐き出す『バルーンマイン』と両手のグローブで相手をひたすら連打する『グローバル・グローブ』。デジモン図鑑",
+        "ko": "\"빛의 디지멘탈\"의 파워에 의해서 진화한 아머체의 돌연변이형 디지몬. 넷의 바다에서도 좀처럼 찾아볼 수 없는, 매우 희귀한 디지몬. 일반적으로 해수면 근처에서 흐름에 몸을 맡기며 이동하고 있지만, 적과 싸울 때는 꼬리와 지느러미에 붙은 추진기로 놀랄 만한 속도로 이동한다. 체표면의 문양은 의미가 있다고도 하고, 또 1마리마다 다르다고도 하지만, 목격 예도 적기 때문에 그 진위는 확실하지 않다. 또, 컴퓨터 바이러스에 대한 항체를 체내에서 생성하는 귀중한 종족이다. 필살기는 입에서 대량의 \"꼬마 맘보몬형 거품\"을 내뱉는 \"볼룬 마인\"과 양손의 글로브로 상대에게 계속 연타하는 \"글로벌 글로브\"."
+      },
+      "wikimon_url": "https://wikimon.net/Manbomon"
+    },
+    {
+      "id": "wha",
+      "name": "Whamon",
+      "name_jp": "Whamon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/wha/frame1.gif",
+        "frame2": "sprites/wha/frame2.gif"
+      },
+      "artwork": "sprites/wha/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Digimon that inhabits the \"Net Ocean\" (theNetwork's ocean where Digimon were born). Since it lives in the deepest parts of the Net Ocean, it is rarely encountered (the organs that correspond to its eyes have degenerated). It has a ferocious personality, and sometimes attacks by generating an enormousTsunami. Its Special Move is spurted out from the blowhole on the back of its head at ultra-high pressure (Jet Arrow).Digimon Reference Book⇨ English『ネットの海（デジモンが誕生した、ネットワークの大海）』に棲む水棲型デジモン。ネットの海の深海部に生息しているため、めったに出会うことができない（目にあたる部分の器官は退化している）。獰猛な性格で、巨大な津波を起こして攻撃することもある。必殺技は頭部の後ろにある噴気孔から超高圧で吹き出される『ジェットアロー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Whamon"
+    },
+    {
+      "id": "thetis",
+      "name": "Thetismon",
+      "name_jp": "Thetismon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "8",
+        "ap": "5"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/thetis/frame1.gif",
+        "frame2": "sprites/thetis/frame2.gif"
+      },
+      "artwork": "sprites/thetis/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Beast Man Digimon which has the appearance of a woman, records show that it was discovered in the deepest trenches of the \"Net Ocean\", the birthplace of Digimon. It brings peace to its own vast territory, and immediately approaches and brings down the hammer on Digimon that tumultuously disturb it. Although it shows no mercy to those who invade its territory, it is kind to Digimon in need of help, guiding them to safety, and has a spirit that fights for the weak against the strong.It eliminates invaders with its \"Birī Smasher\", in which it sends its fists flying by accumulating electricity in its palms, \"Hammer Thunder\", where it kicks the enemy up and then brings them down with both of its  electrically-charged fists, and \"Adieu World\", in which it teleports by removing the space between it and the opponent.In addition, its \"Dokutease\", in which it produces various medicines and injects them via its tentacles, heals the wounds of its allies and temporarily boosts their power, but as for enemies, it disintegrates them from the inside out with a deadly poison, killing them.Digimon Reference Book⇨ Englishデジモンの発祥の地“ネットの海”の最も深い海溝で発見された記録がある、女性の姿をした水棲獣人型デジモン。とても広大な自身のテリトリーに安寧をもたらし、喧噪で脅かすデジモンには一瞬にして詰め寄り鉄槌を下す。テリトリーを荒らすものに慈悲はないが、救助を求めて入ったデジモンには優しく接し安全な場所まで導く、弱きを助け強きを挫く精神を持つ。掌に電撃を溜めることで拳を飛ばす『ビリースマッシャー』、蹴り上げた敵に組み合わせた電流の両拳を振り下ろす『ハンマーサンダー』や、相手との空間を消失させて瞬間転移する『アドゥワールド』で侵略者を排除する。さらに触手から様々な薬を生成して流し込む『ドクテアーゼ』は、味方には傷の治癒や一時的な力のブースト、敵ならば劇毒で内部から分解し死に至らしめる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Thetismon"
+    },
+    {
+      "id": "hangyo",
+      "name": "Hangyomon",
+      "name_jp": "Hangyomon",
+      "name_ko": "다이버몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Normal",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/hangyo/frame1.gif",
+        "frame2": "sprites/hangyo/frame2.gif"
+      },
+      "artwork": "sprites/hangyo/artwork.jpg",
+      "lore": {
+        "en": "An Aquatic Beast Man Digimon clothed in awetsuit. It has a cheerful personality, and is always swimming around the \"Net Ocean\". Its specialty is moving underwater, and in battle it uses the high-speed, underwater mobilityMotoron its back and a fighting style that capitalizes on its speed. Its Special Move is stabbing the enemy with its cherished harpoon, \"Torrent\" (Strike Fishing).Digimon Reference Book⇨ Englishウェットスーツを着た水棲獣人型デジモン。陽気な性格で、いつも「ネットの海」を泳ぎまわっている。水の中での活動が得意で、戦闘では背中の水中高速移動モーターを使い、スピードを活かした戦い方をする。必殺技は愛用のモリ「トレント」で敵をさす『ストライクフィッシング』。デジモン図鑑",
+        "ko": "잠수복을 입은 수생수인형 디지몬. 쾌활한 성격으로 늘 \"네트의 바다'를 누비고 있다. 수중에서의 활동이 특기로, 전투에서는 등의 수중 고속 이동 모터를 사용해, 스피드를 살린 싸움법을 행한다. 필살기는 애용하는 작살 「토렌트」로 적을 찌르는 「스트라이크 피싱 [2] 」."
+      },
+      "wikimon_url": "https://wikimon.net/Hangyomon"
+    },
+    {
+      "id": "marindevi",
+      "name": "Marin Devimon",
+      "name_jp": "Marin Devimon",
+      "name_ko": "마린데블몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/marindevi/frame1.gif",
+        "frame2": "sprites/marindevi/frame2.gif"
+      },
+      "artwork": "sprites/marindevi/artwork.jpg",
+      "lore": {
+        "en": "A dirty fighter that evenDevimonhates to fight. Though it is a subspecies of Devimon, it completely lacks all emotions but hatred due to its lonely life in the ocean depths. In order to win by any means, it won't let up with its attacks even if the opponent loses their fighting spirit. The two tentacles growing from its back each possess their own will, so they will struggle for the catch and act without permission. Its Special Move is discharging a venomous ink from its mouth (Guilty Black).Digimon Reference Book⇨ Englishあのデビモンでさえ、対戦を嫌がるダーティーファイター。デビモンの亜種だが、孤独な深海の生活から、憎悪以外の感情を無くしてしまっている。勝つためには手段を選ばず、相手が戦意を喪失しても攻撃の手をゆるめない。背中から生えた二本の触手は、それぞれ意思を持っていて、獲物を取り合って勝手に行動する。必殺技は口から猛毒の墨を発射する『ギルティブラック』。デジモン図鑑",
+        "ko": "그 데블몬 조차, 대전을 싫어하는 더티 파이터. 데블몬의 아종이지만, 고독한 심해에서 오래 생활했기 때문에, 증오 이외의 감정은 없어졌다. 이기기 위해서는 수단을 가리지 않고, 상대가 전의를 상실해도 공격을 계속한다. 등으로부터 난 2개의 촉수는 각각 의사를 가지고 있으며, 사냥감을 서로 빼앗아 마음대로 행동한다. 필살기는 입에서 맹독성 먹물을 쏘는 길티 블랙 [1] ."
+      },
+      "wikimon_url": "https://wikimon.net/Marin_Devimon"
+    },
+    {
+      "id": "marinange",
+      "name": "Marin Angemon",
+      "name_jp": "Marin Angemon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "14",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/marinange/frame1.gif",
+        "frame2": "sprites/marinange/frame2.gif"
+      },
+      "artwork": "sprites/marinange/artwork.jpg",
+      "lore": {
+        "en": "A rarely-sighted Fairy Digimon that inhabits theNet Ocean. Although it possesses the name \"Angemon\", biologically, it is actually of a completely different family from theAngemon-species. The ring worn around Marin Angemon's neck is called aHoly Ring, and it is thought that there is some sort of connection between the ring and holy Digimon as Digimon such asTailmonorAngewomonhave been observed wearing the ring. Thelettersengraved on the ring have yet to be deciphered at present. Although it generally dislikes combat, its Special Move \"Ocean Love\" makes all of its opponents lose their fighting spirit, allowing it to attain victory as a result.Digimon Reference Book⇨ English滅多に、その姿を見ることのできないネットの海に棲む妖精型デジモン。エンジェモンの名前を持っているが、生態系としては全くエンジェモン系とは別の種族である。マリンエンジェモンの首についているリングはホーリーリングと呼ばれ、テイルモンやエンジェウーモンなども付けている所から聖なるデジモンと何か関係があると思われる。そこに刻まれている文字は今だ解明されていない。基本的に戦闘は好まないが、必殺技である『オーシャンラブ』はあらゆる敵の戦意を喪失させ、結果的に勝利をおさめることになる。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Marin_Angemon"
+    },
+    {
+      "id": "ancientmermai",
+      "name": "Ancient Mermaimon",
+      "name_jp": "Ancient Mermaimon",
+      "name_ko": "에이션트머메이몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "15",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/ancientmermai/frame1.gif",
+        "frame2": "sprites/ancientmermai/frame2.gif"
+      },
+      "artwork": "sprites/ancientmermai/artwork.jpg",
+      "lore": {
+        "en": "Possessing the attribute of \"water\", it is one of the legendaryTen WarriorsDigimon that saved the ancientDigital World. An Ultimate who existed only in the distant past, it is a guardian goddess of the birthplace of Digimon, the \"Net Ocean\". It rules the whole of the far-reaching \"Net Ocean\", and is able to handle all water, such as the ocean currents and tidal waves, as if they were its own limbs. It is said that countless continents and islands have been erased when Ancient Mermaimon felt angry. Ancient Mermaimon's abilities were later passed on to the \"Aquatic Digimon\". Its Special Moves are generating a giganticmaelstromwhich swallows everything in the water (Great Maelstrom), and crystallizing water into super-hard substances, then firing them off like a machine gun (Crystal Billow).Digimon Reference Book⇨ English“水”の属性をもつ、古代デジタルワールドを救った伝説の十闘士デジモン。遥か古代に存在した初めての究極体であり、デジモン発祥の地“ネットの海”の守護女神でもある。広大に広がる“ネットの海”全てを支配し、海流や津波などあらゆる水を手足のように扱うことが出来る。エンシェントマーメイモンの怒りに触れて消された大陸や島など数知れないと言われている。エンシェントマーメイモンの能力は、その後“水棲型デジモン”等へ引き継がれていった。必殺技は巨大な大渦巻きを発生させ、全てのものを水中に呑み込む『グレイト・メイルストローム』と、水を超硬度に結晶化させマシンガンの様に打ち出す『クリスタルビロー』。デジモン図鑑",
+        "ko": "\"물\" 속성을 지닌 고대 디지털 월드를 수호한 전설의 10투사 디지몬. 아득한 고대에 존재했던 최초의 궁극체 이며 디지몬의 발상지 \"넷의 바다\" 의 수호 여신이기도 하다. 광대하게 퍼져있는 \"넷의 바다\" 전체를 지배하여 해류나 해일 등 모든 물을 자기 수족처럼 다룰 수 있다. '에인션트머메이몬의 노여움을 사 지워진 대륙이나 섬 등은 수없이 많다 ' 고도 전해진다. 에이션트머메이몬의 능력은 그 후 수생형 디지몬 등에게 이어졌다. 필살기는 거대한 소용돌이를 발생시켜 모든 것을 물속으로 삼켜버리는 『그레이트 메일스트롬』과 물을 매우 딱딱하게 결정화해서 기관총처럼 쏘는 『크리스탈 빌로우』다."
+      },
+      "wikimon_url": "https://wikimon.net/Ancient_Mermaimon"
+    },
+    {
+      "id": "puku",
+      "name": "Pukumon",
+      "name_jp": "Pukumon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "dp": "55 (★9)",
+        "hp": "13",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/puku/frame1.gif",
+        "frame2": "sprites/puku/frame2.gif"
+      },
+      "artwork": "sprites/puku/artwork.jpg",
+      "lore": {
+        "en": "A British Punk Digimon that was born when Britain's strongesthackercaused a mutation in acomputer virusin which they had poured all the knowledge they possessed. Although its size is small, it has a rebellious personality that contends for first place even in theDigital World. It can't help picking fights, no matter whether the opponents are stronger or weaker than itself. Although settling disputes with fist fights is considered its normal style, it has a Special Move \"Needle Squall\" as its ultimate weapon, in which it launches its super-hard spines all at once from its metal head made fromChrome Digizoid.Digimon Reference Book⇨ English英国一の最強ハッカーが、自らの持てる知識を全て注ぎ込んだコンピュータウィルスが突然変異をおこし、誕生した英国産のパンクスデジモン。サイズは小さいが、デジタルワールドでも１、２を争う反抗的性格。自分より相手が強かろうが弱かろうが喧嘩を売らずにはいられない。基本的には殴り合いで決着をつけるのが流儀だと考えているが、最終兵器としてクロンデジゾイド製のメタルヘッドから超硬度のトゲを一斉に飛ばす必殺技『ニードルスコール』を持っている。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Pukumon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "jelly",
+      "to": "ruka",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,100+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "teslajelly",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "geso",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "jelly",
+      "to": "manbo",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "ruka",
+      "to": "wha",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "teslajelly",
+      "to": "wha",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "ruka",
+      "to": "thetis",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "teslajelly",
+      "to": "thetis",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "manbo",
+      "to": "thetis",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "geso",
+      "to": "hangyo",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "manbo",
+      "to": "hangyo",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "teslajelly",
+      "to": "marindevi",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "geso",
+      "to": "marindevi",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wha",
+      "to": "marinange",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "thetis",
+      "to": "marinange",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "marindevi",
+      "to": "marinange",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "thetis",
+      "to": "ancientmermai",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "marindevi",
+      "to": "ancientmermai",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "hangyo",
+      "to": "ancientmermai",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "wha",
+      "to": "puku",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "thetis",
+      "to": "puku",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "hangyo",
+      "to": "puku",
+      "conditions": {
+        "Trophies": "15+",
+        "Vital Values": "5,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "puyo",
+      "to": "puyoyo",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "puyoyo",
+      "to": "jelly",
+      "conditions": {
+        "text": "No requirements"
+      }
+    }
+  ]
+}

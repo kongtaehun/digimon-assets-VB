@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0",
+  "id": "medarot",
+  "name": "Medarot",
+  "category": "other",
+  "device": "VBDM",
+  "release": "JP: Oct 2021 - Premium Bandai (Included with Medarotch Revival Ver. or standalone)",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbdm/emblem_medarot.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "weatheredmedal",
+      "name": "Weathered Medal",
+      "name_jp": "Weathered Medal",
+      "name_ko": "",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/weatheredmedal/frame1.gif",
+        "frame2": "sprites/weatheredmedal/frame2.gif"
+      },
+      "artwork": "sprites/weatheredmedal/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "medal",
+      "name": "Medal",
+      "name_jp": "Medal",
+      "name_ko": "",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "0 (★)",
+        "hp": "0",
+        "ap": "0"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn NA"
+      },
+      "sprites": {
+        "frame1": "sprites/medal/frame1.gif",
+        "frame2": "sprites/medal/frame2.gif"
+      },
+      "artwork": "sprites/medal/artwork.jpg",
+      "lore": {
+        "en": "A hexagonal metallic object that was excavated from ancient strata and ruins.They each have their own unique will and mind respectively, and even decades after their discovery, they are still shrouded in many mysteries.In addition, other than the natural Medals excavated from ruins, there are also artificial Medals that have been cultivated and manufactured based on them.Digital Monster Vital Bracelet Lab⇨ English太古の地層や遺跡から発掘べれる六角形状の金属体。個々にそれぞれ固有の意志・心が宿っており、発見から数十年経ってもなお、多くの謎に包まれている。また、遺跡から発掘ごれる天然メダルのほかに、それを元に培養して創りだした人工メダルも存在する。デジタルモンスター バイタルブレスラボ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Medal"
+    },
+    {
+      "id": "tinpet",
+      "name": "Tinpet",
+      "name_jp": "Tinpet",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "10 (★1)",
+        "hp": "3",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/tinpet/frame1.gif",
+        "frame2": "sprites/tinpet/frame2.gif"
+      },
+      "artwork": "sprites/tinpet/artwork.jpg",
+      "lore": {
+        "en": "The basic frame of a Medarot.The characteristics of its Muscle Cables, which are its main components, enable flexible movements and allow support for Parts with complex shapes.In addition, there are two types of models; \"Male\" and \"Female\", and Parts are also prepared exclusively for each gender.Digital Monster Vital Bracelet Lab⇨ Englishメダロットの基本フレーム。主要構成部分であるマッスルケーブルの特性により、柔軟な動きと複雑な形状のパーツへの対応が可能となっている。また、「男性型] と「女性型」の2種類のモデルが存在し、パーツも性別ごとに専用のものが用意されている。デジタルモンスター バイタルブレスラボ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Tinpet"
+    },
+    {
+      "id": "grey",
+      "name": "Greymon",
+      "name_jp": "Greymon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/grey/frame1.gif",
+        "frame2": "sprites/grey/frame2.gif"
+      },
+      "artwork": "sprites/grey/artwork.jpg",
+      "lore": {
+        "en": "A Dinosaur Digimon whose cranial skin has hardened so that it is covered in arhinoceros beetle-like shell. It is an extremely aggressive Digimon, with a body like a lethal weapon covered in sharp claws and gigantic horns. However, it is highly intelligent, and if you're able to tame it then there probably isn't any monster as strong. Its Special Move \"Mega Flame\" is spewing extremely high-temperature flames from its mouth and reducing everything to ashes.Digimon Reference Book⇨ English頭部の皮膚が硬化して甲虫のような殻に覆われた恐竜型デジモン。鋭い爪、巨大な角を持った全身凶器のような体で、非常に攻撃的なデジモンである。しかし、知性が高く手なづけることが出来れば恐らくこれほど強いモンスターはいない。必殺技の『メガフレイム』は口から超高熱火炎を吐き出し全てを焼き払う。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Greymon"
+    },
+    {
+      "id": "garuru",
+      "name": "Garurumon",
+      "name_jp": "Garurumon",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "dp": "25 (★5)",
+        "hp": "5",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/garuru/frame1.gif",
+        "frame2": "sprites/garuru/frame2.gif"
+      },
+      "artwork": "sprites/garuru/artwork.jpg",
+      "lore": {
+        "en": "Covered in blue, white, and silver-colored fur, it is a Beast Digimon with an appearance resembling a wolf. That fur is as hard as \"Mithril\", which is said to be a legendary rare metal, and since the blades growing from the tips of its shoulders have sharp edges, anything that touches them is cut to pieces. As it possesses a furious combat instinct and muscles honed in freezing lands, as well as carnivore-like agility and the accuracy to reliably bring down its targets, it is a being feared by other Digimon. However, it is extremely intelligent, and it faithfully obeys those whom it recognizes as its master or leader. Its Special Move is blue, high-temperature flames spewed from its mouth (Fox Fire).Digimon Reference Book⇨ English青白銀色の毛皮に体を覆われた、狼のような姿をした獣型デジモン。その体毛は伝説のレアメタルと言われている「ミスリル」のように硬く、肩口から伸びているブレードは鋭い切れ味を持っており、触れるものを寸断してしまう。極寒の地で鍛えられた筋肉と激しい闘争本能を持ち、肉食獣のような敏捷性と標的を確実に仕留める正確さを持っており、他のデジモンからは恐れられている存在。しかし、知性が非常に高く、主人やリーダーと認めた者に対しては忠実に従う。必殺技は口から吐き出す高熱の青い炎『フォックスファイアー』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Garurumon"
+    },
+    {
+      "id": "metabee_p",
+      "name": "Metabee (Head and Arm)",
+      "name_jp": "Metabee (Head and Arm)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "6",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/metabee_p/frame1.gif",
+        "frame2": "sprites/metabee_p/frame2.gif"
+      },
+      "artwork": "sprites/metabee_p/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "rokusho_p",
+      "name": "Rokusho (Head and Arm)",
+      "name_jp": "Rokusho (Head and Arm)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "20 (★4)",
+        "hp": "6",
+        "ap": "2"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/rokusho_p/frame1.gif",
+        "frame2": "sprites/rokusho_p/frame2.gif"
+      },
+      "artwork": "sprites/rokusho_p/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "greywars",
+      "name": "Grey Wars",
+      "name_jp": "Grey Wars",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Active",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/greywars/frame1.gif",
+        "frame2": "sprites/greywars/frame2.gif"
+      },
+      "artwork": "sprites/greywars/artwork.jpg",
+      "lore": {
+        "en": "A mysterious Medarot with a dragon warrior as its motif.It is said to have been developed with reference to the data of a \"certain game\".It is an aircraft which excels in both offense and defense that protects itself from any attack with its Head Part, and unleashes attacks where it charges its Arm Parts, which resemble enormous claws, with energy.Digital Monster Vital Bracelet Lab⇨ English竜戦士をモチーフとした謎のメダロット。”とあるゲーム”のデータを参考に開発されたといわれている。頭部パーツであらゆる攻撃を防ぎ、強大な爪を模した両腕パーツでエネルギーを込めた攻撃をくりだす、攻守ともに優れた機体。デジタルモンスター バイタルブレスラボ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Grey_Wars"
+    },
+    {
+      "id": "garurumetal",
+      "name": "Garuru Metal",
+      "name_jp": "Garuru Metal",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "35 (★7)",
+        "hp": "12",
+        "ap": "4"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/garurumetal/frame1.gif",
+        "frame2": "sprites/garurumetal/frame2.gif"
+      },
+      "artwork": "sprites/garurumetal/artwork.jpg",
+      "lore": {
+        "en": "A mysterious Medarot that resembles a metallized wolf.It is said to have been developed with reference to the data of a \"certain game\".Once in battle, it stops the opponent's movements with cold air atabsolute zero, and performs merciless attacks that finish them off by dishing out countless missile attacks.Digital Monster Vital Bracelet Lab⇨ Englishメダル化した狼を思わせる謎のメダロット。”とあるゲーム”のデータを参考に開発されたといわれている。ひとたび戦闘となれば、絶対零度の冷気で相手の動きを止め、無数のミサイル攻撃を叩き込んでとどめをさす容赦のない攻撃を行う。デジタルモンスター バイタルブレスラボ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Garuru_Metal"
+    },
+    {
+      "id": "metabee",
+      "name": "Metabee",
+      "name_jp": "Metabee",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/metabee/frame1.gif",
+        "frame2": "sprites/metabee/frame2.gif"
+      },
+      "artwork": "sprites/metabee/artwork.jpg",
+      "lore": {
+        "en": "Formally named \"Metal Beetle\". It is an old-generation Rhinoceros Beetle-type Medarot that was developed when Medarots were first released. It is a standard shooting-oriented type that does not have outstanding strength but the balance of its Parts shines.Its Special Move is concentrating the power of all its shooting Parts using the potential hidden within its Medal, and launching a powerful blow (Isseishageki).Digimon ReArise⇨ English正式名称「メタルビートル」。 メダロット発売当初に開発された、旧世代のカブトムシ型メダロット。ずば抜けた強さはないがパーツのバランスが光るスタンダードな射撃重視タイプ。必殺技は、メダルに秘められた潜在能力により、すべての射撃パーツの威力を結集して強力な一撃を発射する『一斉射撃』。デジモンリアライズ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Metabee"
+    },
+    {
+      "id": "rokusho",
+      "name": "Rokusho",
+      "name_jp": "Rokusho",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Free",
+      "activity": "Indoor",
+      "stats": {
+        "dp": "30 (★6)",
+        "hp": "10",
+        "ap": "3"
+      },
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/rokusho/frame1.gif",
+        "frame2": "sprites/rokusho/frame2.gif"
+      },
+      "artwork": "sprites/rokusho/artwork.jpg",
+      "lore": {
+        "en": "Formally named \"Head Scissors\". It is an old-generation Stag Beetle-type Medarot that was developed when Medarots were first released. It is a standard fighting-oriented type that does not have outstanding strength but the balance of its Parts shines.Its Special Move is concentrating the power of all its fighting Parts using the potential hidden within its Medal, and unleashing a powerful blow (Karatakewari).Digimon ReArise⇨ English正式名称『ヘッドシザース』。メダロット発売当初に開発された、旧世代のクワガタムシ型メダロット。ずば抜けた強さはないがパーツのバランスが光るスタンダードな格闘重視タイプ。必殺技は、メダルに秘められた潜在能力により、すべての格闘パーツの威力を結集して強力な一撃を放つ『カラタケワリ』。デジモンリアライズ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rokusho"
+    },
+    {
+      "id": "omegaknight",
+      "name": "Omega Knight",
+      "name_jp": "Omega Knight",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Free",
+      "activity": "Normal",
+      "stats": {
+        "dp": "60 (★10)",
+        "hp": "15",
+        "ap": "7"
+      },
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/omegaknight/frame1.gif",
+        "frame2": "sprites/omegaknight/frame2.gif"
+      },
+      "artwork": "sprites/omegaknight/artwork.jpg",
+      "lore": {
+        "en": "A mysterious Medarot with the appearance of a holy knight.It is said to have been developed with reference to the data of a \"certain game\".During battle, it deploys the gun muzzle and greatsword that are built into both of its arms. It boasts of overwhelming abilities that wipe out countless enemies in an instant.Digital Monster Vital Bracelet Lab⇨ English聖騎士の姿をした謎のメダロット。“とあるゲーム”のデータを参考に開発されたといわれている。戦闘時には、両腕に内蔵された銃口と大剣を展開。無数の敵を一瞬で残滅する圧倒的な性能を誇る。デジタルモンスター バイタルブレスラボ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Omega_Knight"
+    },
+    {
+      "id": "omeda",
+      "name": "Omedamon",
+      "name_jp": "Omedamon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Stoic",
+      "stats": {
+        "dp": "50 (★9)",
+        "hp": "14",
+        "ap": "6"
+      },
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
+      },
+      "sprites": {
+        "frame1": "sprites/omeda/frame1.gif",
+        "frame2": "sprites/omeda/frame2.gif"
+      },
+      "artwork": "sprites/omeda/artwork.jpg",
+      "lore": {
+        "en": "An unidentified Holy Mechanical Warrior Digimon that wandered from theDigital Worldof another dimension. It was born from the data of a \"certain game\" that was popular at the end of the20th centuryin that other dimension. It has the courage to face any difficulty without backing down.Its armor, known as \"Cyplasium Digizoid\"[N 1], a super-metal with a nanomachine self-repair feature, allows it to fully recover from any damage sustained in combat before the next battle. Also, it is equipped with a beam-shaped cape on its back reminiscent of worn pieces of cloth.Its Special Moves are \"Beetle Cannon\", the weapon on its left arm that shoots at the enemy with a volley fire, and \"Scissors Sword\", the sword on its right arm that splits any enemy in two.Digimon Reference Book⇨ English別次元のデジタルワールドから迷い込んだ正体不明の聖機士デジモン。20世紀末に別次元で流行した“とあるゲーム”のデータから生まれた。どんな困難にも屈せずに立ち向かう勇気を持つ。ナノマシンによる自己修復機能を備えた超金属「サイプラシウムデジゾイド」と呼ばれる装甲は、戦闘で受けたダメージを次戦までに完全回復することができる。また、背中には古びた布切れを思わせるビーム状のマントを装備している。必殺技は、一斉射撃で敵を撃つ左腕の武器『ビートルキャノン』と、どんな敵をも唐竹割りする右腕の剣『シザースソード』。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Omedamon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "tinpet",
+      "to": "grey",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "1,300+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tinpet",
+      "to": "garuru",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "900+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tinpet",
+      "to": "metabee_p",
+      "conditions": {
+        "Trophies": "5+",
+        "Vital Values": "600+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "tinpet",
+      "to": "rokusho_p",
+      "conditions": {
+        "Trophies": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "greywars",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "garurumetal",
+      "conditions": {
+        "Trophies": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "metabee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "metabee",
+      "conditions": {
+        "Trophies": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "grey",
+      "to": "rokusho",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "garuru",
+      "to": "rokusho",
+      "conditions": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "greywars",
+      "to": "omeda",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "garurumetal",
+      "to": "omeda",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "metabee",
+      "to": "omeda",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "rokusho",
+      "to": "omeda",
+      "conditions": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    },
+    {
+      "from": "weatheredmedal",
+      "to": "medal",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "medal",
+      "to": "tinpet",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "metabee_p",
+      "to": "metabee",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metabee_p",
+      "to": "rokusho",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "rokusho_p",
+      "to": "metabee",
+      "conditions": {
+        "text": "10+ Trophies, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "rokusho_p",
+      "to": "rokusho",
+      "conditions": {
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "greywars",
+      "to": "omegaknight",
+      "conditions": {
+        "text": "Jogress with Garuru Metal"
+      }
+    }
+  ]
+}

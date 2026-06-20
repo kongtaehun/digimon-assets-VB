@@ -1,0 +1,42 @@
+{
+  "id": "peacock",
+  "name": "Peacockmon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/peacock.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/peacock.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/peacock.jpg",
+  "appearances": [
+    {
+      "dim_id": "fairi_ex",
+      "dim_name": "Fairimon EX",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Peacockmon",
+    "name_en": "Peacockmon",
+    "attribute": "Free",
+    "stage_text": "Stage V (Perfect)",
+    "stats": {
+      "dp": "30 (★)",
+      "hp": "7",
+      "ap": "4"
+    },
+    "schedule": {
+      "awake_hours": "",
+      "critical_hit": "Turn"
+    },
+    "evolves_from": [],
+    "evolves_to": []
+  }
+}

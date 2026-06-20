@@ -1,0 +1,78 @@
+{
+  "id": "hydra",
+  "name": "Hydramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/hydra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/hydra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/hydra.jpg",
+  "appearances": [
+    {
+      "dim_id": "hju",
+      "dim_name": "Hermit in the Jungle",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "blosso",
+        "toropia",
+        "archne"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "7,000+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Hydramon",
+    "name_en": "Hydramon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Indoor",
+    "stats": {
+      "dp": "55 (★9)",
+      "hp": "22",
+      "ap": "6"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "blosso",
+        "name": "Blossomon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "toropia",
+        "name": "Toropiamon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "archne",
+        "name": "Archnemon",
+        "conditions": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "ajatar",
+        "name": "Ajatarmon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "jewelbee",
+        "name": "Jewelbeemon",
+        "conditions": "Stage 15 cleared, Jogress with Virus Perfect"
+      },
+      {
+        "id": "lili",
+        "name": "Lilimon",
+        "conditions": "Stage 15 cleared, Jogress with Vaccine or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

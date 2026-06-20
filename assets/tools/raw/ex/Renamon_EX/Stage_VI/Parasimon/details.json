@@ -1,0 +1,74 @@
+{
+  "id": "parasi",
+  "name": "Parasimon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/parasi.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/parasi.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/parasi.jpg",
+  "appearances": [
+    {
+      "dim_id": "rena_ex",
+      "dim_name": "Renamon EX",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "15+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Parasimon",
+    "name_en": "Parasimon",
+    "attribute": "Virus",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Lazy",
+    "stats": {
+      "dp": "50 (★8)",
+      "hp": "10",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "10:00 - 22:00",
+      "critical_hit": "Turn 5"
+    },
+    "evolves_from": [
+      {
+        "id": "vikarala",
+        "name": "Vikaralamon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "catura",
+        "name": "Caturamon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "indara",
+        "name": "Indaramon",
+        "conditions": "15+ Trophies, 4,500+ Vital Values, 15+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "kumbhira",
+        "name": "Kumbhiramon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "tao",
+        "name": "Taomon",
+        "conditions": "Jogress with Virus Perfect"
+      },
+      {
+        "id": "dou",
+        "name": "Doumon",
+        "conditions": "Jogress with Virus Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

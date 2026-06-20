@@ -1,0 +1,62 @@
+{
+  "id": "lighdra",
+  "name": "Lighdramon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/lighdra.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/lighdra.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/lighdra.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwy",
+      "dim_name": "D-3 White and Yellow",
+      "stage": "IV"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "v"
+      ],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Lighdramon",
+    "name_en": "Raidramon",
+    "attribute": "Free",
+    "stage_text": "Stage IV (Adult)",
+    "activity": "Normal",
+    "stats": {
+      "bp": "5200",
+      "hp": "3400",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Normal",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "v",
+        "name": "V-mon",
+        "conditions": "Choose one:"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "holyange",
+        "name": "Holy Angemon",
+        "conditions": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "paildra",
+        "name": "Paildramon",
+        "conditions": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    ]
+  }
+}

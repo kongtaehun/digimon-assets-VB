@@ -1,0 +1,65 @@
+{
+  "id": "metalgrey_vi_d",
+  "name": "Metal Greymon (Virus)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/metalgrey_vi_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/metalgrey_vi_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/metalgrey_vi.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "V"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Metal Greymon (Virus)",
+    "name_en": "MetalGreymon (Virus)",
+    "attribute": "Virus",
+    "stage_text": "Stage V (Perfect)",
+    "activity": "Indoor",
+    "stats": {
+      "bp": "5400",
+      "hp": "5100",
+      "ap": "1500"
+    },
+    "schedule": {
+      "activity_type": "Indoor",
+      "critical_hit": "Turn 4"
+    },
+    "evolves_from": [
+      {
+        "id": "grey_d",
+        "name": "Greymon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "airdra_d",
+        "name": "Airdramon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "devi_d",
+        "name": "Devimon",
+        "conditions": "12+ PP, 2,500+ Vital Values, 20+ Battles, 50%+ Win Ratio"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "blitzgrey_d",
+        "name": "Blitz Greymon",
+        "conditions": "15+ PP, 3,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    ]
+  }
+}

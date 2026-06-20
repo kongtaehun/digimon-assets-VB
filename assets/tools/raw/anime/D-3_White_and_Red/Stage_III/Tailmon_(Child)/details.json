@@ -1,0 +1,67 @@
+{
+  "id": "tail_c",
+  "name": "Tailmon (Child)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/tail_c.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/tail_c.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/tail_c.jpg",
+  "appearances": [
+    {
+      "dim_id": "dwr",
+      "dim_name": "D-3 White and Red",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "poro"
+      ],
+      "requirements": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Tailmon (Child)",
+    "name_en": "Gatomon (Rookie)",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "4900",
+      "hp": "3300",
+      "ap": "1100"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "poro",
+        "name": "Poromon",
+        "conditions": "3+ PP, 500+ Vital Values"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "aquila",
+        "name": "Aquilamon",
+        "conditions": "12+ PP, 1,500+ Vital Values, 10+ Battles"
+      },
+      {
+        "id": "tail",
+        "name": "Tailmon",
+        "conditions": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      },
+      {
+        "id": "neferti",
+        "name": "Nefertimon",
+        "conditions": "8+ PP, 1,000+ Vital Values, 5+ Battles"
+      }
+    ]
+  }
+}

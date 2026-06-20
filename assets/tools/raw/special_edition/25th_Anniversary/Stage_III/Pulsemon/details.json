@@ -1,0 +1,56 @@
+{
+  "id": "pulse_d",
+  "name": "Pulsemon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/pulse_d.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/pulse_d.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/pulse.jpg",
+  "appearances": [
+    {
+      "dim_id": "25th",
+      "dim_name": "25th Anniversary",
+      "stage": "III"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 3 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Pulsemon",
+    "name_en": "Pulsemon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage III (Child)",
+    "activity": "Active",
+    "stats": {
+      "bp": "4800",
+      "hp": "2700",
+      "ap": "1000"
+    },
+    "schedule": {
+      "activity_type": "Active",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "bibi_d",
+        "name": "Bibimon",
+        "conditions": "Stage 3 cleared, No requirements"
+      }
+    ],
+    "evolves_to": [
+      {
+        "id": "bulk_d",
+        "name": "Bulkmon",
+        "conditions": "Stage 6 cleared, 12+ PP, 1,500+ Vital Values, 10+ Battles"
+      }
+    ]
+  }
+}

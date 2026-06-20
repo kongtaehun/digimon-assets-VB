@@ -1,0 +1,78 @@
+{
+  "id": "heavyleo",
+  "name": "Heavy Leomon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/heavyleo.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/heavyleo.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/heavyleo.jpg",
+  "appearances": [
+    {
+      "dim_id": "nme",
+      "dim_name": "Nu Metal Empire",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "loaderlio",
+        "metalmame",
+        "rebelli"
+      ],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Heavy Leomon",
+    "name_en": "HeavyLeomon",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "16",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "loaderlio",
+        "name": "Loader Liomon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "metalmame",
+        "name": "Metal Mamemon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "rebelli",
+        "name": "Rebellimon",
+        "conditions": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      },
+      {
+        "id": "atlurballista",
+        "name": "Atlur Ballistamon",
+        "conditions": "Jogress with Data or Free Perfect"
+      },
+      {
+        "id": "loco",
+        "name": "Locomon",
+        "conditions": "Jogress with Vaccine or Free Perfect"
+      },
+      {
+        "id": "metalgrey_2010",
+        "name": "Metal Greymon (2010)",
+        "conditions": "Jogress with Vaccine Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

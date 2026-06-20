@@ -1,0 +1,73 @@
+{
+  "id": "death_b",
+  "name": "Deathmon (Black)",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/death_b.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/death_b.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/death_b.jpg",
+  "appearances": [
+    {
+      "dim_id": "espi",
+      "dim_name": "Espimon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "digitama",
+        "rarerare",
+        "manticore"
+      ],
+      "requirements": {
+        "Trophies": "20+",
+        "Vital Values": "5,000+",
+        "Battles": "20+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Deathmon (Black)",
+    "name_en": "Ghoulmon (Black)",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Active",
+    "stats": {
+      "dp": "50 (★9)",
+      "hp": "12",
+      "ap": "7"
+    },
+    "schedule": {
+      "awake_hours": "08:00 - 20:00",
+      "critical_hit": "Turn 2"
+    },
+    "evolves_from": [
+      {
+        "id": "digitama",
+        "name": "Digitamamon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "rarerare",
+        "name": "Rare Raremon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "manticore",
+        "name": "Manticoremon",
+        "conditions": "20+ Trophies, 5,000+ Vital Values, 20+ Battles, 70%+ Win Ratio"
+      },
+      {
+        "id": "raijiludo",
+        "name": "Raiji Ludomon",
+        "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+      },
+      {
+        "id": "piccolo",
+        "name": "Piccolomon",
+        "conditions": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

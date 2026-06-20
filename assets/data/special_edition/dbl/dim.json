@@ -1,0 +1,1021 @@
+{
+  "schema_version": "1.0",
+  "id": "dbl",
+  "name": "Draconic Blaze",
+  "category": "special_edition",
+  "device": "VBBE",
+  "release": "JP: Apr 2023 - Retail",
+  "emblem_url": "https://humulos.com/digimon/images/dot/vbbe/emblem_be_dbl.png",
+  "digitama": "digitama.gif",
+  "stages": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "digimon": [
+    {
+      "id": "petit",
+      "name": "Petitmon",
+      "name_jp": "Petitmon",
+      "name_ko": "쁘띠몬",
+      "stage": "I",
+      "stage_text": "Stage I (Baby I)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/petit/frame1.gif",
+        "frame2": "sprites/petit/frame2.gif"
+      },
+      "artwork": "sprites/petit/artwork.jpg",
+      "lore": {
+        "en": "A Slime Digimon that possesses large horns and tiny wings. As its body is extremely light, it lives constantly floating through the air, and maintains its posture in the air by blowing air from its wings and mouth. Although it usually has a cheerful personality, if the three scales on its belly are touched, it goes into an extremely bad mood. When bodily harm draws near, it spits its \"Atsui Toiki\" to surprise the opponent, while simultaneously using it as propulsive force to quickly flee, so it's not easy to catch.Digimon Reference Book⇨ English大きな角と小さな翼を持つスライム型デジモン。体が非常に軽く、常に空中に浮いた状態で生活しており、翼と口から吐く吐息で空中の姿勢を維持している。普段は陽気な性格だが、お腹に３枚の鱗を持っており、ここに触れられると極端に機嫌が悪くなってしまう。身に危険が迫ると「熱い吐息」を吐いて相手を驚かせると同時に、その吐息を推進力にしてすばやく逃げてしまうため捕まえるのは容易ではない。デジモン図鑑",
+        "ko": "커다란 뿔과 작은 날개를 가진 슬라임형 디지몬. 몸이 매우 가벼워 항상 공중에 떠있는 상태로 생활하며, 날개와 입에서 토해낸 숨결로 몸을 띄워 공중에서 떨어지지 않게한다. 보통은 밝은 성격이지만 배에 난 세 장의 비늘을 건드리면 극단적으로 기분이 나빠지고 만다. 몸에 위험이 느껴지면 '뜨거운 숨결'을 토해 상대를 놀라게 하는 동시에 그 숨결을 추진력으로 해 재빨리 도망치므로 포획하는 건 매우 힘들다. 1."
+      },
+      "wikimon_url": "https://wikimon.net/Petitmon"
+    },
+    {
+      "id": "babyd",
+      "name": "Babydmon",
+      "name_jp": "Babydmon",
+      "name_ko": "베이비드몬",
+      "stage": "II",
+      "stage_text": "Stage II (Baby II)",
+      "attribute": "Free",
+      "activity": "",
+      "stats": {
+        "bp": "",
+        "hp": "",
+        "ap": ""
+      },
+      "schedule": {
+        "activity_type": "",
+        "critical_hit": "N/A"
+      },
+      "sprites": {
+        "frame1": "sprites/babyd/frame1.gif",
+        "frame2": "sprites/babyd/frame2.gif"
+      },
+      "artwork": "sprites/babyd/artwork.jpg",
+      "lore": {
+        "en": "A Baby Dragon Digimon whose body bears a striking resemblance to a dragon. While this Digimon was only discovered recently, it has been made clear through data analysis that it contains a program code specific to ancient Digimon, and that it is related to the long-lost, ancient species of Digimon. Babydmon is ferocious despite its small size, and anyone who makes careless movements in front of it will get blown at with the high temperature gas formed within its body (Hot Gas). Aside from the heat,Hot Gasis also made up of pungent elements, so it is recommended that one washes their eyes with water promptly should any gas enter their eyes.Digimon Reference Book⇨ English竜の面影を色濃くその体に宿した幼竜型デジモン。最近発見されたデジモンであるがデータ解析の結果、古代デジモン特有のプログラムコードを持っていることが判明し、失われた古代種デジモンに該当することが分かってきた。小さいながらに獰猛であり、ベビドモンの前で不用意な動きをしてしまうと体内で生成した高温のガス『ホットガス』を吹きかけられてしまう。『ホットガス』熱さ以外にも辛味成分を含有しているので、目に入った場合は速やかに水で洗い流すことをオススメする。デジモン図鑑",
+        "ko": "용의 특성을 몸 깊숙히 감춘 유룡형 디지몬. 최근 발견된 디지몬이지만 데이터 해석의 결과 고대 디지몬 특유의 프로그램 코드를 갖고 있다는 것이 판명되어 잃어버린 고대종 디지몬 에 해당한다는 것이 밝혀졌다. 작으면서도 영맹하며 베이비드몬의 앞에서 수상한 움직임을 보이면 체내에서 생성한 고온의 가스 '핫 가스'를 토해내고 만다. '핫 가스'는 뜨거움 이외에도 매운맛 성분을 함유하고 있으므로 눈에 들어갔을 경우 빨리 흐르는 물로 씻는 것이 중요하다."
+      },
+      "wikimon_url": "https://wikimon.net/Babydmon"
+    },
+    {
+      "id": "agu_2006",
+      "name": "Agumon (2006)",
+      "name_jp": "Agumon (2006)",
+      "name_ko": "",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4500",
+        "hp": "3300",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/agu_2006/frame1.gif",
+        "frame2": "sprites/agu_2006/frame2.gif"
+      },
+      "artwork": "sprites/agu_2006/artwork.jpg",
+      "lore": {
+        "en": "",
+        "ko": ""
+      },
+      "wikimon_url": ""
+    },
+    {
+      "id": "draco",
+      "name": "Dracomon",
+      "name_jp": "Dracomon",
+      "name_ko": "드라코몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4800",
+        "hp": "3000",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/draco/frame1.gif",
+        "frame2": "sprites/draco/frame2.gif"
+      },
+      "artwork": "sprites/draco/artwork.jpg",
+      "lore": {
+        "en": "An ancient, pure-blooded Dragon Digimon that is said to be the \"Progenitor\" of allDramon-type Digimon. It possesses physical ability to a degree that could not be imagined from its small build, and both its power and its quick wits are top class among Child Digimon. Although its personality is ferocious, Dracomon can show its gentle side only to the others it has recognized. It has wings, but it is unable to fly because they are not sufficiently developed. Also, it has a nature whose primary trait is wanting to collect \"shiny things\", with an especially strange attachment to gems and metals, and it eats and assimilates its favorite things. Its Special Moves are breathing out a high temperature sigh at the opponent (Baby Breath), and spinning its whole body to deliver a blow with its tail (Tail Smash). Amongst the scales that cover Dracomon's whole body, there is one scale that is called the \"Gekirin\". If it is touched there, Dracomon loses its mind to an excess of anger, and indiscriminately fires its \"G Shurunen\", a beam shot in which it makes the horns on its head glow intensely, then fires from its mouth.Digimon Reference Book⇨ Englishすべてのドラモンタイプのデジモンの「祖」であるといわれている古の純血竜型デジモン。小柄な体躯からは想像できないほどの身体能力を持ち、力・俊敏性ともに成長期デジモンの中でもトップクラスである。性格は非常に獰猛であるが、ドラコモンが認めた相手のみ従順な一面を見せることがある。翼を持っているが、発育が不十分であるため飛ぶことはできない。また、大きな特徴として「光るモノ」を収集したがる性質を持っており、特に宝石や金属類には異常な執着があり、気に入ったものは食べて摂取してしまう。必殺技は、高温の吐息を相手に吹きかける『ベビーブレス』と全身を回転させシッポで打撃を与える『テイルスマッシュ』。ドラコモンの全身を覆う鱗のうち一枚は「逆鱗」といわれるウロコがある。ここに触れてしまうとドラコモンは怒りのあまり意識を失い、頭部の角を激しく発光させた後に口から放つビーム弾『ジ・シュルネン』を無差別に放ってしまう。デジモン図鑑",
+        "ko": "모든 드라몬 타입 디지몬의 조상이라고 전해지는 고대의 순혈 용형 디지몬. 작은 체구로는 상상조차 못 했을 엄청난 신체능력을 가져 힘, 민첩성 등 모든 면에서 성장기 디지몬 중에서도 탑 클래스에 속한다. 성격은 비상히 영민하지만, 드라코몬이 인정한 상대의 경우 순순히 따르는 일면을 볼 수도 있다. 날개가 있지만 발육상태가 충분치 못하므로 날 수는 없다. 또 큰 특징으로서 \"빛나는 것\", 특히 보석이나 금속류에 대단한 집착을 보여 갖고 싶다고 생각하면 바로바로 수집해버리려는 습성을 가지고 있다. 필살기는, 고온의 숨결을 상대에게 토해내는 \"베이비 브레스\"와 전신을 회전시켜 꼬리로 후려치는 \"테일 스매쉬\". 드라코몬의 전신을 덮고 있는 비늘 중 한 장은 \" 역린 \"이라고 하는데, 이것을 건드릴 경우 분노로 이성을 잃어 머리의 뿔이 강하게 발광하면서 입에서 \"디 슈르넨\"이라는 광선을 무작위로 뿜어버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Dracomon"
+    },
+    {
+      "id": "hack",
+      "name": "Hackmon",
+      "name_jp": "Hackmon",
+      "name_ko": "헉몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5200",
+        "hp": "2950",
+        "ap": "1000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/hack/frame1.gif",
+        "frame2": "sprites/hack/frame2.gif"
+      },
+      "artwork": "sprites/hack/artwork.jpg",
+      "lore": {
+        "en": "A Small Dragon Digimon that shines a cool white. Its unfettered and restraint-hating, adventure-loving way of life is likely due toGankoomon's DNA. It faces the rigorous trials imposed by Gankoomon with an air of composure. It has a masterful sense of combat due to its lineage, and because of its training with its chaperones, theSistermonsisters, it can more than hold its own in battle against its opponents even if they're a Perfect. It specializes in close combat that capitalizes on its keenness, cutting the opponent to pieces with its sturdy claws (Fif Slash), rotating its tail like a drill and thrusting it into the opponent (Teen Ram), and spewing \"Baby Flame\" from its mouth, which is also usable as a diversion. It follows its dreams of becoming aRoyal Knightlike Gankoomon as it fights through continuous battles.Digimon Reference Book⇨ Englishクールホワイトに輝く小竜型デジモン。自由気ままで束縛を厭い、冒険を好む生き方はガンクゥモンのＤＮＡによるものであろう。ガンクゥモンの課す過酷な試練にも悠然と立ち向かっていく。血筋からの戦闘センスのよさと、お目付け役のシスタモン姉妹の鍛錬により、敵が完全体であろうとも互角以上の戦いをする。俊敏さを活かした接近戦を得意とし、強靭の爪で相手を切り裂く『フィフスラッシュ』、尻尾をドリルのように回転し突っ込む『ティーンラム』、また牽制にも使える『ベビーフレイム』を口から吐く。歴戦を潜りつつガンクゥモンのようなロイヤルナイツになる夢を目指す。デジモン図鑑",
+        "ko": "쿨화이트로 빛나는 소룡형 디지몬. 자유롭고 마음대로 행동하며 속박을 거부하고, 모험을 즐기는 삶의 방식은 간쿠몬 의 DNA 에 의한 것이다. 간쿠몬이 내리는 가혹한 시련에도 유연하게 대처해 나간다. 혈통에 의한 전투 센스와 동시에, 보모 역인 시스터몬 자매의 단련에 의해, 적이 완전체라도 호각 이상으로 싸울 수 있다 . 준민함을 살린 접근전이 특기이며, 강인한 발톱으로 적을 베어가르는 \"피프 슬래시\", 꼬리를 드릴처럼 회전시켜 돌진 하는 \"틴 램\" [4] , 또한 견제에도 사용하는 \"베이비 플레임\"을 입에서 토해낸다. 역전의 용사인 간쿠몬 같은 로얄 나이츠 가 되는 꿈을 노리고 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Hackmon"
+    },
+    {
+      "id": "gumdra",
+      "name": "Gumdramon",
+      "name_jp": "Gumdramon",
+      "name_ko": "가무드라몬",
+      "stage": "III",
+      "stage_text": "Stage III (Child)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5300",
+        "hp": "3000",
+        "ap": "950"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/gumdra/frame1.gif",
+        "frame2": "sprites/gumdra/frame2.gif"
+      },
+      "artwork": "sprites/gumdra/artwork.jpg",
+      "lore": {
+        "en": "A Digimon which possesses a flexibleShippodzuchithat can extend anywhere. Its body is also very soft and elastic, and it moves around dynamically using its whole body like a spring. It is also able to fly at its running speed with its tiny wings. Its personality is very mischievous, so it's a showoff. In order to attract attention, it dives right in the middle of any kind of dangerous situation and rages around, not stopping until it stands out from everyone. Its potential is concealing its considerable, unfathomable power, but is inhibited by the \"Kinkoji\" it wears on its tail. Its Special Moves are freely wielding itsShippodzuchias a hammer (Ran-gum Break), swinging down its super-sizedShippodzuchiwhile carrying out a forward handspring (Jacked Hammer), and a single blow struck with itsShippodzuchiwhile performing continuous forward somersaults at high speed to generate flames (Fire Vortex).Digimon Reference Book⇨ English伸縮自在でどこまでもしなやかな尻尾槌（しっぽづち）を持つデジモン。体がとても柔らかく弾力性もあり、全身をバネのように使ってダイナミックに動き回る。小さな羽で走る程度のスピードで飛行もできる。性格はとてもやんちゃで目立ちたがり。目立つためならどんな危険な場面でもど真ん中に飛び込み暴れまくり、誰よりも目立つまで止まらない。潜在能力は計り知れずかなりの力を秘めているのだが、尻尾につけられた「緊箍児（きんこじ）」により抑制されている。必殺技はハンマーとなる尻尾槌を縦横無尽に振り回す『ランガムブレイク』、前転跳びしつつ巨大化させた尻尾槌を振り下ろす『ジャックドハンマー』、高速で連続前転し炎を起こした尻尾槌で攻撃する一撃『ファイアーボルテクス』。デジモン図鑑",
+        "ko": "신축 자재로 어디까지나 유연한 “꼬리 망치”를 가진 디지몬. 몸이 매우 부드럽고 탄력성도 있어, 전신을 용수철과 같이 사용해 다이나믹하게 돌아다닌다. 작은 날개로 달리는 정도의 스피드로 비행도 할 수 있다. 성격은 매우 응석받이로 눈에 띄고 싶어한다. 눈에 띄기 위해서라면 어떠한 위험한 장소에서도 한가운데에 뛰어들어 마구 날뛰어, 누구보다 눈에 띌 때까지 멈추지 않는다. 잠재 능력은 헤아릴 수 없이 상당한 힘을 지니고 있지만, 꼬리에 붙은 긴고아 에 의해 억제되고 있다. 필살기는 해머가 되는 꼬리 망치를 종횡무진 휘두르는 “란가무 브레이크”, 앞으로 뒹굴면서 거대화시킨 꼬리 망치를 내리치는 “잭드 해머”, 고속으로 연속해서 앞으로 굴러 불꽃을 일으킨 꼬리 망치로 공격하는 일격 “파이어 볼텍스”."
+      },
+      "wikimon_url": "https://wikimon.net/Gumdramon"
+    },
+    {
+      "id": "geogrey",
+      "name": "Geo Greymon",
+      "name_jp": "Geo Greymon",
+      "name_ko": "지오그레이몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "3800",
+        "hp": "3600",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/geogrey/frame1.gif",
+        "frame2": "sprites/geogrey/frame2.gif"
+      },
+      "artwork": "sprites/geogrey/artwork.jpg",
+      "lore": {
+        "en": "A unique Digimon that is conjectured to be a subspecies ofGreymon. Its entire body as well as the carapace on its head have also developed to become like lethal weapons, giving it a more aggressive appearance. Its Special Move \"Mega Flame\" is spewing ultra-high-temperature flames from its mouth and reducing everything to ashes. It can also charge its \"Mega Flame\" to the limit within its mouth, then fire it with explosive power as \"Mega Burst\". Furthermore, its \"Horn Impulse\", in which it charges with its gigantic horns and pulverizes the opponent, is also a powerful attack.Digimon Reference Book⇨ Englishグレイモンの亜種と推測される特殊なデジモン。頭部の甲殻や体も全身凶器の様に発達し、より攻撃的な姿となっている。必殺技の『メガフレイム』は口から超高熱火炎を吐き出し全てを焼き払う。また、『メガフレイム』を口内で極限まで高め爆発的な威力を持つ『メガバースト』を放つ。さらに、巨大な角で突進して敵を粉砕する『ホーンインパルス』も強力な攻撃である。デジモン図鑑",
+        "ko": "그레이몬 의 아종 이라고 추정되는 특수한 디지몬. 두부의 갑각이나 몸이 전신흉기처럼 발달해 좀 더 공격적인 모습이 되었다. 필살기인 『메가 플레임』은 입에서 초고열의 화염을 토해내 모든 것을 다 태워버린다. 또, 『메가 플레임』을 입 안에서 극한까지 모아 폭발적인 위력을 단번에 내뿜는 『메가 버스트』도 사용한다. [4] 거기에 거대한 뿔을 돌진해 적에게 박는 『혼 임펄스』도 강력한 공격이다."
+      },
+      "wikimon_url": "https://wikimon.net/Geo_Greymon"
+    },
+    {
+      "id": "coredra_b",
+      "name": "Coredramon (Blue)",
+      "name_jp": "Coredramon (Blue)",
+      "name_ko": "",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "3300",
+        "ap": "1100"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/coredra_b/frame1.gif",
+        "frame2": "sprites/coredra_b/frame2.gif"
+      },
+      "artwork": "sprites/coredra_b/artwork.jpg",
+      "lore": {
+        "en": "Digimon bearing the name \"Dramon\" always have Dragon-factor data in theirDigicore, and the higher the percentage of that data, the more the shape of their body resembles a Dragon-type, but Coredramon's Dragon-factor data has reached 100%, so it is undoubtedly a pure-blooded Dragon Digimon. The blue-skinned Coredramon is said to be the evolved form of aDracomonthat ingested large quantities of a rare gem called \"BlueDiamante\", which is mined only in mountainous regions with very high altitudes, and is able to fly at high speed with its developed wings to survive in the steep mountains. Its Special Moves are unleashing a scorching breath that shines blue (Blue Flare Breath), and using its powerful tail to deliver a bitter blow to the opponent (Strike Bomber). \"Blue Flare Breath\" is effective at decomposing the texture data covering the surface of a Digimon's body, so Digimon that suffer this breath will be susceptible to attacks on their exposed Digicores. Like Dracomon, it has a scale referred to as the \"Gekirin\", and if it is touched there, it loses its mind to an excess of anger, and indiscriminately fires its \"G Shurunen-II\", a diverging laser beam in which it makes the horns on its head glow intensely, then fires from its mouth.Digimon Reference Book⇨ English「ドラモン」の名を冠するデジモンにはデジコアに必ず竜因子のデータを有しており、その竜因子データの割合が高ければ高いほど体の形状が竜型になっていくが、コアドラモンの竜因子データ割合は100％となっており、まさしく純血の竜型デジモンである。体表が青いコアドラモンは、標高の非常に高い山岳地域だけで採掘される「ブルーディアマンテ」と呼ばれる希少な宝石を多量に摂取したドラコモンが進化した姿といわれており、険しい山々で生き延びるための発達した翼で高速な飛行を行うことが出来る。必殺技は、青色に輝く灼熱のブレスを放つ『ブルーフレアブレス』と強靭な尻尾を使って相手に痛恨の打撃を与える『ストライクボマー』。『ブルーフレアブレス』はデジモンの体表を覆うテクスチャーデータを分解する効果があり、このブレスを受けたデジモンはむき出しとなったデジコアへの攻撃を許すことになるだろう。ドラコモン同様に「逆鱗」といわれるウロコを持っており、ここに触れてしまうと怒りのあまり意識を失い、頭部の角を激しく発光させた後に口から放つ拡散レーザービーム『ジ・シュルネン-Ⅱ』を無差別に放ってしまうデジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Coredramon_(Blue)"
+    },
+    {
+      "id": "baohack",
+      "name": "Bao Hackmon",
+      "name_jp": "Bao Hackmon",
+      "name_ko": "바오헉몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5600",
+        "hp": "3500",
+        "ap": "1300"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/baohack/frame1.gif",
+        "frame2": "sprites/baohack/frame2.gif"
+      },
+      "artwork": "sprites/baohack/artwork.jpg",
+      "lore": {
+        "en": "Hackmonunderwent bouts of harsh training, honing its unparalleled battle instincts, and attained this form as it grew together with its spirit, technique, and physical strength. It continues its training as it aims for greater heights, amassing combat experience by battling strong foes and evolving into a skilled warrior the more it battles. As it matures, its aspiration of becoming aRoyal Knightgrows ever stronger, and it believes that what it is destined to achieve is determined not by what others tell it, but by deciding based on its own observations and inferences. Its Special Moves have all been powered up, and consist of slashing with its claws (Fif Cross), as well as rotating the blade on its tail about its axis and stabbing with it (Teen Blade); the moveBurn Flamethat it is capable of using for counterattacking has also risen in power remarkably. Furthermore, it is also able to bisect the enemy using the razor-sharp blades that protrude from its hind limbs (Dragless-spiker).Digimon Reference Book⇨ Englishハックモンが厳しい鍛錬を重ね、類いまれなる戦闘センスに磨きがかかり心技体ともに成長を遂げた姿。高みを目指して鍛錬を続け、強敵とのバトルを通じて培った戦闘経験も蓄積し、戦うほどに進化する戦闘巧者である。成長とともにロイヤルナイツへの志も高まり、自分が成すべき事は誰に言われて決めるのではなく、自分で見て考え決意することを信条としている。必殺技は全てが強化され、爪で切り裂く『フィフクロス』、尻尾の刃を軸に回転させ突貫する『ティーンブレイド』、迎撃にも使用できる『バーンフレイム』と威力は格段に増した。さらに両足の斬れ味鋭い刃を生かした『ドラグレスパイカー』で敵を両断する。デジモン図鑑",
+        "ko": "헉몬 이 엄격한 단련을 거듭해 보기드문 전투 센스에 능숙해져 마음과 몸 모두 성장한 모습. 높은 곳을 목표로 하고 단련을 계속해 강적과의 배틀을 통해서 기른 전투경험도 축적하고 싸울수록 진화하여 전투가 능숙해진다. 성장과 함께 로얄 나이츠 에 대한 뜻도 높아져 자신이 할일은 누구에게 말하며 결정하는 것이 아니라 자신이 보고 생각해서 결의하는 것을 신조로 삼고 있다. 필살기는 모두 강화되어, 손톱으로 베어버리는 『피프 크로스』와 꼬리의 칼날을 축으로 회전시켜 돌진하는『틴 블레이드』, 요격에도 쓸 수 있는『번 플레임』이 되면서 위력은 현저히 올랐다. 그리고 양발의 칼날의 예리함을 살린『드래그리스스파이커』로 적을 한순간에 양단한다."
+      },
+      "wikimon_url": "https://wikimon.net/Bao_Hackmon"
+    },
+    {
+      "id": "coredra_g",
+      "name": "Coredramon (Green)",
+      "name_jp": "Coredramon (Green)",
+      "name_ko": "코어드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "3500",
+        "hp": "3600",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/coredra_g/frame1.gif",
+        "frame2": "sprites/coredra_g/frame2.gif"
+      },
+      "artwork": "sprites/coredra_g/artwork.jpg",
+      "lore": {
+        "en": "Digimon bearing the name \"Dramon\" always have Dragon-factor data in theirDigicore, and the higher the percentage of that data, the more the shape of their body resembles a Dragon-type; however, Coredramon's Dragon-factor data has reached 100%, so it is undoubtedly a pure-blooded Dragon Digimon. The green-skinned Coredramon is said to be the evolved form of aDracomonthat ingested large quantities of a rare gem called \"GreenMalachite\", which is mined in dense woodland with trees over a century old. Although this type of Coredramon is not good at flying, it has highly developed leg strength, allowing it to run at speeds that are unimaginable from its physique. Its Special Moves are unleashing a scorching breath that shines green (Green Flare Breath), and using its powerful tail to deliver a painful blow to the opponent (Strike Bomber). \"Green Flare Breath\" is very highly penetrative, allowing it to pass through the body surface's texture data and inflict damage directly on the Digicore. Like Dracomon, it has a scale referred to as the \"Gekirin\"; if it is touched there, it loses its mind to an excess of anger and indiscriminately uses its \"G Shurunen-II\", in which it makes the horns on its head glow intensely, then fires a diffuse laser beam from its mouth.Digimon Reference Book⇨ English「ドラモン」の名を冠するデジモンにはデジコアに必ず竜因子のデータを有しており、その竜因子データの割合が高ければ高いほど体の形状が竜型になっていくが、コアドラモンの竜因子データ割合は１００％となっており、まさしく純血の竜型デジモンである。体表が緑のコアドラモンは、樹齢１００年を超えた木々が茂る森林地帯で採掘される「グリーンマカライト」と呼ばれる希少な宝石を多量に摂取したドラコモンが進化した姿といわれている。このタイプのコアドラモンは飛翔することは得意としていないが脚力が非常に発達しており、その体躯からは想像できないほどの速度で走ることが可能である。必殺技は、緑色に輝く灼熱のブレスを放つ『グリーンフレアブレス』と強靭な尻尾を使って相手に痛恨の打撃を与える『ストライクボマー』。『グリーンフレアブレス』は浸透性が非常に高く、体表のテクスチャーデータをくぐりぬけ、直接デジコアへダメージを与えてしまう効果がある。ドラコモン同様に「逆鱗」といわれるウロコを持っており、ここに触れてしまうと怒りのあまり意識を失い、頭部の角を激しく発光させた後に口から放つ拡散レーザービーム『ジ・シュルネン-Ⅱ』を無差別に放ってしまう。デジモン図鑑",
+        "ko": "\"드라몬\"의 이름을 받은 디지몬에겐 디지코어 에 반드시 용인자의 데이터를 보유하며, 그 용인자 데이터의 배율이 높을수록 몸의 형상이 용형에 가까워지는데, 코어드라몬의 용인자 데이터 배율은 100%이므로, 진정한 순혈의 용형 디지몬이다. 몸체가 파란 코어드라몬은 고도가 매우 높은 산악지역에서만 채굴되는 \"블루 디아만테\"라는 희소한 보석을 다량으로 섭취한 드라코몬이 진화한 모습이라고 알려져있다. 험한 산지에서 살아남기 위해 발달한 날개로 고속 비행을 할 수 있다. 필살기는 청색으로 빛나는 작열의 브레스를 방출하는 \"블루 플레어 브레스\"와 강력한 꼬리를 사용해 상대에게 통한의 타격을 주는 \"스트라이크 보머\". \"블루 플레어 브레스\"는 디지몬의 표피를 감싸는 텍스쳐 데이터를 분해하는 효과를 지니며, 이 브레스를 맞은 디지몬은 드러난 디지코어에의 직접 공격을 허용하게 될 터이다. 드라코몬 과 같이 역린 이라는 비늘이 있어, 이것을 만지면 분노와 함께 의식을 잃고, 머리의 뿔이 격렬하게 발광한 후 입에서 발사하는 발산 레이저 빔 \"디 슈르넨 II\"를 무작위로 쏘아댄다. 2."
+      },
+      "wikimon_url": "https://wikimon.net/Coredramon_(Green)"
+    },
+    {
+      "id": "arresterdra",
+      "name": "Arresterdramon",
+      "name_jp": "Arresterdramon",
+      "name_ko": "아레스타드라몬",
+      "stage": "IV",
+      "stage_text": "Stage IV (Adult)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "5700",
+        "hp": "3600",
+        "ap": "1250"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/arresterdra/frame1.gif",
+        "frame2": "sprites/arresterdra/frame2.gif"
+      },
+      "artwork": "sprites/arresterdra/artwork.jpg",
+      "lore": {
+        "en": "A form that evolved fromGumdramonby removing itsKinkoji. It is clothed inBattle Armormade of a special rubber, which manifests Gumdramon's characteristic elasticity at its maximum and further strengthens its defense. Its wings have gotten larger, enabling high-speed flight. By changing its tail into aTail Anchor, it has become able to arrest the opponent in addition to tearing them apart. Its Special Moves are unleashing high-speed punches while bending both of its arms (Mach Flicker), brandishing itsTail Anchorto chop up the opponent (Flog Shot), bisecting them with its super-sizedTail Anchorwhile performing a single revolution (Spin Caliber), and adding to its \"Spiral Shredder\", in which it rapidly spins to cut them to pieces, by becoming countless revolutions of light then cleaving them apart (PrismGarrett).Digimon Reference Book⇨ English緊箍児が解かれたことでガムドラモンが進化した姿。特殊ラバー装甲のバトルアーマーを着衣しており、ガムドラモンの本領である柔軟性が最大限に発揮され、さらには防御面が強化されている。羽も大きくなり高速飛行を可能としている。尻尾はテイルアンカーに変化したことで切り裂き攻撃に加えて、敵の捕縛ができるようになった。必殺技は両腕をしならせつつ高速にパンチを繰り出す『マッハフリッカー』、テイルアンカーを振り回し切り刻む『フロッグショット』、一回転しつつ巨大化させたテイルアンカーで敵を両断する『スピンカリバー』、高速回転して切り裂く『スパイラルシュレッダー』に加え無数の光の回転となって切り進む『プリズムギャレット』がある。デジモン図鑑",
+        "ko": "긴고아 가 풀린 것으로 가무드라몬 이 진화한 모습. 특수 고무제 장갑의 배틀 아머를 착용해, 가무드라몬의 자랑거리인 유연성이 최대한으로 발휘되고 또한 방어 면에서도 강화되었다. 날개도 커져 고속 비행이 가능하게 되었다. 꼬리는 테일 앵커에 변화하여 베는 공격에 더해 적의 포박이 가능하게 되었다. 필살기는 양팔을 움직이면서 고속 펀치를 연타하는 \"마하 플리커\", 테일 앵커를 휘둘러 베어버리는 \"프로그 숏\", 회전하면서 거대화시킨 테일 앵커로 적을 양단하는 \"스핀 칼리버\", 고속 회전하여 베는 \"스파이럴 슈레더\"에 더해 무수한 빛의 회전이 되어 베는 \"프리즘 가레트\"가 있다."
+      },
+      "wikimon_url": "https://wikimon.net/Arresterdramon"
+    },
+    {
+      "id": "rizegrey",
+      "name": "Rize Greymon",
+      "name_jp": "Rize Greymon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4000",
+        "hp": "4600",
+        "ap": "1550"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/rizegrey/frame1.gif",
+        "frame2": "sprites/rizegrey/frame2.gif"
+      },
+      "artwork": "sprites/rizegrey/artwork.jpg",
+      "lore": {
+        "en": "A Cyborg Digimon that has mechanized over half of its body. In spite of its large build, it flies to the sky to attack the enemy. The offensive power of the shots fired from the gigantic revolver on its left arm is said to rival that of a single nuclear warhead, and it is normally impossible to rapid-fire due to its tremendous power and recoil. In order to withstand that power, its gun barrel is made fromChrome Digizoid. Its Special Moves are a high-speed rapid-firing at the limit of the Chrome Digizoid's endurance (three-round bursts) (Trident Revolver), and firing a beam barrage from its chest-cannon and the three beam cannons extending from its wings (Rising Destroyer). Also, its \"Solid Strike\", in which it charges at the opponent and knocks them out with its gigantic revolver, has extraordinary impact strength.Digimon Reference Book⇨ English体の半分以上を機械化しているサイボーグ型デジモン。その巨体にも関わらず大空へ飛翔し敵を討つ。左腕の巨大なリボルバーから発射される攻撃力は核弾頭一発分に匹敵するといわれ、その凄まじい威力と反動により通常は連射不可能である。尚、銃身はその威力に耐えられるようクロンデジゾイド製である。必殺技は、クロンデジゾイドの限界耐久で高速連射（３点バースト）する『トライデントリボルバー』と、翼にある３連ビーム砲及び、胸部発射口からビーム弾幕を放つ『ライジングデストロイヤー』。また、敵に突進して巨大なリボルバーで殴り倒す『ソリッドストライク』も打撃力抜群である。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Rize_Greymon"
+    },
+    {
+      "id": "wingdra",
+      "name": "Wingdramon",
+      "name_jp": "Wingdramon",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6200",
+        "hp": "4000",
+        "ap": "1500"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/wingdra/frame1.gif",
+        "frame2": "sprites/wingdra/frame2.gif"
+      },
+      "artwork": "sprites/wingdra/artwork.jpg",
+      "lore": {
+        "en": "A Sky Dragon Digimon which possesses greatly developed wings, and is able to fly freely through the air. Because the scales on its wings are capable of blocking gravity, it is able to fly without flapping its wings. It seldom lands on the ground, and spends most of its time living in the sky. It is said that its air speed exceedsMach20, and there are few Digimon who can survive a dog fight with Wingdramon. It Special Moves are firing scorching breath from its mouth by exceeding thespeed of sound(Blaze Sonic Breath), and accelerating up to maximum speed in a nose dive at the opponent, then striking them with the lance on its back (Explode Sonic Lance). Furthermore, because Wingdramon breaks the sound barrier just by moving at high speeds, it generates a shock wave called \"Wing Blast\". For that reason, you aren't uninjured even if you parry Wingdramon's Special Moves.Digimon Reference Book⇨ English大きく発達した翼を持ち、自由自在に空を飛ぶことの出来る天竜型デジモン。翼の鱗は重力を遮断することが出来るため、羽ばたくことなく飛翔することが可能である。地面に降りることはまれであり、生きている時間のほとんどを空中で過ごす。飛行速度はマッハ20を超えるといわれており、ウイングドラモンと空中戦を行って生き残れるデジモンは少ないだろう。必殺技は音速を超えた速度で口から放つ灼熱のブレス『ブレイズソニックブレス』と最大速力まで加速して敵に急降下し、背中の槍を打ち付ける『エクスプロードソニックランス』。さらにウイングドラモンは高速移動するだけで速度が音速を超えてしまうため、『ウイングブラスト』と呼ばれる衝撃波が発生してしまう。そのため、ウイングドラモンの必殺技をかわしたとしても無傷ではいられない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Wingdramon"
+    },
+    {
+      "id": "saviorhack",
+      "name": "Savior Hackmon",
+      "name_jp": "Savior Hackmon",
+      "name_ko": "세이버헉몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "5800",
+        "hp": "4600",
+        "ap": "1600"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/saviorhack/frame1.gif",
+        "frame2": "sprites/saviorhack/frame2.gif"
+      },
+      "artwork": "sprites/saviorhack/artwork.jpg",
+      "lore": {
+        "en": "It evolved into this form after repeatedly meeting and parting with Digimon over its long journey, and living through countless fierce battles. It militarily intervenes in the strife that occurs incessantly throughout theDigital World, seeking ceasefires, and has brought aid to the Digimon on-site who have suffered harm. The result is not always a success, but the tears Savior Huckmon sheds before those tragic scenes strengthen it further, as it earnestly reaches out to the next Digimon that cries for help. It is capable of using its legs to walk bipedally despite them being blades; in addition, crimson blades extend from both of its arms and its tail, and its blade-covered body exudes an aggressive air. The crystal in its chest is a crystallisation of proof that it refined its power with no lack of effort. Its Special Moves are skewering through the enemy from a flying kick posture with the blades on its feet (Resist Raid), and rapid-firing shots of fire from its mouth like a machine gun, incinerating the enemy (Meteor Flame). Its \"Trident Saber\", which assaults the enemy with the three red blades its tail and arms are equipped with, relentlessly cleaves them apart whether or not they're swathed inChrome Digizoid.Digimon Reference Book⇨ English長きに渡る旅路からデジモンとの出会いや別れを繰り返し、いくつもの修羅場を潜り抜けて進化した姿。絶え間なく起こるデジタルワールド内の紛争に武力介入し戦闘停止を求めつつ、被害にあった現地デジモンの救済にあたってきた。その結果は全て成功とはならず、悲惨な光景を前に流した涙はセイバーハックモンを強くし、次に助けを求むデジモンへ懸命に手を伸ばす。両足が刃ながらに2足歩行を可能とし、両腕と尻尾に紅の刃が生まれ、全身刃の攻撃的なスタイルとなった。胸のクリスタルは努力を欠かさず力を磨き上げた証の結晶である。必殺技は跳び蹴りの姿勢から足の刃で敵を突き刺し貫く『レッジストレイド』、マシンガンのように口から炎弾を連射し敵を焼き尽くす『メテオフレイム』。尻尾と両腕に装備された三つの赤い刃で斬りかかる『トライデントセイバー』は、クロンデジゾイドを纏った敵であろうと容赦なく割断する。デジモン図鑑",
+        "ko": "긴 세월에 걸친 여정에서 디지몬과의 만남과 이별을 거듭하며 몇번의 아수라장을 뚫고 진화한 모습. 끊임없이 일어나는 디지털 월드 내의 분쟁에 무력개입하여 휴전을 요청하면서 피해를 당한 현지 디지몬의 구제에 임해왔다. 그 결과는 모두 성공이 되지못해 비참한 광경의 앞에 흘린 눈물은 세이버헉몬을 강화하고 다음의 도움을 원하는 디지몬에게 열심히 손을 내민다. 두다리가 칼이면서 2족 보행이 가능하고 두팔과 꼬리에 붉은 칼날이 나타나 전신이 칼날의 공격적인 스타일이다. 가슴의 크리스탈은 노력하여 꾸준히 힘을 갈고 닦은 증거의 결정이다. 필살기는 날아차는 자세로 다리의 칼날로 적을 꿰뚫어 관통하는『레지스트 레이드』와 입에서 불꽃탄을 머신건처럼 연사해서 적을 남김없이 태워버리는『메테오 플레임』. 꼬리와 양팔에 장비된 3개의 붉은 칼날로 적을 베어버리는『트라이던트 세이버』는, 크롬디지조이드 를 두른 적조차 가차없이 잘라버린다."
+      },
+      "wikimon_url": "https://wikimon.net/Savior_Hackmon"
+    },
+    {
+      "id": "groundra",
+      "name": "Groundramon",
+      "name_jp": "Groundramon",
+      "name_ko": "그라운드라몬",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Virus",
+      "activity": "Active",
+      "stats": {
+        "bp": "3800",
+        "hp": "4600",
+        "ap": "1580"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/groundra/frame1.gif",
+        "frame2": "sprites/groundra/frame2.gif"
+      },
+      "artwork": "sprites/groundra/artwork.jpg",
+      "lore": {
+        "en": "An Earth Dragon Digimon with giant arms on its back. The arms on its back are said to be wings that mutated, allowing it to more efficiently dig through the ground. It usually lurks within the tunnels it carved deep underground, and seldom comes to the surface. Also, as Groundramon tends to prefer to inhabit veins of the rareHuanglong Ore, it has been discovered that it is very likely to find the elements of Huanglong Ore comprising the scales covering its body. Its personality is extremely ferocious, and as most people lose their life when they encounter one, it is one Digimon for which the details of its ecology are not well understood. Its Special Moves are holding the opponent between the arms on its back and crushing them (Scrapless Claw) and knocking them out with the iron sphere on its tail (Megaton Hammer Crush). When it reaches the surface it uses \"Giga Crack\", which drops the opponent into fissures it generates by striking its whole body against the ground.Digimon Reference Book⇨ English背中に大きな腕を持つ地竜型デジモン。背中の腕は翼が変化したものといわれており、効率よく地面を掘ることが可能である。普段は地中深くに彫ったトンネルに潜んでおり、滅多なことでは地表に出てくることはない。また、グランドラモンは希少なファンロン鉱の鉱脈に好んで生息する傾向があり、体を覆う鱗にファンロン鉱の成分を含んでいる可能性が高いことが分かってきている。性格は非常に凶暴であり、遭遇したもののほとんどが命を落としているため、詳細な生態が分からないデジモンの1体である。必殺技は背中の腕で相手を挟んでつぶす『スクラップレスクロー』と尻尾の鉄球で殴り倒す『メガトンハマークラッシュ』。地表に出てきた際には全身を地面に打ちつけて発生させた地割れに相手を落とす『ギガクラック』を発動させることもある。デジモン図鑑",
+        "ko": "등 뒤에 거대한 팔을 가진 지룡형 디지몬. 등 뒤의 팔은 날개가 변화한 것이라고 하며, 효율 좋게 지면을 파낼 수 있다. 보통은 땅 속 깊이 만든 터널에 살고 있으며, 지상에는 잘 올라오지 않는다. 또, 그라운드라몬은 희소한 황룡광 의 광맥을 좋아해 거기서 살려는 경향이 있으며, 몸을 감싸는 비늘에 황룡광의 성분을 포함하고 있을 가능성이 높다고 알려져 있다. 성격은 매우 흉폭하며, 조우한 이들 대부분이 목숨을 잃은 관계로, 상세한 생태가 알려지지 않은 디지몬의 하나이기도 하다. 필살기는 등 뒤의 팔로 상대를 찌부러뜨리는 \"스크래프레스 클로\"와 꼬리의 철구로 후려치는 \"메가톤 해머 크래쉬\". 지표에 나올 시엔 전신을 지면에 부딪혀 발생한 균열에 상대를 떨어뜨리는 \"기가 크랙\"을 발동할 수도 있다. 진화체 중 하나가 드라몬계열의 상위 중 하나인 브레이크드라몬 이다."
+      },
+      "wikimon_url": "https://wikimon.net/Groundramon"
+    },
+    {
+      "id": "arresterdra_s",
+      "name": "Arresterdramon: Superior Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "V",
+      "stage_text": "Stage V (Perfect)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6100",
+        "hp": "4400",
+        "ap": "1550"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "A form of Arresterdramon whose latent abilities bloomed forth, and evolved to a higher level.V-Jump⇨ Englishアレスタードラモンが潜在能力を開花し、高次進化した姿。Ｖジャンプ",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Arresterdramon:_Superior_Mode"
+    },
+    {
+      "id": "shinegrey",
+      "name": "Shine Greymon",
+      "name_jp": "Shine Greymon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Normal",
+      "stats": {
+        "bp": "4500",
+        "hp": "6000",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/shinegrey/frame1.gif",
+        "frame2": "sprites/shinegrey/frame2.gif"
+      },
+      "artwork": "sprites/shinegrey/artwork.jpg",
+      "lore": {
+        "en": "A Light Dragon Digimon which fights with the red-hot solar energy it accumulates. Its Special Moves are spreading its gigantic wings, concentrating that light energy to its utmost limit, then firing it (Glorious Burst), and mowing down the opponent with wings of glimmering light (Shining Blast). Also, it can summon theGeoGrey Sword, in which the power ofGaiais condensed, from the solid earth.Digimon Reference Book⇨ English灼熱の太陽のエネルギーを蓄えて戦う光竜型デジモン。必殺技は、その巨大な翼を広げて光のエネルギーを極限まで集中して放つ『グロリアスバースト』と、輝く光の翼で敵を薙ぎ払う『シャイニングブラスト』。また、大地（ガイア）の力が凝縮された剣『ジオグレイソード』を大地より召還する能力をもつ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shine_Greymon"
+    },
+    {
+      "id": "slayerdra",
+      "name": "Slayerdramon",
+      "name_jp": "Slayerdramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6300",
+        "hp": "4800",
+        "ap": "1950"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/slayerdra/frame1.gif",
+        "frame2": "sprites/slayerdra/frame2.gif"
+      },
+      "artwork": "sprites/slayerdra/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man Digimon whose body is clad inChrome Digizoidscale armour. It is said that its form is one that can only be attained by those who complete the training that is called the \"Trial of theFour Great Dragons\", which can only be challenged by Dragon Digimon. It carries the extensible greatsword \"Fragarach\", and has mastered its original ultimate fencing technique,\"Ryūzanken\". There are three forms within Ryūzanken, from the first to the third, and the first form, \"Tenryūzanha\", is driving its sword, accelerated with a spin of its body, vertically through the opponent's skull, cutting them in half. The second form, \"Shouryūzanpa\", is releasing a dragon wave refined by its sword and directed from the bottom part to the top, slaying the opponent just from the sword's pressure. The third form, \"Kouryūzanba\", is stepping up close to the opponent and curling Fragarach around them, shaving off their whole body with the entwined sword blade.Digimon Reference Book⇨ Englishクロンデジゾイドの鎧鱗（がいりん）で身を包んだ竜人型デジモン。竜型デジモンだけが挑戦できる「四大竜の試練」と呼ばれる修行を修了した者だけがたどり着ける姿だといわれている。伸縮自在の大剣「フラガラッハ」を帯びており、スレイヤードラモン独自の究極剣法「竜斬剣」を極めている。「竜斬剣」には壱から参までの３種類の型があり、壱の型『天竜斬破』は回転体術によって加速された剣を脳天から垂直に打ち込み相手を両断する。弐の型『昇竜斬波』は剣で練った竜波動を下方から上方に向けて解き放ち、剣圧だけで相手を切り捨てる。参の型『咬竜斬刃』は、至近の間合いまで踏み込み「フラガラッハ」を相手に巻きつけ、巻きつけた刀身で相手の全身を削り取る。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Slayerdramon"
+    },
+    {
+      "id": "jes",
+      "name": "Jesmon",
+      "name_jp": "Jesmon",
+      "name_ko": "제스몬",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Data",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "5500",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
+      },
+      "sprites": {
+        "frame1": "sprites/jes/frame1.gif",
+        "frame2": "sprites/jes/frame2.gif"
+      },
+      "artwork": "sprites/jes/artwork.jpg",
+      "lore": {
+        "en": "The crystal inSavior Huckmon's chest began to shine as it surpassed Perfect to reach its Ultimate form: a Holy Knight Digimon that acquired the title of a \"Royal Knight\", the highest rank ofNetwork Security. It is endowed with the ability to sense the unusual phenomena and signs of chaos that occur all over theDigital World, and is the first of any of the Royal Knights to come running. Rather than act independently, it tends to employ teamwork such as making a coordinated response with nearby Digimon and theSistermons, which is rare for a Royal Knight; it does so due to its trust in others and so that it will not become overconfident in its abilities. By observing and learning from theHinukamuyof its mentorGankoomon, Jesmon also acquired the trio \"Atho\", \"René\", and \"Por\" as part of its ascetic training. They are able to move and act independently under Jesmon's instructions, and boast formidable behavioral abilities such as landing direct attacks on the enemy, the protection of Jesmon, and the rescue of other Digimon. Its Special Moves are slicing the enemy to pieces with the blades on its arms while moving at high speed (Tekken Seibai), and an omnidirectional counter technique alongside \"Atho\", \"René\", and \"Por\" that meets every enemy attack with their nine blades (Schwertgeist). Its \"AusGenerics\" enables it to temporarily rewrite its own data and perform actions that transcend the laws of nature, leaving its physical abilities unbound by the laws of the Digital World and thus allowing Jesmon to overpower any enemy without taking a single scratch.Digimon Reference Book⇨ Englishセイバーハックモンの胸のクリスタルが輝き完全を超えた究極の姿となり、ネットワークセキュリティの最高位とされる「ロイヤルナイツ」の称号を得た聖騎士型デジモン。デジタルワールド各地に起こる異変や混沌の兆しを感知する能力を備え、どのロイヤルナイツよりもイチ早く駆けつける。単独で行動するよりも近くのデジモンやシスタモン達と連携し対応にあたるという、ロイヤルナイツでも稀なチームでの活動を行うのは他者を信頼し、自分への過信を行わないためである。師であるガンクゥモンのヒヌカムイを見て習い、ジエスモンも修行の中で「アト」「ルネ」「ポル」の3体を習得している。ジエスモンの指示で動くが自立行動もでき、敵への直接攻撃、ジエスモンの援護、他デジモンの救済など侮れない行動能力を誇る。必殺技は高速移動しながら腕の刃で敵を瞬時に斬り裂く『轍剣成敗』、敵からのあらゆる攻撃を「アト」「ルネ」「ポル」と共に九つの刃で迎え撃つ全方位カウンター技『シュベルトガイスト』。自分のデータを一時的に書き換え、物理限界を超えた活動を可能にする『アウスジェネリクス』は身体能力がデジタルワールドの法則に縛られないため、いかなる敵であろうとジエスモンに傷ひとつ付けられずに屈する。デジモン図鑑",
+        "ko": "세이버헉몬 의 가슴의 크리스탈이 빛나며 완전을 뛰어넘은 궁극의 모습이 되어, 네트워크 시큐리티의 최고위라고 하는 로얄 나이츠 의 칭호를 받은 성기사 디지몬. 디지털 월드 각지에서 일어나는 이변이나 혼돈의 징조를 감지하는 능력을 가지며, 어떤 로얄 나이츠보다도 가장 빠르게 뛰어든다. 단독으로 행동하기보다도 근처의 디지몬이나 시스터몬 들과 연대하여 대응하는 식으로, 로얄 나이츠로선 드물게 팀으로서의 활동을 하는 것은 타자를 신뢰하며, 스스로를 과신하지 않기 때문이다. 스승인 간쿠몬 의 \"히누카무이\"를 보고 배워 제스몬도 수행 중인 \"아트\", \"르네\", \"포르\" 3체를 지배하고 있다. 제스몬의 지시로 움직이지만 자립 행동도 할 수있어 적에게 직접 공격, 제스몬의 원호, 다른 디지몬의 구제 등 만만치 않은 행동 능력을 자랑한다. 필살기는 고속 이동하면서 팔의 칼날로 적을 순식간에 베어 찢는 \"철검성패(轍剣成敗) [4] \", 적으로부터의 모든 공격을 '아트', '르네', '포르'와 함께 아홉 개의 칼날에 맞서 싸우는 전방위 카운터 기술 \"슈베르트가이스트 [5] \", 자신의 데이터를 일시적으로 고쳐, 물리적 한계를 넘어선 활동을 가능하게하는 \"아우스 제네릭스 [6] \"는 신체 능력이 디지털 세계의 법칙에 얽매이지 않기 때문에 어떤 적이든 제스몬에 상처 하나 입히지 못하고 굴복한다. [7] [8] 디지털 몬스터 카드 게임 Re-46: 몸을 궁극까지 연마하여, 혼돈과 싸우는 구세의 전사! Re-119: 세계의 법칙을 초월하는 자기 데이터 개찬!"
+      },
+      "wikimon_url": "https://wikimon.net/Jesmon"
+    },
+    {
+      "id": "breakdra",
+      "name": "Breakdramon",
+      "name_jp": "Breakdramon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Indoor",
+      "stats": {
+        "bp": "4000",
+        "hp": "6000",
+        "ap": "1980"
+      },
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
+      },
+      "sprites": {
+        "frame1": "sprites/breakdra/frame1.gif",
+        "frame2": "sprites/breakdra/frame2.gif"
+      },
+      "artwork": "sprites/breakdra/artwork.jpg",
+      "lore": {
+        "en": "A gigantic Machine Dragon Digimon said to exist in order to destroy everything on land. When it evolved it succeeded, through hacking, in obtaining the design data for various construction equipment, and it possesses power and ability surpassing other Machine Digimon. However, in exchange for excellent mechanical performance, its organic parts were reduced almost to 0, and its motives and emotions were lost. For that reason, it does not falter when taking damage, and it is feared as the ultimate dragon of destruction that will continue destroying until it rusts away. Its \"Destroyed Rush\", in which it repeatedly strikes the earth at extremely high speed with its left and right shovel arms, can split solid earth, its \"Infinity Boring\", in which it operates and fires all the drills throughout its body, can smash mountains, and its \"Gravity Press\", in which it flattens the target with its entire body mass, can crush anything. Absolutely nothing remains standing wherever Breakdramon has passed through.Digimon Reference Book⇨ English地上のすべてを破壊するために存在するといわれている巨大な機竜型デジモン。さまざまな建設重機の設計データを進化する際にハッキングで取り込むことに成功しており、他のマシン型デジモンを凌駕する性能・パワーを有している。しかし、優れた機械性能と引き換えに生体パーツがゼロに近いほど減少し意思や感情は失われている。そのため自身の体にダメージを負うことも恐れず、朽ち果てるまで破壊を繰り返す究極の破壊竜として恐れられている。左右のショベルアームを超高速で繰り返し叩きつける『デストロイドラッシュ』は大地を裂き、体中のドリルを全稼動させて放つ『インフィニティーボーリング』は山をも砕き、全体重を掛けて目標を押しつぶす『グラビティプレス』はあらゆるものを圧壊する。ブレイクドラモンの通った後には「何」も残らない。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Breakdramon"
+    },
+    {
+      "id": "shinegrey_b",
+      "name": "Shine Greymon: Burst Mode",
+      "name_jp": "",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Vaccine",
+      "activity": "Active",
+      "stats": {
+        "bp": "6000",
+        "hp": "6100",
+        "ap": "2100"
+      },
+      "schedule": {},
+      "sprites": {
+        "frame1": "",
+        "frame2": ""
+      },
+      "artwork": "",
+      "lore": {
+        "en": "AShine Greymonthat has temporarily reached the limits of its abilities through Burst Evolution, it is a unique form which wears an aura of solar-class high-energy flames. Its Special Moves are fusing its flaming shield and sword into a greatsword with explosively increased power (Corona Blaze Sword), and putting its body and soul into inducing a massive eruption (Final Shining Burst). Also, it can continuously fire incandescent flame shots (Torrid Weiss).Digimon Reference Book⇨ Englishシャイングレイモンがバースト進化で一時的に限界能力を発動し、太陽級の高エネルギー火炎オーラをまとった特殊な姿である。必殺技は、火炎の盾と剣を合体させ、爆発的に威力を増した大剣『コロナブレイズソード』と、全身全霊を込めて大爆発を引き起こす『ファイナルシャイニングバースト』。また、灼熱の火炎弾を連続して放つ『トリッドヴァイス』をもつ。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Shine_Greymon:_Burst_Mode"
+    },
+    {
+      "id": "magnakid",
+      "name": "Magna Kidmon",
+      "name_jp": "Magna Kidmon",
+      "name_ko": "",
+      "stage": "VI",
+      "stage_text": "Stage VI (Ultimate)",
+      "attribute": "Virus",
+      "activity": "Normal",
+      "stats": {
+        "bp": "6300",
+        "hp": "5800",
+        "ap": "2000"
+      },
+      "schedule": {
+        "activity_type": "Normal",
+        "critical_hit": "Turn 3"
+      },
+      "sprites": {
+        "frame1": "sprites/magnakid/frame1.gif",
+        "frame2": "sprites/magnakid/frame2.gif"
+      },
+      "artwork": "sprites/magnakid/artwork.jpg",
+      "lore": {
+        "en": "A Dragon Man Digimon which has firearm mechanisms equipped throughout its body. As a wanderer traveling across the Digital World in search of the comrades it was separated from, it is a troublemaker who causes trouble and gets tangled up in scandal wherever it goes. Although it has a self-centered personality and is often indifferent of its surroundings, it's passionate about things like friendship or gratitude, misinterpreting the localRevolmonit comes across as members of its own species and becoming friends with them. As it loves single combat, it is so severely triggerhappy that it fires off bullets indiscriminately once it wins or loses. Its Special Moves are stabbing the opponent with the tiny machineguns connected to the magazines extending from its hips, immediately destroying the enemy's body from within (Bind Red Trigger), and the high-altitude annihilation fire which is Kidmon's greatest Special Move, in which it soars high into the sky with its wing-like muffler, then aims at the opponent with its arms folded and weaves together live ammunition and plasma shots fired from the gun muzzles on its legs and the fingers of its hands, which pound away like falling rain (Happy Bullet Showering). Also, there is a Special Move called \"Chaos Triangular\" it invokes when special conditions are met.Digimon Reference Book⇨ English全身に銃器の機巧を備えた竜人型デジモン。散り散りになった仲間達を捜してデジタルワールド中を旅する根無し草で、行く先々で問題を起こしたり事件に巻き込まれてしまうトラブルメイカー。しばしば周りが見えなくなる自己中心的な性格だが、友情や恩義といったものに熱く、各地のリボルモンを見つけては自分と同じ種族だと勘違いをして友達になっている。一騎打ちが大好きで、一度勝負となると所構わず銃弾をぶっ放す重度のトリガーハッピー。必殺技は、腰部から伸びる弾倉についた小型マシンガンを相手に突き刺し、内部から敵の身体を直接破壊する『バインドレッドトリッガー』と、翼のようなマフラーで遙か上空に飛び上がり、腕組みをしながら相手目掛けて両脚の銃口と両手の指先から発射する実弾とプラズマ弾を織り交ぜ、雨を降らせるように撃ちまくる、キッドモン最大の必殺技である超高度殲滅射撃『ハッピーバレットシャワリング』。また、特別な条件が揃ったときに発動する『ケイオストライアングラー』という必殺技も存在する。デジモン図鑑",
+        "ko": ""
+      },
+      "wikimon_url": "https://wikimon.net/Magna_Kidmon"
+    }
+  ],
+  "evolutions": [
+    {
+      "from": "babyd",
+      "to": "agu_2006",
+      "conditions": {
+        "PP": "3+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "babyd",
+      "to": "draco",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "babyd",
+      "to": "hack",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "500+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "babyd",
+      "to": "gumdra",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "N/A",
+        "Win Ratio": "N/A",
+        "Area": "Stage 2 Cleared"
+      }
+    },
+    {
+      "from": "draco",
+      "to": "geogrey",
+      "conditions": {
+        "PP": "5+",
+        "Vital Values": "1,000+",
+        "Battles": "3+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "draco",
+      "to": "coredra_b",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hack",
+      "to": "coredra_b",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "1,000+",
+        "Battles": "5+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hack",
+      "to": "baohack",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "gumdra",
+      "to": "baohack",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "1,000+",
+        "Battles": "8+",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "draco",
+      "to": "coredra_g",
+      "conditions": {
+        "PP": "N/A",
+        "Vital Values": "N/A",
+        "Battles": "N/A",
+        "Win Ratio": "N/A"
+      }
+    },
+    {
+      "from": "hack",
+      "to": "arresterdra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 5 Cleared"
+      }
+    },
+    {
+      "from": "gumdra",
+      "to": "arresterdra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "1,500+",
+        "Battles": "10+",
+        "Win Ratio": "N/A",
+        "Area": "Stage 5 Cleared"
+      }
+    },
+    {
+      "from": "geogrey",
+      "to": "rizegrey",
+      "conditions": {
+        "PP": "10+",
+        "Vital Values": "2,500+",
+        "Battles": "10+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "geogrey",
+      "to": "wingdra",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baohack",
+      "to": "saviorhack",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "arresterdra",
+      "to": "saviorhack",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "2,500+",
+        "Battles": "12+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "baohack",
+      "to": "groundra",
+      "conditions": {
+        "PP": "8+",
+        "Vital Values": "2,000+",
+        "Battles": "10+",
+        "Win Ratio": "40%+"
+      }
+    },
+    {
+      "from": "baohack",
+      "to": "arresterdra_s",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "arresterdra",
+      "to": "arresterdra_s",
+      "conditions": {
+        "PP": "12+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 8 Cleared"
+      }
+    },
+    {
+      "from": "rizegrey",
+      "to": "shinegrey",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "wingdra",
+      "to": "shinegrey",
+      "conditions": {
+        "PP": "25+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rizegrey",
+      "to": "slayerdra",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "wingdra",
+      "to": "slayerdra",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,000+",
+        "Battles": "15+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "saviorhack",
+      "to": "jes",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "to": "jes",
+      "conditions": {
+        "PP": "30+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+"
+      }
+    },
+    {
+      "from": "saviorhack",
+      "to": "breakdra",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "groundra",
+      "to": "breakdra",
+      "conditions": {
+        "PP": "20+",
+        "Vital Values": "2,500+",
+        "Battles": "15+",
+        "Win Ratio": "50%+"
+      }
+    },
+    {
+      "from": "rizegrey",
+      "to": "shinegrey_b",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "70%+",
+        "Area": "Stage 11 Cleared"
+      }
+    },
+    {
+      "from": "saviorhack",
+      "to": "magnakid",
+      "conditions": {
+        "PP": "35+",
+        "Vital Values": "3,500+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 12 Cleared"
+      }
+    },
+    {
+      "from": "petit",
+      "to": "babyd",
+      "conditions": {
+        "text": "No requirements"
+      }
+    },
+    {
+      "from": "agu_2006",
+      "to": "baohack",
+      "conditions": {
+        "text": "10+ PP, 1,000+ Vital Values, 8+ Battles"
+      }
+    },
+    {
+      "from": "agu_2006",
+      "to": "geogrey",
+      "conditions": {
+        "text": "5+ PP, 1,000+ Vital Values, 3+ Battles"
+      }
+    },
+    {
+      "from": "agu_2006",
+      "to": "coredra_g",
+      "conditions": {
+        "text": "Choose one:"
+      }
+    },
+    {
+      "from": "coredra_b",
+      "to": "wingdra",
+      "conditions": {
+        "text": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "coredra_b",
+      "to": "rizegrey",
+      "conditions": {
+        "text": "10+ PP, 2,500+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "coredra_g",
+      "to": "saviorhack",
+      "conditions": {
+        "text": "12+ PP, 2,500+ Vital Values, 12+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "coredra_g",
+      "to": "groundra",
+      "conditions": {
+        "text": "8+ PP, 2,000+ Vital Values, 10+ Battles, 40%+ Win Ratio"
+      }
+    },
+    {
+      "from": "arresterdra_s",
+      "to": "jes",
+      "conditions": {
+        "text": "30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    },
+    {
+      "from": "arresterdra_s",
+      "to": "magnakid",
+      "conditions": {
+        "text": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    }
+  ]
+}

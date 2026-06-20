@@ -1,0 +1,39 @@
+{
+  "id": "bota",
+  "name": "Botamon",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/bota.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/bota.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/bota.jpg",
+  "appearances": [
+    {
+      "dim_id": "rbe",
+      "dim_name": "Rampage of the Beast",
+      "stage": "I"
+    }
+  ],
+  "evolution_conditions": [],
+  "details": {
+    "name_jp": "Botamon",
+    "name_en": "Botamon",
+    "attribute": "Free",
+    "stage_text": "Stage I (Baby I)",
+    "activity": "",
+    "stats": {
+      "bp": "",
+      "hp": "",
+      "ap": ""
+    },
+    "schedule": {
+      "activity_type": "",
+      "critical_hit": "N/A"
+    },
+    "evolves_from": [],
+    "evolves_to": [
+      {
+        "id": "wanya",
+        "name": "Wanyamon",
+        "conditions": "No requirements"
+      }
+    ]
+  }
+}

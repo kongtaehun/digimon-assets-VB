@@ -1,0 +1,49 @@
+{
+  "id": "justi",
+  "name": "Justimon: Blitz Arm",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbdm/justi.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbdm/frame2/justi.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/justi.jpg",
+  "appearances": [
+    {
+      "dim_id": "monodra_gp",
+      "dim_name": "Monodramon GP",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [],
+      "requirements": {
+        "Trophies": "10+",
+        "Vital Values": "4,500+",
+        "Battles": "25+",
+        "Win Ratio": "70%+"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Justimon: Blitz Arm",
+    "name_en": "Justimon: Blitz Arm",
+    "attribute": "Vaccine",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Normal",
+    "stats": {
+      "dp": "55 (★8)",
+      "hp": "14",
+      "ap": "8"
+    },
+    "schedule": {
+      "awake_hours": "09:00 - 21:00",
+      "critical_hit": "Turn 3"
+    },
+    "evolves_from": [
+      {
+        "id": "cyberdra",
+        "name": "Cyberdramon",
+        "conditions": "• 10+ Trophies, 4,500+ Vital Values, 25+ Battles, 70%+ Win Ratio• Jogress with Data Perfect"
+      }
+    ],
+    "evolves_to": []
+  }
+}

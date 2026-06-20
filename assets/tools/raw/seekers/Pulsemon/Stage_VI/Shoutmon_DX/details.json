@@ -1,0 +1,58 @@
+{
+  "id": "shout_dx",
+  "name": "Shoutmon DX",
+  "frame1_url": "https://humulos.com/digimon/images/dot/vbbe/shout_dx.gif",
+  "frame2_url": "https://humulos.com/digimon/images/dot/vbbe/frame2/shout_dx.gif",
+  "artwork_url": "https://humulos.com/digimon/images/art/shout_dx.jpg",
+  "appearances": [
+    {
+      "dim_id": "pulse",
+      "dim_name": "Pulsemon",
+      "stage": "VI"
+    }
+  ],
+  "evolution_conditions": [
+    {
+      "from_digimon": [
+        "bout",
+        "omegashout"
+      ],
+      "requirements": {
+        "PP": "32+",
+        "Vital Values": "3,300+",
+        "Battles": "20+",
+        "Win Ratio": "60%+",
+        "Area": "Stage 11 Cleared"
+      }
+    }
+  ],
+  "details": {
+    "name_jp": "Shoutmon DX",
+    "name_en": "Shoutmon DX",
+    "attribute": "Data",
+    "stage_text": "Stage VI (Ultimate)",
+    "activity": "Stoic",
+    "stats": {
+      "bp": "6000",
+      "hp": "5800",
+      "ap": "2000"
+    },
+    "schedule": {
+      "activity_type": "Stoic",
+      "critical_hit": "Turn 1"
+    },
+    "evolves_from": [
+      {
+        "id": "bout",
+        "name": "Boutmon",
+        "conditions": "Stage 11 cleared, 32+ PP, 3,300+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      },
+      {
+        "id": "omegashout",
+        "name": "Omega Shoutmon",
+        "conditions": "Stage 11 cleared, 32+ PP, 3,300+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+      }
+    ],
+    "evolves_to": []
+  }
+}
