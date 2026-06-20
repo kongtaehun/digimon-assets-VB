@@ -425,7 +425,7 @@
     {
       "id": "kuzuha_m",
       "name": "Kuzuhamon: Miko Mode",
-      "name_jp": "",
+      "name_jp": "Kuzuhamon: Miko Mode",
       "name_ko": "쿠즈하몬",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -436,12 +436,15 @@
         "hp": "10",
         "ap": "8"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/kuzuha_m/frame1.gif",
+        "frame2": "sprites/kuzuha_m/frame2.gif"
+      },
+      "artwork": "sprites/kuzuha_m/artwork.jpg",
       "lore": {
         "en": "A formKuzuhamontakes when it performs Shinto rituals and listens toGod's will. It seldom fights inMiko Mode, but has strengthened its ability to exorcise evil spirits.Digimon Reference Book⇨ Englishクズハモンが神事の奉仕をおこない神の意志を聞くときの姿。巫女形態で戦うことは少ないが、邪気をはらう力が強くなっている。デジモン図鑑",
         "ko": "여우계 디지몬이 오랫동안 살아 변화해 사람의 모습이 되었다 전해지는 신인형 디지몬. 샤크라몬 은 그 중에서도 고위의 개체만이 진화할 수 있다고 말해지며 보통은 쿠즈하몬으로 진화한다. [1] 신도, 음양도, 수험도 등의 고대 마법에 정통하다. 벨트의 통 안에는 관호(대롱여우)가 한 마리밖에 없고 [2] 이 관호를 사역해 공격이나 정보 수집 등에 이용할 수 있다. 특기는 허리의 관호로 적을 공격하는 \"리번강(裏飯綱/우라이즈나)\". 필살기는 \"석장\"으로 사기(邪気)를 제거하는 정화 결계를 치는 \"태장계만다라(胎蔵界曼荼/타이죠우카이 만다라)\". [3]"

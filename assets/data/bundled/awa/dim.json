@@ -425,7 +425,7 @@
     {
       "id": "imperialdra_d",
       "name": "Imperialdramon: Dragon Mode",
-      "name_jp": "",
+      "name_jp": "Imperialdramon: Dragon Mode",
       "name_ko": "황제드라몬",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -436,12 +436,15 @@
         "hp": "16",
         "ap": "6"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/imperialdra_d/frame1.gif",
+        "frame2": "sprites/imperialdra_d/frame2.gif"
+      },
+      "artwork": "sprites/imperialdra_d/artwork.jpg",
       "lore": {
         "en": "An ultimate Ancient Dragon Digimon that existed in ancient times. There is a clear distinction between it and other Digimon in terms of existence or ability. Also, Imperialdramon is called theDragon Mode, but there seems to exist a \"Fighter Mode\" that is able to liberate all of its power. However, it is said that that form has never been seen. Due to its immense power, controlling it is next to impossible, and depending on how it is raised, it may become a savior or a god of destruction. Its Special Move is firing super-massivedark matter, swallowing everything in a dark space (Mega Death). This technique is a terrifying ability that completely annihilates everything within a radius of a few hundred meters around the impact-point of the dark matter.Digimon Reference Book⇨ English古代に存在した究極の古代竜型デジモン。他のデジモンとは存在や能力の面で一線を画している。またインペリアルドラモンは竜形態（ドラゴンモード）と呼ばれているが、全てのパワーを開放することができる“竜人形態”（ファイターモード）が存在するらしい。しかし、その姿を見たものはいないと言われている。強大なパワーのため、制御するのは至難の技であり、扱い方によっては救世主にも破壊神にもなってしまう。必殺技は超質量の暗黒物質を発射し、全てを暗黒空間に呑み込んでしまう『メガデス』。この技は暗黒物質の着弾点から半径数百メートルの全ての物を完全に消滅させてしまう恐ろしい技だ。デジモン図鑑",
         "ko": ""
@@ -480,7 +483,7 @@
     {
       "id": "imperialdra_f",
       "name": "Imperialdramon: Fighter Mode",
-      "name_jp": "",
+      "name_jp": "Imperialdramon: Fighter Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -491,12 +494,15 @@
         "hp": "14",
         "ap": "8"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 1"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/imperialdra_f/frame1.gif",
+        "frame2": "sprites/imperialdra_f/frame2.gif"
+      },
+      "artwork": "sprites/imperialdra_f/artwork.jpg",
       "lore": {
         "en": "A form of the Ancient Dragon DigimonImperialdramon: Dragon Modethat liberated all of its power, changing form into the legendaryFighter Mode. It is an ultimate Digimon that acquired a great intellect by changing from the difficult-to-controlDragon Modeto a human form. It is said that the power to destroy a planet dwells in its attacks. Its Special Moves are the \"Positron Laser\" equipped to its right arm, and inserting thePositron Laserinto the dragon-face on its chest, then emitting all of its body's energy as a destructive energy wave (Giga Death). Its power is ten times that ofDragon Mode's \"Mega Death\". Also, when it awakens to perfect justice, it is able to transform into an even furtherMode.Digimon Reference Book⇨ English古代竜型デジモンのインペリアルドラモン：ドラゴンモードが全てのパワーを開放し、伝説の竜戦士（ファイターモード）へと形態を変化させた姿。制御の難しかったドラゴンモードから、人型になることで高い知性を身につけた究極のデジモンである。その攻撃は惑星をも破壊するだけのパワーが宿っていると言われている。必殺技は右腕に装着した『ポジトロンレーザー』とポジトロンレーザーを胸部の竜顔にはめ込み、全身のエネルギーを放射する破壊のエネルギー波『ギガデス』。その威力はドラゴンモードの『メガデス』の十倍の威力を持っている。また、完全なる正義に目覚めたとき更なる別モードになることができると言われている。デジモン図鑑",
         "ko": ""

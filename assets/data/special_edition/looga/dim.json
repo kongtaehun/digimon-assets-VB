@@ -541,7 +541,7 @@
     {
       "id": "rasen_f",
       "name": "Rasenmon: Fury Mode",
-      "name_jp": "",
+      "name_jp": "Rasenmon: Fury Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -552,12 +552,15 @@
         "hp": "5800",
         "ap": "2000"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Indoor",
+        "critical_hit": "Turn 4"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/rasen_f/frame1.gif",
+        "frame2": "sprites/rasen_f/frame2.gif"
+      },
+      "artwork": "sprites/rasen_f/artwork.jpg",
       "lore": {
         "en": "A ruthless, nine-tailed Ultimate Digimon that became unable to control its power of darkness when large amounts of negative emotion data flowed in from others while it was evolving from aPerfect Digimon. It is a destroyer that gave in to its rampaging power of darkness when it finished evolving, instinctively devastating its surroundings. It suffers from inner conflict stemming from its fear of and attempts to reject the swirling negative emotions inside of itself, which gave rise to its destructive impulses and subsequently its vicious personality.Its Special Moves are extending its large, spiral-shaped tails and skewering the opponent over and over again (Desperate Vortex), and pouncing on the opponent, devouring theirDigicoredirectly (Predator's Bite). In addition, it indiscriminately attacks by rapidly spinning the blades on its wrists, tearing apart everything in their surroundings while generating tornadoes (Spiral Hell).Digimon Reference Book⇨ English完全体デジモンが進化する時、他者からマイナスの感情データが大量に流れ込み闇の力を制御できなくなった九尾を持つ凶悪な究極体デジモン。進化が終わると同時に暴走した闇の力に身を任せ、衝動のままに周囲へ被害をまき散らす破壊者。凶暴な性格となったのは、自分の中に渦巻く負の感情を怖れ、拒絶する葛藤の苦しみが破壊衝動を生み出した結果である。必殺技は大きな螺旋状の尻尾を伸縮させ、何度も敵を串刺しにする「デスペレイトボルテックス」と、敵にのしかかり、直接相手のデジコアに食らいつく「プレデターズバイト」。そして、手首のブレードを高速回転させ、竜巻を起こしながら周囲一帯を斬り刻む無差別攻撃「スパイラル・ヘル」。デジモン図鑑",
         "ko": ""

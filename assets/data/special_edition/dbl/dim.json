@@ -454,7 +454,7 @@
     {
       "id": "arresterdra_s",
       "name": "Arresterdramon: Superior Mode",
-      "name_jp": "",
+      "name_jp": "Arresterdramon: Superior Mode",
       "name_ko": "",
       "stage": "V",
       "stage_text": "Stage V (Perfect)",
@@ -465,12 +465,15 @@
         "hp": "4400",
         "ap": "1550"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/arresterdra_s/frame1.gif",
+        "frame2": "sprites/arresterdra_s/frame2.gif"
+      },
+      "artwork": "sprites/arresterdra_s/artwork.jpg",
       "lore": {
         "en": "A form of Arresterdramon whose latent abilities bloomed forth, and evolved to a higher level.V-Jump⇨ Englishアレスタードラモンが潜在能力を開花し、高次進化した姿。Ｖジャンプ",
         "ko": ""
@@ -596,7 +599,7 @@
     {
       "id": "shinegrey_b",
       "name": "Shine Greymon: Burst Mode",
-      "name_jp": "",
+      "name_jp": "Shine Greymon: Burst Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -607,12 +610,15 @@
         "hp": "6100",
         "ap": "2100"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Active",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/shinegrey_b/frame1.gif",
+        "frame2": "sprites/shinegrey_b/frame2.gif"
+      },
+      "artwork": "sprites/shinegrey_b/artwork.jpg",
       "lore": {
         "en": "AShine Greymonthat has temporarily reached the limits of its abilities through Burst Evolution, it is a unique form which wears an aura of solar-class high-energy flames. Its Special Moves are fusing its flaming shield and sword into a greatsword with explosively increased power (Corona Blaze Sword), and putting its body and soul into inducing a massive eruption (Final Shining Burst). Also, it can continuously fire incandescent flame shots (Torrid Weiss).Digimon Reference Book⇨ Englishシャイングレイモンがバースト進化で一時的に限界能力を発動し、太陽級の高エネルギー火炎オーラをまとった特殊な姿である。必殺技は、火炎の盾と剣を合体させ、爆発的に威力を増した大剣『コロナブレイズソード』と、全身全霊を込めて大爆発を引き起こす『ファイナルシャイニングバースト』。また、灼熱の火炎弾を連続して放つ『トリッドヴァイス』をもつ。デジモン図鑑",
         "ko": ""
@@ -1005,16 +1011,16 @@
     },
     {
       "from": "arresterdra_s",
-      "to": "jes",
+      "to": "magnakid",
       "conditions": {
-        "text": "30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+        "text": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
       }
     },
     {
       "from": "arresterdra_s",
-      "to": "magnakid",
+      "to": "jes",
       "conditions": {
-        "text": "Stage 12 cleared, 35+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
+        "text": "30+ PP, 3,500+ Vital Values, 20+ Battles, 60%+ Win Ratio"
       }
     }
   ]

@@ -222,7 +222,7 @@
     {
       "id": "blacktail_u",
       "name": "Black Tailmon Uver.",
-      "name_jp": "",
+      "name_jp": "Black Tailmon Uver.",
       "name_ko": "블랙가트몬",
       "stage": "IV",
       "stage_text": "Stage IV (Adult)",
@@ -233,12 +233,15 @@
         "hp": "5",
         "ap": "2"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/blacktail_u/frame1.gif",
+        "frame2": "sprites/blacktail_u/frame2.gif"
+      },
+      "artwork": "sprites/blacktail_u/artwork.jpg",
       "lore": {
         "en": "A form thatBlack Tailmontransformed into by absorbing large amounts ofcourier servicedata that flowed into theDigital Worldin recent years. Its mean personality has completely gone, and it delivers ordered packages with full dedication, whatever the day. It is often seen delivering things while clinging to the back ofPistmon, who it is on good terms with. The delivery bag on its back is capable of keeping anything warm or cool in optimal condition, and since it can only be opened and closed by Black Tailmon, it is safe even for confidential data.It eliminates Digimon that get in the way of its deliveries with its Signature Move \"Neko Punch\", or \"Bakōnya\", in which it hits them with the corner of its delivery bag that it swings down. Even if it deals a great amount of damage to the enemy with \"Bakōnya\", its delivery bag is so durable that its contents will remain completely intact.Digimon Reference Book⇨ Englishデジタルワールドに近年大量に流れ込んできた宅配便のデータをブラックテイルモンが吸収したことで変化した姿。意地の悪い性格はまったく無くなり、頼まれた配達物をどんな日でも献身的にしっかりお届けする。仲が良いピストモンの背中に掴まって配達している様子もよく見かけられている。背中の配達バッグは保温保冷なんでも最適な状態を保つことができ、またブラックテイルモンにしか開閉できないため機密データでも安心だ。配達の邪魔をするデジモンには得意技の『ネコパンチ』や、振り下ろした配達バッグの角でぶつける『バコーニャ』で排除する。『バコーニャ』で敵に大ダメージを与えても配達バッグは中身も無傷でとても丈夫だ。デジモン図鑑",
         "ko": "새까만 털이 인상적인 바이러스종의 가트몬 . 완전한 악의 아이로 불길하게 어둠을 떠돌아다니며 살고 있다. 가트몬의 변종인 블랙가트몬이 태어나는 것은 매우 드물고, 그 개체 수는 매우 적다고 알려져 있으며, 성격은 심술맞으며 자존심이 세고 약한자를 괴롭히는걸 좋아하는 곤란한 디지몬이다. 기본적으로는 타락천사형의 디지몬으로 진화하는 암흑계 디지몬. 필살기는 가트몬과 같은 \"고양이 펀치\". 2."
@@ -799,38 +802,10 @@
       }
     },
     {
-      "from": "raijiludo",
-      "to": "death_b",
-      "conditions": {
-        "text": "Jogress with Vaccine, Virus or Free Perfect"
-      }
-    },
-    {
-      "from": "blacktail_u",
-      "to": "raijiludo",
-      "conditions": {
-        "text": "Jogress with Data Adult"
-      }
-    },
-    {
-      "from": "digitama",
-      "to": "bryweludra",
-      "conditions": {
-        "text": "Jogress with Vaccine, Virus or Free Perfect"
-      }
-    },
-    {
       "from": "blacktail_u",
       "to": "digitama",
       "conditions": {
         "text": "12+ Trophies, 3,000+ Vital Values, 15+ Battles, 70%+ Win Ratio"
-      }
-    },
-    {
-      "from": "piccolo",
-      "to": "death_b",
-      "conditions": {
-        "text": "Jogress with Vaccine, Virus or Free Perfect"
       }
     },
     {
@@ -841,10 +816,10 @@
       }
     },
     {
-      "from": "rarerare",
-      "to": "bryweludra",
+      "from": "blacktail_u",
+      "to": "manticore",
       "conditions": {
-        "text": "Jogress with Vaccine, Data or Free Perfect"
+        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
       }
     },
     {
@@ -855,17 +830,45 @@
       }
     },
     {
-      "from": "manticore",
+      "from": "blacktail_u",
+      "to": "raijiludo",
+      "conditions": {
+        "text": "Jogress with Data Adult"
+      }
+    },
+    {
+      "from": "raijiludo",
+      "to": "death_b",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "digitama",
+      "to": "bryweludra",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "piccolo",
+      "to": "death_b",
+      "conditions": {
+        "text": "Jogress with Vaccine, Virus or Free Perfect"
+      }
+    },
+    {
+      "from": "rarerare",
       "to": "bryweludra",
       "conditions": {
         "text": "Jogress with Vaccine, Data or Free Perfect"
       }
     },
     {
-      "from": "blacktail_u",
-      "to": "manticore",
+      "from": "manticore",
+      "to": "bryweludra",
       "conditions": {
-        "text": "8+ Trophies, 2,000+ Vital Values, 10+ Battles, 50%+ Win Ratio"
+        "text": "Jogress with Vaccine, Data or Free Perfect"
       }
     }
   ]

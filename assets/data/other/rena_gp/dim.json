@@ -222,7 +222,7 @@
     {
       "id": "sakuya_m",
       "name": "Sakuyamon: Miko Mode",
-      "name_jp": "",
+      "name_jp": "Sakuyamon: Miko Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -233,12 +233,15 @@
         "hp": "12",
         "ap": "7"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/sakuya_m/frame1.gif",
+        "frame2": "sprites/sakuya_m/frame2.gif"
+      },
+      "artwork": "sprites/sakuya_m/artwork.jpg",
       "lore": {
         "en": "A formSakuyamontakes when it performs Shinto rituals and listens toGod's will. It seldom fights inMiko Mode, but has strengthened its ability to exorcise evil spirits.Digimon Reference Book⇨ Englishサクヤモンが神事の奉仕をおこない神の意志を聞くときの姿。巫女形態で戦うことは少ないが、邪気をはらう力が強くなっている。デジモン図鑑",
         "ko": ""

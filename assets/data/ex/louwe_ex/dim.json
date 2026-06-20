@@ -396,7 +396,7 @@
     {
       "id": "luce_f",
       "name": "Lucemon: Falldown Mode",
-      "name_jp": "",
+      "name_jp": "Lucemon: Falldown Mode",
       "name_ko": "",
       "stage": "V",
       "stage_text": "Stage V (Perfect)",
@@ -407,12 +407,15 @@
         "hp": "14",
         "ap": "9"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "",
+        "critical_hit": "Turn"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/luce_f/frame1.gif",
+        "frame2": "sprites/luce_f/frame2.gif"
+      },
+      "artwork": "sprites/luce_f/artwork.jpg",
       "lore": {
         "en": "The strongest of the \"Seven Great Demon Lords\", it is an ultimate Demon Lord Digimon which possesses both the divine and the diabolic. It instigated a rebellion in the far-flung past, and so it was sealed in theDark Areaalong with many other Demon Lord Digimon. Its power exceeds that of Ultimates, and is said to rival that of the existence called \"God\" as well. It has a contradictory existence, in that one side of it loves all things, as God does, while the other is trying to destroy the whole world, as the Devil does. Hence, once it destroys this world, it intends to create a fresh new world. Its Special Moves are \"Paradise Lost\", a destructive technique where, after launching the opponent high into the sky with a wild dance of blows, it holds their limbs fixed as it drives them back into the ground, and producing a three-dimensionalmagic circleas a glowing orb of holiness and evilness, within which it confines the opponent (Dead or Alive). When shut within this magic circle, it is a 50/50 decision whether the opponent is either completely annihilated or suffers great damage.Digimon Reference Book⇨ English聖と魔を併せ持つ究極の魔王型デジモンで“七大魔王デジモン”最強の存在。超古代に反逆戦争を起こし、多くの魔王型デジモンと共にダークエリアに封印されていた。その力は他の究極体をも超え、“神”と呼ばれる存在に匹敵すると言われている。全てのものを慈しむ神のような一面も持ちながら、この世界全体を破壊せんとする悪魔の様な相反する存在である。そのためこの世界を一度破壊し、新たなる新世界を創造することを目論んでいた。必殺技は打撃の乱舞で敵を空高く舞い上げたあとに、敵の四肢を固定して地面に叩きつける破壊技『パラダイスロスト』と、聖と魔の光球で立体魔方陣を作り出し敵を封じ込める『デッド・オア・アライブ』。この魔方陣に閉じ込められると完全に消滅するか、大ダメージを負うか1/2で決まってしまう。デジモン図鑑",
         "ko": ""

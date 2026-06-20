@@ -599,7 +599,7 @@
     {
       "id": "miragegaoga_b",
       "name": "Mirage Gaogamon: Burst Mode",
-      "name_jp": "",
+      "name_jp": "Mirage Gaogamon: Burst Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -610,12 +610,15 @@
         "hp": "5800",
         "ap": "2100"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/miragegaoga_b/frame1.gif",
+        "frame2": "sprites/miragegaoga_b/frame2.gif"
+      },
+      "artwork": "sprites/miragegaoga_b/artwork.jpg",
       "lore": {
         "en": "AMirage Gaogamonthat has temporarily reached the limits of its abilities through Burst Evolution, it is a unique form which wears a weapon and an aura of planetary-class high-energy. Its Special Moves are striking the the opponent with a sphere of light containing planetary-class energy (Full Moon Meteor Impact), and putting its body and soul into releasing the energy hidden within its weapon (Final Mirage Burst). Also, it can carve the enemy to pieces with its crescent moon-shaped energy halberd (Luna Haken Slasher).Digimon Reference Book⇨ Englishミラージュガオガモンがバースト進化で一時的に限界能力を発動し、惑星級の高エネルギーの武器とオーラをまとった特殊な姿である。必殺技は、惑星級のエネルギーを持つ光球を敵に叩きつける『フルムーンメテオインパクト』と、全身全霊を込めて武器に秘められたエネルギーを解き放つ『ファイナルミラージュバースト』。また、三日月型のエネルギー薙刀で斬り裂く『ルナハーケンスラッシャー』をもつ。デジモン図鑑",
         "ko": ""
@@ -625,7 +628,7 @@
     {
       "id": "belphe_r",
       "name": "Belphemon: Rage Mode",
-      "name_jp": "",
+      "name_jp": "Belphemon: Rage Mode",
       "name_ko": "벨페몬",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -636,12 +639,15 @@
         "hp": "6000",
         "ap": "2100"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Lazy",
+        "critical_hit": "Turn 5"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/belphe_r/frame1.gif",
+        "frame2": "sprites/belphe_r/frame2.gif"
+      },
+      "artwork": "sprites/belphe_r/artwork.jpg",
       "lore": {
         "en": "It is said thatBelphemonawakens from its eternal slumber once in a thousand years, and regains its natural shape. When Belphemon awakens from its slumber it changes into an incarnation of rage, and anything that enters its field of vision becomes a target for destruction. It is said that just by suffering Belphemon: Rage Mode's roar, Perfect Digimon and below will have their data disintegrated and die instantly, and not even Ultimate Digimon can escape unharmed. Its Special Moves are black flames cast from the chains coiled around its body (Lampranthus), and a slash attack which is unleashed from its claws, clad in the flames of hell (Gift of Darkness). In addition, the data of Digimon consigned to oblivion by the Digimon crowned as theSeven Great Demon Lordsis not reincarnated, but is sent to the center of theDark Area, and becomes the flesh and blood of the Demon Lords.Digimon Reference Book⇨ Englishベルフェモンは千年に１度の周期で永き眠りから覚め、本来の姿を取り戻すという。眠りから覚めたベルフェモンは怒りの権化と化し、視界に入るもの全てが破壊の対象となる。ベルフェモン：レイジモードの咆哮を受けただけで、完全体以下のデジモンはデータ分解し即死するといわれており、究極体デジモンといえども無傷ではいられない。必殺技は、体に巻きついた鎖から発する黒い炎『ランプランツス』と、地獄の炎をまとった爪から繰り出される斬撃『ギフトオブダークネス』。なお、七大魔王を冠するデジモンに葬られたデジモンのデータは輪廻転生することなく、ダークエリアの中心へと送り込まれ、魔王たちの血肉となる。デジモン図鑑",
         "ko": "다크 에리어의 최심부에 봉인되고 있다고 하는 마왕 디지몬. 너무 강대한 힘을 가져서 디지털 월드의 시스템에 의해 데이터가 슬립 상태로 되어 있다고 하나, 진위는 확실치 않다. 깊은 잠에 들기 위해 스스로 공격을 계속 내보내는 것은 할 수 없지만, 숨소리만으로 디지몬에 데미지를 주는 것이 가능하기 때문에 벨페몬 슬립 모드의 수면 상태에서 덮치는 것은 쉽지 않을 것이다. 필살기는 편한 숨소리로부터 발동하는 이터널 나이트메어와, 몸에 감아 붙은 쇠사슬로부터 발하는 검은 불길 램프란투스. 수면 부족인 사람에게는 이터널 나이트메어를 강력 추천하는데, 영원한 잠을 약속해 줄 것이다. 2."

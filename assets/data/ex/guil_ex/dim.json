@@ -483,7 +483,7 @@
     {
       "id": "duke_c",
       "name": "Dukemon: Crimson Mode",
-      "name_jp": "",
+      "name_jp": "Dukemon: Crimson Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -494,12 +494,15 @@
         "hp": "16",
         "ap": "9"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/duke_c/frame1.gif",
+        "frame2": "sprites/duke_c/frame2.gif"
+      },
+      "artwork": "sprites/duke_c/artwork.jpg",
       "lore": {
         "en": "A hidden form ofDukemonwhose body is clad in armor that shines crimson. Because it has fully released its power, its armor portions possess the heat to dye them red. For that reason, it is unable to maintainCrimson Modefor a long duration. Within its chest is itsDigicore, which sealed the \"Digital Hazard\", and when it discharges all the power in its body, apinnateenergy emission can be distinguished coming from its back. It wields a divine lance of light, \"Gungnir\", and a divine sword of light, \"Blutgang\", energy weapons that have no physical form. Its Special Moves are cutting the opponent to pieces with its divine sword \"Blutgang\" (Invincible Sword), and disintegrating the opponent into electrons with its divine lance \"Gungnir\", then consigning them to oblivion within another dimension afar (Quo Vadis).Digimon Reference Book⇨ English紅蓮色に輝く鎧に身を包んだ、デュークモンの隠された姿。パワーを全開放しているため、鎧部分が熱を持ち赤色に染まっている。そのため、クリムゾンモードを長時間維持することは出来ない。胸部には「デジタルハザード」を封印したデジコア（電脳核）があり、体内のパワーを全放出すると背部から、羽状のエネルギー照射を確認できる。実体を持たないエネルギー状の武器、光の神槍「グングニル」と光の神剣「ブルトガング」を揮う。必殺技は神剣「ブルトガング」で敵を切り裂く『インビンシブルソード（無敵剣）』と、神槍「グングニル」で敵を電子分解し異次元の彼方に葬り去る『クォ・ヴァディス』。デジモン図鑑",
         "ko": ""

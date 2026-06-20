@@ -222,7 +222,7 @@
     {
       "id": "beelzebu_b",
       "name": "Beelzebumon: Blast Mode",
-      "name_jp": "",
+      "name_jp": "Beelzebumon: Blast Mode",
       "name_ko": "베르제브몬",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -233,12 +233,15 @@
         "hp": "14",
         "ap": "9"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/beelzebu_b/frame1.gif",
+        "frame2": "sprites/beelzebu_b/frame2.gif"
+      },
+      "artwork": "sprites/beelzebu_b/artwork.jpg",
       "lore": {
         "en": "An ultimate Demon Lord that raised its power and spirit to their utmost limits. Instead of evolving in a wicked manner, it maintained a calmer mental state, and its three sinister red eyes have become green. It demonstrates power and speed at a level incomparable to its usual state, and four jet-black wings grow from its back. One could almost say that the opponent no longer exists the moment they stand beforeBeelzebumonwhen it took on this form. Its right arm is integrated with itsBlaster, which fires powerful energy waves to disintegrate everything into atoms. Its Signature Move is firing a destructive wave from theBlasteron its right arm (Death Slinger), and its Special Move is drawing amagic circlein front of itself, then firing destructive waves through the circle's center (Chaos Flare).Digimon Reference Book⇨ English力と精神を極限にまで高めた究極魔王。邪悪に進化したのとは違い、より安定した精神状態を保ち、凶々しかった３つの赤眼は緑色になっている。通常時とは桁違いのパワーとスピードを発揮し、背中から漆黒の４枚の翼を生やしている。この姿になったベルゼブモンの前に、もはや敵は存在しないとまで言われている。右腕がブラスターと一体化しており、強烈なエネルギー波を放ちあらゆるものを原子分解してしまう。得意技は右腕のブラスターから破壊の波動を放つ『デススリンガー』、必殺技は前方に魔方陣を描き、その中心に向かって破壊の波動を放つ『カオスフレア』。デジモン図鑑",
         "ko": "많은 악마형 디지몬을 통괄하는 능력을 가지면서도 고고하게 존재하는 마왕형 디지몬. 7대 마왕 중 하나이며 무엇인가에 얽매여 있는 것을 싫어하고 성격은 냉혹하고 무자비하며 프라이드가 높지만 결코 무리지어서 한명이나 소수의 약자를 일방적으로 린치하는 짓 따위는 저지르지 않는다. 평소엔 자신의 애마인 흉폭한 오토바이 베헤모스 를 타고 다니며 강자와의 싸움을 위해 디지털 월드를 종행무진 떠돌고 있다. 자신의 눈에 띄는 강자를 보게 되면 애용하는 2자루의 2연장 산탄총 [4] 베렌헤나 [5] [6] 로 적의 심장을 관통한다. 필살기는 어둠의 힘을 가진 손톱으로 상대를 베어내는 다크니스 클로 와 베렌헤나를 연사하는 일발필중 더블 임팩트 [7] , 베렌헤나의 관통 공격으로 급소를 공격해 상대를 분쇄하는 하트 브레이크 샷 이 있다. 디지털 몬스터 카드 게임 Bo-640: 고고하면서 냉혹! 고결하면서 무자비! 베히모스를 몰고다니는 마왕! Bo-821: 사냥감의 주변을 초토화시키는 장렬한 마탄의 난사! Bo-1060: 암흑의 숙명에 검게 물든 필살의 더블 임팩트! Bo-1139: 마탄으로 전장을 제압하는 무자비한 흉왕! Bo-10j: 고고한 사악! 마의 탄알을 채우는 암흑계의 마왕!! Bo-50t: 황야를 달리는 반역의 기마왕! Bo-44t: 냉혹하고 무자비한 고고한 마왕!"

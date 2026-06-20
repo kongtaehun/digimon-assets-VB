@@ -27,6 +27,7 @@ Usage:
 
 import argparse
 import json
+import re
 import shutil
 from datetime import date
 from pathlib import Path
@@ -47,7 +48,11 @@ SCHEMA_VERSION = "1.0"
 
 
 def folder_name(name: str) -> str:
-    return name.replace(" ", "_")
+    # Must match parse.py's safe_name() so we resolve the raw scrape folders.
+    # Names like "Imperialdramon: Fighter Mode" become "Imperialdramon_Fighter_Mode"
+    # (colon + space collapse to a single "_"); plain "_" would miss their assets.
+    name = re.sub(r'[<>:"/\\|?*\s]+', "_", name)
+    return name.strip("._") or "_"
 
 
 def copy_if(src: Path, dst: Path) -> bool:

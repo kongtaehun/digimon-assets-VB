@@ -222,7 +222,7 @@
     {
       "id": "weregaruru_s",
       "name": "Were Garurumon: Saggitarius Mode",
-      "name_jp": "",
+      "name_jp": "Were Garurumon: Saggitarius Mode",
       "name_ko": "",
       "stage": "V",
       "stage_text": "Stage V (Perfect)",
@@ -233,12 +233,15 @@
         "hp": "10",
         "ap": "5"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/weregaruru_s/frame1.gif",
+        "frame2": "sprites/weregaruru_s/frame2.gif"
+      },
+      "artwork": "sprites/weregaruru_s/artwork.jpg",
       "lore": {
         "en": "",
         "ko": ""
@@ -805,6 +808,34 @@
       }
     },
     {
+      "from": "weregaruru_s",
+      "to": "zdgaruru",
+      "conditions": {
+        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "weregaruru_s",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "weregaruru_s",
+      "to": "metalgaruru_b",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect (TSH)"
+      }
+    },
+    {
+      "from": "weregaruru_s",
+      "to": "mercury",
+      "conditions": {
+        "text": "Jogress with Virus Perfect (TSH)"
+      }
+    },
+    {
       "from": "cerberu",
       "to": "zdgaruru",
       "conditions": {
@@ -896,38 +927,10 @@
       }
     },
     {
-      "from": "weregaruru_s",
-      "to": "zdgaruru",
-      "conditions": {
-        "text": "10+ Trophies, 4,500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
-      }
-    },
-    {
       "from": "metalgaruru_b",
       "to": "omega_z",
       "conditions": {
         "text": "• Jogress with Black War Greymon (TSH/SHo)• Stage 15 cleared, 30+ Trophies, 8,500+ Vital Values, 30+ Battles, 70%+ Win Ratio (WHo)"
-      }
-    },
-    {
-      "from": "weregaruru_s",
-      "to": "metalgaruru_b",
-      "conditions": {
-        "text": "Jogress with Data or Free Perfect (TSH)"
-      }
-    },
-    {
-      "from": "weregaruru_s",
-      "to": "mercury",
-      "conditions": {
-        "text": "Jogress with Virus Perfect (TSH)"
-      }
-    },
-    {
-      "from": "weregaruru_s",
-      "to": "omega_z",
-      "conditions": {
-        "text": "Stage 15 cleared, 20+ Trophies, 7,000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
       }
     }
   ]

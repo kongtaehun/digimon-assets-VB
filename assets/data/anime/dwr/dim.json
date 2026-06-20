@@ -570,7 +570,7 @@
     {
       "id": "imperialdra_f",
       "name": "Imperialdramon: Fighter Mode",
-      "name_jp": "",
+      "name_jp": "Imperialdramon: Fighter Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -581,12 +581,15 @@
         "hp": "5800",
         "ap": "2000"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/imperialdra_f/frame1.gif",
+        "frame2": "sprites/imperialdra_f/frame2.gif"
+      },
+      "artwork": "sprites/imperialdra_f/artwork.jpg",
       "lore": {
         "en": "A form of the Ancient Dragon DigimonImperialdramon: Dragon Modethat liberated all of its power, changing form into the legendaryFighter Mode. It is an ultimate Digimon that acquired a great intellect by changing from the difficult-to-controlDragon Modeto a human form. It is said that the power to destroy a planet dwells in its attacks. Its Special Moves are the \"Positron Laser\" equipped to its right arm, and inserting thePositron Laserinto the dragon-face on its chest, then emitting all of its body's energy as a destructive energy wave (Giga Death). Its power is ten times that ofDragon Mode's \"Mega Death\". Also, when it awakens to perfect justice, it is able to transform into an even furtherMode.Digimon Reference Book⇨ English古代竜型デジモンのインペリアルドラモン：ドラゴンモードが全てのパワーを開放し、伝説の竜戦士（ファイターモード）へと形態を変化させた姿。制御の難しかったドラゴンモードから、人型になることで高い知性を身につけた究極のデジモンである。その攻撃は惑星をも破壊するだけのパワーが宿っていると言われている。必殺技は右腕に装着した『ポジトロンレーザー』とポジトロンレーザーを胸部の竜顔にはめ込み、全身のエネルギーを放射する破壊のエネルギー波『ギガデス』。その威力はドラゴンモードの『メガデス』の十倍の威力を持っている。また、完全なる正義に目覚めたとき更なる別モードになることができると言われている。デジモン図鑑",
         "ko": ""
@@ -596,7 +599,7 @@
     {
       "id": "imperialdra_p",
       "name": "Imperialdramon: Paladin Mode",
-      "name_jp": "",
+      "name_jp": "Imperialdramon: Paladin Mode",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -607,12 +610,15 @@
         "hp": "5500",
         "ap": "2200"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "activity_type": "Stoic",
+        "critical_hit": "Turn 1"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/imperialdra_p/frame1.gif",
+        "frame2": "sprites/imperialdra_p/frame2.gif"
+      },
+      "artwork": "sprites/imperialdra_p/artwork.jpg",
       "lore": {
         "en": "A form of the Ancient Dragon Warrior DigimonImperialdramon: Fighter Modethat acquired the power of the holy knightOmegamon, powering up and changing form into a legendary holy knight (Paladin Mode). As the final, strongest form ofImperialdramonthat was told of since ancient times, it descended in a time of great disruption in the ancient Digital World, and rescued the world from complete collapse. However, all of the details of that era are a mystery, and if research into Digimon and the Digital World progresses, it is likely that they will eventually be clarified. Its Special Move is cutting the opponent in two with a single stroke of its ultimate \"Omega Blade\" sword, resetting and clearing their configuration data.Digimon Reference Book⇨ English古代竜戦士型デジモンのインペリアルドラモン：ファイターモードが、聖騎士オメガモンのパワーを得て、パワーアップし伝説の聖騎士（パラディンモード）へと形態を変化させた姿。これが古より伝わるインペリアルドラモンの最終最強形態で、古代デジタルワールドの大破壊の時に降臨し、世界を完全な崩壊から救った。しかし、その頃の詳細なことは一切謎であり、いずれデジモンやデジタルワールドの研究が進めば解明されるであろう。必殺技は究極剣『オメガブレード』で敵を一刀両断し、構成データを初期化して無にしてしまう。デジモン図鑑",
         "ko": ""

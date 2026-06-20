@@ -164,7 +164,7 @@
     {
       "id": "justi_a",
       "name": "Justimon: Accel Arm",
-      "name_jp": "",
+      "name_jp": "Justimon: Accel Arm",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -175,12 +175,15 @@
         "hp": "14",
         "ap": "7"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/justi_a/frame1.gif",
+        "frame2": "sprites/justi_a/frame2.gif"
+      },
+      "artwork": "sprites/justi_a/artwork.jpg",
       "lore": {
         "en": "A \"Hero of Justice\"-type Digimon wearing a flapping red muffler. Its sense of justice burns hot, and as it is a Digimon that never overlooks unjust acts or evil deeds, it is an existence which Baby Digimon aspire to. It comes along like the wind, swings down its hammer of Justice, and leaves like the wind. Also, it seems to like taking a decisive pose atop a cliff while facing the setting sun. By switching out the three plugs on its right shoulder, which are equipped to the \"Extend Transmitter\" on its back, it can make its arm transform into the power-type \"Accel Arm\", the lightning-type \"Blitz Arm\", or the cutter-type \"Critical Arm\". Its Signature Move is transforming its arm into the three types (Trinity Arm), and the destructive force of its Special Move \"Justice Kick\" is said to reach 45 tons.(*This image is of the \"Accel Arm\")Digimon Reference Book⇨ English長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。（※画像は「アクセルアーム」のもの）デジモン図鑑",
         "ko": ""
@@ -190,7 +193,7 @@
     {
       "id": "justi",
       "name": "Justimon: Blitz Arm",
-      "name_jp": "",
+      "name_jp": "Justimon: Blitz Arm",
       "name_ko": "",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -201,12 +204,15 @@
         "hp": "14",
         "ap": "8"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "09:00 - 21:00",
+        "critical_hit": "Turn 3"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/justi/frame1.gif",
+        "frame2": "sprites/justi/frame2.gif"
+      },
+      "artwork": "sprites/justi/artwork.jpg",
       "lore": {
         "en": "A \"Hero of Justice\"-type Digimon wearing a flapping red muffler. Its sense of justice burns hot, and as it is a Digimon that never overlooks unjust acts or evil deeds, it is an existence which Baby Digimon aspire to. It comes along like the wind, swings down its hammer of Justice, and leaves like the wind. Also, it seems to like taking a decisive pose atop a cliff while facing the setting sun. By switching out the three plugs on its right shoulder, which are equipped to the \"Extend Transmitter\" on its back, it can make its arm transform into the power-type \"Accel Arm\", the lightning-type \"Blitz Arm\", or the cutter-type \"Critical Arm\". Its Signature Move is transforming its arm into the three types (Trinity Arm), and the destructive force of its Special Move \"Justice Kick\" is said to reach 45 tons.Digimon Reference Book⇨ English長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。デジモン図鑑",
         "ko": ""
@@ -216,7 +222,7 @@
     {
       "id": "justi_c",
       "name": "Justimon: Critical Arm",
-      "name_jp": "",
+      "name_jp": "Justimon: Critical Arm",
       "name_ko": "저스티몬",
       "stage": "VI",
       "stage_text": "Stage VI (Ultimate)",
@@ -227,12 +233,15 @@
         "hp": "14",
         "ap": "9"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "10:00 - 22:00",
+        "critical_hit": "Turn 4"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/justi_c/frame1.gif",
+        "frame2": "sprites/justi_c/frame2.gif"
+      },
+      "artwork": "sprites/justi_c/artwork.jpg",
       "lore": {
         "en": "A \"Hero of Justice\"-type Digimon wearing a flapping red muffler. Its sense of justice burns hot, and as it is a Digimon that never overlooks unjust acts or evil deeds, it is an existence which Baby Digimon aspire to. It comes along like the wind, swings down its hammer of Justice, and leaves like the wind. Also, it seems to like taking a decisive pose atop a cliff while facing the setting sun. By switching out the three plugs on its right shoulder, which are equipped to the \"Extend Transmitter\" on its back, it can make its arm transform into the power-type \"Accel Arm\", the lightning-type \"Blitz Arm\", or the cutter-type \"Critical Arm\". Its Signature Move is transforming its arm into the three types (Trinity Arm), and the destructive force of its Special Move \"Justice Kick\" is said to reach 45 tons.Digimon Reference Book⇨ English長くたなびく赤いマフラーをした正義のヒーロータイプのデジモン。正義感に熱く、不正な行為や悪行は絶対に見逃さないデジモンで、幼年期デジモン達の憧れの存在である。風の様にやって来て、正義の鉄槌を振り下ろし、風の様に去っていく。また、崖の上で夕日に向かって決めポーズを取るのが好きらしい。背中に装備した「エクステンドトランスミッター」にある３本のプラグを右肩に差し替えることで、パワータイプの「アクセルアーム」、電撃タイプの「ブリッツアーム」、カッタータイプの「クリティカルアーム」に変化させることができる。得意技は３種類の腕を変化させる『トリニティーアーム』、必殺技の『ジャスティスキック』の破壊力は４５ｔにも達すると言う。デジモン図鑑",
         "ko": "길게 뻗은 머플러를 두른 정의의 히어로 디지몬. 정의감에 불타 부정한 행위와 악행은 절대 놓치지 않는 디지몬으로, 유년기 디지몬들이 동경하는 존재다. 바람처럼 와서 정의의 철퇴를 내리고 바람처럼 떠나간다. 또한, 절벽 위에서 석양을 향해 결정 포즈를 취하는 것을 좋아하는 듯 하다. 등에 장비한 「익스텐드 트랜스미터」에 있는 3개의 플러그를 오른쪽 어깨에 갈아끼우는 것으로, 파워 타입의 「액셀 암」, 전격 타입의 「블리츠 암」, 커터 타입의 「크리티컬 암」으로 변화시킬 수 있다. 특기는 3종류의 팔을 변화시키는 「트리니티 암」, 필살기 「저스티스 킥」의 파괴력은 45t에 달한다고 한다. 2."

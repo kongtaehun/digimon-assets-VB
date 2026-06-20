@@ -222,7 +222,7 @@
     {
       "id": "metalgrey_am",
       "name": "Metal Greymon: Alterous Mode",
-      "name_jp": "",
+      "name_jp": "Metal Greymon: Alterous Mode",
       "name_ko": "",
       "stage": "V",
       "stage_text": "Stage V (Perfect)",
@@ -233,12 +233,15 @@
         "hp": "10",
         "ap": "5"
       },
-      "schedule": {},
-      "sprites": {
-        "frame1": "",
-        "frame2": ""
+      "schedule": {
+        "awake_hours": "08:00 - 20:00",
+        "critical_hit": "Turn 2"
       },
-      "artwork": "",
+      "sprites": {
+        "frame1": "sprites/metalgrey_am/frame1.gif",
+        "frame2": "sprites/metalgrey_am/frame2.gif"
+      },
+      "artwork": "sprites/metalgrey_am/artwork.jpg",
       "lore": {
         "en": "Metal Greymon, who acquired immense power by mechanizing its upper body, has been updated with further mechanization to its right arm. With the accumulation of fierce battles that it has lived through, it transformed its right arm into a huge energy cannon called \"Alterous\" so that it can fight against tough enemies that draw near. Its Special Moves are concentrating energy into the \"Alterous\" and firingsubluminalbombardments (Positron Blaster), and apositronsword in which it converts the energy it has accumulated into a blade (Alter Blade). It exhibits its full combat ability at both close and long range, and has been remodeled to defeat any tough enemy it encounters.Digimon Reference Book⇨ English上半身の機械化で強力なパワーを手に入れたメタルグレイモンが、右腕にさらなる機械化を施してアップデート。潜り抜けた激戦の蓄積と、迫り来る強敵に対抗するため右腕を「アルタラウス」という長大なエネルギー砲へと換装した。必殺技は、「アルタラウス」にエネルギーを集中して亜光速の砲撃を放つ『ポジトロンブラスター』と、蓄積したエネルギーを刃とした陽電子剣『アルタブレード』。近接・遠距離双方で完全な戦闘能力を発揮し、どんな強敵と遭遇したとしても打ち破る改装を成した。デジモン図鑑",
         "ko": ""
@@ -826,6 +829,34 @@
       }
     },
     {
+      "from": "metalgrey_am",
+      "to": "omega_z",
+      "conditions": {
+        "text": "Stage 15 cleared, 20+ Trophies, 7000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "victorygrey",
+      "conditions": {
+        "text": "10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "blackwargrey",
+      "conditions": {
+        "text": "Jogress with Data or Free Perfect (MBR)"
+      }
+    },
+    {
+      "from": "metalgrey_am",
+      "to": "gaiou",
+      "conditions": {
+        "text": "Jogress with Virus Perfect (MBR)"
+      }
+    },
+    {
       "from": "extyrano",
       "to": "omega_z",
       "conditions": {
@@ -903,38 +934,10 @@
       }
     },
     {
-      "from": "metalgrey_am",
-      "to": "victorygrey",
-      "conditions": {
-        "text": "10+ Trophies, 4500+ Vital Values, 15+ Battles, 50%+ Win Ratio"
-      }
-    },
-    {
       "from": "blackwargrey",
       "to": "omega_z",
       "conditions": {
         "text": "• Jogress with Metal Garurumon (Black) (MBR/Bro)• Stage 15 cleared, 30+ Trophies, 8,500+ Vital Values, 30+ Battles, 70%+ Win Ratio (DRo)"
-      }
-    },
-    {
-      "from": "metalgrey_am",
-      "to": "blackwargrey",
-      "conditions": {
-        "text": "Jogress with Data or Free Perfect (MBR)"
-      }
-    },
-    {
-      "from": "metalgrey_am",
-      "to": "gaiou",
-      "conditions": {
-        "text": "Jogress with Virus Perfect (MBR)"
-      }
-    },
-    {
-      "from": "metalgrey_am",
-      "to": "omega_z",
-      "conditions": {
-        "text": "Stage 15 cleared, 20+ Trophies, 7000+ Vital Values, 25+ Battles, 70%+ Win Ratio"
       }
     }
   ]
