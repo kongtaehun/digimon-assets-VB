@@ -10,6 +10,18 @@ digimon_evol_parsing/
 
 두 영역은 **독립적으로 관리**됩니다. `assets/`는 다른 게임/프로젝트에 그대로 복사해 쓸 수 있는 데이터 + 접근 라이브러리이고, `app/`은 그 데이터를 소비하는 한 예시 뷰어입니다.
 
+### 웹뷰어 예시
+
+| 트리뷰 | 진화뷰 |
+|--------|--------|
+| ![Gammamon DIM 진화 트리](docs/images/tree-view-v-gammamon.png) | ![Gammamon 진화 상세](docs/images/evolution-view-gammamon.png) |
+| Stage별 진화 계통도, SVG 연결선 | 일러스트, 스탯, 진화 조건, 도감 |
+
+| EX 카테고리 | DIM 선택 시트 |
+|-----------|-----------|
+| ![Agumon EX 44개 엣지](docs/images/tree-view-ex-agumon.png) | ![하단 DIM 필터](docs/images/dim-selector-sheet.png) |
+| EX 카드 복원된 진화 엣지 | 원하는 DIM만 토글로 선택 |
+
 ---
 
 ## 한눈에 보기
